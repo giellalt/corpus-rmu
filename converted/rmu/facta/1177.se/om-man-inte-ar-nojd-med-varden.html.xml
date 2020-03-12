@@ -1,0 +1,103 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1208</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
+    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Bashi diro dynkrar araken honkar nasjlo / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Bashi diro dynkrar araken honkar nasjlo Om man inte är nöjd med vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sar honkar dolle?</p>
+    <p type="title" xml:lang="swe">Diro kammar hortepha te penna so diro dynkrar</p>
+    <p xml:lang="swe">Savo pasienti andre sastepha- ta dukkaloaraken kammar diro hortepha te bliddra adsiker ninna respekt ta fussa janephabashi sastepha ta basi dova roderpha ta dikhljaribe savo sastro. Diro sasstro fussa jeck fedig arak.</p>
+    <p xml:lang="swe">Sasstro diro dynkrar araken honkar nasjlo savo diro kammar ire diro dynkrar basi adsikeret. Kava nasht ascha tecknoa vina to baro savo kammar soskiphe baro anavenan ire mulopha. Diro nast tjalla savo saste kerra menget te bliddra hortare.</p>
+    <p xml:lang="swe">Doj asja butt najek steddo te iranela seri to ninna rovibe. Kava nasht ascha tjibbigt te fussa jikk randrat svadera karna diro rovib gla te an stila drabbra drabbra svardarat savo dolle tji ovela kommoni vina.</p>
+    <p type="title" xml:lang="swe">Rovel to arakmengarna</p>
+    <p xml:lang="swe">Dolle honkar fedigt te anglal ja to dova darton ire jeck vaver arakseniphe savo kammar kerrat ròderpá ta dikhljaribe. Buttvar nast vina nices vri pre doj sut tiknorela tatispha te kava kerras vidder. Diro nast aur sarstill ja to pottaren nerrider jeck enhet doj diro fussat araken, steddopottaren pre jeck lajarin.</p>
+    <p xml:lang="swe">Karna dolle aschar kommunal sastepha- ta dukkaloarak savo kheraarak iranela drabb dochalo diro to dova dukkalopenja, kara MAS, an kommunen.</p>
+    <p xml:lang="swe">So savo aschar themmeskepottankerat ta kommunal arak honkar najek an najeka kotar an themmet. Diro nast frigga siro kommun irethemmeskepottarekeren bashi konn savo kammar doschalo gla araken. Buttvar dochalo kommunen gla lokkiarekheraarken akno themmeskepottan kerrar dova baroare dukkaloaraken an keret.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Patientlaijaren</p>
+    <p type="title" xml:lang="swe">Lela koro rovibe</p>
+    <p xml:lang="swe">Jeck steddo savo diro nast dokka pennanden to honkar patient laijaren savi nasht pennas gla <span type="quote" xml:lang="swe">"patientlaijlarin"</span>. Saste kerra gla baro patient pottopha an dukkaloaraken.</p>
+    <p xml:lang="swe">Laijaren saste ascha an sass themmeskepottare gla te le koro rovibe pre saradsikere diagnos, drabb, taksa, gravbefekkra ta arakgarantia an laijaren politiker akno dolle honkar dinreskemusch savo kerrar gla rovibe. Laijaren rovibe politiker ta dinreskemanusch kammar stildajatava.</p>
+    <p xml:lang="swe">Patient laijaren honkar jick mokkano fann sastepha- ta dukkaloaraken ta dolle mollar nane te ava doj ninna friggor ire rovibe.</p>
+    <p xml:lang="swe">Glavribasi sastepa ta dukkaloarak andrejar an patientlaijaren aur danjarak savo kerras attjer themmerskepottarna ta privatdanjarak savo kammar lover attjer themmeskepottarna.</p>
+    <p xml:lang="swe">Buttare andre sastepa ta dukkaloarak savo andrejar an kummuner, ire ninna simmali ninna kommuner, ta dova sarenia bàsiaraken ninna socialdinreske kanuni savo diro fussar an kettandoro ninna savot sastepa- ta dukkaloarak.</p>
+    <p xml:lang="swe">Attjer patient laijaren nast diro fussa hilpra ninna:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">janepha savo diro mostula kamma gla te nasta le toasha siros intressen ansastepa- ta dukkaloarak</p>
+      <p type="listitem" xml:lang="swe">kontakti ninna arakdsenipe</p>
+      <p type="listitem" xml:lang="swe">te lattja to hortepa bastalo</p>
+      <p type="listitem" xml:lang="swe">te rapportera juranden ta vina savo diro dynkrat to arakdokkade ta akrakikheren.</p>
+    </list>
+    <p type="title" xml:lang="swe">Solduj mojjande ta tandrande pennanden juras preal</p>
+    <p xml:lang="swe">Diro nast solduj tava ta bischa andri randrande rovibe to pasientilaijaren. Dinreskemusch jurar te to kamma roveriber rodkeribe ire te hortepa laijaren kammar rovibet.</p>
+    <p xml:lang="swe">Pasientilaijaren kammat tji sorelipe te potta bàsi dukkaloarak dsenipe kammar kerrat kommoni vina ire tji. Dolle honkar jeck frigga gla bukjakeribe ire bastalo savo socijali.</p>
+    <p xml:lang="swe">Kontakti to pasientilaijaren nast asjar doj diro kammar arak ta pre themmeskepottars webbrigg.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Socialstyrelsen</p>
+    <p type="title" xml:lang="swe">Jurar preal rakkepha</p>
+    <p xml:lang="swe">Socijali honkar prealjurande beddo gla sastepa- ta dukkaloaraken ta jurar preal bukjakeribe gla te kerela pasienti rakkepa. Hilpra dabb ta le abri darrano an araken. Socijali saste jura pre soskip to dolle savo kammar kerrats, sav pennade systemvina ta pre savi savo nast kerras gla te dolle tji saste kerras buttare.</p>
+    <p xml:lang="swe">To socijali nast diro gola jeck kerrande ire solus mengra. An prijava hoftara diro tji penna konn ire savi savo kammar dochalo gla sajdas. Sass savo aschar sastepha- ta dukkaloarak dsenipe, tji dynkrat pre dova mengra an kommun, themmeskepottan ire an jikk solus fakkararak nast prijav.</p>
+    <p xml:lang="swe">Jeck prijava nast aur assja koro dova roddrelse ire sareni vina an patienti pottopa savo mostulas bliddra fedigare. Rovibe saste juras preal avri vaver dynkrar. Diro mustula tji solus jana konn savo kammar kerrat kommoni vina ire savi savo kammat bliddrat vina an araken avi dolle doschtar ninna te prijav kerrandet.</p>
+    <p xml:lang="swe">Socijali nast dokka pennanden solduj koro jeck roddrelse, themmesketing, ire solus an aragdsenipe. Dolle nast aur kerras bàsi dolle tji aschar kommoni prijava ire pennade fann pasienti ire nata. Bàsi dolle mostulas gla patient araken nast socijali aur kerra pottanden savo roddrelsen mostula párda socijali nast aur potta te dokka preal to agorlejbe fann socijali nast tji prealrovel.</p>
+    <p xml:lang="swe">Prijava attjer kerranden savo nast assja stillopha prealmukhela to starto. Dolle nast ascha bàsi te duckaloarak dsenipe prijav gla bulopha kerranden ire dabb koro kommoni vaver.</p>
+    <p xml:lang="swe">Solduj prijava to socijali ta socijalis agorlejbe honkar offentliga gla sassaro savo mangela nast drabbrar. Dojkoro astarela patientjournaler ta sàssaro savrige savo aschar an rodkeribe attjer garavibe.</p>
+    <p type="title" xml:lang="swe">Parda oppre lex Maria-prijavane</p>
+    <p xml:lang="swe">Socijali mèngra ninna dova sav pennade Lex Maria-prijavaner, dannro araken solus saste prijav seriozib ovibe. Jeck Lex Maria-prijava saste juras preal te kerra gla pottolantra Dolle nast kerra buttare to te socijalin prijavar arakdsenipe to sastepa- ta dukaloaraken dóchalaijaren HSAN.</p>
+    <p type="title" xml:lang="swe">Sastepa- ta dukkaloarak dóchalaijaren</p>
+    <p xml:lang="swe">Rada socijalis, Justitiemoschen ta Justitiekanslern nast kera prijav to sastepa- ta dukkaloarak dóchalaijaren, HSAN. Dolle saste kerras bàsi dolle aschar soskip gla te agorlejbe pottanden bàsi rakkepha, dolle voltrar penna te phatra rutiner ta meng savo nast ascha darrano. HSAN nast maisa ta potta bàsi.</p>
+    <p xml:lang="swe">Ta palikara legitimationen fann dova darton ire dukkalapenja savo kammer kerrat vina an siro meng te kerra tjiromais, savi nisaninela te darton ire dukkalapenja mostula ste telál jurapa oppri to trin basjt, ta te jeck plani kerras telal dova tjiro te phatra ire le andre jeck dartons hortepha te randra avri drabb.</p>
+    <p xml:lang="swe"><em type="italic">Fann juni 2013 kammar inspektionen gla arak ta arákhibe, IVO, let Socijali tojuradejbebuti (tillsynsuppdrag). Dolle kucipe te dolle kova te inspektionen gla arak ta arákhibe diro nachta gola jeck ovibe savo diro bésjat ninna bàsi an araken. Diro nast aur gola solo mengare, savo diro selat kammar kerat to socijali. </em></p>
+    <p xml:lang="swe"><em type="italic">Opatlett savo keras andre araken nachta dova solo gola to IVO. </em></p>
+    <p xml:lang="swe"><em type="italic">Dova nevo bastalo nast aur le solus agorlejbe gla te ròder ta párda oppre kvaliteten ta pottoripe an arakhlon. </em></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Buttare sutt te rovel</p>
+    <p type="title" xml:lang="swe">Beddo, patientorganisationer ta politikari</p>
+    <p xml:lang="swe">Bàsi diro dynkrar te jikk stillopha kammar kerrats andre araken nast diro kerra jeck beddoprijav. prijava nast ascha kerande to vavra mulo. An Svedijo honkar dolle tji butt te dova prijavane dokkat to dosarkeribe, aschter savo dolle an stillopharandres mostula ascha voltrande ire baro orakkepha gla te nasta mageri.</p>
+    <p xml:lang="swe">Patientorganisationer nast hilpra to ninna kerande attjar dolle savo dingla bàsi prijava. Dova nast an khonra peribe vakerela savi kerranden dolle honkar fedigast te anglat siro rovibe to ta thaj hilpra to ninna te randra jeck prijava.</p>
+    <p xml:lang="swe">Diskrimineringsombudsmannen, DO, mengra koro miakande. Bàsi diro dynkrar diro miakad fann diro minsheske, basht, etno, pattjande ire vaver pattjande, vina ira vavoret nast dolle prijavas to DO.</p>
+    <p xml:lang="swe">Dolle honkar aur saj te anglat rovibe to dova duckaloarakspolitikari savo kammar dolle politikari dóchalo an jikk themmeskespottor ere jeck komuna.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Patiensmoschen</p>
+    <p xml:lang="swe">An hari themmenskespottor aschar ulavela patientmosch, savo nast kara pasientidrom-sikkrare.</p>
+    <p xml:lang="swe">Bàsi diro prinja diro sjàrja aqdsiker ire pre vavoret sutt honkar vina ninna araken nast diro kontakti dova. Patientmoschen nast hilpra to te ta le diro odore bàsi diro tji honkar chalo ninna svardara ire trissandet akkter te diro anglál kammat jad to duckaloarak senipe.</p>
+  </body>
+</document>

@@ -1,0 +1,68 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>722</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/djur-och-natur/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fin" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Gressjo &amp; naturi - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Gressjo ta naturi</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Gressjo &amp; naturi</p>
+    <p xml:lang="swe"><em type="italic">Themmeskepottande- enheti mengar gla te themmets mollepha tjaralier, grassjor ta naturi-trujalipha saste kerras gla ta ascha sav savo dova kammat aschat. Dolle Aschar ninna vavvert te inventera arteri ta naturi-trujalipha, te fussa dokka hortepha gla kettanesmengare savo nasht kerra gla naturi-trujalipha te kerra gla jick butti fedigt naturi-raksteddopha. Naturi-raksteddopha ta nationaliskeparki aschar to sass manisch gla mukkebivalskejibb ta naturi-jurephaepha. </em></p>
+    <p xml:lang="swe">Themmeskepottande- enheti kammar uschalipha gla grassjo-rakepha an themmen. Vorsnos mengar glakerribande gla grassjoerna saste kamma dolle fedigt. Vorsnos nasht potta te le grassjo baschi dova kammat kerria ire kerra savo jeck manisch tji nasht kamma ninna grassjo te kerra, ire kamma jick typi attjer grassjo.</p>
+    <p type="title" xml:lang="swe">Grassjo-rakepha</p>
+    <p xml:lang="swe">An grassjo- rakepha- hortan aschar dolle pottande baschi te grassjo saste kerras fedigt gla ta rakepha masker duckalopha ta kerriapha. Themmeskepottande- enheti kerrar grassjo-rakepha- kontrolli an themmet. Baschi jick grassjo kammat kerria nasht vorsnos potta te dolle saste bliddra led. Baschi diro pattjar te grassjoer kammar dolle kerria attjer manisch saste diro kontakti Themmeskepottande- enheti.</p>
+    <p type="title" xml:lang="swe">Mattjande</p>
+    <p xml:lang="swe">Themmeskepottnade- enheti uschalipha gla te mattjanutritionen ta mukketjiro- mattjandet progressionpha ta bliddrar fedigare an regioni. Gla te kerrat sav savo dolle aschade selare ta kerra gla jibbeskesoralopha mattjarer hilprar Themmeskepottande- enheti ovaro mattjande-kesser- projekti. Vorsnos mengar tasa gla fediga mattja-astispha palla te kerra mattja- steddopha. Themmeskepottande- enheti saste dikka to te dova regleringar attjer mattjandet dynkrar to themmeske ta regionali voltranden ta mustulanden.</p>
+    <p type="title" xml:lang="swe">Rakepha naturi</p>
+    <p xml:lang="swe">Themmeskepottande- enheti uschalipha gla te kerra, kesserpha te kerrat fedigt gla naturi -ta kulturrakksteddopha, nationaliskeparki ta jaar-drommar an dova jivvenske- trujali. Dolle aschar butti kairopha te rakepha naturi. Nationaliskeparki aschar dova soraloaste rakepha- formeni. Dolle aschar jick baroare kettanesblavande steddopha attjer jeck themmesketypi savo rakepha an siro naturligeske aschande. Naturi-raksteddopha aschar dolle sassdivusliga rakepha-formi. Dolle nasht kerras gla te kerra biologiske buttipha, mollepha naturi-trujalipha ire gla te kerra gla dova steddopha gla mukkeskebivaljibbet. Kulturo-raksteddopha aschar jeck savrige rakepha-formi gla mollepha kulturo-themmar.</p>
+    <p type="title" xml:lang="swe">Mukkeskebivaljibb</p>
+    <p xml:lang="swe">Themmeskepottande- enheti mengar gla te themmet saste kamma jick barvalo mukkeskebivaljibb ta te naturi saste ascha to sass manisch. Jeck bekk attjer dova naturi-steddopha vorsnos kerrar gla aschar kerrade savo dolle aschar lokkigt te tradra ninna julingskestammo ire nucko-voddring. An Sveddingen kammar sassaro jeck uniki astispha te siggra siro an naturi palla dova sav pennande sassmanisch-hortan doj dova baro hortan aschar <span type="quote" xml:lang="swe">”tji gola – tji mullepha”</span>. Sassmanisch- hortan aschar an naturi-raksteddopha, abbo nasht an kutti momenti ta steddopha ascha vavver.</p>
+    <p type="title" xml:lang="swe">Traschanopha tjarjali ta grassjo</p>
+    <p xml:lang="swe">Themmeskepottande- enheti mengar gla te themmets mollepha tjaralier ta grassjo saste kerras gla. Vorsnos mengar gla dokka glan rakepha-program gla rakepha traschanopha grassjo-ta tjarjaliarter. Baschi jeck arti aschar mukkeskerakepha fussar diro tji le dovan ire mullepha tjarjalien ire grassjon. Gla butti arteri aschar dolle tasa tji tjattjot te mullepha dovas jibbeskesteddopha.</p>
+    <p type="title" xml:lang="swe">Grassjo – puffrepha ta grassjoerna</p>
+    <p xml:lang="swe">An Grassjo-puffrandepha-hortan pennas te sass grassjoer ta dovas aroar ta kere, aschar mukk. Dolle aschar te grassjoer rada fussa puffrepha baschi dolle steer randrat an grassjo-puffrandepha-hortans randrandepha. An Sveddingen kammar hisponagoare-manisch hortan te puffrepha pre dolle phuv sav aschar dovas nagopha. Abbo kutti siggrephamulade- grassjoer ire tji butt jurade grassjoer aschar tji an kava princip. Themmeskepottande- enheti dokkar avri janepha to puffrandepha-manisch ta manisch savo aschar phuvnagoare, registrerar grassjo puffrande- steddopha, dokkar avri licenceri ta ler informationi baschi puffrandepha-statestik. Vorsnos kammar tasa vescht baschi dolle savo aschar baschi rakepha-grassjo- puffrepha gla te kerra sav tji grassjo-dabbesker aschar.</p>
+    <p type="title" xml:lang="swe">Darrano-gressjo</p>
+    <p xml:lang="swe">Themmeskepottande- enheti kammar uschalipha gla administrationepha attjer dova baro darrano-gressjoerna an themmet. Golet aschar te Gressjoerna saste ascha an jibbeskesoralopha grupperi, savrigetjiro savo vorsnos voltrar tikno-kerra dova vinepha savo dolle nasht topha. To dova baro darrano-gressjoerna aschar bullo, ruv, lodgressjo, tiknoruv ta krajochirkalo. Themmeskepottande- enheti pallakerrar baschtliga inventeringar ta pottar baschi glanskekerrande hilprepha, rakepha-grassjo- puffrepha ta licensi-grassjo- puffrandepha ta dikkar akkter eventuella tjilegala puffrandepha. Vorsnos kerrar gla grassjo-dabbesker savo topha attjer darrano-gressjo.</p>
+    <p type="title" xml:lang="swe">Maskineri-tradrandepha an naturi</p>
+    <p xml:lang="swe">Themmeskepottande-enheti reglerar ta dikkar akkter phuvtradrande-semmno an terrengipha ta tradrande ninna jiveskevoddringar ire paniskevoddringar. Dynkrandet aschar te maskineri-tradrandepha tji saste gola ire mullepha phuven, tjarjalierna, mukkeskebivaljibbet, gressjojibbet, sarviskessern, phuveskebrukfarandet ire vessjeskebrukfarandet. Terrengitradrande pre kava phuv aschar tji tjattjot ta fussar tji kerras an helko Sveddingen. Jiveskevoddring fussa rada tradras pre jivvad themm. An kutti steddopha, jivvenskesteddopha, aschar voddringsketradrandet reglerad palla horter nerrider riggen attjer drommarna. Paniskevoddringarna fussa rada tradras ninna an kettanes- drommar ta an steddopha savo kammar dokkat horta attjer Themmeskepottande- enheti te dolle aschar an dovas hortepha.</p>
+  </body>
+</document>

@@ -1,0 +1,89 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>801</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/om-lansstyrelsen/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="fin" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="fit" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="sma" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="sme" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="swe" location="om-lansstyrelsen.html"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rka"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmf"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmn"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Baschi Themmeskepottande- enheti - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Baschi Themmeskepottande- enheti</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Baschi Themmeskepottande- enheti</p>
+    <p xml:lang="swe"><em type="italic">Themmeskepottande-enheti aschar jeck themmeske bastanopha savo aschar nerrider manisch an savrige themm. Vorsnos aschar jeck baro duri masker manisch ta kommunerna an jeck riggen ta barothemmets- bastanopha. Riksdagen ta centrali bastanopha an dova vavver. Themmeskemoschen aschar chefi gla themmeskepottande-enheti ta kammar an uschalipha te kerra progressionpha ta dokka avri janepha to barothemmeske-bastanopha baschi themmets voltranden ta mustulanden. </em></p>
+    <p type="title" xml:lang="swe">Vorsnos uschalipha</p>
+    <p xml:lang="swe">Themmeskepottande-enhetins uschalipha aschar te menga gla jeck progressionpha doj trujali, baroande ta fediga jibbeskeastispha jaar vessta an vessta. Tikno pennat mengar vorsnos gla jeck fedig progressionpha an themmet. Themmeskepottande-enhetin uschalipha gla te pottande fann Manisch-representationi (riksdagen) ta barothemmeske-bastanopha pallakerras an themmet ta vorsnos kettaneskerrar dova themmeska kerranderna. Karna vorsnos racklar baschi themmets progressionpha saste vorsnos dynkra pre vorsnos saste menga gla dypas gla manischen ta manisch-kettanespha voltranden ta mustulanden.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Dikkar vorsnos pre Themmeskepottande-enheti instruktionen saste vorsnos ninna vavver menga ninna</p>
+      <p type="listitem" xml:lang="swe">Kabinsketjack- kontrolli, gressjo- rakepha ta sassmanisch grejjeske-mengar friggor regionali baroande</p>
+      <p type="listitem" xml:lang="swe">Infrastrukturiskeplanering</p>
+      <p type="listitem" xml:lang="swe">Fedig ta soralo manisch- kettanespha organisation ta boddrande</p>
+      <p type="listitem" xml:lang="swe">Sorali ta klimato</p>
+      <p type="listitem" xml:lang="swe">Kulturo- trujalipha</p>
+      <p type="listitem" xml:lang="swe">Rakepha gla vinepha ta krisberedskap ta civilt rakepha</p>
+      <p type="listitem" xml:lang="swe">Naturikesser ta trujalipha – ta kesser- rakepha</p>
+      <p type="listitem" xml:lang="swe">Themmeskebrukfara ta themmeskekeribepha</p>
+      <p type="listitem" xml:lang="swe">Mattjande</p>
+      <p type="listitem" xml:lang="swe">Kettanessuttandepha.</p>
+      <p type="listitem" xml:lang="swe">Integarationi</p>
+    </list>
+    <p type="title" xml:lang="swe">Themmeskemoschen ta themmeskepottandet</p>
+    <p xml:lang="swe">Themmeskemoschen aschar barothemmets-bastanopha flata avri an themmet ta avrijuras attjer barothemmets-bastanopha. Jeck baro kerrande gla themmeskemoschen aschar te kettaneskerra dova themmeska kerranderna an themmen, dikka to themmets progressionpha ta dokka avri janepha to barothemmeske-bastanopha baschi themmets voltranden ta mustulanden. An Kastonaforo-, Skånes och Västa Götalands themm aschar jeck themmeskeprealmosch ta an dova vavver themmen jick themmeskeenheti savo kerrar glad olle divuska menget ninna themmeskepottande-enheti ta savo tasa aschar themmeskemoschens nerridaste kettanesmengare ta jaar intus ta mengar baschi li ire lo tji nasht ire saste menga.</p>
+    <p type="title" xml:lang="swe">Diarium</p>
+    <p xml:lang="swe">An diarium registreri Themmeskepottande-enheti divuska nevo kerranden, kerranden savo kerras gla ta pottanden an kerranden. Kerranderegistri aschar offentliga ta publiceras pre internet ninna themmeskepottande-enhetins diarium. An kutti momenti nasht publicering attjer informationen garas ninna hilprepha attjer manisch-janepha-hortan.</p>
+    <p xml:lang="swe">&gt;&gt; Jaa to themmeskepottande-enhetins diarier (Sveddingska racklepha)</p>
+    <p type="title" xml:lang="swe">Krajoracklanden ta bekkdokkanden</p>
+    <p xml:lang="swe">Themmeskepottande-enheti pottar butti ovaro pottande savo direkto ire andirekto gustrar themmets manisch ta roddrelser. Kutti pottande mustula bekkdokkas dovan savo aschar gustad attjer kavva friggan. Karna manischen attjer gustrade manisch aschar baro nasht annonseringen kerras an themmeskepressen, jeck sav pennas krajoracklande- annonsering, sav mosch tjii beschar avri pottanden ninna iller.</p>
+    <p type="title" xml:lang="swe">Prealgolepha</p>
+    <p xml:lang="swe">Baschi diro fussar jeck vavver jibbiskesituationi attjer jick pottande savo themmeskepottande-enhetin kammar pottat baschi nasht diro buttast prealgolepha dolle. Ninna pottande fussar diro informationi savo pennar pre sar sutt diro nasht kerra. Themmeskepottande-enheti skickar senslo diro prealgolande to dova bastanopha savo saste potta diro frigga. Vorsnos nasht tasa kerra to ire baschidikka vorsnos solus pottande.</p>
+    <p xml:lang="swe">Butti typeri attjer pottande savo kerras attjer jeck kommun, to exempli baschi keriebpha- lovrande, nasht prealgolas to themmeskepottande-enheti. Diro savo voltrar prealgola jick kommunalt pottande saste skicka diro iller to dova kommun savo kammar pottat. Diro mustula ascha an jeck pottande gla nashta kamma hortan te prealgola dolle.</p>
+    <p type="title" xml:lang="swe">Glajanande-hortor</p>
+    <p xml:lang="swe">Glajanande-hortor aschar horter savo tjinnas savo glanskerandrande iller. Dova saste kerra siro tji to khoon pottande manisch avritan to sassmanischen. Themmeskepottade glanskerandrandeiller aschar ninna vavver pottande baschi pani-rakepha, naturi- rakesteddopha, panitradrande och sarvis puffrande. Themmeskepottande-enheti dokkar avri themmets glajanande-hortor savo aschar dypas prealrandrande- iller savo vorsnos kammar pottande baschi ta prealrandrande – iller savo kommunerna ire voddringskekeribepha kammar avrisuttat to sassmanischen.</p>
+    <p type="title" xml:lang="swe">Remisser</p>
+    <p xml:lang="swe">Svacko bascht avvar dolle an jeck baro tjinnepha remisser to Themmeskepottande- enheti. Dolle aschar te vorsnos fussa astispha te dokka vorsnos dynkrar fann ovaro departement, themmeska keribenpha ninna buttare. Themmeskepotto- enheti beschar tasa butti attjer siro dynkranden to pottanden pre remiss to gustrade intressenter an themmet.</p>
+    <p type="title" xml:lang="swe">Presskammora</p>
+    <p xml:lang="swe">Themmeskepottande-enheti mengar kairopha ninna te tjivvra avri baro manisch-kettanespha informationi to manischen ta media. Webbeskeriggen ta vorsnos pressracklanden aschar jick sutt te dokka diro service anjurandepha an vorsnos meng.</p>
+    <p type="title" xml:lang="swe">EU ta internationellt</p>
+    <p xml:lang="swe">Kettanespha an EU prekerrar vorsnos savo manisch pre butti sutt, dypas an barot ta an tiknot. Gla themmeskepotto-enheti aschar dolle astispha te brukfara ketannes resursi, abbot asa le kisser to ketannes horter. Butti Themmeskepotto-enhetier kammar nationella kontakteri ta utbyten ire aschar an ovaroa kettanesmengprojekti preal nationhtemmar savo pre ovaroa sutt kerrar gla themmets progressionpha. Ketanesmenget an ovaroa formi kerrar tasa ninna themmar avriglan EU</p>
+    <p type="title" xml:lang="swe">Menga gla vorsnos</p>
+    <p xml:lang="swe">Themmeskepotto- enheti aschar jeck mengeskesteddo ninna buttiriggeske kerranden. Vorsnos aschar jeck janepha. Ta dikk to organisation ninna baro kompetensa an butti ovaroa tjack. Vorsnos divusliga meng aschar te dikka to te manisch- representationi ta barothemmets- bastanopha pottande pallakerras an themmet, ta te kettaneskerra ovaroa voltranden ta kerra glan manischens voltranden gla jick fedig menaisch-kettanespha – doj lovverpha progressionpha, trujali ta social- trujalipha tavas kettanes.</p>
+    <p type="title" xml:lang="swe">Upprisketjinnanden</p>
+    <p xml:lang="swe">Savrige Themmeskepotto-enheti aschar jeck solus upprisketjinnande bastanopha. Vorsnos kammar pottande pottanden gla huri vorsnos saste tjinna ire hyra tjack ta kerranden ta vorsnos kerrar hortan baschi offentliga upprisketjinnanden. Vorsnos brukfarar vorsnos tasa attjer astispha te kerra avrop pre dova themmeske ramiskepotto-illren.</p>
+  </body>
+</document>

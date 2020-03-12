@@ -1,0 +1,93 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1589</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Puberteten</origFileName>
+    <parallel_text xml:lang="fin" location="murrosika.html"/>
+    <parallel_text xml:lang="fit" location="pyberteetti.html"/>
+    <parallel_text xml:lang="sma" location="puberteete.html"/>
+    <parallel_text xml:lang="sme" location="ravasmanahki.html"/>
+    <parallel_text xml:lang="smj" location="pubertahtta.html"/>
+    <parallel_text xml:lang="swe" location="puberteten.html"/>
+    <parallel_text location="puberiteti.html" xml:lang="rmf"/>
+    <parallel_text location="kana-e-glata-kerdol-ternimata.html" xml:lang="rmy-rka"/>
+    <parallel_text location="puberteto.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="puberteti.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Puberteten</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Puberteten</p>
+    <p xml:lang="swe">Kommoni tjiro masker te diro honkar 10 ta 13 basht phuro brukfarar dova buttaste ava andre an puberteten. Teli puberteten najek fann nucko to jeck baro manisch. Diro hango ta mischeske, diro nasht kamma lollo ta diro brukfarar dynkra pre bulopha.</p>
+    <p xml:lang="swe">Puberteten kerras attjer hormoner. Hormonerna honkar dolle savot keira an najek kova an truppon. Hormonerna soskipe sar truppon janar pre butt najek kerropha. Dolle pottar preal domranon, rattet, sar diro kanslar diro ta sar butt phani diro kammar an truppon. Dolle honkar tasa hormonet savot pottat sar ta karna truppon bliddrar vaverpha.</p>
+    <p xml:lang="swe">Karna diro avar andre an puberteten ta sar diro dynkrar baschi dova honkar najek fann manisch to manisch. Kommoni nasht kanla aschter te fussa kintan ire babb abbo vaver dynkrar te dolle kanslas kerria.</p>
+    <p xml:lang="swe">Baschi diro avar sela ire senslo andre an puberteten honkar nani diro nasht potta preal solus. Gla racklier brukfarar puberteten aggra karna diro honkar masker 10 ta 12 basht ta gla rackloar masker 11 ta 13 basht. Abbo dolle honkar butt sav te dolle kerras soldyj selare ta sensloare tasa. Sar phuro diro honkar karna diro avar andre an puberteten honkar to puberteten honkar soskipe attjer diro nartha, dad ta dakri.</p>
+    <p xml:lang="swe">Helko puberteten brukfarar le pansht to sinkus basht ta teli tjiron kammar sassaro siro siggrepha. Puberteten aggrar buttast ninna te diro bliddrar bajrol siggrepha. Attispha nasht diro kansla diro vinande aschtersavo sassaro kotar pre truppon tji bliddrar bajrol an savrige tjiro. Veschtar ta piroarna bajrol buttast an aggran.</p>
+    <p xml:lang="swe">Karna diro avar avri puberteten kammar diro bajrol pre langstron.</p>
+    <p type="title" xml:lang="swe">Te ascha an puberteten</p>
+    <p xml:lang="swe">Diro nasht buttvar sjunna te puberteten honkar jeck kerria tjiro. Sav nasht dolle ascha gla butt manisch, abbo tji gla sassaro. Gla butt honkar dolle jeck lattjano tjiro an dovas jibb, karna dolle kerras butt nevo kova ninna soldyj ninna siro solus ta ninna vaver nerrider. Butt manisch dynkrar dolle honkar lattjo te kamma jeck baroare truppo ta jura sav, abbo tji tjatcho. Dolle nasht kanslas rabbik te truppon bliddrar najek, dolle nasht kanslas savo te diro tji tjattjot parda ninna.</p>
+    <p xml:lang="swe">Dolle nasht kanslas savo te dolle janar dynkrar ta mustulanden, sar diro saste ascha ta dika avri savot tjej ire tjavo. Baro manisch nasht kamma dynkrar sar ternopha <span type="quote" xml:lang="swe">”honkar”</span>, savi nasht pennas an nasjlo lav, savo te ternopha honkar kerria ta lacka. Diro saste hagstri te nane kammar hortepha te ascha miak ta te diro kammar hortepha te ascha dova diro voltrar ascha.</p>
+    <p xml:lang="swe">Baschi dolle kanslas kerria nasht dolle ascha fedigt te rakra ninna kommoni. Dolle nasht ascha bleddreskekerets dukkalapenja, bleddreskekerets kurator, ire kommoni vaver pre ternophakeret.</p>
+    <p type="title" xml:lang="swe">So kerras an?</p>
+    <p type="title" xml:lang="swe">Tjuttjo</p>
+    <p xml:lang="swe">Gla tjejer honkar dolle angleske patrinepha pre te diro kammar avat andre an puberteten te tjuttjon aggrar bajrol. Dolle nasht diro kansla palli te diro fussar tikno schumba aschter tjuttjo. Dolle honkar tjuttjon savo bajrol. Karna tjuttjo bajrol nasht dolle sjandra ta kanslas dukk. Dolle brukfarar ascha savo te dolle kanslar dukkt karna diro dabbas koro kommoni ire avar pre tjuttjon soralot.</p>
+    <p xml:lang="swe">Buttvar aggrar jick tjuttjo bajrol glan dova vaver. Dolle honkar buttvar sav te tjuttjon bajrol an najek tjiro.</p>
+    <p xml:lang="swe">Nerrider pascha attjer sassaro tjavoar fussar tjuttjoschumbar savo soldyj nasht juras ta kanslas savo jeck tikno schumba teli jick ire soldyj tjuttjoarna. Tjuttjoschumbarna nasht tasa kanslas dukka, abbo dolle honkar tji darano. Ashter jick tjiro brukfarar tjuttjoschumbarna bliddra tiknoa. Kava nasht kerropha ashter dy ire trin basht.</p>
+    <p type="title" xml:lang="swe">Bal pre truppon</p>
+    <p xml:lang="swe">An puberteten fussar diro mischeskebal. Balet janar bajrol pre mischen ta koro piroarna. Soldyj tjavoar ta tjejer nasht fussa bal an jek tav uppri koro balgon.</p>
+    <p xml:lang="swe">Diro fussar tasa bal teli muslingarna ta dolle honkar buttvar savot te manisch fussar buttare bal pre vaver steddos pre truppon tasa, pre muslingarna ta piroarna. Tjavoar nasht kamma bal pre rinnta ta dummo.</p>
+    <p xml:lang="swe">Tjavoar fyser babb. Kava brukfarar aggra pre prealvusten ta avar senslo to chikken ta khoren. Gla kommoni nasht balbajrol bliddra baroare ta bliddra soraloare langro uppri an baro basht.</p>
+    <p xml:lang="swe">Teli puberteten bliddrar balet pre scheroet siggrare tullepha jeck selare. Dolle soskip pre te diro truppo kerrar buttare tullopha. Dojgla nasht diro mustula tava balet buttvar jeck diro kammar selare kerrat.</p>
+    <p type="title" xml:lang="swe">Diro minscha</p>
+    <p xml:lang="swe">Minscha bliddrar najek teli puberteten, soldyj baro ta ranki. Talgschumba aggrar juras fedigare savi kerrar te diro nasht jura tikno schumba savo honkar sav savo dolle saste ascha ta tji darrano. Pinsno ta phani savot aggrar kerras kerrar te mischa tasa kandrar najekt jeck selare.</p>
+    <p xml:lang="swe">Gla tjejer bliddrar soldyj avri ta andre minsheskevustarna butt tulloare ta kaloare. Buttvar bajrol dova andre misnheskevustarna sav te dova janar avri dova avri. Aur klitoris bajrol. Mincha, dajanipe bliddrar baroare.</p>
+    <p xml:lang="swe">Gla tjavoar honkar dolle kudden savo aggrar bajrol. Aur kudden ta karon bajrol ta bliddrar baroare ta kudden fussar kaloare ranki. Sar butt karon bajrol honkar nejek fann manisch to manisch. Aur dova andre sav pennas prostatan bajrol. Glanskejimmet bliddrar baro ta teli glanskejimmen aggrar smegman, jeck perno mackli phani ava.</p>
+    <p type="title" xml:lang="swe">Sperma</p>
+    <p xml:lang="swe">Karna kudden bajrol nasht dolle ascha tikno dukala. Dolle janar gla dolle aggrar kerra spermier. Dolle brukfarar kerras karna diro honkar 14 – 15 basht phurp, abbo dolle nasht aggra solduj selare ta sensloare. Baschi dolle avar sperma karna diro avar, sav aschar dolle te diro honkar minsheskereslo. Dannro nasht diro kerra kommoni phari baschi diro kammar bula. Teli puberteten honkar dolle butt te diro avar pre rattin karna diro dummrar. Gla khonra kerras dolle rada jeck tjiro abbo gla vaver manisch teli buttvar basht.</p>
+    <p type="title" xml:lang="swe">Phanipha</p>
+    <p xml:lang="swe">Anglal kintan avar aggrar diro fussa phanipha. Dolle jurar diro preal te dolle bliddrar tikno guloperdo an teliisarna. Phanipha kerrar minshan tjindo, ta kerrar dova aur jujo ta rakkepha koro duckalopha.</p>
+    <p type="title" xml:lang="swe">Kintan</p>
+    <p xml:lang="swe">Te diro fussar kintan janar te diro nasht fysa nuckoar.</p>
+    <p xml:lang="swe">Anglan kintan brukfarar ava dy basht glanske tjuttjo kammar aggrat bajrol. Buttvar brukfarar dolle ninna te dolle rada avar tikno ratt an teliisarna ire pre illers karna diro tovvar dirots.</p>
+    <p xml:lang="swe">Dolle honkar aur buttvar te diro kammar kaljarodo phanipha anglanske diro kammar fussat diro anglan kintan. Dolle honkar truppons sutt te rackla te kintan avar pre drommer. Rattmulltrande phanipha brukfarar ascha kaloa ta kaljarodo, dolle aschar gla rattet tji tovvas tikno anglan dolle avar avri.</p>
+    <p xml:lang="swe">An aggran honkar dolle buttvar te kintan honkar onikalo. Diro nashht fussa kintan pre jeck tjiro ta senslo nasht dolle bliddra buttvar montras andre vaver kintan avar. Dolle honkar buttvar ta tji darranot.</p>
+    <p type="title" xml:lang="swe">Bulopha voltrande</p>
+    <p xml:lang="swe">Diro nasht ascha tattano, onanera ire kamma bulopha pre vaver sutt ta fysa avande karna diro honkar an tjattjo basht. Abbo karna diro bliddrar an kava basht brukfarar voltrandet honka butt baro. Onanera nasht diro kerra anglan puberteten karna diro honkade ternoare abbo dolle honkar buttvar teli puberteten dova buttaste aggrar onanera gla dova dynkrar pret.</p>
+    <p xml:lang="swe">Gla tjavoar nasha dynkrarna pre bula kerra te diro bliddrar sarvis. Dirots nasht tji jana sosti. Dolle nasht ascha gla karna diro suttar pre jeck barotradrare ire karna diro kerrar kommoni savrige. Dolle nasht kanslas lajanot ta diro nasht lokkigt dynkra te diro honkar solus baschi te bliddra sarvis, abbo dolle kerras butt.</p>
+    <p type="title" xml:lang="swe">Jimmen</p>
+    <p xml:lang="swe">Sav balet siggrare bliddrar tullo nasht aur jimmet bliddra kava. Dolle honkar gla diro truppo kerrar buttare tullo jeck anglanske, buttare jeck diro mustula kamma. Karna diro jurar dolle te jimmen honkar blankus, buttas nerrider nakken, ta panilka, abbo aur pre vaver steddon pre truppon. Te jimmen bliddrar tulloare nasht kerra te diro fussar lolloar ta vaver.</p>
+    <p xml:lang="swe">Teli puberteten nasht diro aur fussa jimmeskepoggrande. Dolle aschar gla pre jimmen rekklas avri siggrare jeck dova nasht jana. Pre tjejer honkar dolle buttast te fussa jimmeskepoggrande pre tjuttjo ta piroar. Pre tjavoar honkar dolle buttast pre dummo ta pikoarna, dova juraras tiknoare akkter jeck tjiro.</p>
+    <p type="title" xml:lang="swe">Pinsno</p>
+    <p xml:lang="swe">Dirots aggrar aur pinsnoas buttare teli puberteten, dojkoro honkar butt barot te diro tovvar diro svacko dives. Baschi diro dynkrar te dolle mustulas, nasht diro aur brukfara deodorant teli muslingarna.</p>
+    <p type="title" xml:lang="swe">Hango</p>
+    <p xml:lang="swe">Sav vaver attjer truppon honkar hango teli puberteten vaver, ta bliddrar butt kaloare ta teligare, dolle honkar dolle manisch brukfarar penna gla terno – hango <span type="quote" xml:lang="swe">”målbrottet”</span>. Dolle kerras gla solduj tjejer ta tjavoar. Abbo tjavoars hango bliddrar vaver jeck tjejer ta dolle kerrar sav tjavoar kammar dolle kerria te brukfara hango.</p>
+    <p type="title" xml:lang="swe">Truppon bajrol ta bliddrar vaver</p>
+    <p xml:lang="swe">An aggran attjer puberteten bajrol butt veshtar ta piro butt siggrepha. Senslo bajrol ta pirorna. Akkter dolle bajrol diro sav buttast pre durit. Abbo dolle bajrol butt pre tada kommoni montras. Dolle brukfarar pennas bajrol – tjiro.</p>
+    <p xml:lang="swe">Truppon bajrol tji pre durit avri pre form. Tjejer ta tjavoar fussar najek former.</p>
+    <p type="title" xml:lang="swe">Sela ta senslo pubertet</p>
+    <p xml:lang="swe">Karna puberteten aggrar honkar najek ta soskip pre genetik. Te ava sela an puberteten nasht soldyj kanslas lattjanot ta kerria. Te ava sass gla sela an puberteten, anglanske dirots bliddrar okto basht sav tjej ire enja savo tjavo, honkar obutt. Baschi diro fusssar pubertetspatrin sav sela saste diro rackla ninan diro dad ta dakri ire vaver savrige ta le trissepha ninna bleddreskekerets dukkalapenja ire jeck vaver arakcentral.</p>
+    <p xml:lang="swe">Baschi diro tji kammar fysa kommoni patrin karna diro honkar 14 basht pennas dolle gla jeck senslo pubertet. Dannro nasht diro rackla ninna siro nartha ire vaver savrige ta kettanes ninna dova ire solus le trissepha ninna dukkalapenja, jeck ternophasteddo ire arakcentral. Baschi dolle mustulas nasht puberteten kerras ninna hilprepha attjer drabb. Diro nasht tji solus kerra sav te diro avar an puberteten.</p>
+    <p xml:lang="swe">Baschi diro dynkrar te dolle kanslas kerria te tji diro blidrar vaver savrige siggrepha nasht dolle kanslas lattjo te fussa rackla ninna kommoni, bleddreskekherets dukkalapenja, honkar jeck manisch diro nasht jaa to. Dolle jaar aur fedigt te fussa hilprepha pre jeck ternopha steddo ire vaver arakcentral.</p>
+  </body>
+</document>

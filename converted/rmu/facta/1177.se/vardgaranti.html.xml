@@ -1,0 +1,74 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>551</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Vardgaranti</origFileName>
+    <parallel_text xml:lang="eng" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fin" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fit" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sma" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sme" location="vardgaranti.html"/>
+    <parallel_text xml:lang="smj" location="vardgaranti.html"/>
+    <parallel_text xml:lang="swe" location="vardgarantier.html"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmn"/>
+    <parallel_text location="vardgaranti.html" xml:lang="yid"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Arakgarantia / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">ArakgarantiaVårdgaranti</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Arak andre jeck potto sikk tjiro</p>
+    <p type="title" xml:lang="swe">Arakgarantia savo aschar chani an saroe themmen</p>
+    <p xml:lang="swe">Arakgarantia aschar te diro saste fussa arak andre jeck potto sikk tjiro. Dolle honkar jeck kanunimo kotar saste attjer sastepà ta dukaloarakkanuni. Arakgarantia pennar andre savi tjiro diro nachta erbjuddras pre arak fann themmjakoro ire regionin. Dojkoro potto arakgarantia tji bàsi arak nachta dokkas ire savi arak diro nachta fussa.</p>
+    <p xml:lang="swe">Arakgarantia pennar sar hàrga diro savo hargas nachta hòftara pre te fussa arak. Dolle aschar najek tjiropotto gla najek arak, savo 7 divus gla te fussa trissa jeck darton pre jeck arakcentrali ire 90 divusar gla te kera jick gostibe, fussa jeck arak dikhljaribe andre dova specialiserade araken. Bàsi kava tji jar te kamma arak andre kava tjiro pre kava akrakikheren diro kammar rodela, erbjuddras diro jeck gostibe ire siro arak pre jeck vaver akrakikheren. Diro nast aur bliddra bistrade to jeck vaver akrakikheren an jikk vavoret themmjakoro. Dolle honkar sarstill sarstil mukkanot te pakre ehe ire nane to jikk erbjuddrande bàsi arak pre jeck vaver akrakikheren panda doj diro kammar rodepha rodelat.</p>
+    <p xml:lang="swe">Sigutno arak astarela tji attjer arakgarantia. Bàsi diro bliddrar sigutno duckalo ire anaven saste diro fussa arak sav siggo savo diro nast.</p>
+    <p type="title" xml:lang="swe">Nationell arakgarantia 0–7–90–90</p>
+    <p xml:lang="swe">Fann arakgarantia kammar diro horta to:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">0 – Kontakti ninna primäraraken savriga divus. Savrige divus savo diro rodela hilpra nacha diro fussa kontakti ninna primäraraken, ire arakcentralin ire vaver akrakikheren. Dolle nast keras pre taven ire pre trissepha gostibe.</p>
+      <p type="listitem" xml:lang="swe">7 – Darton gostibe, an primärvården andre efta divusar. Vakerela arakdsenipe te diro hòftara trissa jeck darton nacha diro fussa tjiro andre hemuso efta divusar, savo pre arakcentrali ire ke savrige natans darton.</p>
+      <p type="listitem" xml:lang="swe">90 – Gostibe an dova specialiserade araken andre 90 divusar. Bàsi diro fussar jeck remiss to dova specialiserade araken saste diro fussa jeck tjiro gla gostibe to andre 90 divusar. Kava aschar thaj basi rodela arak biso remiss.</p>
+      <p type="listitem" xml:lang="swe">90 – Arak kera andre 90 divusar. Akkter agorlejbe bàsi arak dikhljaribe, savo operation, nacha diro fussa jeck tjiro andre 90 divusar.</p>
+    </list>
+    <p type="title" xml:lang="swe">Karna chani tji arakgarantia?</p>
+    <p xml:lang="swe">Arakgarantia chani tji</p>
+    <list>
+      <p type="listitem" xml:lang="swe">paligostibe</p>
+      <p type="listitem" xml:lang="swe">bàsi diro attjer drabbsoskip saste biddra hàrgar panda garantias tjiropottande</p>
+      <p type="listitem" xml:lang="swe">drabb service, savo laboratorie- ta rendgenirodderpa</p>
+      <p type="listitem" xml:lang="swe">rodkeribe ta ròderpár</p>
+      <p type="listitem" xml:lang="swe">hilprebukja parvaribe, jikk telopa honkar vrimaisa atjer shonna aparati</p>
+      <p type="listitem" xml:lang="swe">bàsi diro pakrep nane to erbjuddrandes bàsi arak gla jeck vaver akrakikheren (bàsi diro senslo voltrar vaver nast diro penna ehe to erbjuddrandet).</p>
+    </list>
+    <p type="title" xml:lang="swe">Biddratjiro an araken</p>
+    <p xml:lang="swe">Dolle aschar jeck nationell webbpatrin gla odorederibe attjer arakgarantia ta biddratjiro. Pre webbpatrinen sikkras biddratjiror andre sàssaro themmjakoro ta regioner.</p>
+    <p type="title" xml:lang="swe">Arak pre vaver reg</p>
+    <p xml:lang="swe">Bàsi diro erbjuddras jick gostibe ire jeck dikhljaribe savo tji nast dokkas andre arakgarantias pottandetjiro, nacha diro erbjuddras arak gla pre jeck vaver akrakikheren. kava nast asha pre jeck arakcentrali, jikk duckalokere ire pre vaver steddo privatikano lajarin. Diro nast solus penna anglat diro farnissar bàsi diro mangela ava, abbo bàsi arakgarantia nacha asha nast diro tji valjfara muckat. Bàsi diro tji mangela fussa arak pre jeck vaver steddo jeck panda doj diro kammar rodelar nast diro penna mukhela naneto fann erbjuddrandet bàsi arakgarantia. Dolle nast nisaninela te diro fussar biddra làngstroa. Bàsi diro sensloare tji voltrar nast diro sàrstil le kontakti ninna diros akrakikheren. Arakgarantia aggrar dannro chani fann kava datum.</p>
+  </body>
+</document>

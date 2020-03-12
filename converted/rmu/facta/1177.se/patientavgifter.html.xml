@@ -1,0 +1,99 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1131</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Patientavgifter</origFileName>
+    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
+    <parallel_text xml:lang="sma" location="patientavgift.html"/>
+    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
+    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
+    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
+    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Pacientitaksa / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">PacientitaksaPatientavgifter</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So fussa diro prejsa?</p>
+    <p type="title" xml:lang="swe">Diro prejsar gla lender dartontrissar</p>
+    <p xml:lang="swe">Sastepà ta dukkaloarak an Svedijo prejas baroast attjer themmeske- ta kommun to baroast kotar attjer themmeskeottan- ta komuna deisiben. Kava taksa savo diro prejsar niga jikk dartontrissapa honkar rada jeck teckno attjer so kava makksa.</p>
+    <p xml:lang="swe">Kava aschar tji dova helko solus arakhlon, plastikkururgi savo tji honkar drabbrano motiverad. Dannro prejsar diro saroe mollepa solus.</p>
+    <p type="title" xml:lang="swe">Najek mollepha an themmeskeottan ta kommuner</p>
+    <p xml:lang="swe">Themmeskeottan ta kommunerna nast an baro potta solus savi taksa dova nachta prejsa niga ta vaver dinster an araken. Taksa honkar sicklo an dova najek themmeskeottan. Baschi diro mustula kamma arak aschar jick baromollepha rakkepha, savo vorsnos pennar buttare baschi an aver patrin. Bàsi diro hòftara buti ninna arak asja jikk taksaarakhibe, savo parmissa an aver patrin.</p>
+    <p xml:lang="swe">Sastepà ta dukkaloarak honkar mollepha mukkano an averast sassaro themmar baschi diro honkar teli 20 basht phuro. Mollepa an averast sassaro themmeskeottan bàsi diro honkar telál 20 basjt.</p>
+    <p xml:lang="swe">Telirandrande taksa aschar gla dova sarinikana arakhlon ta solus arakdokkarna savo kammar simmali ninna jikk themmeskeottan.</p>
+    <p xml:lang="swe">Karna diro honkar béscha pre dukkalokheren prejsar diro jeck divustaksa savo ninna hortan fussar baroast ascha 100 lock.</p>
+    <p xml:lang="swe">Karna diro trissar diro darton pre akracentrali varincija taksan prele 100 ta 300 lock. Niga trissepa gla gynekolog ta nuckodarton varincija taksan prele 200 ta 350 lock. Bàsi diro niga kava fussar dartontrissepa remiss to rendgenirodderpa ta savrige ismarela diro tji projsa kommoni buttare mollepha. Nerrider prejsa kommoni buttare taksa. Niga trissepa gla vaver dartonspecialister najekar taksa prele 150 ta 350 lock. Trissepa niga jeck sigutnolajarin pre jikk dukkalokheren nast molla 220-380 lock. Niga trissapa gla dukkalopenjan ta dukkalogymnastik nasht mollepha ascha masker nast taksan asha 50-220 lock gla jikk trissapa.</p>
+    <p xml:lang="swe">Dakeriografi gla te sela jura tjuttjocancer ta savrige. Hurdinskiriròderpá fann uterusmen sav pennad gynekologisk molle sastepakontroli nast uppri to 200 lock.</p>
+    <p xml:lang="swe">Vìstra themmeskeottan ler avri jeck taksa gla tradrande ninna dukkalovoddring ire barosnurrare.</p>
+    <p xml:lang="swe">Vìstra themmeskeottan prejsar veder trissetaksan bàsi diro kammar fussat hikkra jeck tjiro baroare jeck dova savo aschade pottad. Baschi ashter dolle simmalit. Bàsi tji kerrar jeck vaver trissepha jeck tjiro savo tji honkar tjattjo ire tji avar telia dova pottade tjiro nasht diro bliddra uschali te projsa trissemollepha. Diro tji phatra jeck tjiro savo tji tergjolar ire tji avat dolle simmalit tjiro nast diro ovela uschli te prejsa trissetaksan.</p>
+    <p type="title" xml:lang="swe">Vaver akrakikheren nast kamma vaver taksar</p>
+    <p xml:lang="swe">Dova savo helko solus ire preàl siro mengeskedokkare kammar jeck dukaloarak siguripe nasht kamma helko vaver mustulanden gla savi mollepha dova saste projsa nast kamma sarot vaver romani astispa gla savo taksa diro nachta prejsa.</p>
+    <p xml:lang="swe">An dova kommunala sastepà ta dukaloarak, savo aschar gla purano ninna langstrodukkepa, aschar najeka taksa gla arak savo dokkas attjer dukkalopenja.</p>
+    <p xml:lang="swe">Pre Svedijos Kommuner ta themmeskeottan webbrigg aschar adresar to kommuner, themmeskeottan ta vaver. Kava kammar baro janepha bàsi siros taksa.</p>
+    <p type="title" xml:lang="swe">Taksa gla avri-themmare</p>
+    <p xml:lang="swe">Avri-themmare kammar hortepa toarak an Svedijo.</p>
+    <p xml:lang="swe">Avar diro fann jeck vaver EU-themm, EES-themm ire Schweiz saste diro kamma jikk europeiskt dukkalo siguripes kartli, EU-kartli, gla te vìstra te diro kammar hortepa to kris arak to buttast pacientitaksa. Kammar diro tji kava nast diro fussa prejsa saroe romani araktaksan.</p>
+    <p xml:lang="swe">Bàsi diro dojkoro mangela kamma arak savo tji honkar kris ta tji mangela prejsa buttare pacientitaksa saste diro kamma jikk iller savo sikkrar te kherethemmen prejsar araken. Bàsi diro tji kammar kava prejsar diro saroe taksan gla araken solus.</p>
+    <p xml:lang="swe">Lender buttaste savo avar fann themmar avriglan EU, EES ta Schweiz fussar prejsa saroe araktaksan solus, thaj bàsi kava dinglar bàsi kris arak.</p>
+    <p type="title" xml:lang="swe">Bàsi diro savo svedo bliddrar dukkalo avrithemm</p>
+    <p xml:lang="swe">Dolle europeiska dukkalosiguripe kartli, savo nast budras fann siguripekhéren, dokkar Svedding ninneskeboddrare hortepa to sigutno arak an vaver EU, EES – themmar ta Schweiz pre savriga loverpha astispha savo chani gla dolle themmets mànish. An dova nordikano themmen mostula diro tji sikkra kartlit.</p>
+    <p xml:lang="swe">Bàsi diro hòftarar arak bisogla EU, EES-themmarna ta Schweiz nast diro an dova buttaste themmar tji fussa siro mollepa prejsat, tji fann Svedijo ire fann dolle themm diro aschar an. Dolle honkar dojgla barot te kamma jikk tradrasiguripe savo sargar mollepha gla tradrande. Kammar diro jeck kheresiguripe ismarelar dova buttvar kamma jikk tradraarakhibe savo sargar jeck kotar attjer mollepa.</p>
+    <p xml:lang="swe">Siguripekhéren webbrigg kammar buttare janepha bàsi te fussa arak karna diro honkar avrithemmen.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Baromollepa arakhibe</p>
+    <p type="title" xml:lang="swe">Mukkalokartli karna diro kammat gustrat strecklan</p>
+    <p xml:lang="swe">Dolle aschar jick strecklan gla sar butt diro mostula prejsa gla sastepha- ta duckaloarak. Dolle pennas baromollepa arakhibe ta honkar kerrat savrige an sàssaro themmeskeottan. Dolle aschar aur bàsi diro fussar arak an jikk vaver themm doj diro tji boddrar.</p>
+    <p xml:lang="swe">Baromollepa arakhibe aschar te diro telál jeck tjiro pre decshù dy tschorna sakhedino prejsar baroast 1 100 lock an pacientitaksa. Diro aggrar jinna niga dolle angleske trissa, tji karna dolle keras telal basjtet. Karna diro kammar prejsat 1 100 lock fussar diro jikk muckkartli savo chani telal decshù dy tschorna karna decshù dy tschorna kammar avat aggrar diro prejsa buttare gla diro trissapa to diro kammat uppri to 1 100 lock aver volta.</p>
+    <p xml:lang="swe">Baromollepa arakhibe doschtar buttvar tji</p>
+    <list>
+      <p type="listitem" xml:lang="swe">dolle taksa savo diro prejsar bàsi divusen karna diro honkar beschad pre dukkalo´kheren</p>
+      <p type="listitem" xml:lang="swe">vaccinationer</p>
+      <p type="listitem" xml:lang="swe">iller ta sasteparoderpa</p>
+      <p type="listitem" xml:lang="swe">vaver anglanskekerrande arak, sav dakriografi</p>
+      <p type="listitem" xml:lang="swe">mollepa gla jikk bistrat trissepa</p>
+      <p type="listitem" xml:lang="swe">mollepa gla kopia attjer journalen</p>
+      <p type="listitem" xml:lang="swe">exprditionstaksa savo les avri bàsi diro prejsar pre jerda ire fusser faktura.</p>
+    </list>
+    <p xml:lang="swe">Andre danjaraken aschar buttvar tji dukaloaraken baromollepa arakhibe.</p>
+    <p xml:lang="swe">Dojkoro nast baromollepa arakhibe chani gla danjaraken bàsi diro kammar jikk baro ta longstrobesjat zori attjer arak an diros divus jiben. Baromollepa arakhibe nast aur chani bàsi diro kammar jeck dukkepa doj danjaraken aschar jeck kotar attjer jeck drabbreske dikhljaribe. Bàsi diro kammar jeck dukkepa savo nast vasdip riziko gla danjanaven ire vaver vina ninna te kera gla diro mojjujo nast diro aur fussa danjaraken to dukkaloarak taksa savo ascha an baromollepa arakhibe.</p>
+    <p xml:lang="swe">Gla drabb savo randras avri attjer darton, dukkalopenja ire vaver baro mosch an araken aschar jick baromollepa arakhibe savo aschar te diro mostula prejsa baroast 2 200 lock gla decshudy tschon. Receptmuck drabb aschar tji an dolle baromollepa arakhibe.</p>
+    <p xml:lang="swe">Baromollepa arakhibe aschar aur gla dukkalotradrar ta tekniska hilprabukja savo pottas themmeskeottan. Dolle kucipe te táttjomaskero nast assja najek prele najek themmeskeottan.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Taksamuck sastepà ta dukkaloarak</p>
+    <p xml:lang="swe">Sastepà ta dukkaloarak nast assja sarot taksamuck an khonra themmeskeottan. Drabbet savo randras avri telál kava araktrisset fusser diro dojkoro tji prejsa gla.</p>
+    <p xml:lang="swe">Trissa pre dakriaarak ta nuckoarak lajarin mollar nane an saroe themmen.</p>
+    <p xml:lang="swe">An drabbrasastepa arakhlon prejsar diro tji trissataksa ta dova vaccinationer savo bjuddras dojhonkar taksamuck.</p>
+    <p xml:lang="swe">An dova buttaste themmeskeottan prejsar núckor ta ternopà glann to 20-bashtdivusen tji kommoni taksa an uppri sastepa ta dukkaloarak, gla nerrider trissapa pre akracentrali ta ternopalajarin.</p>
+    <p xml:lang="swe">Arak ta drabb savo hòftaras karna diro dikhljaribas gla jeck sav karade sareni dàrano dukkepa gla Dolibe arakhibe kanuni fussar diro bisa taksa.</p>
+  </body>
+</document>

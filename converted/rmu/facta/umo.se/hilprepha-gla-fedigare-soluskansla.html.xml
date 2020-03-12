@@ -1,0 +1,74 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>709</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Hilprepha-gla-fedigare-soluskansla</origFileName>
+    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
+    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
+    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
+    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
+    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
+    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
+    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
+    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="rejchern.html" xml:lang="yid"/>
+    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Hilprepha gla fedigare soluskansla</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Hilprepha gla fedigare soluskansla</p>
+    <p xml:lang="swe">Dolle aschar butt diro nasht kerra gla te sora siro soluskansla. Kaj honkar kommoni diro nasht kerra gla dolle saste bliddra fedigare:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Dirots kammar tikno soluskansla sastras dirots lokki an keria dynkrepha baschi sar kerria dirots honkar. Karna diro kammar dynkrar baschi te diro honkar kerria nasht diro honkar kerria nasht diro fussa magra dova palli te drigga siro: hilprar dolle miro te dynkra sav? Honkar dolle tjattjot te mander tji honkar fedig pre kommoni?</p>
+      <p type="listitem" xml:lang="swe">Gla te ava hik dynkrepha pre avrijurande ta prestationer, savo tji kammar ninna soluskanslan te kerra, nasht diro frigga manisch diro kammar pattjano pre savi diro kammar savo honkar fediga. Diro nasht penna to manichet te tandra jeck arkonom savo diro beschar pre jeck steddo diro nasht dikka pre.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht aur dynkra pre savi diro dynkrar fedigt baschi gla vaver manisch. Savi honkar barot? Te ascha <span type="quote" xml:lang="swe">”sjukkar”</span>, fedigast an blattra ire dova honkar dukkalo, kammlano, misto, dynkrande ire nani trasch manisch trommar ascha siro solus?</p>
+      <p type="listitem" xml:lang="swe">Dolle soraloar soluskanslan kamma fedig trissepha to vaver, solduj malar, kamleskemalar ta narthan. Baschi manisch diro nartha nerriderpha pennar kerria lav varveran, nasht diro penna to dova to phatra. Attispha nasht diro penna to varveran fediga lav to varveran?</p>
+      <p type="listitem" xml:lang="swe">Diro nast kerra savot savo diro tji brukfarar kerra. Baschi diro narstill brukfarar aschar dova savo rekkra uppri veschtan glanske, nasht diro fussa kerra kava pre aver lektioni. Ire sav fussar diro penna aver tjiro kommoni fussar kerra siro lattjano pre diro, rodepha jeck meng diro voltrar kamma, tava jick rakklepha to kommoni diro dynkrar butt baschi ire sikkra jeck novell diro kammar randrat jeck blattrta.</p>
+      <p type="listitem" xml:lang="swe">Sastras tji an dynkrepha baschi savi kammar aschat vina selare an jibbet, fussa le kava savo dolle honkar ta le dova kanslor diro kammar kammat. Baschi diro janar te dirot dad ta dakri tji hilprar diro karna diro honkade tikno, astispha dolle janar vaver nerrider nii savo dynkrar baschi diro ta voltrar hilpra diro. Diro nasht aur frigga siro so savo honkar fedigast gla jeck te kerra nii. Kava mustula tji ascha diro fussa sikkra te diro honkar tugalo preal kava savo kammar kher, dirots nasht mustula ascha tugalo jeck tjiro gla senslo jaa avri.</p>
+    </list>
+    <p type="title" xml:lang="swe">Ternophapanelsens fedigaste penna</p>
+    <p xml:lang="swe">UMO:s solus tenrophapanel dokkar siro fedigaste pennanden baschi sar diro nasht fussa fedigare soluskansla:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Dirots nasht fussa ascha butt nani trasch ta tromma tikno buttare: tromma stee gla so diro dynkrar, tromma frigga baschi savot diro tji janar, tromma kerra laj diro ta tromma bjuddra pre diro.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht kamma trissepha ninna manisch savo diro kanslar diro rakkepha ninna.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht kansla diro buttare otrasch ta soraloare baschi diro schunnar pre beshipha savo diro dynkrar butt baschi, karna diro honkar pre drommen to kommoni diro kanslar diro orakkepha gla, ire akno savo diro kerrar kommoni diro dynkrar honkar tikno traschanot.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht bliddra fedigare pre te le koro sharat. Kansla tji dolle honkar lajjanot, le jeck baro balval, penna pekkrepha ta lottra dova savo manischen pennar jaa andre ta kansla diro fedig gla kava.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht dokka siro solus fediga lav ta lottra diro te kansla diro fedig karna diro kammar kerrat diro blattra-menger ire karna diro kammar tavat jeck rakklepha savo kanslades kerria.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht ascha jeck fedig hilpra mala ta solus valjfara malar savo hilprar diro ta dynkrar butt baschi diro gla kava manisch diro honkar.</p>
+      <p type="listitem" xml:lang="swe">Diro saste tji kamma ande ninna sharande avritan sikkra vaver manisch sharande gla savi dova honkar.</p>
+      <p type="listitem" xml:lang="swe">Chala butt!</p>
+      <p type="listitem" xml:lang="swe">Soluspattjande ta soluskansla honkar tji savrige, soluskanslan bliddrar fedigare karna diro kerrar savot diro honkar fedig ninna.</p>
+      <p type="listitem" xml:lang="swe">Randra uppri kava savo diro dynkrar diro honkar fedig pre.</p>
+      <p type="listitem" xml:lang="swe">Randra uppri kava savo kerrar diro lattjano.</p>
+      <p type="listitem" xml:lang="swe">Kerra uppri savot diro voltrar kerra, kerra kommoni diro dynkrar butt baschi ire kommoni diro narstill kammar kerrat glanske ta fula baschi dolle kerrades fedigt ire kerria, bliddrade kirla ire sjukkart.</p>
+      <p type="listitem" xml:lang="swe">Soluskansla aschar nerrider diro andreskegol. Baschi diro honkar miak, fussar diro kerria andreskegol ta kanslar diro kerria. Koro kerras baschi diro honkar jeck lattjo manisch, karni kammar diro dolle fedigare aur jick fedigare soluskansla.</p>
+      <p type="listitem" xml:lang="swe">Jeck fedig bleddreskerano savo hilprar diro nasht soraloa diro solustella.</p>
+      <p type="listitem" xml:lang="swe">Rodepha hilprepha gla jeck psykolog ire jeck kurator baschi dolle honkar jeck mustulande, pre ternophakeret.</p>
+    </list>
+    <p xml:lang="swe">» Soluskansla</p>
+  </body>
+</document>

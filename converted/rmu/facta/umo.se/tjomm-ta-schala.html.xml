@@ -1,0 +1,67 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>814</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Tjomm-ta-schala</origFileName>
+    <parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/>
+    <parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/>
+    <parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/>
+    <parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/>
+    <parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/>
+    <parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/>
+    <parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/>
+    <parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="umibe.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Tjomm ta schala</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Tjomm ta schala</p>
+    <p xml:lang="swe">Te tjomma ta schala honkar kommoni savo butt manisch dinkrar pre honkar lattjot. Baschi diro tji kammar kerrat kava nasht diro dynkra pre dolle ta dynkra pre dova butt. Akno nasht dolle kans nervolot gla dova angleske tjommen ire schala. Sar kerrar manisch karna dova schalar?</p>
+    <p xml:lang="swe">Baschi diro dikrar pre sar diro saste kerra karna diro tjommar ire schalar, nasht dolle ascha dedigt te dynkra pre te dolle tji aschar kommoni tjattjomaskero gla sar dolle saste kerras. Baschi diro rada kerrat savo bliddrar diro fedig pre dolle, baschi dolle kanslas fedigt gla diro kanslas dolle fedigt gla diro tasa.</p>
+    <p type="title" xml:lang="swe">Tjommar</p>
+    <p xml:lang="swe">Te tjomma honkar te le siro vust koro kommoni vavers vust ire koro kommoni vaver steddo pre truppon, buttast schunnas jeck schunn akno. Karna diro tjommar kommoni honkar mojjen klisad.</p>
+    <p type="title" xml:lang="swe">Schalar</p>
+    <p xml:lang="swe">Karna diro schalar kommoni sav brukfarar solduj vustarna ta chibarna roddra nerrider varvaran. Kava honkar savo diro chelar ta bliddrar chelad ninna chibarna ta vustarna. Kava nasht tasa sickloas savo diro smackrar pre kommoni vaver. Jeck kerropha te aggra schala honkar te aggra ninna te tjomma varvaran. Voltrar diro schala nasht diro keva tikno pre vustarna ta le andre chiben jeck tikno, tikno botta sav te dova roddrar dova vavers vust. Dannro fusar diro jura baschi dova vaver tasa kerras savo ta chibarna rodrar varvaran.</p>
+    <p xml:lang="swe">Dolle aschar nane tjattjomaskero gla sar diro saste kerra karna ernos schalar varvaran, sar langro tjiro diro saste le andre diro chib an dova vaver ire sar butt diro saste kuva diro vust, avritan kava pottar ernos solus. Buttast brukfarar dolle bliddra fedigt attjer siro solus karna diro schalar jeck vaver. Jeck hilprande honkar te fann aggran kerrat duroment sav diro tji dabbar andre chiben ta roddrar dova siggrepha an dova vavers moj. Dolle brukfarar bliddra fedigt gla solduj baschi ernos rada kerrat.</p>
+    <p xml:lang="swe">Dolle honkar keria te schala kommoni anglat aschter nakkarna lokki dabbar varveran, dojgla brukfarar diro le scherot pre jeck vaver rigg gla te kerrat. Kava nasht ascha lokkiast te le anadre luft ninna nasicka karna diro schalar kommoni. Diro nasht kerra diro glan sav dolle bliddrar fedigt. Dolle honkar lokki te schala ninna danjehilprare ire piercing. Ernos nasht tasa schala varveran pre truppon. Sako pre truppon ire sako ernos voltrar bliddra schalade pottar ernos solus kettanes ninna dova savo schalar ninna ire bliddrar schalad attjer.</p>
+    <p type="title" xml:lang="swe">Chala ta chela</p>
+    <p xml:lang="swe">Dolle nasht kanslas lattjot te kansla pre kommoni vavers truppo, palli chala ta chela. Diro nasht chela ta chala ninna ta avritan isar.</p>
+    <p type="title" xml:lang="swe">Schala</p>
+    <p xml:lang="swe">Sar schalar manisch? Te schala brukfarar dolle penna karna ernos schalar, tjommar, chala ta chelar kommoni. Te schala ta chala akno ascha schala. Chela ta tjomma pre truppon nasht tasa ascha schalande. Karna manisch schalar brukfarar dova tasa dabba siro koro varvaran.</p>
+    <p xml:lang="swe">Manisch nasht schala pre butt najek kerropha, duroment ta stillo ire siggrepha. Buttast vaverpha schalandet teli tjiron diro kerrat. Dolle nasht tasa vaverpha fann tjiro to tjiro ta fann manisch to manisch. Diro nasht schala ninna isar, ninna tikno isar ire helko nagnsto. Diro nasht tasa schala pre najek kerropha, steende, beschande ire sutande.</p>
+    <p xml:lang="swe">Te schala butt ta ninna ire avri sar penna gla te <span type="quote" xml:lang="swe">”groshno-schala”</span>.</p>
+    <p type="title" xml:lang="swe">Strul</p>
+    <p xml:lang="swe">Manisch pennar schalande gla te dova strular. Abbo strula nasht tasa ascha vaver. Manisch nasht dynkra te dolle honkar te strula karna manisch jurar pre varvaran ninna kamla ire kammar kammat bulopha ninna ire hari vaver. Jeck manisch diro kammar kerrat karna ninna nasht tasa pennas gla jick strul.</p>
+    <p type="title" xml:lang="swe">So kerrar schalande sav lattjot?</p>
+    <p xml:lang="swe">Te ascha nerrider ta bliddra chelad attjer kommoni vaver kerrar te jimmet, chiben ta vustarna bischar patrinepha to andrescherot te dolle kanslar fedigt ta lattjot. Kava nasht tasa kerra sav diro bliddrar tattanopha. Dolle honkar nerverna an truppon savo kerrar kanslandet ta bischar patrinepha to andrescherot. Gla te dolle saste kanslas fedigt ta lattjot te schala honkar dolle barot te soldyj diro ta dova diro chala ninna voltrar kerra dolle.</p>
+    <p xml:lang="swe">Najek manisch dynkrar najek butt baschi te schala. Dolle aschar nane hortepha ire vina kerropha te kansla, avritan diro fussar schunna pre diro solus baschi diro dynkrar dolle honkar lattjot te tjomma ire baschi diro voltrar kamma nerriderpha pre jeck vaver kerropha.</p>
+    <p xml:lang="swe">Diro kammar sarstill hortepha te penna to baschi diro tji voltrar schala, ire baschi kommoni tji kanslas fedigt teli tjiron diro kerrar kava. Diro saste narstill schala gla te jeck vaver manisch voltrar kerra kava.</p>
+    <p type="title" xml:lang="swe">Smack ta kandrande</p>
+    <p xml:lang="swe">Sassaro smackrar ta kandrar najek. Sar diro kandrar ta smackrar bliddrar najek attjer dolle diro kammar kaat, sar butt diro tovvar diro, sar isarna kandrar ta buttare. Baschi diro honkar dukkalo ire kammar jeck infektion sav nasht diro kandra vaverpha an mojen jeck so diro brukfarar.</p>
+    <p type="title" xml:lang="swe">Nasht manisch bliddra pari ire fussa minscheske attjer schalande?</p>
+    <p xml:lang="swe">Diro nasht tji bliddra pari attjer schalande. Diro nasht tji kamma kommoni minscheske. Schalande honkar soldyj lattjot ta potto kerropha te ascha nerrider kommoni.</p>
+  </body>
+</document>

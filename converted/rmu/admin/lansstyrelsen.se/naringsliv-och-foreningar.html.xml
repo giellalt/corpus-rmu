@@ -1,0 +1,74 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>899</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/naringsliv-och-foreningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Lovverskejibb &amp; kettanesmeng - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Lovverskejibb ta kettanesmeng</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Lovverskejibb &amp; kettanesmeng</p>
+    <p xml:lang="swe"><em type="italic">Themmeskepottande- enheti stimulerar themmets mengeske- roddrelser ta kettanesmengare pre ovaroa kairopha gla te kerra jick fedig lovverpha progressionpha ta butta mengen. Themmeskepottande- enheti voltrar kerra to lovverskejibbet te menga ninna friggor sav savo kettanessuttipha, trujalipha ta integrationi gla te soralopha jeck fedig baroande. </em></p>
+    <p type="title" xml:lang="swe">Lovverskejibb- progressionpha</p>
+    <p xml:lang="swe">Themmeskepottande- enheti stimuleri themmets lovverskejibb pre butti sutt gla te kerra jeck lovverpha fedig progressionpha ta kerra gla mengeske- astispha. Vorsnos kettaneskerrar ninna kommunerna, lovverskejibbet ta vavver kettanesmeng gla te kerra gla dova nationelli golen gla themmeske golen. Palla ovaro lovverske- ta hilprepha ta kerrar Themmeskepottande- enheti to te kerra fediga roddrelse klimati, jeck fedig infrastruktur an formi attjer drommar, kommunikationer, bleddrande ta forskning ta astispha to lover. Vorsnos pennar to te lovverskejibbet te menga ninna friggor savo gustrar kettanessuttipha, trujalipha ta integration gla te soralopha jeck fedig progressionpha ta baroande.</p>
+    <p type="title" xml:lang="swe">Manisch- roddrelser hilprepha</p>
+    <p xml:lang="swe">Svacko bascht fussa Themmeskepottande- enheti lovver attjer regeringen savo saste brukfaras to ovaro manisch- roddrelser hilprepha. Hilprepha saste hilpra themmens roddrelser te fussa jeck langrojurandepha baroande. Hilprepha typi varierar masker ovaro themm ta preal tjiro, dynkrande pre saro resursi ta uschalipha regeringen kammar dokkat to themmen. Vorsnos nasht dokka lover to ovaro tjack investeringar, bekknephakkerranden, innoveationsprogressionpha ta bleddrande an tikno ire maskerbaroa roddrelser. Dolle aschar jick hilprepha to kommersiell service pre themmeskekeribepha, exempli themmeskespekkariar ta maklingsketioner.</p>
+    <p type="title" xml:lang="swe">Konkurransi</p>
+    <p xml:lang="swe">Konkurransi stimuleri to jeck fedigare brukfarande attjer manisch-kettanespha resursi ta kerrar dolle astispha gla nevo manisch- roddrelser te avva intus an bekknepha. Themmeskepottande-enheti saste an nerrider kettaneskerrande ninna dova konkurrenskerrare kerrar jeck effektiv konkurransi ta privata ta offentliga mengepha. Vorsnos saste informeri baschi konkurrensfriggor ta kerra dolle jurandepha patrinepha pre te konkurrenspottepha tji kerras. Kontakta vorsnos baschi diro opattjanoar te kutti budeskedokkare kammar pottat siro baschi te sutta konkurransi avritan.</p>
+    <p type="title" xml:lang="swe">Projekti-hilprepha</p>
+    <p xml:lang="swe">Themmeskepottande- enheti nasht dokka diro lovverpha to jick projekti savo kerrar gla dova regionali progressionpha ta baroandet. Diro nasht rodepha projekti- hilprepha baschi diro kettanes ninna vavver manisch kammar jeck dynkerpha savo ernos voltrar pellakerra an jick projekti. Projektet saste ascha khoon nevo, ascha avriglan dolle ordinarie ketanesmenget ta ascha butti dynkrandepha ta tjiro. Resultatet attjer projekti saste ascha to kerrat fedigare gla butti manisch.</p>
+    <p xml:lang="swe">Lovversketovva ta finansiering attjer terrorism (Penningtvätt och finansiering av terrorism)</p>
+    <p xml:lang="swe">Themmeskepottande-enheti kammar jick uschalipha te menga masker lovversketovva ta finansiering to terrorism palla te dikka to fysiska ta juridiska manisch. Lovversketovva aschar karna lover savo avar fann stillopha kerrande ti lovver savo nasht redovisas legalt ta uppri. Terrorismfinansiering aschar te lovverpha hilpra terrorism palla lovver ire palla te le dova lover savo saste hilpra finansiera terrorism.</p>
+    <p type="title" xml:lang="swe">Fondier</p>
+    <p xml:lang="swe">Themmeskepottande- enheti aschar tojurande-bastanopha gla dova fondier savo aschar an themmet ta vorsnos kammar uschalipha gla te registreri dova. Jeck fondier aschar jeck solus kerrnade barvalopha savo aschar to jick potto goli. Jeck pottande-enheti ire jeck glakammare kammar uschalipha te kerra gla dova lover. Themmeskepottande- enheti kammar jick databas doj diro nasht jura saro fondier savo aschar an Sveddingen, dovas goli, trissephamanisch ninna buttare tjack savo aschar fedigt to jana.</p>
+    <p xml:lang="swe">&gt;&gt; Jaa ta dikka pre dova databasen ninna fondier (Sveddingens racklepha)</p>
+    <p type="title" xml:lang="swe">Prealjurande- roddrelse</p>
+    <p xml:lang="swe">Jick prealjurande-roddrelse jurar to hispopha, kere, kammorapha ninna buttare, offentliga chelepha ire jeck solus manisch. Sass prealjurande- roddrelser mustula kamma hortepha, potto-iller, sav pennad auktorisation, attjer Themmeskepottande- enheti. Ninna kava mustula auktoriseringen saste vorsnos penna te sass manisch savo aschar gara-manisch ta dova savo tji aschar gara-manisch horta te menga ta dokka roddrelsen horta to kamma gara-juckar.</p>
+    <p type="title" xml:lang="swe">Mattja-neutriation</p>
+    <p xml:lang="swe">Themmeskepottande- enheti mengar gla jibbeskesoralopha mattja ta jeck langrojurepha ta fedig mattjan-neutriation. Dolle aschar Themmeskepottande- enheti savo dokkar hortan to te etablerad mattja, lollomattja – ta musselneutrion. Vorsnos nasht tasa dokka hortan to lovver-hilprepha to licensierade mengeskemattjare sav te dova nasht kerra siro mattjantjack ta dokka lover gla dova muli savo pani- gressjo kammat topha pre dovas tjack ta kerrande. Themmeskepottande- enheti dokkar avri EU-hilprepha to investeringar an mengeskepha mattjande. Panibrukfara, beredningsindustrin, bleddrandet, progressionpha- projekti ninna buttare. Vorsnos nasht dokka pennanden ta lovver- hilprepha to dova savo voltrar kerra gla ta etableri dova turistimattjande-industrio.</p>
+    <p type="title" xml:lang="swe">Voddrinsketjivver</p>
+    <p xml:lang="swe">Dova savo kammar jick voddringsketjivver- roddrelse mustula dokka hortan attjer Themmeskepottande- enheti an dolle themm doj menget saste kerras. Vorsnos dikkar to ta kontrolleri te dova steddoer jibbar uppri to kommunernas trujalipha- pottanden ta dolle savo voltrar kamma hortan ta dolle keribelovvranden savo mustula ascha. Kerria voddringar saste tasa dokkas to jick leeskesteddo, jeck steddo savo producenterna avrisuttat- leeskesteddorna saste golas to Themmeskepottande- enheti attjer voddringskeproducenterna.</p>
+    <p type="title" xml:lang="swe">Simalo-loverkere</p>
+    <p xml:lang="swe">Jeck simalo- loverkere aschar jick roddrelse savo lindrar avri lover to diro masker te diro dokkar intus khoon savo simalo. Dolle aschar Themmeskepottande- enheti savo dokkar avri dova hortan to simalo- loverkeren ta kammar tojurepha preal dova. Dolle savo voltrar kamma jeck simalo-loverkere mustula kamma fussat hora attjer Themmeskepottande- enheti an dolle themm doj menget aschar. Jeck simalo- loverkere nasht solus mengas ninna hilper attjer jick sveddiska aktiebolag ire jick savrige avrithemmskt roddrelse an EES-steddopha.</p>
+    <p type="title" xml:lang="swe">Kelimano ta atleticepha</p>
+    <p xml:lang="swe">Gla te fussa kerra jeck chelepha ninna voddringar pre drommen mustula mosch kamma horta fann Themmeskepottande- enheti an dolle themm doj chelepha aggrar. Gla te kerra atletic-, chelepha ta vavver an dabbeske-atleticpha mustula jick horta dokkas avri fann Themmeskepottande- enheti an Örebro themm. Baschi jeck bingo- kelimano ire lotteri saste kerras an butti kommuner intus jick themm aschar dolle Themmeskepottande- enheti savo dokkat hortan te kerras. Baschi lotteriet kerras attjer jeck kettanesmeng savo aschar kerrande an jeck kommun aschar dolle kommunen savo dokkar avri hortan to kerrat.</p>
+  </body>
+</document>

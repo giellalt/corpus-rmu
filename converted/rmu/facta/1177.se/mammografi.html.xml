@@ -1,0 +1,112 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1440</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Undersokningar/Mammografi</origFileName>
+    <parallel_text xml:lang="eng" location="mammografi.html"/>
+    <parallel_text xml:lang="fin" location="mammografi.html"/>
+    <parallel_text xml:lang="fit" location="mammografi.html"/>
+    <parallel_text xml:lang="sma" location="mammografi.html"/>
+    <parallel_text xml:lang="sme" location="mammografi.html"/>
+    <parallel_text xml:lang="smj" location="mammografi.html"/>
+    <parallel_text xml:lang="swe" location="mammografi.html"/>
+    <parallel_text location="mammografi.html" xml:lang="rmy-rka"/>
+    <parallel_text location="mammografi.html" xml:lang="rmn"/>
+    <parallel_text location="mammografi.html" xml:lang="yid"/>
+    <parallel_text location="mammografi.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="mammografi.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Dakriografi / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">DakriografiMammografi</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Preal dikkande</p>
+    <p type="title" xml:lang="swe">Sarenit</p>
+    <p xml:lang="swe">Dakriografi honkar jeck rendgeni roddepa attjer tjuttjo ninna jeck speciell rendgeni teknik savo dokkar fediga tella.</p>
+    <p xml:lang="swe">Rodepa keras an glanske hilprande savo jeck sastepha roddepa, sav pennad <span type="quote" xml:lang="swe">"screening"</span>, ire karna garian solus ire jeck darton prinja nantis averkerela an tjuttjo.</p>
+    <p xml:lang="swe">Diro saste tji kerra jeck dakriografi roddepa savo sastepha jurepha bàsi diro honkar pari ire bàsi darton opatjalo te kava vina ninna tjuttjon.</p>
+    <p type="title" xml:lang="swe">Glanske kerranden</p>
+    <p xml:lang="swe">Diro mostula tji kera kòmmoni.</p>
+    <p type="title" xml:lang="swe">Sar kerras roddepha?</p>
+    <p xml:lang="swe">Roddepa keras buttvar pre jeck dakriografi steddo, savo nasht asha mokkano ire an kettana ninna rendgenisteddot pre jikk dukkalokheren. Dakriografi kerras aur pre tjuttjosteddon ta khonra akracentrali.</p>
+    <p xml:lang="swe">Jeck fuser diro svadera pre hari frekkrar fann rendgenipenjan bàsi diron kammar pharipe fann tjuttjorna ire bàsi diron kaar drabb savo kammar hormoner.</p>
+    <p xml:lang="swe">Sènslo fyssar diro isa attjer diro pre schettanitruppon ta duckalopenjan dikkar pre tjuttjon ta randra bàsi diro kammar hari dickhutno averkerela, baroa biljaninisani ire tjinn fann selare operationer. Dolle nasht jures pre rendgenitellan ta maggra shinavibe.</p>
+    <p xml:lang="swe">Diro saste steddra uppri teli rendgeni roddepa, ta bàsi jikk tjuttjo an jeck steddo sav pennad telladetektor. Tjuttjon dabbas kattlo kettanes. Kava kerrar te tellal bliddrar fedigt akno savo kammsketaven nasht ascha tikno. Mussingen ledd diro uppreal pre rendgeni sinen akno dy to trinn tellas les. Savrige saj ninna vavrat tjuttjo.</p>
+    <p xml:lang="swe">Dolle nasht kansla dukk ire kera dukk jeck teckno tjiro karna tjuttjon dabbas kattlo.</p>
+    <p type="title" xml:lang="swe">Huri prinjar diro pallo?</p>
+    <p xml:lang="swe">Ashtar roddepha prinjar diro savo butva.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sosti hoftfara diro roddepha?</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Dolle honkar lokkigast te prinja javeripe an tusien karna tjuttjon honkar andretovvad. Rek appri mussingen, prinja sigate tjuttjon ta mussingkevet ninna gustroarna.</p>
+      <p type="listitem" xml:lang="swe">... kerra tecknoa roddrelser,prinja schettani saroe tjuttjon. Agra trujal tjuttjonosa ta phatra niga mussinkevet.</p>
+    </list>
+    <p type="title" xml:lang="swe">Rendgeni attjer tjuttjon</p>
+    <p xml:lang="swe">Niga jeck dakriografi roddepa rendgenis tjuttjon, ninna jeck teknik savo dokkar fedig tella.</p>
+    <p xml:lang="swe">Dakriografi keras anten glanske hilprande ire savo jeck sastepha roddepa, sav pennad screening, ire pre phuv attjer te garier solus ire ddarton prenjar vina an tjuttjon. Svacko basjt dickhela buttare panda 500 000 roddepha ninna tjuttjorendgeni an Svedijo.</p>
+    <p type="title" xml:lang="swe">Jeck metod te jura tjuttjocancer sela</p>
+    <p xml:lang="swe">Socialstyrelsen pennar te dakriografi gla garior predde 40 ta 74 basjt. Landstingen bjuddrar garior predde 50 ta 69 basjt te dickhela dakriografi roddepa. An lender buttare themmarna bjuddra thaj gajar prele 40 ta 74 basjt roddepha, abbo dolle nasht aschar najek karna agras karas ta sar harga roddepa ovibe. Gla tecknoa gajar aschar kava ismarelar ninna roddepa ninnakerropha kava ninna jikk ta jikk pash basjt. Puranoa karas svacko vavoret basjt.</p>
+    <p xml:lang="swe">Niga kava sastepha roddepa nasht jeck tjuttjocancer jurepha anglal dova kammar soskip hari dukkepa, ire anglal dolle nasht prinjas an tjuttjon.</p>
+    <p xml:lang="swe">Studirinela kammar sikkrat te garier savo aschar an roddepa ninna dakriografi tiknoar mulopa an tjuttjocancer ninna 40 procent.</p>
+    <p xml:lang="swe">Astispha ninna senslo jurad cancer honkar te dova nasht bliddrat baroare, ta karni mustula dolle kerras jeck kerriare hilprepha.</p>
+    <p type="title" xml:lang="swe">Prinja preal tjuttjon gla uso</p>
+    <p xml:lang="swe">Garians tjuttjo kammar tji uso konsistens. Kava honkar pre tuddkörtlar ta tullepa an tjuttjo ta kava nasht kerra savo dova prinjas najek. An 50-bast phuro bliddrar tjuttjo osarvis keda tuddkörtlar ovela tullepa.</p>
+    <p xml:lang="swe">Tjuttjo prekerela attjer hormonovaropha savo kerrar garians kintan ta nasht dojgla prinja najek adhinela pre karna dova blidrar roddepa. Divus ashter kintan aschar jeck fedig divus te roddepa, tjuttorna honkar lokki te roddepa.</p>
+    <p xml:lang="swe">Sassaro garier nachta roddepa siro tjuttjor regulari. Dolle honkar barot te jeck divus an tschonske gla te hòrtare nast jekharela so diro prenjar. Jeck fedig tjiro honkar karna diro tovvar diro. Kava nasht diro kera karna diro steddrar ire karna diro baschar.</p>
+    <p type="title" xml:lang="swe">Buttast ninna fediga knöler</p>
+    <p xml:lang="swe">Bàsi diro saste jura jeck knöl ire jeck kettanesavande an tullepa nasht diro bliddra nervalo abbo buttvar honkar de fedig ta tji darrano, ulavela ke terno garior. Dolle nasht ascha jeck cysta, dolle honkar jeck paniperdo pordra, ire jeck kisko averkerela attjer tullepa.</p>
+    <p type="title" xml:lang="swe">Sassaro averkerala nachta roddepha attjer darton</p>
+    <p xml:lang="swe">Jeck averkerela an tjuttjokörteln nasht thaj assja soskipa attjer tjuttjocancer. Tjuttjocancer honkar jeck attjer dova butvar cancerformerna gla garior. Svacko basjt fyssar 7000 garjar ta 40 moschar an Svedijo tjuttjocancer. Astispha gla tjuttjocancer vasadib ninna basjtene. Jeck butvar simptomi aschar jeck averkerela an tjutton ire mussingkevet. Jikk vavoret aschar te tjuttjonosa ire letran riggras andre.</p>
+    <p xml:lang="swe">Tiknoare symtom aschar jeck lollo pre jimmen savo honkar kerria ta furstee sar dova kammar avat, jikk dukkalo savo tji bliddrar fedigt, ire rattmulltrad pani fann tjuttjon.</p>
+    <p xml:lang="swe">Sassaro averkerela an tjuttjon nachta les pre serio ta roddepa attjer darton. Diro nast iranela seri to akracentrali, ire dukkalokheren, garias dukaloarak ire vaver savriga steddon. Darton prinjar dorsta pre diro tjuttjo ta potto bàsi jeck dakriografiroddepa.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sav keras kava</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Diro fyssar docka diro tjuttjo pre jeck skiva savo andrekammar jeck kassett ninna rendgeni sinen. Senslo avar tjuttjoarna kettanes ta dy ire trin tella les.</p>
+    </list>
+    <p type="title" xml:lang="swe">Jeck speciell rendgeni sinen hoftfara</p>
+    <p xml:lang="swe">Dakriografi kerras buttvar pre jeck dakriografienhet, savo nasht ascha mokkano ire an kettana to rengenisteddot pre jikk dukkalokheren. Roddepa kerras aur pre tjuttjosteddon ta khonra akracentrali.</p>
+    <p xml:lang="swe">Dolle rengeni sinen savo ismarela honkar speciellt kerat gla te nasta dokka fediga tellal attjer tjuttjumasset ninna hilpra attjer sasta rengenimommali. Cancertumori savo honkar butt butt tikno nasht juras.</p>
+    <p type="title" xml:lang="swe">Sav keras dolle?</p>
+    <p xml:lang="swe">Diro hòftarar tji kera kòmmoni. Ángleske fusar diro svardara pre hari frekkar ta rakkra bàsi diro kammar pharipe ninna tjuttjon, ire bàsi diro kaar drabb savo kammar hormoner. Sènslo fyssar diro isa attjer diro pre schettanitruppon ta duckalopenjan dikkar pre tjuttjon ta randra bàsi diro kammar hari dickhutno averkerela, baroa biljaninisani ire tjinn fann selare operatione ta vina juras savo cancertumori.</p>
+    <p xml:lang="swe">Diro jar to rengeni sinen ta steddrar anglat dova, jikk tjuttjo an jeck steddo sav pennad telladetektor. Tjuttjon dabbas kattlo kettanes ninna hilprepha attjer prealjurande skiva. Diro nachta kamma appri mussingen ledd diro uppreal pre rendgeni sinen akno dy to trin tella les. Dolle honkar dorstar te diro steddrar stile. Saroe roddepa lela 15-30 minuti, telladokkandet lela pansh to desch minuti.</p>
+    <p type="title" xml:lang="swe">Sar prinjas dakriografi?</p>
+    <p xml:lang="swe">Dolle nast prinjas olattjo ire kera dukk jeck tikno tjiro karna tjuttjon bliddrar dabbad. Abbo dolle mostula keras, ashtersavo tella ledd fedigare kvalitet ta roddepa ovela potto. Avo nast tikno rendgeni ismarela panda bàsi tjuttorna tji kikidela Kattlo.</p>
+    <p type="title" xml:lang="swe">Diro nasht fussa ava to pali</p>
+    <p xml:lang="swe">Buttvar honkar dolle dy rendgenidarton savo ososkip attjer vàrvara vakerela dakriografitellan. Dolle vasdib pottopha an sharatet. Bàsi dolle lattja kòmmoni savo tji aschar sukar. Kara diro to jeck nevo roddepa. Karni les buttare tella ta diro roddepa ninna ultrahango.</p>
+    <p xml:lang="swe">Darton nast thaj le jikk roddepa fann averkerela. Bàsi kava honkar tikno averkerela savo honkar kerri te prinja nast roddepa les an kettanadoro ninna jeck nevo dakriografi ire ninna ultrashango. Jeck fedi suj panler andre an averkeren ta jikk cellroddepa keras. Roddepa bischa androm gla mikroskopisk roddepa. Sass kava keras gla te diro nachta asha potto pre bàsi dolle roddra siri bàsi cancer ire tji.</p>
+    <p xml:lang="swe">Svarderat fann dakriografiroddepa bischas to diro andre 14 divusar bàsi diro karas to jeck sastekontroll. Bàsi diro bliddrat remitterad to dakriografi fusar diro resultati bàsi roddepa attjer diro darton.</p>
+    <p type="title" xml:lang="swe">Hormon dikhijaribe nast maggra shinavibe</p>
+    <p xml:lang="swe">Garior fussa hormon dikhljaribe telal ta ashter klimakteriet ire kaar p-drabb. Savot dikhljaribe prekerela tjuttjumasset sav te dolle bliddrar tulloare savo kerar dakriografin kerriare te jura. Dolle honkar dojgla barot to rakkla bàsi diro kaar drabb savo andrestilar hormoner.</p>
+    <p type="title" xml:lang="swe">Rodepha honkar tji darrano</p>
+    <p xml:lang="swe">Dolle butipemommeli diro fussar honkar sav to tikno gla diro saste bliddra dukkalo. Doj magras saroe tjiron pre te tiknorela rendgenimammoli. Diro nast jar pre dakriografi karna diro ovela karat, ire bàsi diro prinja jeck averkerela an tjuttjo.</p>
+    <p xml:lang="swe">Diro nast bliddra roddepa ninna dakriografi bàsi diro kammar bongitjuttjor. Bongitjuttjorna jar tji an pagri abbo ashtersavot kava tji jar te kikidela tjuttorna savo ke garior biso bongitjuttjor nastkava hòftara jeck ulavela roddepa ninna dakriograf ta tjuttjorna prinjas sigate ta roddepa ninna ultrahango.</p>
+    <p type="title" xml:lang="swe">Konn nachta tji roddepha ninna dakriografi?</p>
+    <p xml:lang="swe">Karna diro honkar terno tjej ismarela diro roddepa ninna ultrashango ta tji ninna dakriografi. Dolle adhinela pre tjuttjonsmass honkar sav tullo te dakriografi tella honkar kerria te vakerela. Ultrahango dokkar keda jeck potto svardara.</p>
+    <p xml:lang="swe">Bàsi darton opatjalot te dolle asjade jeck gunka an tjuttjon ismarela dakriografi tje keras pre telipe attjer vur te rendgeni tjuttjoarna. Dolle nast assja fedder te kera jeck ultrahangoroddepa, gla te jura bàsi dolle aschar gunka savo hòftara tjivvras avri. Karna infektionen kammar dikhljaribet mostula diro dickhela jeck dakriografi. Dolle honkar ulavela sukar bàsi diro honkar phuranoare.</p>
+    <p xml:lang="swe">Bàsi diro honkar pari nachta diro tji dickhela sastepha roddepa, sav kara screening, ninna dakriografi. Bàsi diro jurar jeck averkerela an jikk tjuttjo nachta diro sarstil kontakti arakhlon gla te siggrepha nast bliddra roddepa, thaj bàsi diro aschar pari. Keda ismarela roddepa agra ninna ultrahango ta kompletteras ninna dakriografi bàsi dolle hòftara.</p>
+  </body>
+</document>

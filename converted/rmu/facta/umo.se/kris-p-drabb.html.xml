@@ -1,0 +1,77 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>674</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Kris-p-drabb</origFileName>
+    <parallel_text xml:lang="fin" location="jalkiehkaisypilleri.html"/>
+    <parallel_text xml:lang="fit" location="akyytti-p-pilleri.html"/>
+    <parallel_text xml:lang="sma" location="akute-p-pillere.html"/>
+    <parallel_text xml:lang="sme" location="fahkkatla-p-pillar.html"/>
+    <parallel_text xml:lang="smj" location="hahkka-p-tablahtta.html"/>
+    <parallel_text xml:lang="swe" location="akut-p-piller.html"/>
+    <parallel_text location="sigutno-p-pilleri-akut-p-pilleri.html" xml:lang="rmf"/>
+    <parallel_text location="akutno-p-drab.html" xml:lang="rmy-rka"/>
+    <parallel_text location="akutno-p-piller-preventivno-tabletka.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="akutno-pipula.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kris-p-drabb</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Kris-p-drabb</p>
+    <p xml:lang="swe">Kris-p-drabb honkar drabb savo tjejer nasht le gla te tji bliddra pari. Dolle honkar tji jick parirakkepha, dolle honkar tji te brukfaras savot rakkepha glanske, palla ire teli bulopha. Kris-p-drabb saste rada brukfaras savo jick leschtahilprande ta tji svacko tjiro savo rakkepha koro pari.</p>
+    <p xml:lang="swe">Kris-p-drabb honkar jick sutt te kerra savo diro tji bliddrar pari baschi diro kammar kammat orakkepha bulopha, bashi diro kammar bistrat te brukfara rakkepha, diros kammar fulat an dolle ire bliddrat sor-brukfarad an jick bula.</p>
+    <p xml:lang="swe">Diro saste le jick kris-p-drabb baschi dolle aschar astispha gla te rakkepha diro brukfarade tji honkade fedigt, baschi karo-rakkephat poggrades ire baschi diro kammar tjaddrat uppri diro p-drabb.</p>
+    <p xml:lang="swe">Drabbet savo diro ler andrekammar hormonet gestagen (gulkroppshormon). Dolle kerrar te diro tji fyser khoon ovulation ire te ovulationen puffras glan.</p>
+    <p xml:lang="swe">Gestagen aschar tasa an p-drabb, abbo buttipha an jick kris-p-drabb honkar butt baroare. Dolle kerrar te diro nasht fyssa tikno kerripha attjer dova.</p>
+    <p xml:lang="swe">Kris-p-drabb saste rada brukfaras savo jeck leschtahilprande ta tji savo jick rakkepha gla pari.</p>
+    <p xml:lang="swe">Kris-p-drabb phatrar tji jeck pari ta honkar dojgla nani savrige savo jeck phater pari ire sav pennat phater pari-drabb.</p>
+    <p type="title" xml:lang="swe">Huri brukfarar diro kris-p-drabb?</p>
+    <p xml:lang="swe">Kris-p-drabb nasht pennas divusen-palla-drabb. Dolle honkar vina, pallasavo diro tji mostula le drabbet divusen palla bulopha. Jick kris-p-drabb nasht les 72 timmar, ire trin divusar palla bulopha gla dolle to kerra dolle diro voltrar.</p>
+    <p xml:lang="swe">Selare diro ler drabbet honkar dolle fedigare. Khonra divusar palla nasht diro kamma ratt, abbo dova buttaste manischen fyser dolle tji.</p>
+    <p xml:lang="swe">Dolle honkar kris-p-drabb savo nasht brukfaras uppri to fimpus divusar palla orakkepha bula. Dolle nasht rada randrar avi pre recept attjer jick duckalo-mosch.</p>
+    <p xml:lang="swe">Baschi diro voltrar kammar jeck savodant recept nasht diro kamma trissepha ninna jeck ternophakere, bulopha-ta kettanesjibbandekere, duckalokere ire gariaklinik. Buttast projsar diro tji gla dolle. Pre khonra steddon nasht diro fysa dolle avritan te projsa.</p>
+    <p type="title" xml:lang="swe">Sako nasht diro kamma kris-p-drabb?</p>
+    <p xml:lang="swe">Diro nasht kamma kris-p-drabb pre ternophakere, bulopha-ta-kettanesjibbandekere ta duckalokere. Diro nasht tasa kamma kris-p-drabb pre gariakliniker. Dolle nasht tjinnas pre apotek avritan recept. Baschi diro jar to jeck ternophakere gla te kamma kris-p-drabb nasht diro tasa fyssa tjiro gla te kerra jick nevi parirodepha ta, baschi diro voltrar klamydiarodepha.</p>
+    <p xml:lang="swe">Diro nasht tasa kamma hilprepha baschi huri diro nasht rakkepha diro koro pari ta minscheskeduckalopha bashi diro voltrar kava.</p>
+    <p type="title" xml:lang="swe">So mollar kris-p-drabb?</p>
+    <p xml:lang="swe">Baschi diro tjinnar kris-p-drabb receptmukkanot pre jick apotek fyssar diro projsa gla kava. Pre ternophakere fysa diro drabb avritan projsa.</p>
+    <p type="title" xml:lang="swe">Huri fedigt honkar kris-p-drabb?</p>
+    <p xml:lang="swe">Astispha te bliddra pari palla diro kammar kaat drabbet honkar tikno. Astispha te kris-p-drabb tji kammar effekt, bliddrar baroare pali dova tjiro savo tradrar abri.</p>
+    <p xml:lang="swe">Baschi diro tjaddrar andrean trin timmar palla te diro kaat drabbet ire baschi diro kamma fulopha honkar dolle tji tjattjot te truppon nasht le hormonet. Dojgla mostula diro le jeck nevo drabb sav siggrepha savo astispha, vaverast aschar pari astispha.</p>
+    <p xml:lang="swe">Diro nasht randra buttare pre pipackpatrin. Bipackpatrin honkar dova patrin savo baschar ninna drabbet karni diro fyser ire tjinnat kris-p-drabb. Diro nasht sarstil frigga jeck penja pre ternophakere ire jimm-ta mischeskekeret baschi diro tji kanslar diro rakkepha.</p>
+    <p xml:lang="swe">Gla te ascha tjattjo pre te diro tji bliddrat pari saste diro kera parirodepha trin eftadivusar palla te diro kaat drabbet.</p>
+    <p type="title" xml:lang="swe">Huri butt nasht diro le kris-p-drabb?</p>
+    <p xml:lang="swe">Dolle honkar nani tjattjo gla huri butt diro nasht le drabb pre jeck rattephacykel, diro nasht le jick kris-p-drabb. Kammar diro kammat orakkepha bulopha ta tji voltrar bliddra pari honkar dolle dojgla fedigare te le jick kris-p-drabb butt tjiros teli savrige rattephacykel jeck te fula an dova.</p>
+    <p xml:lang="swe">Mostula diro le kris-p-drabb butt saste diro dynkra pre huri diro rakkar diro nerrider bulopha ta baschi diro nasht kerra vaver. Gla te kamma hilfra ninna kava nasht diro le trissepha ninna ternophakeret ire jimm-ta mischeskekeret.</p>
+    <p type="title" xml:lang="swe">Fedigpha</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Baschi diro tji kammar rakkepha diro ire dolle rakkepha diro brukfarade tji honkade tjattji honkar kava jeck astispha te tiknoa astispha te bliddra pari.</p>
+    </list>
+    <p type="title" xml:lang="swe">Kerriapha</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Kris-p-drabb rakkepha tji koro minscheskeduckalopha.</p>
+      <p type="listitem" xml:lang="swe">Hormonet nasht topha jeck sav te diro kammar scheroduck, duck an doschet ta kanslar siro kerria abbo kava honkar rada gla jeck dives.</p>
+    </list>
+  </body>
+</document>
