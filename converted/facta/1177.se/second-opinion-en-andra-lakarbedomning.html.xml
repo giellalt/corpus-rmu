@@ -1,0 +1,61 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>358</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Second-opinion-en-andra-lakarbedomning</origFileName>
+    <parallel_text xml:lang="eng" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="fin" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="fit" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="sma" location="second-opinion.html"/>
+    <parallel_text xml:lang="sme" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="smj" location="second-opinion-en-andra-lakerbedomning.html"/>
+    <parallel_text xml:lang="swe" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rka"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmn"/>
+    <parallel_text location="second-opinion-en-andra-lakerbedomning.html" xml:lang="yid"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Second opinion, jeck vavra darton sharatde / Second opinion, en andra läkarbedömning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Second opinion, jeck vavra darton sharatdeSecond opinion, en andra läkarbedömning</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So chani?</p>
+    <p type="title" xml:lang="swe">Horta to second opinion</p>
+    <p xml:lang="swe">Bàsi diro kammar bésjat ke jeck darton ta fussat jikk duckalo –agorlejbe savo aschar nisaninela te diro mustula steddra gla kerria drabbeske agorlejbe nast diro kamma horte te fussa jeck nevo drabbeske shinavibe attjer jeck vavra darton, sav karade second opinion. Kava aschar nisaninela te diro nast bliddra rodert attjer jeck vavra darton panda dova diro anglanske jadde to. Soskip ninna te fussa jeck second opinion honkar te diro nachta asha potto pre te diro fussar dova arak savo honkar hemsuk gla diro.</p>
+    <p xml:lang="swe">Jeck second opinion kammar diro horta to baschi:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">diro kammar jeck duckalo savo honkar darrano gla diro jibb ire butt baro duckalo ire dabb</p>
+      <p type="listitem" xml:lang="swe">ta diagnosen ire dova araken savo darton kammar pennat gla nasht dokka butt vina an diro jibb.</p>
+    </list>
+    <p xml:lang="swe">Diro nasht kamma horta to second opinion baschi diro kammar cancer ire kommoni duckalo an diro nervsystemet. Diro nasht sarstill frigga diro darton baschi diro kamma horta to te fussa jeck second opinion.</p>
+    <p type="title" xml:lang="swe">Khereskethemmet projsar</p>
+    <p xml:lang="swe">Dolle aschar butt te diro fussar trissa jeck darton ire arakteam pre jick vaver duckalokhere jeck dolle diro anglanske trisseade an dova themm doj diro boddrar. Baschi diro farnissar baschi te ava to kommoni potto darton ire klinik ande Sveddingen sav honkar themmen doj diro bodrar uschali te fussa kerra savi diro nasht ava doj. Dolle solus themmet kammar jeck uschalipha te projsa jeck vaver drabbeske pennade, tji dynkrat baschi diro mustula tradra to jeck vaver themm. Khereskethemmet saste aur projsa gla trandrandet.</p>
+    <p type="title" xml:lang="swe">Saste nasht diro ja?</p>
+    <p xml:lang="swe">Baschi diro voltrar rodepha baschi te fussa jeck second opinion nasht diro frigga diro darton ire kommoni vaver representant gla dova steddo doj diro fussar diro anglanske pennade baschi saste diro saste jaa ninna diro frigga.</p>
+    <p xml:lang="swe">Diro nasht aur le trissepha ninna patientrodi ire patientpottande moschen an dolle themm doj diro boddrar gla te fussa janepha baschi saste diro nasht ja diro gla te fussa jeck second opinion.</p>
+  </body>
+</document>

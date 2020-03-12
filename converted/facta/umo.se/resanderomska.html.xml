@@ -1,0 +1,115 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>974</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska</origFileName>
+    <parallel_text xml:lang="eng" location="umo-in-english.html"/>
+    <parallel_text xml:lang="fin" location="finska.html"/>
+    <parallel_text xml:lang="fit" location="meankieli.html"/>
+    <parallel_text xml:lang="sma" location="sydsamiska.html"/>
+    <parallel_text xml:lang="sme" location="nordsamiska.html"/>
+    <parallel_text xml:lang="smj" location="lulesamiska.html"/>
+    <parallel_text location="romska-kalderash.html" xml:lang="rmy-rka"/>
+    <parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="romska-kale.html" xml:lang="rmf"/>
+    <parallel_text location="romska-arli.html" xml:lang="rmn"/>
+    <parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Trader romani (resanderomska)</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Trader romani (resanderomska)</p>
+    <p xml:lang="swe"><em type="italic">Pre UMO: </em></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te prinja siro násjlo</p>
+      <p type="listitem" xml:lang="swe">Maribe ta ladzarelar</p>
+      <p type="listitem" xml:lang="swe">Alkohol, tujali, fulo-tjack</p>
+      <p type="listitem" xml:lang="swe">Miro</p>
+      <p type="listitem" xml:lang="swe">Bulepha</p>
+      <p type="listitem" xml:lang="swe">Kamlar ta malepa</p>
+      <p type="listitem" xml:lang="swe">Truppon</p>
+    </list>
+    <p xml:lang="swe"><em type="italic">Titlar: </em></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Chibirandra</p>
+      <p type="listitem" xml:lang="swe">Rakkreprá prealjurande</p>
+    </list>
+    <p type="title" xml:lang="swe">Alkohol</p>
+    <p xml:lang="swe">Ninna alkohol dynkrar vorsnos pre piben ta kattjali. Butti pir dolle gla dolle smackrar lattjanot ire gla te bliddra pilo. Abbo alkohol nasht tasa ascha darranot. Dolle nasht topha duckor ta duckalopha, kerra dolle te diro avar an kerria ire drannoa situationer. Diro nasht kamma tugalopha karna diro pir.</p>
+    <p xml:lang="swe">» Alkohol</p>
+    <p type="title" xml:lang="swe">Baschi diro bliddrar miakt kerrad</p>
+    <p xml:lang="swe">Karna diro bliddrar kerrad miakt honkar dolle lokki te diro aggrar kansla diro nervolo ta kanslar diro kerria. Dolle nasht kerra sav diro fussar butt kerriare jurepha pre diro solus ta tji voltrar ava an momenti doj diro nachat trissa dova savots honkar kerria koro diros. Abbo nani saste gara siro gla te vaver manisch honkar kerria.</p>
+    <p xml:lang="swe">» Baschi diro bliddrar miakt kerrad</p>
+    <p type="title" xml:lang="swe">Bulopha voltrande – bi, hetero, homo</p>
+    <p xml:lang="swe">Bulopha voltrande aschar baschi savi manisch savo diro bliddrar kamlad an ire tattano pre kammar savi minschepha. Diro nasht ascha bisexuell, heterosexuell ire homosexuell.</p>
+    <p xml:lang="swe">» Bulopha voltrande – bi, hetero, homo</p>
+    <p type="title" xml:lang="swe">Hilprepha gla fedigare soluskansla</p>
+    <p xml:lang="swe">Dolle aschar butt diro nasht kerra gla te sora siro soluskansla. Kaj honkar kommoni diro nasht kerra gla dolle saste bliddra fedigare.</p>
+    <p xml:lang="swe">» Hilprepha gla fedigare soluskansla</p>
+    <p type="title" xml:lang="swe">Jeckesta tjiron gla bulopha</p>
+    <p xml:lang="swe">Manisch kammar buttast onanerat glanske dova kammar bulopha ninna Jek vaver. Dova jeckesta bulopha kammar manisch ninna siro solus. Dolle honkar butt sav te manisch kammar baro dynkrar baschi huri dova saste kerras te kamma bulopha ninna jek vaver.</p>
+    <p xml:lang="swe">» Jeckesta tjiron gla bulopha</p>
+    <p type="title" xml:lang="swe">Karorakkepha</p>
+    <p xml:lang="swe">Jek karorakkepha honkar Jek tikno kesik attjer latex savots diro nasht sutta pre jek karo ire jeck bulopha-kova baschi diro saste kamma bulopha.</p>
+    <p xml:lang="swe">» Karorakkepha</p>
+    <p type="title" xml:lang="swe">Kris-p-drabb</p>
+    <p xml:lang="swe">Kris-p-drabb honkar drabb savo tjejer nasht le gla te tji bliddra pari. Dolle honkar tji jick parirakkepha, dolle honkar tji te brukfaras savot rakkepha glanske, palla ire teli bulopha. Kris-p-drabb saste rada brukfaras savo jick leschtahilprande ta tji svacko tjiro savo rakkepha koro pari.</p>
+    <p xml:lang="swe">» Kris-p-drabb</p>
+    <p type="title" xml:lang="swe">Miak attjer manisch (mobbning)</p>
+    <p xml:lang="swe">Karni diros bliddrar miak kerrad attjer manisch nerrider to dirots, pennat kava <span type="quote" xml:lang="swe">”miak attjer manisch”</span> ire mobbning. Jeck solus miak jinnas tji savot mobbning. Dolle honkar karni dolle kera butt ta topha dova savot bliddrar savo kerad te kansla siro tugalo, savo dolle jinnas savo mobbning.</p>
+    <p xml:lang="swe">» Miak attjer manisch (mobbning)</p>
+    <p type="title" xml:lang="swe">Nervolo</p>
+    <p xml:lang="swe">Nervalo honkar soralo kanslor attjer Nervalo ta trasch savo nasht kanslas an helko truppon, ta savot dova buttaste fussar kommoni tjiro. Nervolopha nasht ascha kerria, abbo diro saste fussa te kerra dolle diro voltrar ta tji kerra momentis savo diro pattjar saste dokka diro nervolopha. » Nervolo</p>
+    <p type="title" xml:lang="swe">P-tabus</p>
+    <p xml:lang="swe">P-drabb honkar jeck preventivt drabb gla tjejer. Ninna p-drabb aschar dolle buttvar dolle savo pennas <span type="quote" xml:lang="swe">”kombinerande p – tabus”</span>, drabb sav honkar najek. Dolle kammar dy najek hormoner, östrogen ta gestagen, sav ninna buttare vaver kerrar sav te diro tji fussar kommoni saiphe te bliddra phari.</p>
+    <p xml:lang="swe">» P-tabus</p>
+    <p type="title" xml:lang="swe">Puberteten</p>
+    <p xml:lang="swe">Kommoni tjiro masker te diro honkar 10 ta 13 basht phuro brukfarar dova buttaste ava andre an puberteten. Teli puberteten najek fann nucko to jeck baro manisch. Diro hango ta mischeske, diro nasht kamma lollo ta diro brukfarar dynkra pre bulopha.</p>
+    <p xml:lang="swe">» Puberteten</p>
+    <p type="title" xml:lang="swe">Phatra pari (Abort)</p>
+    <p xml:lang="swe">Bashi mosch dynkrar pre te kerra phatra pari nasht diro kamma butt ninna friggor. Abbo diro nasht sarstil trissa kommoni gla te kamma svardara gla dova. Kava honkar tasa dova savo kammar kerrat kommoni pari.</p>
+    <p xml:lang="swe">» Phatra pari (Abort)</p>
+    <p type="title" xml:lang="swe">Rappani an minshe</p>
+    <p xml:lang="swe">Rappani honkar an minsche gla dova buttaste. Attispha bliddrar dolle buttare ta dolle honkar dannro dova nasht dokka diro kerria. Dolle honkar buttast gla tjejer. Trin attjer star tjejer fussar kommoni tjiro an jibbet dolle kerria ninna rappani ta gla butt avar dova veder butt tjiros. Aur tjavoar nasht kamma rappani. Rappani honkar otrasjanot abbo nasht ascha kerria aschtersavo dolle brukfarar randas.</p>
+    <p xml:lang="swe">» Rappani an minshe</p>
+    <p type="title" xml:lang="swe">Rattepha</p>
+    <p xml:lang="swe">Rattepha honkar dova rattepha fann uterus savo garier fyssar fann dolle dova avar an ternopha. Rattepha honkar truppons sutt te sickra te diro nasht shaffra nuckoar.</p>
+    <p xml:lang="swe">» Rattepha</p>
+    <p type="title" xml:lang="swe">Soluskansla</p>
+    <p xml:lang="swe">Soluskansla aschar baschi dova dynkrar diro kammar baschi siro solus ta dova diro honkar. Kava kammar nane te kerra ninna baschi diro honkar fedig ire kerria pre dova najek kerranden diro kerrar, kava aschar baschi kansla te diro honkar vartan kommoni rada palli te ascha. Kava kansla nasht diro bliddra fedigare pre.</p>
+    <p xml:lang="swe">» Soluskansla</p>
+    <p type="title" xml:lang="swe">Te rodepha siro</p>
+    <p xml:lang="swe">Baschi diro kammar kammat orakkepha bulopha honkar dolle sarstil fedigt te rodepha siro gla minscheskeduckalopha. Huri rodepha saste kerras honkar ovaroa pre savi minscheskeduckalopha diro nasht rodepha gla. Buttast fyssar diro dokka jick mutter- ire rattrodepha. Rodepha diro gla jick minscheskeduckalopha savo honkar an duckalorakkephahortan nasht diro tji projsa.</p>
+    <p xml:lang="swe">» Te rodepha siro</p>
+    <p type="title" xml:lang="swe">Tjomm ta schala</p>
+    <p xml:lang="swe">Te tjomma ta schala honkar kommoni savo butt manisch dinkrar pre honkar lattjot. Baschi diro tji kammar kerrat kava nasht diro dynkra pre dolle ta dynkra pre dova butt. Akno nasht dolle kans nervolot gla dova angleske tjommen ire schala. Sar kerrar manisch karna dova schalar?</p>
+    <p xml:lang="swe">» Tjomm ta schala</p>
+    <p type="title" xml:lang="swe">Togalopha</p>
+    <p xml:lang="swe">Te kansla siro tugalopha, nervolopha ire kansla te dolle tji honkar khoon fedigt an jibbet honkar jeck bekkan attjer jibbet. Dolle nasht ascha divusar karna sassaro kanslas kerria ire karna diro dynkrar butti. Buttast jaar kanslan abri palla jeck tjiro. Dolle aschar diro nasht kerra gla sassaro bliddrar fedigare, ta diro nasht kamma hilprepha baschi diro mustula kammat.</p>
+    <p xml:lang="swe">» Togalopha</p>
+    <p type="title" xml:lang="swe">Tyja</p>
+    <p xml:lang="swe">Karna diro tyjar tyjali tjommar diro andre butt ninna makurjepha. Tyjali nasht topha to ovaroa drabba ta duckalopha, ta jeck attjer dy manisch savot tykar mulas selare jeck savi lester ire liskris saste kamma kerrat avritan tyjali. Tyjali honkar tasa kuscht, nasht kera savot diro fyssar lolloar, kammar kerriare phishi ta tiknoare bulophavoltrande. Dolle nasht ascha sac te manisch aggrar tyja gla dova voltrar janat tjibbiga ire sjukkra.</p>
+    <p xml:lang="swe">» Tyja</p>
+  </body>
+</document>

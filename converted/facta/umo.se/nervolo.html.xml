@@ -1,0 +1,82 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1023</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Nervolo</origFileName>
+    <parallel_text xml:lang="fin" location="ahdistus.html"/>
+    <parallel_text xml:lang="fit" location="ahistus.html"/>
+    <parallel_text xml:lang="sma" location="asve.html"/>
+    <parallel_text xml:lang="sme" location="aestus.html"/>
+    <parallel_text xml:lang="smj" location="goavgge.html"/>
+    <parallel_text xml:lang="swe" location="angest.html"/>
+    <parallel_text location="dar.html" xml:lang="rmf"/>
+    <parallel_text location="dar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="baridar.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Nervolo</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Nervolo</p>
+    <p xml:lang="swe">Nervalo honkar soralo kanslor attjer Nervalo ta trasch savo nasht kanslas an helko truppon, ta savot dova buttaste fussar kommoni tjiro. Nervolopha nasht ascha kerria, abbo diro saste fussa te kerra dolle diro voltrar ta tji kerra momentis savo diro pattjar saste dokka diro nervolopha.</p>
+    <p xml:lang="swe">Nervalo soskioha attjer nervsystemi savot diro tji kan potta preal solus. Kava honkar rada te kansla to nervolopha tji honkar darranot ta de dolle sarstill jaar preal akkter jeck tjiro.</p>
+    <p type="title" xml:lang="swe">Nasht kanslas an helko truppon</p>
+    <p xml:lang="swe">Te kamma nervalo honkar te kansla siro butt trasch ta nervolo. Kava honkar jeck soralo kansla savot nasht kanslas an helko truppon. Akno savo diro bliddrar nervolo nasht siiat dabbas siggrepha ta soralot, andre-balval bliddra siggrephare ta musloerna draja kettanes. Diro nasht aggra bliddra pinsno ta kansla dolle kerria, kansla jeck dingstro preal doschta-, sav kerrar dolle kerria te le andre-balval.</p>
+    <p xml:lang="swe">Glanske bliddrar kanslan soraloare ta soraloare, abbo akkter jik momenti bliddrar dova tji soraloare. Dannro brukfarar diro aggra trumo diro, ta nervolon bliddrar tiknoare.</p>
+    <p xml:lang="swe">nervalo nasht kanslas traschanot. Abbo dolle kanslas sarstill trumoare akkter jeck tjiro, ta dolle honkar tji traschanot.</p>
+    <p xml:lang="swe">Nervolopha nasht kanslas najek najeka momentis. Ta dolle honkar tji sarstill diro janar te diro kanslar an truppon honkar nervolopha.</p>
+    <p xml:lang="swe">Lavet nervolopha brukfaras karna diro dynkrar kommoni honkar kerra. Abbo pennar te diro kammar nervolopha gla jeck meng an bleddreskekeret ire gla dolle honkar butt pre menget. Abbo nervolopha honkar buttare jeck dova sassdivusliga nervolon, sav buttast honkar attjer diro kammar butt te kerra.</p>
+    <p type="title" xml:lang="swe">Diro janar tji sarstil sosti diro fussar nervolopha</p>
+    <p xml:lang="swe">Dova buttaste fussar nervolopha kommoni tjiro, abbo dolle honkar najek sar butt ta sar buttvar. Manisch nasht kamma nervalo rada jeck tjiro. Vaver nasht kamma soralo nervolopha savo buttvar avar veders, ire nervolopha savo aschar teli jeck langro tjiro. Diro nasht aur fussa tikno nervolopha-dabbrepha.</p>
+    <p xml:lang="swe">Dolle honkar tji pottot te diro janar sosti diro fussar nervolopha. Dova nasht ava karna diro honkar ninna baschi kommoni kerria, savo te kommoni diro kanslar mular. Diro nasht fussa nervolopha baschi diro kammar kanslas preal-sor. Ire baschi kommoni kammar aschat kerria pre webben, ire fussa starda ire brukfara diro.</p>
+    <p xml:lang="swe">Kommoni manisch fussar nervolopha glanske jeck meng an bleddreskekeret ire nerrider jeck mengeske-rakkel. Ire karna diro saste kerra kommoni savo diro dynkrar honkar traschanot. Kava nasht ascha butt kerria, abbo diro janar sosti diro fussar nervolopha. Kava nasht kerra dolle tikno lokkiare te kammat.</p>
+    <p xml:lang="swe">Diro nasht aur fussa nervolopha attjer pi alkohol ire droger.</p>
+    <p xml:lang="swe">Nervolopha nasht aur ava avritan te diro janar sosti, ire attjer savodant savo diro dynkrar tji saste dokka nervolopha. Kava nasht kerra nervolopha kerriare te kerra jeck buttare trasch.</p>
+    <p xml:lang="swe">Dolle aschar nane tjattjomaskero gla dova najek attjer nervolopha. Kava nasht aur ascha sav te diro janar savi nervolopha soskipha pre, abbo dynkra te dova honkar gla soralo, baschi diro kammar siia-dabb, pinsnoas glanske jeck meng an bleddreskekeret.</p>
+    <p type="title" xml:lang="swe">Soskipha domrande ta kanslor</p>
+    <p xml:lang="swe">Nervolopha nasht kerra te diro fussar dolle kerria te stila diro ta te domra fedigt. Diro nasht jagno pre rattierna ta fussa domrande magrad, ire fussa tikno domrande. Nervolopha nasht aur kerra sav te diro bliddrar nervolo, lack, ire sav te diro lokkiare bliddrar tagno ta aggrar rova.</p>
+    <p type="title" xml:lang="swe">Nervolopha gla diro kammar nervolopha</p>
+    <p xml:lang="swe">Nervolopha nasht dokka sav soraloa kanslor an truppon te diro nasht pattja te diro aggrar te mula ire bliddra bengalo. Kava nasht ascha sav kerria te diro kerrar sassaro te dolle tji saste kerras buttare. Dannro nasht diro fussa nervolopha attjer te diro bliddrar nervolopha gla te kamma nervolopha. Kava pennas gla pattjande-nervolopha.</p>
+    <p xml:lang="swe">Diro nasht ascha nervolo gla te fussa nervolopha karna vaver honkar ninna, te dynkra te dolle honkar kerria te pramissa baschi kava. Dolle nasht kerra te diro aggrar fula an te trissa vaver manisch diro voltrar trissa ire te kerra dolle diro voltrar kerra. Traschen gla te kamma nervolopha kerrar te diro fussar jeck kerriare jibb.</p>
+    <p xml:lang="swe">Te fula an savot savo diro pattjar saste dokka nervolopha honkar tji fedigt, aschtersavo dolle nasht kerra nervolopha baroare. Diro saste rodepha hilprepha selat. Kava aschar fedig hilprepha.</p>
+    <p type="title" xml:lang="swe">Savo nasht diro kerra solus?</p>
+    <p xml:lang="swe">Dolle nasht te bliddra attjer ninna nervolopha. Buttvar nasht diro lattja solus kerropha sar diro nasht menga ninna nervolopha. Kaj honkar kommoni diro nasht kerra.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Dolle brukfarar hilpra te pramissa baschi siro nervolopha gla kommoni diro kanslar diro rakkepha ninna. Te bescha lav pre siro kerria kanslor nasht kerra dolle lokkiare te dynkra ta furste dova.</p>
+      <p type="listitem" xml:lang="swe">Gla butt manisch hilprar dolle aur te randra baschi dova kerria kanslorna, ire te mackla ire kerra pre vaver kerropha.</p>
+      <p type="listitem" xml:lang="swe">Nervolo nasht baroa nervolopha. Baschi diro honkar nervolopha nasht diro dynkra pre sar diro nasht tiknoa nervolon, ta pre kava kerropha tiknoa nervolopha.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht kerra stilo-meng. Kava aschar te le fann webben ire te tjinna pre cd pre drabboformat.</p>
+      <p type="listitem" xml:lang="swe">Nervolopha kerras buttvar te diro domrar tiknoare. Abbo baschi diro domrar fedigt nasht dova bliddra tiknoare. Dolle honkar barot te fussa domra tjattjot.</p>
+      <p type="listitem" xml:lang="swe">Nervolopha nasht bliddra tiknoare baschi diro roddrar pre diro, palli te menga ninna truppon ire jaa.</p>
+      <p type="listitem" xml:lang="swe">Baschi diro tyjar, nackar, pir butt alkohol ire pir butt mustan nasht diro le teli pre java ta jura baschi dolle hilprar. Butt nikotin ta koffein nasht baroa diro nervolopha ta kerra te diro domrar kerriare.</p>
+      <p type="listitem" xml:lang="swe">Diro nasht bleddra baschi nervolopha ire fussa pennanden attjer vaver, pre webben. Kava aschar kettanesrodi diro nasht ja ninna an savo nasht hilpra diro.</p>
+      <p type="listitem" xml:lang="swe">Baschi diro voltrar rakkla ninna kommoni, nasht diro tava kommoni attjer dova taveskejourer savo aschar.</p>
+    </list>
+    <p xml:lang="swe">Diro saste tji pi alkohol ire le vaver droger gla te tiknoa diro nervolopha. Kava nasht kanslas savo baschi dolle hilprar, abbo nervolopha avar veder ta dannro nasht dova bliddra baroare.</p>
+    <p type="title" xml:lang="swe">Savi hilprepha nasht mander fussa?</p>
+    <p xml:lang="swe">Diro nasht aur fussa hilprepha te lattja kerropha te bliddra attjer ninna nervolopha. Kava buttvar hilprande honkar kommoni rakkelterapi, drabb ire stilo-meng.</p>
+    <p xml:lang="swe">Dolle savo nasht kerras gla jeck manisch mustula tji ascha gla jeck vaver. Dolle honkar barot te diro kammar hilprepha savo honkar gla diro ta so diro saste kamma.</p>
+    <p xml:lang="swe">Diro nasht aggra ninna te le trissepha ninna jeck ternophakere, elevsastepha ire arakcentral. Baschi dolle mustulas nasht dova diro trissar hilpra jeck te fussa trissepha ninna jeck psykolog ire darton.</p>
+  </body>
+</document>

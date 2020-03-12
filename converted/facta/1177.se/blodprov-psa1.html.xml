@@ -1,0 +1,85 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>991</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Undersokningar/Blodprov-PSA1</origFileName>
+    <parallel_text xml:lang="eng" location="psa.html"/>
+    <parallel_text xml:lang="fin" location="psa.html"/>
+    <parallel_text xml:lang="fit" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="rus" location="psa.html"/>
+    <parallel_text xml:lang="sma" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="sme" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="smj" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="swe" location="psa.html"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="rmf"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/>
+    <parallel_text location="blodprov.html" xml:lang="rmn"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="yid"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Rattskiri: PSA / Blodprov: PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Rattskiri: PSABlodprov: PSA</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sosti mostula diro dokka rattskiri?</p>
+    <p type="title" xml:lang="swe">Karni dokkar diro jick skiri gla PSA?</p>
+    <p xml:lang="swe">PSA honkar jick rattskiri savo honkar andre dova rodepha savo diro nasht fyssa kerra karni prostatan rodepha.</p>
+    <p xml:lang="swe">Diro nasht dokka jick PSA-rodepha baschi diro kammar mutterdromskerriapha savo darton dynkrar adhinela pre prostatan, baschi diro butt mustula jaa ta buttra akno savo muttret honkar sasta.</p>
+    <p xml:lang="swe">Diro nasht aur fyssa dokka jick PSA-skiri baschi darton prinja hari averkerela attjer prostatan karni dova bliddra rodderpha, averkerela savo nasht soskip butt najek pharipe ta duckalopha.</p>
+    <p xml:lang="swe">Dolle honkar barot te jana te jick baroande attjer PSA-jinnepha tji honkar savriga savo prostatacancer. Dolle honkar buttvar ta lokkigt baroanden attjer PSA kammar vaver soskip.</p>
+    <p xml:lang="swe">Pre savriga sutt nasht jick jinneskepha tji dynkra pre prostatacancer. Resultatet mostula sarstil les avrifann savi kerriapha diro kammar ta so vaver rodepha jurar.</p>
+    <p xml:lang="swe">Baschi diro kammar dy ire buttare nerrider moschanoa narthan ninna prostatacancer, honkar astispha te diro kammar dukkalopha baroare. An sav perr nachta diro le PSA-rodepha buttare fann dolle diro honkar 40-50 basht glan to 70 basht phuro.</p>
+    <p xml:lang="swe">PSA rodepha aur teli kerrande hilprande attjer prostatacancer. Baschi hilprepha hilprar juras kava dolle palli te PSA-jinnepha bliddrar tiknoare.</p>
+    <p type="title" xml:lang="swe">Glaulavela ta menulavela ninna jick PSA-skiri</p>
+    <p xml:lang="swe">PSA-skiri kerras tji nika svacko sastekontroll gla moschar gla te jura bàsi dova kammar jick sela form attjer prostatacancer. Dolle adhinela pre te dolle tji sarstil honkar jeck ulave ninna te jura ta hilpra dova sela formerna attjer prostatacancer. Hilprepha nasht dokka biverkningar savo impotens ta inkontinens gla moschar doj prostatacancern narstill saste kamma progressionpha to nàntis seriozib duckalopha</p>
+    <p xml:lang="swe">Cancer an prostatan nasht anten bajrol duroment biso te dokka hari pharipe ire bajrol siggrepha ta spreddra siro to vavera kotar an truppon. An jikk sela ovibe jar dolle tji te jura savi cancerform diro kammar ta vorsnos nasht hilpra jeck cancerform diro tji saste kamma fussat hari nàsjalo attjer telal diros jibetjiro.</p>
+    <p xml:lang="swe">Buttar moschar mangela kerra rodderpha gla kamma janepha bàsi dova kammar prostatacancer. Anglal diro pottar diro gla diro saste dokka jikk skiri gla PSA honkar dolle sukar te le janepha buttare bàsi glaulavela ta menulavela ninna jeck hilprepha attjer jeck sela jurande cancer. Mangela diro senslo ja ta rackla ninna jeck doktora saste diro budra jeck tjiro pre jeck duckalokere ire pre fakkasastepa.</p>
+    <p type="title" xml:lang="swe">So honkar PSA ta sako aschar dolle?</p>
+    <p xml:lang="swe">PSA honkar jick tiknaribe gla prostataspecifikt anten. Dolle honkar jick protein savo kera an prostatakörteln ta savo tradrar ninna sädesvätskan karni moschen fyssar anjaribe ta kera sav te spermierna bliddrar roddligare.</p>
+    <p xml:lang="swe">PSA aschar thaj an rattet, ta dolle honkar dova savo juras pre palli PSA-skiri. Buttare jeck cancer aschar dolle butt butvar averkerela an prostatan savo nasht kerra te PSA-halten an rattet bliddrar baroare. Kisko prostatabaroande ta inflammation an prostatakörteln, sav pennad prostatit, rodde to te dolle muttras avri buttare PSA an rattet fann prostatan.</p>
+    <p xml:lang="swe">Ninna bashten baroar PSA- halten tikno gla dova buttaste moscharna dojgla te prostatakörteln bliddrar tiknoare baroare ninna baroande phuro.</p>
+    <p xml:lang="swe">Dova baroaste PSA an rattet honkar tavat to najek proteiner. Abbo dolle aschar thaj tikno mukkanot, otavat PSA. Karni dolle beschar vaver soskip panda canser àkkter jeck tikno PSA-baroande, ismarela dolle ascha buttare mukkanot PSA an rattet. dojgla nasht dolle dokka darton jeck hilprande te jura dova tavande ta mukkanoa PSA:</p>
+    <p type="title" xml:lang="swe">Sar les skiri?</p>
+    <p xml:lang="swe">Skiri ismarela les an muslingen ninna hilpra attjer jeck suj savo penles an jikk ratttjarò, jeck ven. Dojgla pennas kava rattskiri gla venöst skiri</p>
+    <p xml:lang="swe">Skiri nasht les karna savo pre divusen. Diro saste sutta teli an 15 minuti angla skiri les. Nanit mostula kerras selare.</p>
+    <p xml:lang="swe">Baschi diro kerrar jick kirurgiskt kerrande an prostatan baroas PSA-jinnepha. Diro fyssa biddra tiknoast 10 divusar andrean dolle honkar astispha te le jick PSA-rodepha. Baschi duckalo-moschen dojkoro rada kanslar pre prostatan prekerras tji PSA- jinnepha.</p>
+    <p type="title" xml:lang="swe">Karna fyssar diro svardara?</p>
+    <p xml:lang="swe">Skirit beschas to jick duckalokerelaboratorium doj dolle analyseras. Diro nasht potta ketannes ninna duckalo-moschen baschi karna ta huri diro saste fyssa jana resultaten attjer rodepha. Duckalomoschen brukfarar fyssa svardara fann laboratoriet andran jeck to dy divusar.</p>
+    <p type="title" xml:lang="swe">Sar drabbas skirisvardarat?</p>
+    <p xml:lang="swe">Jick skirisvardara mostula sarstil voggras ketannes ninna savi kerriapha savo diro kammar ta savi vaver rodepha sikkras.</p>
+    <p xml:lang="swe">PSA-jinn an rattet varincija prele najek moschar, thaj prele moschar savo tji kammar prostatapharibe. Gla te darton nachta kamma kommoni te Jekharela ninna keda skirisvardera nachta dràbbras ismarela sav kàra referensjinn. Gla PSA ismerelar jinn schettanil 3 mikrogram pre liter jinnas savo jeck vasdibe.</p>
+    <p type="title" xml:lang="swe">Baro jinn, savi nasht dolle adhinela pre?</p>
+    <p xml:lang="swe">Jeck attjer desch maskerphurano moschar kammar barot PSA-jinnepha. Jeck topa to lokki baroande nasht ascha fedig prostatabaroande.</p>
+    <p xml:lang="swe">Baroande jinnepha nasht diro fyssa baschi diro kammar jeck prostatainflammation´, sav pennad kronisk prostatit.</p>
+    <p xml:lang="swe">Jeck mutterdromminfektion nasht dokka jeck abriande, abbo baroande attjer PSA. Baschi diro attjer khoon topha tji nasht muttra ta budra karon, nasht diro fyssa baroande PSA-jinnepha. Kammar diro dolle keria te budra karon sav te mutter svacko tjiro aschar an brukfaras dolle pennas urinstämma.</p>
+    <p xml:lang="swe">Baroande jinnepha nasht tasa topa pre prostatacancer. Attjer dova savo kammar baroande PSA juras canser gla jeck attjer trinn. Kettanespha masker bukkanot ta tavat PSA nasht dokka duckalo-moschen tikno hilprepha karna dolle honkar te jura baschi baschi dolle honkar prostatacancer.</p>
+    <p xml:lang="swe">Attjer dova savo rodepha siro butt tjiros teli butt basht, avar jeck attjer pansh kamma jick PSA-jinnepha savo motiverar buttare rodepha.</p>
+    <p xml:lang="swe">Baschi jick resultat attjer jick PSA-rodepha sickrar pre jick baro jinnepha, brukfarar duckalo-moschen kerra buttare jeck rodepha ninna ultraschunn ta vävnadsrodepha fann prostatakörteln. Baschi duckalo-moschen jurar cancer jaar dolle te fyssa hilprande ninna operation ire hormonhilprande.</p>
+    <p type="title" xml:lang="swe">Tikno jinnepha, savi nasht dolle topha pre?</p>
+    <p xml:lang="swe">Tikno jinnepha pennar koro te diro kammar prostatacancer, abbo rada jick PSA-rodepha tji tjattjo penna kava ninna hortepha.</p>
+    <p xml:lang="swe">Baschi diro fyssar prostatan abribeschade palla jeck operation tiknoas PSA-jinnepha to jeck tikno nivå. Jeck tikno PSA-jinnepha nasht brukfaras palli jura baschi operationen kammade jick fedig effekt. Tasa nerrider strålning ta hormonbehandling brukfaras jick tiknoande PSA-jinnepha ascha jick partin pre te hilprephan aschade fedig.</p>
+  </body>
+</document>

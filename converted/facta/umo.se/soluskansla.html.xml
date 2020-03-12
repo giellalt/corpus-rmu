@@ -1,0 +1,108 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1013</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Soluskansla</origFileName>
+    <parallel_text xml:lang="eng" location="self-esteem.html"/>
+    <parallel_text xml:lang="fin" location="itsetunto.html"/>
+    <parallel_text xml:lang="fit" location="ittentunto.html"/>
+    <parallel_text xml:lang="sma" location="jijtjedomtese.html"/>
+    <parallel_text xml:lang="sme" location="iedovdu.html"/>
+    <parallel_text xml:lang="smj" location="iesjdabddo.html"/>
+    <parallel_text xml:lang="swe" location="sjalvkansla.html"/>
+    <parallel_text location="iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="alejn-opshats.html" xml:lang="yid"/>
+    <parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Soluskansla</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Soluskansla</p>
+    <p xml:lang="swe">Soluskansla aschar baschi dova dynkrar diro kammar baschi siro solus ta dova diro honkar. Kava kammar nane te kerra ninna baschi diro honkar fedig ire kerria pre dova najek kerranden diro kerrar, kava aschar baschi kansla te diro honkar vartan kommoni rada palli te ascha. Kava kansla nasht diro bliddra fedigare pre.</p>
+    <p xml:lang="swe">Sar diro soluskansla honkar aschar butt gla sar diro jibbar diro jibb ta sar diro kanslar. Jeck fedig soluskansla kerrar te diro kerrar davodant savo honkar fedigt gla diro, te diro trommar kerra kava diro voltrar kerra, trommar tava nevo trissepha ta nasht penna solduj nani to najek.</p>
+    <p xml:lang="swe">Baschi diro kammar vina ninna diro soluskansla nasht kerra te diro tji kerrar dolle diro voltrar kerra ire kamma. Diro nasht kerra kava diro tji voltrar ta kerra gla vaver manisch ta tji diros.</p>
+    <p type="title" xml:lang="swe">Soluskansla ta soluspattjande honkar tji savrige</p>
+    <p xml:lang="swe">Soluskansla ta soluspattjande mulltras buttvar savrige, abbo dolle honkar tji savrige.</p>
+    <p xml:lang="swe">Soluspattjande honkar buttare ninna kerrande, sar butt diro pattjar pre te diro nasht menga ninna najek meng ta vaver.</p>
+    <p xml:lang="swe">Soluskansla aschar baschi sar diro jurar pre khoon diro honkar solduj ninna diro soraloa ta arkelus rigg.</p>
+    <p xml:lang="swe">Baschi diro kammar fedig soluskansla dynkrar diro tji butt pre so vaver manisch dynkrar baschi diro. Diro trommar ascha rada diro solus.</p>
+    <p xml:lang="swe">Baschi diro kammar tikno soluskansla nasht dolle honkar vaver ta kanslas kerria ninna jeck lav baschi diro jurande ire vaver.</p>
+    <p type="title" xml:lang="swe">Kettanestav masker sor ta soluskansla</p>
+    <p xml:lang="swe">Dolle aschar jeck kettanestav masker soluskansla ta dova sor diro kammar preal diro jibb. Karna diro kanslar te diro solus nasht potta ta prekerra diro jibb honkar dolle lokkiare te kamma jeck fedig soluskansla.</p>
+    <p xml:lang="swe">Soluskansla nasht bliddra tiknoare baschi diro kanslar siro avritan sor. Kava nasht kanslas kerria te prekerrra siro situation karna diro langro rodepha meng avritan fussa kommoni, ire karna dova diro boddrar ninna pottar sass gla butt preal diro jibb.</p>
+    <p type="title" xml:lang="swe">Sar nasht fedig soluskansla juras?</p>
+    <p xml:lang="swe">Diro soluskansla nasht ascha fedigare ire kerriare an najek momenti an jibbet ta dova nasht aur ascha najek soralo an najek momenti. Karna diro kammar fedig soluskansla nasht dolle dickas palli dirots</p>
+    <list>
+      <p type="listitem" xml:lang="swe">kanslar siro fedig, abbo diro tji honkar fedig pre sassaro</p>
+      <p type="listitem" xml:lang="swe">te diro kammar tjattjo te diro steddo, te juras ta schunnas ta te diro kanslar diro respekterad.</p>
+      <p type="listitem" xml:lang="swe">trommar penna baschi sar diro kanslar diro ire so diro dynkrar</p>
+      <p type="listitem" xml:lang="swe">accepterar te sassaro nani nasht dynkra butt baschi diro</p>
+      <p type="listitem" xml:lang="swe">Kanslar diro kammar tjatso te penna solduj ehe ta nani</p>
+      <p type="listitem" xml:lang="swe">nasht beddra kommoni baschi hilprepha karna diro mustula</p>
+      <p type="listitem" xml:lang="swe">kansla diro kammar tjattjo te kansla dolle fedigt, te diro kerrar gla diro ta kerrar savot savo kerrar te diro kammar dolle fedigt.</p>
+      <p type="listitem" xml:lang="swe">trommar mais nevot</p>
+      <p type="listitem" xml:lang="swe">trommar kerra vina</p>
+      <p type="listitem" xml:lang="swe">tromma le trissepha ninna manisch</p>
+      <p type="listitem" xml:lang="swe">nasht dokka solduj positiv ta negativ pennanden to vaver</p>
+      <p type="listitem" xml:lang="swe">stee gla dova diro honkar ta jurar avri</p>
+      <p type="listitem" xml:lang="swe">kanslar te sassaro honker fedigt abbo sassaro tji honkar fedigast</p>
+      <p type="listitem" xml:lang="swe">trommar stee gla dova diro kerrar ta dova diro kammar kerrat</p>
+      <p type="listitem" xml:lang="swe">nasht bankus diro vina ta beddra baschi bisterker baschi diro kammar kerrat kommoni miak koro jeck vaver</p>
+      <p type="listitem" xml:lang="swe">Nasht dokka to diro ta dokka diro shara.</p>
+    </list>
+    <p type="title" xml:lang="swe">Sar nasht tikno soluskansla juras?</p>
+    <p xml:lang="swe">Karna soluskansla honkar tikno nasht dolle juras palli te diro</p>
+    <list>
+      <p type="listitem" xml:lang="swe">kanslar diro kerria, te diro tji dynkrar te diro honkar kommoni</p>
+      <p type="listitem" xml:lang="swe">kerra savodant diro tji honkar fedigt gla diro</p>
+      <p type="listitem" xml:lang="swe">tji voltrar trissa vaver manisch</p>
+      <p type="listitem" xml:lang="swe">tji kerrar nevot</p>
+      <p type="listitem" xml:lang="swe">fussar kerra dolle vaver voltrar an malanoa- ta kammleskerelationer.</p>
+      <p type="listitem" xml:lang="swe">tji le steddo ta le gla siro an momenti</p>
+      <p type="listitem" xml:lang="swe">buttvar honkar kalodukk ta avundlack pre vaver</p>
+      <p type="listitem" xml:lang="swe">bliddrar tugalo baschi diro kerrar vina ire kommoni diro kerrar.</p>
+    </list>
+    <p xml:lang="swe">Kerria soluskansla nasht aur sikkra siro palli te jeck manisch dabbas ta honkar kerria koro vaver. Kava nasht aur ascha sav te diro fussar gara kerria soluskansla palli te fussa ascha fedigast pre sassaro ire brecher baschi siro solus.</p>
+    <p type="title" xml:lang="swe">Sosti fussar manisch kerria soluskansla?</p>
+    <p xml:lang="swe">Dolle aschar butt najek soskipha to te diro nasht kamma jeck tikno soluskansla. Sassaro mustula fussa hilprepha, bliddra jurade ta respekterade gla dova diro honkar. Soluskansla tiknoas baschi buttvar teli dolle tji diro honka nucko te diro tji honkar doschta fedig.</p>
+    <p xml:lang="swe">Akno nasht jeck manisch savo kammar fussar shara rada karna dova kammar kerrat kommoni fedigt, pattja te dova rada honkar fediga karna dova kammar kerrat kommoni fedigt. Te dova tji honkar fediga gla te dova rada aschar.</p>
+    <p xml:lang="swe">Soluskansla prekerras aur negativt baschi diro tji bliddrar jurad karna diro honkar nucko, sav savot dirots nartha tji honkade kere karna diro honkade nucko, baschi dova honkade dukkaloa, pidde ire kammar gla butt an siro jibb gla te jura siro nuckoar.</p>
+    <p xml:lang="swe">Kansla attjer tji ascha doschta fedig nasht aur soskipha pre te diro honkar najek kanslande fann aggran. Baschi diro honkar kava nasht diro kamma tikno soluskansla, tji dynkrat baschi diro kammar kammat dolle kerria karna diro honkade nucko.</p>
+    <p xml:lang="swe">So dolle soskipha nasht dova bliddra fedigare.</p>
+    <p type="title" xml:lang="swe">Te kansla siro vaver, avritan ta jura siro ninna vaver manisch</p>
+    <p xml:lang="swe">Dolle nasht aur kerras diro soluskansla sar savrike diro honkar dova nartha ire dova manisch diro bajrol ninna. Baschi sassaro vaver kammar sport ta diro tji dynkrar butt baschi kava, nasht diro kansla diro opattjano pre diro solus. Vaver savo nasht kerra gla diro soluskansla bliddrar tiknoare nasht ascha te diro</p>
+    <list>
+      <p type="listitem" xml:lang="swe">kanslar diro avritan ire manisch honkar kerria koro diro</p>
+      <p type="listitem" xml:lang="swe">tji kammar jeck meng</p>
+      <p type="listitem" xml:lang="swe">kammar dolle kerria te potta so diro saste kerra ninna diro jibb, savo bleddreskekere diro jsaste ja ire savi meng diro saste kamma</p>
+      <p type="listitem" xml:lang="swe">Kanslar diro psykiskt kerria ta kamma butt tugalopha ire kanslar nervolo ire savriga kanslor.</p>
+    </list>
+    <p xml:lang="swe">Butt manisch jurar pre vaver manisch dova prinjar ire manisch an reklam ta vaver media. Baroare voltranden diro kammar pre diro – te diro sarstill saste ascha sjukkar ta manisch saste dynkra butt baschi diro – kerriare nasht dolle ascha te kansla siro lattjano ninna siro solus.</p>
+    <p type="title" xml:lang="swe">Soluskansla juras tji sarstil avri</p>
+    <p xml:lang="swe">Kava honkar kerria te jura avri sar jeck manisch kammar siro soluskansla. Kommoni savo jurar baro bahi avri, savo honkar sjukkard, fedig an bleddreskekeret ire pre menget ta kammar butt ninna malar, nasht kamma jeck tikno soluskansla ire kansla te liskris ire lester tji doschta to.</p>
+    <p xml:lang="swe">» Hilprepha gla fedigare soluskansla</p>
+  </body>
+</document>

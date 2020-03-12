@@ -1,0 +1,85 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>846</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Togalopha</origFileName>
+    <parallel_text xml:lang="fin" location="alakuloisuus.html"/>
+    <parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/>
+    <parallel_text xml:lang="sma" location="hujnesne.html"/>
+    <parallel_text xml:lang="sme" location="lossesvuohta.html"/>
+    <parallel_text xml:lang="smj" location="hajesvuohta.html"/>
+    <parallel_text xml:lang="swe" location="nedstamdhet.html"/>
+    <parallel_text location="mulano.html" xml:lang="rmf"/>
+    <parallel_text location="depresirime.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tristimos.html" xml:lang="rmy-rka"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Togalopha</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Togalopha</p>
+    <p xml:lang="swe">Te kansla siro tugalopha, nervolopha ire kansla te dolle tji honkar khoon fedigt an jibbet honkar jeck bekkan attjer jibbet. Dolle nasht ascha divusar karna sassaro kanslas kerria ire karna diro dynkrar butti. Buttast jaar kanslan abri palla jeck tjiro. Dolle aschar diro nasht kerra gla sassaro bliddrar fedigare, ta diro nasht kamma hilprepha baschi diro mustula kammat.</p>
+    <p xml:lang="swe">Tugalopha avar ta jaar abri an jibbet. Diro saste tji honka darrano gla te le glan negativa dynkrepha ta kanslor. Baschi diro fyssar tji kansla savodana kanslor avar diro fyssa buttare tugalopha ta nervolopha. Kava mustula fyssa le siro tjiro.</p>
+    <p type="title" xml:lang="swe">Diro nasht tji sassaro jana sosti</p>
+    <p xml:lang="swe">Dolle nasht ascha khoon topha diro kanslar diro tugalopha. Dolle nasht ascha te dolle honkar phater ninna dova diro kammar aschar kettanes ninna, te diro dad ta dakria saste boddra langro fann varvaran ire vaver vinepha ninna narthan ta malar.</p>
+    <p xml:lang="swe">Diro nasht tasa bliddra tugalopha baschi jibbet bliddrar vaverpha, baschi diro boddrar pre jeck vaver steddo, fusslar bleddreskekere, ire karna diro aggrar pre gymnasiet ire aggrar menga.</p>
+    <p xml:lang="swe">Buttast nasht diro menga ninna kava kerriapha solus ire ninna hilprepha attjer malar ta narthan, abbo dolle nasht kanslas kerria.</p>
+    <p xml:lang="swe">Dolle nasht tasa ascha sav te diro kanslar diro teli avritan te dolle honkar jeck topha. Baschi diro honkar nervolopha ire kammar dolle kerria an bleddreskekeret ire pre menget nasht diro bliddra tugalopha ire teli. Dynkrepha baschi sexualitet, huri truppon bliddrar nasht ascha kerria. Tjejer nasht bliddra tugalopha divusarna glanske rattepha.</p>
+    <p type="title" xml:lang="swe">Dolle dickas tji sarstill huri diro kammat</p>
+    <p xml:lang="swe">Malar, narthan, drabbranoer ire vaver fursteer tji sarstil huri diro kammat. Dolle honkar tji potto dolle dickas avri.</p>
+    <p xml:lang="swe">Baschi diro honkar tugalopha nasht diro tasa bliddra lacker. Karni nasht manisch dicka te diro honkar lackare, abbo dova mustula tji furstee te topha te kava honkar gla diro honkar tugalopha ta teli. Dojgla nasht dolle ascha fedigt te pramissa huri diro kanslar sav te diro nasht kamma hilprepha. Palli te rackla ninna khoon nasht diro buttast furstee diro solus fedigare.</p>
+    <p type="title" xml:lang="swe">So nasht diro kerra solus?</p>
+    <p xml:lang="swe">Diro nasht kerra solus huri diro kammat. Diro avar kansla dolle fedigare ta nashta buttare baschi diro roddrar pre diro, astispha rodde pre diro. Gla te kansla siro fedig honkar dolle baro te diro kaar fedigt ta sassdivusliga ta diro dummrar doschta butt. Karni bliddrar dolle lokkiare. Diro nasht bliddra matto attjer dummra gla butt ta gla tikno.</p>
+    <p xml:lang="swe">Kava nasht diro dynkra pre karna diro honkar tugalopha:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Diro kanslar diro fedigare baschi diro kerrar dolle diro dynkrar honkar lattjanot savo trissa diro malar. Diro nasht tasa mostula ascha kokkaro baschi diro honkar tugalopha.</p>
+      <p type="listitem" xml:lang="swe">Dolle nasht hilpra te roddra siro, le jeck jaaepha ire roddra pre truppon vaver brukfarar hilpra baschi diro kammar butt dynkrepha ta kerra te diro dummrar lokkiare.</p>
+      <p type="listitem" xml:lang="swe">Te ascha avri karna dolle honkar kammanot honkar fedigt, pallasavo kammen kerrar te diro bliddrar jagno.</p>
+      <p type="listitem" xml:lang="swe">Dolle nasht hilpra te racka ninna khoon, savo jeck mala ire khoon an narthan. Diro nasht tasa jaa to jeck bleddreske-duckalo-penja ire jeck kurator.</p>
+      <p type="listitem" xml:lang="swe">Diro randrar teli huri diro kanslar diro. Palli te le lav pre siro kanslor ta dynkrepha brukfarar diro jana diro solus fedigare, ta lokkiare nashta jura baschi dolle honkar khoon vinepha savo mustula juras preal.</p>
+    </list>
+    <p type="title" xml:lang="swe">Alkohol ta droger honkar tji fedigt</p>
+    <p xml:lang="swe">Baschi diro honkar tugalopha nasht dolle kanslas savo dolle hilprar te pi alkohol ire brukfara droger. Diro nasht bliddra lattjanoare ta bistra dolle savo honkar kerria jeck tikno tjiro, abbo ninna tjiron nasht dolle bliddra kerria, kerra diro nervolopha baroare ta vaver kerria kanslor. Dolle nasht tasa ascha savo te dolle honkar alkoholen ire droger savo honkar topha to te diro honkar teli.</p>
+    <p type="title" xml:lang="swe">Tugalopha jaar buttast abri</p>
+    <p xml:lang="swe">Diro nasht kansla diro butt kerria karna diro honkar tugalopha. Dojgla nasht dolle ascha fedigt te jana te tugalopha gla dolle buttaste jaar abri attjer siro solus, abbo dolle nasht le siro tjiro.</p>
+    <p type="title" xml:lang="swe">Hilprepha honkar fedigt</p>
+    <p xml:lang="swe">Dolle nasht ascha fedigt te rackla ninna khoon manisch. Gla te kamma hilprepha nasht diro le trissepha ninna ternophakeret, duckalokeret ire vaver savrige. Dova manischen savo mengar doj kammar emperi ninna menga ninna ternopha savo honkar tugalopha. Baschi dolle honkar jeck mustulande nasht diro le trissepha ninna jeck psykolog ire duckalo-mosch.</p>
+    <p xml:lang="swe">Dolle honkar tasa taveskejourer savo diro nasht tava, ta steddon pre webben doj diro nasht chatta, mejla ire bleddra gla te fyssa hilprepha. Diro nasht ascha anonym baschi diro voltrar.</p>
+    <p type="title" xml:lang="swe">Depression</p>
+    <p xml:lang="swe">Jeck depression honkar khoon vaver jeck te ascha teli ire tugalo. Diro nasht kamma fyssat jeck depression baschi diro kanslar diro tugalopha an butt eftadivusar ta akno</p>
+    <list>
+      <p type="listitem" xml:lang="swe">tji kammar jeck voltrande gla savodant diro brukfara voltra kerra</p>
+      <p type="listitem" xml:lang="swe">dummrar gla tikno ire gla butti</p>
+      <p type="listitem" xml:lang="swe">kammar dolle kerria te dynkra</p>
+      <p type="listitem" xml:lang="swe">tji voltrar ka kabing</p>
+      <p type="listitem" xml:lang="swe">kar buttare jeck diro brukfarar</p>
+      <p type="listitem" xml:lang="swe">bliddrar lacker lokkigt</p>
+      <p type="listitem" xml:lang="swe">fyssa kerria dynkrepha baschi diro solus</p>
+      <p type="listitem" xml:lang="swe">riggrar diro avri fann manisch</p>
+      <p type="listitem" xml:lang="swe">dynkrar baro butt ta kava ler butt ninna tjiro</p>
+      <p type="listitem" xml:lang="swe">fyssar vinepha pre bleddreskekeret ire menget</p>
+      <p type="listitem" xml:lang="swe">fyssar dynkrar pre mulepha diro solus.</p>
+    </list>
+    <p xml:lang="swe">Baschi diro kammar fyssat jeck depression mostula diro kamma hilprepha gla te kammat fedigare. Gla te fyssa kava nasht diro le trissepha ninna ternophakeret, duckalokere ire vaver savrige.</p>
+  </body>
+</document>

@@ -1,0 +1,86 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>633</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/Pages/OmWebbplatsen.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="fin" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="fit" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="sma" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="sme" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="swe" location="omwebbplatsen.html"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rka"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmf"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmn"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Baschi Webbeskerigget - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Baschi Webbeskerigget</p>
+    <p xml:lang="swe"><em type="italic">Themmeskepottande- enheti webbeskerigg saste hilpra diro savo avvar intus doj ta dikkar ta kammar informationi baschi sar Themmeskepottande- enheti kerrar ta huri dolle prekerrepha diro ta manisch- kettanespha baschi diro. Webbeskeriggen aschar glanledda an kettanesmeng ninna vavver Themmeskepottade - enheti attjer Sveddingen. </em></p>
+    <p type="title" xml:lang="swe">Ovaro kairopha te ascha pre webbeskerigget</p>
+    <p xml:lang="swe">Pre jeckestapattrinet aschar dolle doj diro nasht jura jeck toppiskemeny doj dolle buttaste informationen baschi vorsnos kerrandepha aschar. Pre jeckestapattrinen aschar ankuv to pottande- iller, lovver-iller ta hilprepha, iller ta publikationer ta aktuello friggor ta nevopha.</p>
+    <p type="title" xml:lang="swe">Andrejanande A-Ö</p>
+    <p xml:lang="swe">Rodepha-lav an laveske tav – savodant savo vorsnos janar te butti voltrar jura pre webbeskerigg. Baschi diro rodepha akkter <span type="quote" xml:lang="swe">”Golepha”</span> gustrar diro pre lavepha G.</p>
+    <p type="title" xml:lang="swe">Rodepha- funktioni</p>
+    <p xml:lang="swe">An pattrinsjerot aschar jeck rodepha- ruto doj diro nasht randra an simmalimukk lav, rodepha kerras pre helko webbeskerigget. Dolle dokkat pre sassaro typeri attjer lav.</p>
+    <p type="title" xml:lang="swe">Webbeskekarta</p>
+    <p xml:lang="swe">Jurar dova hierarkiska strukturi.</p>
+    <p type="title" xml:lang="swe">Dokka avri informationi to sassaro</p>
+    <p xml:lang="swe">Pre sassaro pattriner pre kava webbeskerigg aschar jeck funktioni gla te dokka avri informationi pre pattrinen an sociala medier. Funktioni suttar nickli an pattrinens rubrika to righti baschi Radra avri.</p>
+    <p type="title" xml:lang="swe">Offentligeskepha</p>
+    <p xml:lang="swe">Themmeskepottande- enheti kerrar savo langro dolle aschar astis dova durihortor savo aschar offentligeskepha pre webben. Vorsnos kammar brukfarat Vervas horter: drommeskedurin 24- timmarwebb savo jaar ninna WAIs durihorta WCAG 1.0. Kava sav langrot dolle aschar astis an dolle plattiskeformi vorsnos kerrar webben an.</p>
+    <p type="title" xml:lang="swe">Tjattjokerra webbeskeriggen</p>
+    <p xml:lang="swe">Webbeskeriggen kammar nani solus tjattjokerra- funktioni pallasavo tjattjopallkerranderna kammar jeck astispha te kerra vinepha gla brukfararens solus sutt. Dolle aschar lokkigt te tjattjokerra webbeskebleddrarens solus sutt savo te diro to exempli nasht fussa baroare kontrasti ire baroare rander.</p>
+    <p type="title" xml:lang="swe">Rekommenderande webbeskebleddrare</p>
+    <p xml:lang="swe">Vornos webbeskerigg kerrrar siro lattjot an niitjiroska webbeskebleddrare, savo kerrar siro fedigt ninna webbeskestandarder suttade attjer W3C. Dolle aschar to exempli nevoare versioner attjer Firefox, Safari, Internet Explorer, Opera ta Google Chrome.</p>
+    <p type="title" xml:lang="swe">Sar aschar Cookies?</p>
+    <p xml:lang="swe">Jeck cookie aschar jeck tikno randerfili savo webbeskerigget garar pre diro dator. Cookies brukfaras gla te dokka jeck trissande manisch astispha to ovaroa tekniska funktioner. Dolle aschar dy typeri attjer cookies:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Dolle jeckesta typi garar jeck fil nickli jeck duriare tjiro pre diro dator. Dolle brukfaras to exempli nerrider funktioner savo racklar baschi sar savo aschar nevot senslo brukfararen sensloast kammar trissat dova aktuella webbeskeriggen.</p>
+      <p type="listitem" xml:lang="swe">Dolle vavver typi attjer cookies pennas sessionscookies. Cookien garar tada temporellt an diro dators bistrande nickli tjiron diro aschar intus pre jeck webbeskerigg. Funktionen kammar ninna vavvert dynker pre saro racklepha diro kammat simmalat. Sessionscookies garas tjii pre diro dator nickli jeck langroare tjiro, avrtian aschar tjii buttare karna diro mular diro webbeskebleddrare.</p>
+    </list>
+    <p type="title" xml:lang="swe">Klisa diro cookiesfunktionen</p>
+    <p xml:lang="swe">Voltrar diro tji dokka cookies nasht diro lokkigt klisa dolle an diro webbeskebleddrare. Abbo kavva nasht kerra savo te kutti webbeskeriggen tjii nasht dikkas pre savo dova saste. Diro nasht simalli te klisa dypas typeri attjer cookies.</p>
+    <p type="title" xml:lang="swe">Bleddreskeprogram gla pdf- iller</p>
+    <p xml:lang="swe">Iller pre webbeskeriggen aschar garade an Portable Document Format (PDF) ta gla te bleddra kavva mustula diro kamma Adobe Acrobat Reader, savo diro mukkepha nasht le kere fann Adobe.</p>
+    <p type="title" xml:lang="swe">Juridisk janepha</p>
+    <p type="title" xml:lang="swe">Manischjanande- hortan</p>
+    <p xml:lang="swe">Funktioni ninna manischjanande- hortan, tasa pennad PUL aschar te rakepha manisch masker te dovas manischliga integritet avrilajjas palla kerrande attjer manischjanandepha. Themmeskepottande- enheti webbeskerigg dynkrar ta kerrar siro kerranden avrifann pottanderna an PUL.</p>
+    <p type="title" xml:lang="swe">Goli gla kerrandet</p>
+    <p xml:lang="swe">Themmeskepottande- enheti fussar astispha to diro manischjanande karna diro golepha diro to jeck trissepha ire vavver savrige, beschar diro akkter jeck publikation ire beschar e- iller to bastanopha.</p>
+    <p type="title" xml:lang="swe">Offentlighetsprincipen</p>
+    <p xml:lang="swe">Themmeskepottande- enheti aschar jeck themmande bastanopha. Kava aschar te iller savo beschas to vorsnos bliddrar sassmanischiga, savo nasht avva te dokkas avri palla offentlighetsprincipen.</p>
+    <p type="title" xml:lang="swe">Brukfarandet attjer materiali, nagohorta</p>
+    <p xml:lang="swe">Themmeskepottande- enheti webbeskerigg kammat randerpha, kartor, maklinskeiller ta illustrationer savo aschar nagohorta- rakepha ta fussar tjii brukfaras avritan dokkat- horta- Savrige aschar dolle ninna vorsnos logotyp. Doj dolle tjii pennas sari informationi aschar fann aschar Themmeskepottande- enheti nago- mosch.</p>
+  </body>
+</document>

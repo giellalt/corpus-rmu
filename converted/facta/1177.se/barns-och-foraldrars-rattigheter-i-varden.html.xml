@@ -1,0 +1,130 @@
+<document xml:lang="rmu" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1552</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmu"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden</origFileName>
+    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fit" location="barns-och-.html"/>
+    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Dad ta dàkria nuckoars ta cacipe an arakhlon / Barns och föräldrars rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Dad ta dàkria nuckoars ta cacipe an arakhlon Barns och föräldrars rättigheter i vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So mangas ninna cacipe an akrahlon?</p>
+    <p xml:lang="swe">Nuckoars ta dad ta dàkria cacipe an akrahlon blavar kattlo ninna dova uschalipha savo arakdokkare kammar koro manisch. Uschalipha aschar randrade an sastepha- ta duckalonarthankuni (Hälso- och sjukvårdslagen HSL) ta patientpottokuni (patientsäkerhetslagen PSL). Diro nasht tji kamma cacipe preàl te schnarikher prealgola to tjattjopha. HSL honkar baschi sar arakhlon an Sveddingen saste organiseras ta kerras gla. Telipeginda an HSL honkar te sassaro manisch an Sveddingen saste fyssa jeck fedig ta potto arak pre savriga astispa HSL saste arakhlon dokkas an nachta arakhlon, dolle honkar te patienten kammar pennat ehe to arakholon.</p>
+    <p xml:lang="swe">PSL aschar baschi arakdokkarens uschalipha te jura to arakhlon kerras potto ta baschi patientens astispha te gola vina an araklohn. PSL aschar aur baschi tojurande preal sastepha- ta duckalo arakhlon, dolle voltra pennas sar sastepha-ta duckalo arakhlon juras ta sar jurepha juras to ta vina kerras gla.</p>
+    <p xml:lang="swe">An jeck vaver horta savo kerrar baschi nuckoar ta dad ta dakri narthan, steddrar dolle te nuckornas nartha kammar hortepha ta uschalipha te potta an friggor savo roddra nuckon. Narthan aschar to nuckon honkar 18 basht, ire to nuckon jengar siro baschi dolle kerras glan 18 basht. Dolle honkar nuckons nartha savo saste dokka savrige dynkrar to dolle arak nuckon kammar.</p>
+    <p xml:lang="swe">An tjiro ninna nuckons baroande phuro saste dolle les jeck baroare uschalipha to so nuckon solus voltrar. Nuckon kammar ninnapotto savo ninna tjiron bliddrar soluspottande. Nuckons cacipe aschar randrande an FN:s konvention baschi nuckoars cacipe, nuckokonventionen, jeck internationell pottande Svedingen kammar randrat teli. Nuckokonventionen aschar ninna buttare te:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Nuckorna kammar horta to jibb ta fedigaste astispha to sastepha ta duckaloarak.</p>
+      <p type="listitem" xml:lang="swe">Nuckons fedigaste nachtapotto svacko pottanden savo roddra nuckon.</p>
+      <p type="listitem" xml:lang="swe">Nuckoar kammar horta te penna siro ginda schunnad ta kamma respekt.</p>
+      <p type="listitem" xml:lang="swe">Dad ta dakri kammar dolle baroaste uschalipha gla nuckon.</p>
+      <p type="listitem" xml:lang="swe">Nuckon kammar horta to rakkepha ta integritet.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Nuckons cacipe an arakhlon</p>
+    <p xml:lang="swe">Dolle honkar nani danniken gla karni jick nucko fyssar ascha ninna ta potta an jeck araksituation. Nuckons horta te potta solus blàvadekattlo ninna mognad jurat pre sarti an situationen ta de hemsuker gla sastepha.</p>
+    <p xml:lang="swe">Sav phuronare nuckon honkar, buttare mostula nuckon ta dad ta dakri kamma savriga dynkrar, penna ehe, to dova arak savo bjuddras. Dolle honkar dova doschtalo gla arakhlon savo pottar karna jeck nucko nasht ascha ninna ta potta an jeck araksituation.</p>
+    <p xml:lang="swe">Kava kammar nuckon horta to an araklohn:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te kamma jeck dad ta dakri ninna siro teli dova tjiro savo nuckon honkar beschad pre jeck arakkere/duckalokere. Nuckon saste kamma arak an jeck nuckosteddo doj dolle honkar manisch ninna speciell nuckojanepha, drbajanepha ta lattjano tjack te kerra.</p>
+      <p type="listitem" xml:lang="swe">Te fyssa phatra jeck rodepha ire hilprande gla jeck paus ire fyssa buttare sensloare.</p>
+      <p type="listitem" xml:lang="swe">Phuranoare nuckoar kammar horta te fyssa rakkra solus ninna mengarna avritan dad ta dakri honkar ninna ire mustula jana so nuckon pramissar.</p>
+      <p type="listitem" xml:lang="swe">Phurano nuckoar kammar horta te rodepha arak pre siros initiativ ta kammar horta te fyssa sastephahilprande avritan te jeck dad ta dakri honkar doj.</p>
+      <p type="listitem" xml:lang="swe">Baschi jeck nucko aschar suta pre arakhiskheren/duckalokheren ta solus voltrar, nasht phralar ire penjar fyssa ava pre trissas ta bàsi domra schettani.</p>
+      <p type="listitem" xml:lang="swe">Jeck tjavo kammar horta te fyssa janepha bàsi so jeck karotjingra honkar ta solus potto bàsi lester mangela ovela karotjingret ire tji. Jeck tjavo savo bliddrar karotjingrad kammar horta to duckhilprande. Kava saste kerras attjer jeck legitimerad darton ire jeck manisch ninna ulavela to kerra kava.</p>
+      <p type="listitem" xml:lang="swe">Sass tjingrade pre tjejjer ta garior honkar illegal an svedijo.</p>
+      <p type="listitem" xml:lang="swe">Nuckon kammar horta te hilprepha ta janepha bàsi jeck dad ta dàkria kammar vinepha, seriozib anaveni ninna truppo ire scherot atchar adhinelad attjer, alkohol ire vaver, ire mular.</p>
+      <p type="listitem" xml:lang="swe">Te slippra uschlig la oprejsat akratrissepa. Dad ta dàkria honkar uschli te prejsa arakkeras.</p>
+    </list>
+    <p xml:lang="swe">Dova nuckon nasht potta an arakkeras:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Sar nuckon ler drabb.</p>
+      <p type="listitem" xml:lang="swe">An savi gustri ire musling panlet kerras ta bàsi nuckon mangela kamma mackel pre jimmet gla jikk panlet.</p>
+      <p type="listitem" xml:lang="swe">Bàsi nuckon mangela dokka truppokotar ire celler.</p>
+      <p type="listitem" xml:lang="swe">Phuroare nuckoar pottar solus bàsi dova mangela dokka janepha bàsi siro sastepha ta to kon kava honkar tji sarstil sav.</p>
+      <p type="listitem" xml:lang="swe">Phuranoare nuckoar kammar hortepha te phatra journaljanepha gla vaver manusch ta akrasteddon.</p>
+    </list>
+    <p xml:lang="swe">Dolle nuckoar tji nasht potta basi:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Baroande pottanden savo kammar baro medicinska janepha savo operation, jeck hilprandepha ire rodepha saste kerras ire tji. Nuckon nasht ascha ninna ta potta basi ulavela attjer kava.</p>
+      <p type="listitem" xml:lang="swe">Nuckoar ta ternopha nasht tji pekkra nani to arak bàsi dova arakkeras med smittskydydds kanuni ninna ulavela potto bàsi arak attjer tecknoa (LVU) ire, kanuni bàsi psykiatrisk mosyulandearak (LPT). De ja te gola pre dòvas pottande.</p>
+      <p type="listitem" xml:lang="swe">Nuckon fùsar tji potto bàsi dova honkar baroa gla potta pottanden. Dolle honkar narthan savo honkar uschali gla kisser savo pottar kava.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Narthans cacipe an arakhlon</p>
+    <p xml:lang="swe">Savo nartha kammar dova horta te penna siro an sassaro situationer ta pottanden andre arakklhon savo roddra nuckon. Dolle honkar sarstil nuckons fedigaste savo honkar hilprande. Nuckoar kammar aur horta te gla siro phurano ascha ninna an pottanden.</p>
+    <p xml:lang="swe">Dolle nasht bliddra kerria situationer karna pottanden saste pottas, basi manischen tji dynkrar savrige sa so honkar <span type="quote" xml:lang="swe">"dolle fedigaste"</span> gla nuckon. Dolle astispha tji ascha fediga alternativ. Gla te dova saste ava glan to jeck kettanespha honkar dolle fedigt te dad ta dakria janar janar te dova kammar janepha, palli frigga mangarna ta le janeph, pre savi najek pottande nasht bliddra.</p>
+    <p xml:lang="swe">Kava honkar so narthan kammar pottande preal:</p>
+    <p xml:lang="swe">Te potta bàsi snuckons saste kamma arakkeras ire tji. Kava honkar tji bàsi nuckon.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Kammar arakkeras ninna LVU, smittskyddslagen, ire LPT.</p>
+      <p type="listitem" xml:lang="swe">Phuvprincipen honkar te helko dad ta dàkria nachta dynkra savrige to arakkeras. An tiknoare situationer ire an kris doschtar jeck attjer dovas pottande. Bàsi narthan tji honkar malanoa, nasht nuckons ginda bliddra dova baroaste. Bàsi jeck ire dy narthan tji gindar te nuckon fyssa astispha to psykiatrisk ire psykologisk rotepa ire hilprepha savo astarela attjer HSL, nasht socialnämnden potta te dolle saste bliddra savo.</p>
+      <p type="listitem" xml:lang="swe">Te kamma janepha bàsi nuckons sastepha, savi rodepha ta hilprepha savo avar ovela aktuella ta so savo nasht sajda bàsi dole tji keras.</p>
+      <p type="listitem" xml:lang="swe">Te ava ninna solus pottanden basi araklhon.</p>
+      <p type="listitem" xml:lang="swe">Te phatra hilprepha ire pekre nani to rodepha ire drabb.</p>
+      <p type="listitem" xml:lang="swe">Te slippra ascha doj ire le glan nuckoarna nerrider kerria rodepha ire hilprepha.</p>
+      <p type="listitem" xml:lang="swe">Te fyssa lod bàsi nuckon arakkeras pre duckalokere.</p>
+      <p type="listitem" xml:lang="swe">Jurande attjer duckalokere ta jana sassaro rutiner ta pottanden.</p>
+      <p type="listitem" xml:lang="swe">Fyssa hilpra to ninna arakhlon attjer nuckon bàsi nuckon honkar pre dukkalokeret.</p>
+      <p type="listitem" xml:lang="swe">Te fyssa racklepha ire shònnahilpra.</p>
+      <p type="listitem" xml:lang="swe">Te potta basi nuckon saste ascha an horteske-rodephaprojekt ire tji.</p>
+      <p type="listitem" xml:lang="swe">Te potta basi manisch ninna janepha jurar pre ire hilprar nuckon.</p>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria kammar horta te dokka arak ninna hilprepha attjer hortan LVU. Bàsi jeck ternopa savo honkar an mostulande-hilprepha attjer akra ta drabb, abbo tji ginda hilpras. Narthan nasht aur le trissepha ninna Socialnämnden savo nasht kerra jeck.</p>
+      <p type="listitem" xml:lang="swe">Te kamma jeck kopia, attjer nuckons journal. Abbo ternopàna nacha dòkka seribe to te journaler dokkas avri. An sikkra pèrra nasht kava dokka rakkepha koro narthan.</p>
+      <p type="listitem" xml:lang="swe">Te kamma narthanlover gla tjikammad mengeske-lovet basi narthan kammar boddrat ninna nuckon pre duckalokere.</p>
+      <p type="listitem" xml:lang="swe">Te kamma lover ninna patientförsäkringen ire drábbetförsäkringen an sikkra perr bàsi nuckon kammar duck attjer arakhlon.</p>
+      <p type="listitem" xml:lang="swe">Bàsi arakmengare dynkrar te jick nuckos sastepha honkar darrano attjer pari garians sarti, nasht mengarna le trissepha ninna socialtjänsen gla te hilpra nuckon.</p>
+      <p type="listitem" xml:lang="swe">Dolle honkar dova pari garian savo nasht potta basi jeck operation ire vaver saste kerras pre nuckon an liskris belsing.</p>
+    </list>
+    <p xml:lang="swe">Kava kammar dad ta dakri tji horta to:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria kammar tji horta te rackla to hilprepha bàsi kava dabbas koro janepha ta emperi andre arakhlon.</p>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria kammar tji horta te nobba siro nucko jibbeske hilprande.</p>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria kammar tji horta te nobba siro nucko dràbbena akra ta hilprande bàsi dolle vavros nasht ava jeck baro dàrrano gla nuckons satsepha ta jibb. Arakmèngarna golar to socialnämnden savo nasht kerra ninna hilprepha attjer hortan bàsi arak attjer terno (LVU). Socialnämnden ler karni soralopha ta uschalipha bàsi nuckon.</p>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria nasht tji pakre nani to arak bàsi nuckon kammar jeck seriozib dolibe dukkepa ta nachta arakkeras ninna dolibe arakhibe kanuni.</p>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria kammar nani horta te pakre Nani gla arak bàsi nuckon honkar teli arakkeras bàsi psykiatrisk mustula arak (LPT ).</p>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria kammar tji hortapa te fyssa jeck kopia attjer dova phuranoare nuckons journal. Phuranoare nuckoar mostula saribe gla te journalen dokkas avri.</p>
+      <p type="listitem" xml:lang="swe">Dad ta dàkria kammar tji hortapa te phatra janepha an nuckons journal gla arakdokkare.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Saste ja much seri ninna pennanden?</p>
+    <p xml:lang="swe">Kava sav pennande pasienticacipe aschar te diro savo dad ta dàkria nasht ja to schnarikher ta kamma diro nuckos <span type="quote" xml:lang="swe">"hortepå"</span>. kammar diro astispha te ja to pasientilarjare savo nasht hilpra diro savo pasient te fyssa dova janepha diro mangela kamma.</p>
+    <p xml:lang="swe">Bàsi diro dynkrar te diro nuckoar kammar vina arak ire nachta diro jeckesta ja to dova kammora, duckalokere doj nuckon kammar kisser. Dova kammar jeck uschalipha te rodepha savi savo kammar kerrats. Abbo nasht tasa le trissepha ninna pasientilarjare ire kerra jeck golepha to Socialstyrelsen.</p>
+    <p xml:lang="swe">Diro nasht aur kamma lover ira hilpre bàsi diro avar to Pasientisiguripeen ire drabbpa siguripeen. Bàsi diro savo Dad ta dàkria dynkrar te nuckon kammar bliddrat kerrad gla stillopha nasht diro kerra jeck startoprijava. Keda nasht kava maisas an jeck schnarikher.</p>
+  </body>
+</document>
