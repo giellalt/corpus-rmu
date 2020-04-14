@@ -1,85 +1,38 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>624</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Tolktjanst</origFileName>
-    <parallel_text xml:lang="eng" location="tolktjanst.html"/>
-    <parallel_text xml:lang="fin" location="tolktjanst.html"/>
-    <parallel_text xml:lang="fit" location="tolktjanst.html"/>
-    <parallel_text xml:lang="sma" location="tolktjanst.html"/>
-    <parallel_text xml:lang="sme" location="tilktjanst.html"/>
-    <parallel_text xml:lang="smj" location="tolktjanst.html"/>
-    <parallel_text xml:lang="swe" location="tolktjanst.html"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmn"/>
-    <parallel_text location="tolktjanst.html" xml:lang="yid"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Chibrakklar dinreske / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Chibrakklar dinreske Tolktjänst</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Janepha</p>
-    <p type="title" xml:lang="swe">Chibrakklart to vavra rakkrepra</p>
-    <p xml:lang="swe">Sastepha- ta dukkaloarakmengarna honkar uschli te dokka janepha savo honkar manischanot assimilerad. Dukkalomengarna saste dynkra pre savi kulturell ta rakkrepa pramissa diro kammar. Kava aschar te dukkalomengarna, bàsi dolle honkar jeck hoftfaras. Ismarela chibrakkla karna dova dokkar avri janepha. Diro nast solus penna te fussa jeck. Chibrakklar basi nane friggar basi diro mangela kamma jeck savot. Dannro avar diro to kommunen, savo kammar doschalo gla kava.</p>
-    <p xml:lang="swe">Avrithemmare savo mostula kamma chibrakklar an kontakti ninna sastepha- ta dukkaloaraken kammar buttvar nerrider ta malar savo nast hilpra to te chibrakklar. Ninna basi dolle aschar jeck sav pennad nerriders chibrakklar pennar vorsnos gla jeck officiell chibrakklar preal themmeskeottarna ire kommunen. Kulturella javeripe ta javeripe an dynkrar prele manisch fann najek themmar kerrar te dolle an kommoni tjiroar nast asha fedigt te kamma kommoni ninna siro sav nast hilpra ninna chibrakklar.</p>
-    <p type="title" xml:lang="swe">Saste avar diro?</p>
-    <p xml:lang="swe">Diro nast le kontakti ninna kommunens tav savo nast hilpra diro.</p>
-    <p type="title" xml:lang="swe">Chibrakkra centrali</p>
-    <p xml:lang="swe">Butt themmar kammar jeck chibrakkra centrali akno hari svardara gla te dokka dinreske.</p>
-    <p xml:lang="swe">Pre chibrakkra centrali mengar doj specialbleddrande chibrakkrar.</p>
-    <p xml:lang="swe">Chibrakkra gla chali, doj dolle voltrar penna manisch savo honkar chali fann benfander skall vara Doj mangela penna manisch savo honkar chali senslo biljanipe.benfandet ta kammar patrinrakklepa savo siro anglanske rakklepha:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Baro manisch ninna savriga vina, dova savo kammar Sveddingens rakklepha savo anglanske rakklepha (buttvar chibrandra) abbo aur patrin savo hilprepha (TSS) ta drabbrepha.</p>
-      <p type="listitem" xml:lang="swe">Jurepha- ta schunnepha dukkaloa manisch. Jurar ta shònnas dukkaloa manisch. Gla chalikoraloa ire dova ninna baro chibrandelarna.</p>
-    </list>
-    <p xml:lang="swe">Saj kerrar dolle schunnande gla schunnade ta chali/chibrandelarna dukkaloa te rakkla.</p>
-    <p xml:lang="swe">Dinreske honkar mollepha mukkano ta diro nast budra chibrakkra preàl themmeskepottarnas chibrakkra centrali an sassaro momenti doj diro dynkrar te diro hòftara doj. Kava aschar gla sassaro najeka zori.</p>
-    <p type="title" xml:lang="swe">Saste saste diro ja?</p>
-    <p xml:lang="swe">Niga zori attjer chibrakkra nast diro kontakti diros themmeskepotto chibrakkra centrali.</p>
-    <p type="title" xml:lang="swe">Kanuni</p>
-    <p xml:lang="swe">Sastepha- ta dukkaloarak kanuni , SFS 1982:763.</p>
-    <p type="title" xml:lang="swe">Rakkeldinsterske</p>
-    <p xml:lang="swe">Rakkeldinreske honkar jeck mollepha mukkano dinreske bàsi diro kammar gol-, rakkel- ire rakklepha vina. Pre rakkeldinreske mengar rakkeldinreske chibrandela. Rakkeldinreske aschar nii an desch themmeskepotto. Doj nast diro fussa hilpra ninna kava dinreske:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Rakkelhilpra, savo aschar te rakkeldinreske chibrandela honkar diro rakkel hilprare nerrider trissepha ninna dova savo dolle kanslas kerria te rakkla ninna. Dova kerrar <span type="quote" xml:lang="swe">"Ny översättning"</span>. Honkar jikk rakkra hilpra niga komunikacija savo aschar opotto ta kerri, dova kerrar rakkra buttare ta/ire kerrar dolle schunnande ire kava sut dova rakkra pre.</p>
-      <p type="listitem" xml:lang="swe">Tavahilpra savo aschar te diro fussar hilpra ninna te tava trinn. Rakkrar an taven doj dinster-moschen hilprar baschi dolle honkar jikk mostula, abbo vavros rada aschar akkter diro.</p>
-      <p type="listitem" xml:lang="swe">Dràbbra ta randra hilpra, savo aschar te diro fussar hilpra ninna te drabbra ta/ire randra arkounum ta randrepha, rescha lill niga trissan ninna buttare.</p>
-    </list>
-    <p type="title" xml:lang="swe">Saste avar diro?</p>
-    <p xml:lang="swe">Themmeskepottarnas tav jana bàsi dolle aschar rakkra dinreske an dolle themmet ire tji.</p>
-    <p type="title" xml:lang="swe">Tavarakkra</p>
-    <p xml:lang="swe">Tavarakkra honkar jeck mollermuck themmbaripe dinreske bàsi diro kammar gol- rakkra ire rakkrepá vina. Pre Telerakkel mengar rekklepha-mengare ta dova hilprar rada dova Sveddinska rakklephat. Doj nast diro fussa hilpra ninna kava dinreske:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tavarakkra chibrandela savo mengar ninna kerria lav basi diro kammar dolle kerria ninna te schunna ire furste so savo pennas.</p>
-      <p type="listitem" xml:lang="swe">Tavarakkra chibrandela hilpra diro sar kovar blavar kattlo bàsi diro aur hilpra diro tava preal tavapinsla.</p>
-      <p type="listitem" xml:lang="swe">Tavarakkra honkar ninna savo hilpra telal saroe rakkrepa. Kava nast randra dova savo pennas ta diro ta nast senslo bischa to diro.</p>
-    </list>
-    <p type="title" xml:lang="swe">Saste diro?</p>
-    <p xml:lang="swe">Diro tavar ninna diro tav, beschad ire mobiltav taveskeginn 020-22 11 44. Jeck chibrakkra tavar uppre dova diro mangela tava ta honkar ninna savo hilpra ninna rakkrepa. Karna rakkrepha honkar phater tavas dova trindje manischen abri ta diro rakkra ninna chibrakkra bàsi rakkrepat</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>617</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Tolktjanst</origFileName><parallel_text xml:lang="eng" location="tolktjanst.html"/><parallel_text xml:lang="fin" location="tolktjanst.html"/><parallel_text xml:lang="fit" location="tolktjanst.html"/><parallel_text xml:lang="sma" location="tolktjanst.html"/><parallel_text xml:lang="sme" location="tilktjanst.html"/><parallel_text xml:lang="smj" location="tolktjanst.html"/><parallel_text xml:lang="swe" location="tolktjanst.html"/><parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/><parallel_text location="tolktjanst.html" xml:lang="rmn"/><parallel_text location="tolktjanst.html" xml:lang="yid"/><parallel_text location="tolktjanst.html" xml:lang="rmy-rlo"/><parallel_text location="tolktjanst.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Chibrakklar dinreske / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Chibrakklar dinreske Tolktjänst</p>
+<p xml:lang="swe"></p>
+<p type="title">Janepha</p>
+<p type="title">Chibrakklart to vavra rakkrepra</p>
+<p>Sastepha- ta dukkaloarakmengarna honkar uschli te dokka janepha savo honkar manischanot assimilerad. Dukkalomengarna saste dynkra pre savi kulturell ta rakkrepa pramissa diro kammar. Kava aschar te dukkalomengarna, bàsi dolle honkar jeck hoftfaras. Ismarela chibrakkla karna dova dokkar avri janepha. Diro nast solus penna te fussa jeck. Chibrakklar basi nane friggar basi diro mangela kamma jeck savot. Dannro avar diro to kommunen, savo kammar doschalo gla kava.</p>
+<p>Avrithemmare savo mostula kamma chibrakklar an kontakti ninna sastepha- ta dukkaloaraken kammar buttvar nerrider ta malar savo nast hilpra to te chibrakklar. Ninna basi dolle aschar jeck sav pennad nerriders chibrakklar pennar vorsnos gla jeck officiell chibrakklar preal themmeskeottarna ire kommunen. Kulturella javeripe ta javeripe an dynkrar prele manisch fann najek themmar kerrar te dolle an kommoni tjiroar nast asha fedigt te kamma kommoni ninna siro sav nast hilpra ninna chibrakklar.</p>
+<p type="title">Saste avar diro?</p>
+<p>Diro nast le kontakti ninna kommunens tav savo nast hilpra diro.</p>
+<p type="title">Chibrakkra centrali</p>
+<p>Butt themmar kammar jeck chibrakkra centrali akno hari svardara gla te dokka dinreske.</p>
+<p>Pre chibrakkra centrali mengar doj specialbleddrande chibrakkrar.</p>
+<p>Chibrakkra gla chali, doj dolle voltrar penna manisch savo honkar chali fann benfander skall vara Doj mangela penna manisch savo honkar chali senslo biljanipe.benfandet ta kammar patrinrakklepa savo siro anglanske rakklepha:</p>
+<list><p type="listitem">Baro manisch ninna savriga vina, dova savo kammar Sveddingens rakklepha savo anglanske rakklepha (buttvar chibrandra) abbo aur patrin savo hilprepha (TSS) ta drabbrepha.</p>
+<p type="listitem">Jurepha- ta schunnepha dukkaloa manisch. Jurar ta shònnas dukkaloa manisch. Gla chalikoraloa ire dova ninna baro chibrandelarna.</p>
+</list><p>Saj kerrar dolle schunnande gla schunnade ta chali/chibrandelarna dukkaloa te rakkla.</p>
+<p>Dinreske honkar mollepha mukkano ta diro nast budra chibrakkra preàl themmeskepottarnas chibrakkra centrali an sassaro momenti doj diro dynkrar te diro hòftara doj. Kava aschar gla sassaro najeka zori.</p>
+<p type="title">Saste saste diro ja?</p>
+<p>Niga zori attjer chibrakkra nast diro kontakti diros themmeskepotto chibrakkra centrali.</p>
+<p type="title" xml:lang="swe">Kanuni</p>
+<p>Sastepha- ta dukkaloarak kanuni , SFS 1982:763.</p>
+<p type="title" xml:lang="swe">Rakkeldinsterske</p>
+<p>Rakkeldinreske honkar jeck mollepha mukkano dinreske bàsi diro kammar gol-, rakkel- ire rakklepha vina. Pre rakkeldinreske mengar rakkeldinreske chibrandela. Rakkeldinreske aschar nii an desch themmeskepotto. Doj nast diro fussa hilpra ninna kava dinreske:</p>
+<list><p type="listitem">Rakkelhilpra, savo aschar te rakkeldinreske chibrandela honkar diro rakkel hilprare nerrider trissepha ninna dova savo dolle kanslas kerria te rakkla ninna. Dova kerrar <span type="quote" xml:lang="swe">"Ny översättning"</span>. Honkar jikk rakkra hilpra niga komunikacija savo aschar opotto ta kerri, dova kerrar rakkra buttare ta/ire kerrar dolle schunnande ire kava sut dova rakkra pre.</p>
+<p type="listitem">Tavahilpra savo aschar te diro fussar hilpra ninna te tava trinn. Rakkrar an taven doj dinster-moschen hilprar baschi dolle honkar jikk mostula, abbo vavros rada aschar akkter diro.</p>
+<p type="listitem">Dràbbra ta randra hilpra, savo aschar te diro fussar hilpra ninna te drabbra ta/ire randra arkounum ta randrepha, rescha lill niga trissan ninna buttare.</p>
+</list><p type="title">Saste avar diro?</p>
+<p>Themmeskepottarnas tav jana bàsi dolle aschar rakkra dinreske an dolle themmet ire tji.</p>
+<p type="title">Tavarakkra</p>
+<p>Tavarakkra honkar jeck mollermuck themmbaripe dinreske bàsi diro kammar gol- rakkra ire rakkrepá vina. Pre Telerakkel mengar rekklepha-mengare ta dova hilprar rada dova Sveddinska rakklephat. Doj nast diro fussa hilpra ninna kava dinreske:</p>
+<list><p type="listitem">Tavarakkra chibrandela savo mengar ninna kerria lav basi diro kammar dolle kerria ninna te schunna ire furste so savo pennas.</p>
+<p type="listitem">Tavarakkra chibrandela hilpra diro sar kovar blavar kattlo bàsi diro aur hilpra diro tava preal tavapinsla.</p>
+<p type="listitem">Tavarakkra honkar ninna savo hilpra telal saroe rakkrepa. Kava nast randra dova savo pennas ta diro ta nast senslo bischa to diro.</p>
+</list><p type="title">Saste diro?</p>
+<p>Diro tavar ninna diro tav, beschad ire mobiltav taveskeginn 020-22 11 44. Jeck chibrakkra tavar uppre dova diro mangela tava ta honkar ninna savo hilpra ninna rakkrepa. Karna rakkrepha honkar phater tavas dova trindje manischen abri ta diro rakkra ninna chibrakkra bàsi rakkrepat</p>
+</body></document>

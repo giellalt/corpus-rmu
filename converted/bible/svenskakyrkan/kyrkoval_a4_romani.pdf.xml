@@ -1,116 +1,89 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1645</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.svenskakyrkan.se/kyrkoval2005/documents/Kyrkoval_A4_romani.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="kyrkoval_a4_eng.pdf"/>
-    <parallel_text xml:lang="fin" location="kyrkoval_a4_fi.pdf"/>
-    <parallel_text xml:lang="sma" location="050818kyrkoval_a4_sydsam.pdf"/>
-    <parallel_text xml:lang="sme" location="kyrkoval_a4_nordsamiska.pdf"/>
-    <parallel_text xml:lang="smj" location="kyrkoval_a4_lulesamiska.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">E Shvedisko kangeriako alomos/ electsia ando 18 september</p>
-    <p xml:lang="nno">Ande e Shvedisko kangeri si opral sar efta (7) milijoni membrura ai si ankerdi ai piradi katar le manush kai kamen te avel le kadia butji ai te len sama (responbilitano) ande o buflimos ai te formin la kangeria ando o trajo mai angle. Ande o 18 september si sa le membrun/medlemar kai perdjile 16 bers ai si ramome/regresterime ando Shvedo chansa/ shaijipe te den zor ai adjutimos kodoles vai kodolen kai si te len o patjamos (confeansia) te piraven/kontrolin e Shvedisko kangeri le shtar bers mai angle.</p>
-    <p xml:lang="ron">E butji ande e Shvedisko kangeri si deza bari ai kerdjol pe pashte pe e sa e lumia. E Kangeri khamel/mangel te avel jek than/platzo kai sjaj te tjidel pes o manush te divinil/vorbil mashkar peste ando kamlimos, kethanimos/khetanipe duximasa ai ando kontakto le Bare Devlesa. Jek kangeri kai sjaj te del le manushen lashe svuntsi gindori ai vi te adjutil te sastol o manush vi ande e anima/ilo. Ai te avel jek putardi tjatje ilesa kangeri kai adjutil ai thol partia le kovle manusheske ai kodolenge kai si ando o kovlimos/ problemo. Jek kangeri kai pe e kristianisko ai manushikano grundo/fundamento tjatjimasa te kerel e butji ando praktiko ai na firdi ande e vorba vai pe rham/lil noma ando praktisko butji, vi khate khere ai vi andel le thema, ando radojimos ai vi ando nekazo, vi andel le djesa le normala ai vi andel le djesa le bare.</p>
-    <p xml:lang="est">Kai te thol/shol e Shvedisko Kangeri peski zor?</p>
-    <p type="listitem" xml:lang="ron"><em type="italic">–  Te aven pe le platsori ai po than palal le katastrofiai bare bajoria kai kerdol pe?</em> </p>
-    <p type="listitem" xml:lang="ron"><em type="italic">–  Bolimos/bolimata, konfirmationo, anzurimata, ai gropomos/</em> <em type="italic">plaxomata?</em> </p>
-    <p type="listitem" xml:lang="swe"><em type="italic">–  Justefico comerso (rättvis handel)?</em> </p>
-    <p type="listitem" xml:lang="vep"><em type="italic">–  Te angagerin pe pala le manush  le nashade (flyktingfrågor)?</em> </p>
-    <p type="listitem" xml:lang="nob"><em type="italic">–  Pala le bare djesa sar: O Krutjono, E Patradji, Le Xusal/Rusali?</em> </p>
-    <p type="listitem" xml:lang="nno"><em type="italic">–  Te djan kai le phure, nasvale ai  kal le manush kai si korkoro ai  te diken ai te len sama?</em> </p>
-    <p type="listitem" xml:lang="swe"><em type="italic">–  Pala e butji ande e natura (miljöarbete)?</em> </p>
-    <p type="listitem" xml:lang="est"><em type="italic">–  Pe e muzika le ternenge ai shavorenge?</em> </p>
-    <p type="listitem" xml:lang="est"><em type="italic">–  Te len sama pe le khera le kangeriange (kyrkobyggnader)?</em> </p>
-    <p type="listitem" xml:lang="koi"><em type="italic">–  .............................?</em> </p>
-    <p xml:lang="nno">Ando alomos la kangeriako ando 18 september alosa tu korkoro kai te thol e Shvedisko kangeri peski zor ai adjutimata kadala shtar bers mai angle. Khas/khaste kames tu te des tjro patjape ai confiansa?</p>
-    <p xml:lang="nno">Po djes le alomasko tu si te alosa ande kodi sala/lokalo alomasko kai sikavel tuke pe e karta la alomaski kai avela tuke tradini/bishadi kai tjiro vudar (e poshta) na mai palal sar ando 31 augusti 2005. Ande kodi karta sikavel pes vi te pe le alomasko djes si kaver specialno alomake sali vai lakalori kai sjaj te alol o manush. O manush sjaj vi te alol vi mai anglal sar le alomasko djes, mai anglal sar o 18 september.</p>
-    <p xml:lang="fin">E Kangeriako alomos si trin vai shtar alomata/electsi</p>
-    <p xml:lang="ron">Ande la kangeriako alomos tu alos (des tjiro glazo) ande trin vai shtar alomata/ electsi,  de  pala  sar  si  e  organisationa  kerdi  ai  kerdjol-pe  ande  tjiri  kangeri/församling lokalno kai tu san ramome ai membru/medlem:</p>
-    <p xml:lang="nno">1) le kangeriako gazda vai ek direkto alome kangerisko consilo Khate lel-pes sama e butji so kerdjol pe ande la kangeriako trajo, na primer le butja kai vushe/aba si le ando vaz te kedjol-pe ai vi mai save vishonori/mål si le ando gindo te keren.</p>
-    <p xml:lang="nno">2) le kangeriako khetanipe Khate  mai  butivar  keren  mai  but  kangeria  kruglom  o  them  andek  than/khetanipe ande e butji la ekonomiako ai administrativno andek acordo. O khetanipe la kangeriako/Le gazdura la kangeriake si kai dezidin sar te vhuladjon le resursi sar pala lengo lov/mandjin kai si le sar andel le khera etc.</p>
-    <p xml:lang="nno">3) e gazda le fondoski Ande e Shvedoski kangeri si 13 fondura ai pe svako jek si jek biskopo kai si baro te lel sama e butji. E fondoski butji si te del zor ai suporto kai le kaver kangeroria kashte von te bhularen ai te zoraren peski butja.</p>
-    <p xml:lang="nno">4) la bare kangeriako kidimos/kidipe Kado  si  la  Shvedoska  Kangerisko  mai  baro  kidipe  sar  <span type="quote" xml:lang="eng">”parlamento”</span>  kusa  251 kangeriake  gazdura  kai  len  dezisionoria.  Ande  kado  kangeriasko  kidipe  lel-pes opre pushimata kai mishkin la kangeriako regula/regler sar na primer pa o bolimos, konfirmation, anzurimos/meritimos ai gropomata/plaxomata.</p>
-    <p xml:lang="ron">Andel save electsi/alomata tu sjaj te des tjiro glazo/alos sjaj dikes pe tjiro lil le alomasko (röstkort) kana avela.</p>
-    <p xml:lang="deu">ETA SAR</p>
-    <p xml:lang="deu">KERDJOL</p>
-    <p xml:lang="fin">E Kangeriako alomos si trin vai shtar alomata/electsi</p>
-    <p xml:lang="fin">Tut sa si tu voja/slobodia alos ande trin vai shtar electsi/ alomata, sar ka Kangeriako alomos, kai Fondoski gazda ai kai mai jek vai duj lokalno organori te si te tjiri kangeri/ församling si phangli ande jek Khetanimos vai naj.</p>
-    <p xml:lang="vep">PES:</p>
-    <p xml:lang="deu">DIREKTO</p>
-    <p xml:lang="vep">ALOMOS KAI</p>
-    <p xml:lang="vep">PO NATINALNO INSTANTSO</p>
-    <p xml:lang="deu">REGIONALNO INSTANTSO</p>
-    <p xml:lang="vep">E BARE KANGERIAKO</p>
-    <p xml:lang="deu">KIDIMOS/KIDIPE</p>
-    <p xml:lang="deu">DIREKTO</p>
-    <p xml:lang="vep">ALOMOS KAI</p>
-    <p xml:lang="deu">KANGERIAKO BOARDO</p>
-    <p xml:lang="nno">E GAZDA LE FONDOSKI</p>
-    <p xml:lang="deu">LE FONDOSKO BOARDO</p>
-    <p xml:lang="est">ANDE E KANGERI</p>
-    <p xml:lang="vep">PO LOKALNO INSTANTSO KANA</p>
-    <p xml:lang="isl">NAJ E KANGERI ANDO LA</p>
-    <p xml:lang="est">PO LOKALNO INSTANTSO KANA E KANGERI</p>
-    <p xml:lang="isl">ANDO LA KANGERIAKO/KIDIPE</p>
-    <p xml:lang="deu">DIREKTO</p>
-    <p xml:lang="deu">KANGERIAKO/KIDIPE</p>
-    <p xml:lang="vep">ALOMOS KAI</p>
-    <p xml:lang="deu">KANGERIAKO GAZDASKO</p>
-    <p xml:lang="deu">KHETANIMOS  (LE KANGERIAKE GAZDURA)</p>
-    <p xml:lang="deu">KANGERIAKSKI INSTITUTSIA</p>
-    <p xml:lang="deu">DIREKTO</p>
-    <p xml:lang="vep">ALOMOS KAIDIREKTO</p>
-    <p xml:lang="vep">ALOMOS KAIDIREKTO</p>
-    <p xml:lang="vep">ALOMOS KAI</p>
-    <p xml:lang="isl">LA KANGERIAKE</p>
-    <p xml:lang="deu">GAZDURA</p>
-    <p xml:lang="isl">LA KANGERIAKE</p>
-    <p xml:lang="deu">GAZDURADIREKTO-</p>
-    <p xml:lang="vep">ALOME</p>
-    <p xml:lang="deu">KANGERISKO</p>
-    <p xml:lang="deu">CONGRESO</p>
-    <p xml:lang="vep">KANGERIAKO CONSILOKANGERIAKO CONSILO</p>
-    <p xml:lang="deu">KANGERIAKO</p>
-    <p xml:lang="vep">CONSILO</p>
-    <p xml:lang="deu">KANGERIAKO</p>
-    <p xml:lang="vep">CONSILO</p>
-    <p xml:lang="nob">Andel le pashte parne felestri: Si andel kodola organi kai kamas tealosaras ando le kangeriako alomos.</p>
-    <p xml:lang="ron">Antregi parne ai pashte parne felestri si: Le organi kai dezidin.</p>
-    <p xml:lang="ron">Andel le linjake formime felestri si: Le organi kai kerdjol-pe lendar e butji praktiko.</p>
-    <p xml:lang="nno">Le direkto alome kangeriako consilo si vi kai dezidin ai vi kai te kerdjol-pe lendar e praktiko butji.</p>
-    <p xml:lang="fin">Te alosares, te des tjiro glazo</p>
-    <p xml:lang="ron">Te alosares si ai kerdjol-pe pashte pe sa-jek fialo sar kana alol o manush andel amare generalno alomata le themeske. Musaj tuke te alosares tjiria kartasa (röstkort) te si te kames te alos mai anglal sar o djes le alomasko 18 september, ai te si te kames te alos pe jek kaver specialno sala/lokalo. Ai vi te si te alosa ando normalno alomasko lokalo/sala sa musaj tuke te les tusa tjiro alomaskolil (röstkort).</p>
-    <p xml:lang="nob">pe alomasko djes ando 18 september</p>
-    <p xml:lang="ron">katar e alomaski sala/lokalo. Ande le alomasko-lil si tuke ramome kai ai ande savo lokalo/sala tu sjaj te alosares ai ka save tjasoria si puterdo.</p>
-    <p xml:lang="ron">pe specialno alomaske lokalori ai sali Onivar anzaren vi specialna lokalori ai sali te sjaj alolpe o manush pe but kaver specialno thana (lokalori ai sali). Te avela kadia pe le alomasko djes trobul ai si te ramolpe o than/platso ai ka save tjasori si puterdo pe tjiro alomasko lil.</p>
-    <p xml:lang="est">mai anglal sar le alomasko djes</p>
-    <p xml:lang="nno">le expeditionori ande sa o them De  katar  o  5  september  dzi  ando  14  september  sjaj  alos  te  kamesa  pe  le pastorato/kangeriake  expeditionori  ande  sa  o  them.  Sjaj  djas  ai  pushes tut kai kodo pastorato/expeditiono kai tu si te alosa te den tut mai but informatsia.</p>
-    <p xml:lang="nno">specialno alomasko lokalo/sala Sjaj si vi pale specialna alomaske lokalori kai si len puterdo te sjaj te alol o manush sar mai anglal sar o djes le alomasko. Trubos te kontaktis tu kai tjiro pastorato/församling te sjaj te les informatsia sar te keres ai save direktivori si.</p>
-    <p xml:lang="nno">alomos poshtako (brevrösta) ai adjutimasko alomos sar (budrösta) Tu kai manges te alos kaver fialo sar e vramia le alomaski sjaj trades/bishaves sjaj keres kodia pa e poshta <span type="quote" xml:lang="fin">”alomos poshtako”</span> ai katar tjiro pastorato les jek specialno <span type="quote" xml:lang="eng">”andek-paketo materialo”</span> (brevröstningspaket) kai sikavel sar alol pe o manush pe kado fialo (sätt). Ande kado paketo si tut sa e informatsia kai trobul tut kana si te alos pa e poshtako-lil (brevrösta) vai kana kames  te  alos  ande  <span type="quote" xml:lang="vep">”alomasko  adjutimos”</span>  (budrösta).  Te  kamesa  gata ramome lila alomaske sjaj manges le katar kodo nomeneringsgrupo kai tu si gindo te des len tjiro glazo (röst). Kadala fialora alomata/alectsi sar ”poshtako-lil vai adjutimasko-lil” musaj te aven angle na mai palal sar 14 september.</p>
-    <p xml:lang="fin">Pe kaste sjaj des tjiro glazo (te alos)</p>
-    <p xml:lang="ron">Ande la kangeriako alomos tu alos des tjiro glazo pe jek nomineringsgrupo sar pe jek partia kana keres alomos ando parlamento (riksdag).</p>
-    <p xml:lang="ron">Ai vi sjaj keres alomos pe jek manush te des tjiro glazo noma pe jek manush (personrösta),  ai  sa  le  kanditadtonge  anava  si  ramome  pe  e  lista  ande  kodia nominerigsgrupa kai tu kemes des tjiro glazo te avel alome.</p>
-    <p xml:lang="ron">Sa kadala nominerigsgrupi (la kangeriake partiji) den korkoro informiationa sar von atjaren ai kamen te kerel butji e kangeri le Shvedoaki, ai kai te del mai but zor ai putiara ando o trajo mai angle. Pe save grupoaria tu kamesa te alos ai te des len tjiro glazo dikes ai djanesa vorta lendar katar tjiri kangeri vai pastorato/församling. Tu sjaj arakes vi le listori kadala pe e data/computeri www.svenskakyrkan.se.</p>
-    <p xml:lang="est">Alomasko/electsiasko resultato</p>
-    <p xml:lang="nno">Pe www.svenskakyrkan.se si te avela ramome/skrijime (publisirime) preliminaro resultato ande e vriama kai avena djinde le glazori pala kana pandadile le alomaske lokalori/sali. Ai o mai paluno resultato kai si te sikavela kon ando agor/getosajla o djinimos nirisardas avela ramome/publisime pale po www.svenskakyrkan.se kana sa le glazori/ votori sas kontrolime djinade katar le kangeriake fondori (stiften).</p>
-    <p xml:lang="ron">Tut kai si tu voja/slobodia te alos trobul te lan tjiro alomasko-lil na mai palal sar o 31 augusti tute khere tradino/bishado. ai pe kodo lil si ramome/skrijime le personalno direktivori (uppgifter) andel save alomata tu sjaj te votis te des tjiro glazo, ai vi sar ai kana sar te votis/ alosares.</p>
-    <p xml:lang="fin">Te si te peradan vai te xasajla vai te varisosko dosha/felora pe tjiro alomasko-lil bolde tut kai o Kyrkostyrelsen, Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Informationsservice), vai te mangesa jek nevo lil sjaj te manges/beställa pale po www.svenskakyrkan.se. Kodola kai si len voja/slobodia (röstberättiga) ai tji avila lenge o alomasko-lil trobun te bolden pes ai te kontaktin pe vi von kai o Kyrkostyrelsen.</p>
-    <p xml:lang="nno">O alomasko-lil avela tumenge tradino/bishado pe kodo adresso kai san tu ramome (folkbokföringsadress). Jek dubbleto (kopia) pe tjiro alomasko-lil sjaj te avel faxime kai kodo pastorato/församling katar tut si te alos/votis ai vi kai le kangeria andel le thema kai si phangle kai e Shvedisko kangeri.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>1645</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.svenskakyrkan.se/kyrkoval2005/documents/Kyrkoval_A4_romani.pdf</origFileName><parallel_text xml:lang="eng" location="kyrkoval_a4_eng.pdf"/><parallel_text xml:lang="fin" location="kyrkoval_a4_fi.pdf"/><parallel_text xml:lang="sma" location="050818kyrkoval_a4_sydsam.pdf"/><parallel_text xml:lang="sme" location="kyrkoval_a4_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="kyrkoval_a4_lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">E Shvedisko kangeriako alomos/ electsia ando 18 september</p>
+<p xml:lang="rmy-rka">Ande e Shvedisko kangeri si opral sar efta (7) milijoni membrura ai si ankerdi ai piradi katar le manush kai kamen te avel le kadia butji ai te len sama (responbilitano) ande o buflimos ai te formin la kangeria ando o trajo mai angle. Ande o 18 september si sa le membrun/medlemar kai perdjile 16 bers ai si ramome/regresterime ando Shvedo chansa/ shaijipe te den zor ai adjutimos kodoles vai kodolen kai si te len o patjamos (confeansia) te piraven/kontrolin e Shvedisko kangeri le shtar bers mai angle.</p>
+<p xml:lang="rmy-rka">E butji ande e Shvedisko kangeri si deza bari ai kerdjol pe pashte pe e sa e lumia. E Kangeri khamel/mangel te avel jek than/platzo kai sjaj te tjidel pes o manush te divinil/vorbil mashkar peste ando kamlimos, kethanimos/khetanipe duximasa ai ando kontakto le Bare Devlesa. Jek kangeri kai sjaj te del le manushen lashe svuntsi gindori ai vi te adjutil te sastol o manush vi ande e anima/ilo. Ai te avel jek putardi tjatje ilesa kangeri kai adjutil ai thol partia le kovle manusheske ai kodolenge kai si ando o kovlimos/ problemo. Jek kangeri kai pe e kristianisko ai manushikano grundo/fundamento tjatjimasa te kerel e butji ando praktiko ai na firdi ande e vorba vai pe rham/lil noma ando praktisko butji, vi khate khere ai vi andel le thema, ando radojimos ai vi ando nekazo, vi andel le djesa le normala ai vi andel le djesa le bare.</p>
+<p xml:lang="est">Kai te thol/shol e Shvedisko Kangeri peski zor?</p>
+<p type="listitem" xml:lang="rmy-rka"><em type="italic">–  Te aven pe le platsori ai po than palal le katastrofiai bare bajoria kai kerdol pe?</em> </p>
+<p type="listitem" xml:lang="ron"><em type="italic">–  Bolimos/bolimata, konfirmationo, anzurimata, ai gropomos/</em> <em type="italic">plaxomata?</em> </p>
+<p type="listitem" xml:lang="swe"><em type="italic">–  Justefico comerso (rättvis handel)?</em> </p>
+<p type="listitem" xml:lang="nno"><em type="italic">–  Te angagerin pe pala le manush  le nashade (flyktingfrågor)?</em> </p>
+<p type="listitem" xml:lang="nob"><em type="italic">–  Pala le bare djesa sar: O Krutjono, E Patradji, Le Xusal/Rusali?</em> </p>
+<p type="listitem" xml:lang="rmy-rka"><em type="italic">–  Te djan kai le phure, nasvale ai  kal le manush kai si korkoro ai  te diken ai te len sama?</em> </p>
+<p type="listitem" xml:lang="rmy-rka"><em type="italic">–  Pala e butji ande e natura (miljöarbete)?</em> </p>
+<p type="listitem" xml:lang="est"><em type="italic">–  Pe e muzika le ternenge ai shavorenge?</em> </p>
+<p type="listitem" xml:lang="est"><em type="italic">–  Te len sama pe le khera le kangeriange (kyrkobyggnader)?</em> </p>
+<p type="listitem" xml:lang="vep"><em type="italic">–  .............................?</em> </p>
+<p xml:lang="rmy-rka">Ando alomos la kangeriako ando 18 september alosa tu korkoro kai te thol e Shvedisko kangeri peski zor ai adjutimata kadala shtar bers mai angle. Khas/khaste kames tu te des tjro patjape ai confiansa?</p>
+<p xml:lang="rmy-rka">Po djes le alomasko tu si te alosa ande kodi sala/lokalo alomasko kai sikavel tuke pe e karta la alomaski kai avela tuke tradini/bishadi kai tjiro vudar (e poshta) na mai palal sar ando 31 augusti 2005. Ande kodi karta sikavel pes vi te pe le alomasko djes si kaver specialno alomake sali vai lakalori kai sjaj te alol o manush. O manush sjaj vi te alol vi mai anglal sar le alomasko djes, mai anglal sar o 18 september.</p>
+<p xml:lang="fin">E Kangeriako alomos si trin vai shtar alomata/electsi</p>
+<p xml:lang="rmy-rka">Ande la kangeriako alomos tu alos (des tjiro glazo) ande trin vai shtar alomata/ electsi,  de  pala  sar  si  e  organisationa  kerdi  ai  kerdjol-pe  ande  tjiri  kangeri/församling lokalno kai tu san ramome ai membru/medlem:</p>
+<p xml:lang="rmy-rka">1) le kangeriako gazda vai ek direkto alome kangerisko consilo Khate lel-pes sama e butji so kerdjol pe ande la kangeriako trajo, na primer le butja kai vushe/aba si le ando vaz te kedjol-pe ai vi mai save vishonori/mål si le ando gindo te keren.</p>
+<p xml:lang="nno">2) le kangeriako khetanipe Khate  mai  butivar  keren  mai  but  kangeria  kruglom  o  them  andek  than/khetanipe ande e butji la ekonomiako ai administrativno andek acordo. O khetanipe la kangeriako/Le gazdura la kangeriake si kai dezidin sar te vhuladjon le resursi sar pala lengo lov/mandjin kai si le sar andel le khera etc.</p>
+<p xml:lang="nno">3) e gazda le fondoski Ande e Shvedoski kangeri si 13 fondura ai pe svako jek si jek biskopo kai si baro te lel sama e butji. E fondoski butji si te del zor ai suporto kai le kaver kangeroria kashte von te bhularen ai te zoraren peski butja.</p>
+<p xml:lang="nno">4) la bare kangeriako kidimos/kidipe Kado  si  la  Shvedoska  Kangerisko  mai  baro  kidipe  sar  <span type="quote" xml:lang="eng">”parlamento”</span>  kusa  251 kangeriake  gazdura  kai  len  dezisionoria.  Ande  kado  kangeriasko  kidipe  lel-pes opre pushimata kai mishkin la kangeriako regula/regler sar na primer pa o bolimos, konfirmation, anzurimos/meritimos ai gropomata/plaxomata.</p>
+<p xml:lang="rmy-rka">Andel save electsi/alomata tu sjaj te des tjiro glazo/alos sjaj dikes pe tjiro lil le alomasko (röstkort) kana avela.</p>
+<p xml:lang="deu">ETA SAR</p>
+<p xml:lang="deu">KERDJOL</p>
+<p xml:lang="fin">E Kangeriako alomos si trin vai shtar alomata/electsi</p>
+<p xml:lang="rmy-rka">Tut sa si tu voja/slobodia alos ande trin vai shtar electsi/ alomata, sar ka Kangeriako alomos, kai Fondoski gazda ai kai mai jek vai duj lokalno organori te si te tjiri kangeri/ församling si phangli ande jek Khetanimos vai naj.</p>
+<p xml:lang="vep">PES:</p>
+<p xml:lang="deu">DIREKTO</p>
+<p xml:lang="vep">ALOMOS KAI</p>
+<p xml:lang="vep">PO NATINALNO INSTANTSO</p>
+<p xml:lang="deu">REGIONALNO INSTANTSO</p>
+<p xml:lang="vep">E BARE KANGERIAKO</p>
+<p xml:lang="deu">KIDIMOS/KIDIPE</p>
+<p xml:lang="deu">DIREKTO</p>
+<p xml:lang="vep">ALOMOS KAI</p>
+<p xml:lang="deu">KANGERIAKO BOARDO</p>
+<p xml:lang="nno">E GAZDA LE FONDOSKI</p>
+<p xml:lang="deu">LE FONDOSKO BOARDO</p>
+<p xml:lang="est">ANDE E KANGERI</p>
+<p xml:lang="vep">PO LOKALNO INSTANTSO KANA</p>
+<p xml:lang="isl">NAJ E KANGERI ANDO LA</p>
+<p xml:lang="est">PO LOKALNO INSTANTSO KANA E KANGERI</p>
+<p xml:lang="isl">ANDO LA KANGERIAKO/KIDIPE</p>
+<p xml:lang="deu">DIREKTO</p>
+<p xml:lang="deu">KANGERIAKO/KIDIPE</p>
+<p xml:lang="vep">ALOMOS KAI</p>
+<p xml:lang="deu">KANGERIAKO GAZDASKO</p>
+<p xml:lang="deu">KHETANIMOS  (LE KANGERIAKE GAZDURA)</p>
+<p xml:lang="deu">KANGERIAKSKI INSTITUTSIA</p>
+<p xml:lang="deu">DIREKTO</p>
+<p xml:lang="vep">ALOMOS KAIDIREKTO</p>
+<p xml:lang="vep">ALOMOS KAIDIREKTO</p>
+<p xml:lang="vep">ALOMOS KAI</p>
+<p xml:lang="isl">LA KANGERIAKE</p>
+<p xml:lang="deu">GAZDURA</p>
+<p xml:lang="isl">LA KANGERIAKE</p>
+<p xml:lang="deu">GAZDURADIREKTO-</p>
+<p xml:lang="vep">ALOME</p>
+<p xml:lang="deu">KANGERISKO</p>
+<p xml:lang="deu">CONGRESO</p>
+<p xml:lang="vep">KANGERIAKO CONSILOKANGERIAKO CONSILO</p>
+<p xml:lang="deu">KANGERIAKO</p>
+<p xml:lang="vep">CONSILO</p>
+<p xml:lang="deu">KANGERIAKO</p>
+<p xml:lang="vep">CONSILO</p>
+<p xml:lang="rmy-rka">Andel le pashte parne felestri: Si andel kodola organi kai kamas tealosaras ando le kangeriako alomos.</p>
+<p xml:lang="ron">Antregi parne ai pashte parne felestri si: Le organi kai dezidin.</p>
+<p xml:lang="nno">Andel le linjake formime felestri si: Le organi kai kerdjol-pe lendar e butji praktiko.</p>
+<p xml:lang="rmy-rka">Le direkto alome kangeriako consilo si vi kai dezidin ai vi kai te kerdjol-pe lendar e praktiko butji.</p>
+<p>Te alosares, te des tjiro glazo</p>
+<p xml:lang="rmy-rka">Te alosares si ai kerdjol-pe pashte pe sa-jek fialo sar kana alol o manush andel amare generalno alomata le themeske. Musaj tuke te alosares tjiria kartasa (röstkort) te si te kames te alos mai anglal sar o djes le alomasko 18 september, ai te si te kames te alos pe jek kaver specialno sala/lokalo. Ai vi te si te alosa ando normalno alomasko lokalo/sala sa musaj tuke te les tusa tjiro alomaskolil (röstkort).</p>
+<p xml:lang="rmy-rka">pe alomasko djes ando 18 september</p>
+<p xml:lang="rmy-rka">katar e alomaski sala/lokalo. Ande le alomasko-lil si tuke ramome kai ai ande savo lokalo/sala tu sjaj te alosares ai ka save tjasoria si puterdo.</p>
+<p xml:lang="rmy-rka">pe specialno alomaske lokalori ai sali Onivar anzaren vi specialna lokalori ai sali te sjaj alolpe o manush pe but kaver specialno thana (lokalori ai sali). Te avela kadia pe le alomasko djes trobul ai si te ramolpe o than/platso ai ka save tjasori si puterdo pe tjiro alomasko lil.</p>
+<p xml:lang="nob">mai anglal sar le alomasko djes</p>
+<p xml:lang="nno">le expeditionori ande sa o them De  katar  o  5  september  dzi  ando  14  september  sjaj  alos  te  kamesa  pe  le pastorato/kangeriake  expeditionori  ande  sa  o  them.  Sjaj  djas  ai  pushes tut kai kodo pastorato/expeditiono kai tu si te alosa te den tut mai but informatsia.</p>
+<p xml:lang="rmy-rka">specialno alomasko lokalo/sala Sjaj si vi pale specialna alomaske lokalori kai si len puterdo te sjaj te alol o manush sar mai anglal sar o djes le alomasko. Trubos te kontaktis tu kai tjiro pastorato/församling te sjaj te les informatsia sar te keres ai save direktivori si.</p>
+<p xml:lang="rmy-rka">alomos poshtako (brevrösta) ai adjutimasko alomos sar (budrösta) Tu kai manges te alos kaver fialo sar e vramia le alomaski sjaj trades/bishaves sjaj keres kodia pa e poshta <span type="quote" xml:lang="rmy-rka">”alomos poshtako”</span> ai katar tjiro pastorato les jek specialno <span type="quote" xml:lang="rmy-rka">”andek-paketo materialo”</span> (brevröstningspaket) kai sikavel sar alol pe o manush pe kado fialo (sätt). Ande kado paketo si tut sa e informatsia kai trobul tut kana si te alos pa e poshtako-lil (brevrösta) vai kana kames  te  alos  ande  <span type="quote" xml:lang="rmy-rka">”alomasko  adjutimos”</span>  (budrösta).  Te  kamesa  gata ramome lila alomaske sjaj manges le katar kodo nomeneringsgrupo kai tu si gindo te des len tjiro glazo (röst). Kadala fialora alomata/alectsi sar ”poshtako-lil vai adjutimasko-lil” musaj te aven angle na mai palal sar 14 september.</p>
+<p xml:lang="rmy-rka">Pe kaste sjaj des tjiro glazo (te alos)</p>
+<p xml:lang="rmy-rka">Ande la kangeriako alomos tu alos des tjiro glazo pe jek nomineringsgrupo sar pe jek partia kana keres alomos ando parlamento (riksdag).</p>
+<p xml:lang="rmy-rka">Ai vi sjaj keres alomos pe jek manush te des tjiro glazo noma pe jek manush (personrösta),  ai  sa  le  kanditadtonge  anava  si  ramome  pe  e  lista  ande  kodia nominerigsgrupa kai tu kemes des tjiro glazo te avel alome.</p>
+<p xml:lang="rmy-rka">Sa kadala nominerigsgrupi (la kangeriake partiji) den korkoro informiationa sar von atjaren ai kamen te kerel butji e kangeri le Shvedoaki, ai kai te del mai but zor ai putiara ando o trajo mai angle. Pe save grupoaria tu kamesa te alos ai te des len tjiro glazo dikes ai djanesa vorta lendar katar tjiri kangeri vai pastorato/församling. Tu sjaj arakes vi le listori kadala pe e data/computeri www.svenskakyrkan.se.</p>
+<p xml:lang="est">Alomasko/electsiasko resultato</p>
+<p xml:lang="nno">Pe www.svenskakyrkan.se si te avela ramome/skrijime (publisirime) preliminaro resultato ande e vriama kai avena djinde le glazori pala kana pandadile le alomaske lokalori/sali. Ai o mai paluno resultato kai si te sikavela kon ando agor/getosajla o djinimos nirisardas avela ramome/publisime pale po www.svenskakyrkan.se kana sa le glazori/ votori sas kontrolime djinade katar le kangeriake fondori (stiften).</p>
+<p xml:lang="rmy-rka">Tut kai si tu voja/slobodia te alos trobul te lan tjiro alomasko-lil na mai palal sar o 31 augusti tute khere tradino/bishado. ai pe kodo lil si ramome/skrijime le personalno direktivori (uppgifter) andel save alomata tu sjaj te votis te des tjiro glazo, ai vi sar ai kana sar te votis/ alosares.</p>
+<p xml:lang="rmy-rka">Te si te peradan vai te xasajla vai te varisosko dosha/felora pe tjiro alomasko-lil bolde tut kai o Kyrkostyrelsen, Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Informationsservice), vai te mangesa jek nevo lil sjaj te manges/beställa pale po www.svenskakyrkan.se. Kodola kai si len voja/slobodia (röstberättiga) ai tji avila lenge o alomasko-lil trobun te bolden pes ai te kontaktin pe vi von kai o Kyrkostyrelsen.</p>
+<p xml:lang="rmy-rka">O alomasko-lil avela tumenge tradino/bishado pe kodo adresso kai san tu ramome (folkbokföringsadress). Jek dubbleto (kopia) pe tjiro alomasko-lil sjaj te avel faxime kai kodo pastorato/församling katar tut si te alos/votis ai vi kai le kangeria andel le thema kai si phangle kai e Shvedisko kangeri.</p>
+</body></document>

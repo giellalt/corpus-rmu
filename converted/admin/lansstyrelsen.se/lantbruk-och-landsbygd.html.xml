@@ -1,57 +1,19 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>305</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/lantbruk-och-landsbygd/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="fin" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd.html"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rka"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmf"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmn"/>
-    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Themmeskebrukfara &amp; themmeskekeribepha - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Themmeskebrukfara ta themmeskekeribepha</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Themmeskebrukfara &amp; themmeskekeribepha</p>
-    <p xml:lang="swe"><em type="italic">Themmeskepottande- enheti mengar gla te EU:s ta Sveddingens phuveskebrukfara- politik ta themmeskekeribepha politiken fussar palladabb- sor pre regionali niva. Dolle aschar te themmeskebrukfarandet saste bliddra konkuransi-soralopha ta langrojurepha sorali savrigetjiro savo dolle ekologiska phuvekerrandet bliddrar baroare ta mollepha naturi ta kulturo-themmar suttar doj dova saste ascha. Jeck jibbande themmeskekeribepha aschar ta te dolle aschar alternativo kerranden, fedig service ta sjukkar boddrande-steddopha. </em></p>
-    <p type="title" xml:lang="swe">Gressjokerranden</p>
-    <p xml:lang="swe">Themmeskepottande- enheti mengar ninna butti friggor sav gustrar gressjokerranden. Vorsnos dikkar to ta kontrolleri gressjo steddopha sav dova kammar jeck sjukkard ta fedig steddopha. Gla te gressjoerna, ta vorsnos manischen, saste kamma kanslan attjer bhai aschar dolle jeck baro frigga te kabingen to gressjoerna produceras, kerras, te brukfaras fedigt, tradras ta brukfara fedigt. Dolle dikkas to ta kontrolleri an butti tavvar attjer Themmeskepottande- enheti ta Phuveskebrukfara- keribenpha. Gla gressjo- steddos ninna 400 ire buttare gressjo- enheti mustula dolle dokka avri jeck hortepha, jick pottoiller fann Themmeskepottande- enheti. Vorsnos dokkar avri pottoiller to vavver kettanesmengare savo mengar ninna gressjo, to exempli jycko-kere ta grejj- kere.</p>
-    <p type="title" xml:lang="swe">Themmeskekeribepha- progressionpha</p>
-    <p xml:lang="swe">Vorsnos dynkrar pre savrige ghav unika karrakteri ta kerrar pre kava sutt to jeck fedig progressionpha gla themmeskekeribepha. Themmeskekeribepha- programmeti aschar jick EU-program savo dokkar kerrande manisch ta vavver kerrande manisch pre themmeskekeribepha dolle hortan te rodepha lover gla te kerra, aggra, baropha roddrelser, abbo tasa baroa kompetensi ninna roddrelserna.</p>
-    <p type="title" xml:lang="swe">Themmeskebrukfara</p>
-    <p xml:lang="swe">Themmeskepottande- enheti mengar gla te phuveskebrukfara- kabingpha an themmet saste progressionpha. Jick jibbeskesoralopha themmeskebrukfara aschar gla jick fedigt phuveskepha ta jeck jibbande themmeskekeribepha. Vorsnos baroaste uschalipha aschar te kerra gla jick fedigt, effektio ta trujalipha- malanot themmeskebrukfara palla Sveddingens ta EU:s themmeskebrukfara poletik. Kava aschar te vorsnos dokkar avti informationi ta pennande to themmets themmeskebrukfarare. Vorsnos ler friggande-iller baschi EU- hilprepha, kerrande gla dova iller, dikka to kerranden ta pottat avrifann EU:s hortepha- iller.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>305</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-sr/lantbruk-och-landsbygd/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="fin" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/><parallel_text xml:lang="swe" location="lantbruk-och-landsbygd.html"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rka"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmf"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmn"/><parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Themmeskebrukfara &amp; themmeskekeribepha - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Themmeskebrukfara ta themmeskekeribepha</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Themmeskebrukfara &amp; themmeskekeribepha</p>
+<p><em type="italic">Themmeskepottande- enheti mengar gla te EU:s ta Sveddingens phuveskebrukfara- politik ta themmeskekeribepha politiken fussar palladabb- sor pre regionali niva. Dolle aschar te themmeskebrukfarandet saste bliddra konkuransi-soralopha ta langrojurepha sorali savrigetjiro savo dolle ekologiska phuvekerrandet bliddrar baroare ta mollepha naturi ta kulturo-themmar suttar doj dova saste ascha. Jeck jibbande themmeskekeribepha aschar ta te dolle aschar alternativo kerranden, fedig service ta sjukkar boddrande-steddopha. </em></p>
+<p type="title">Gressjokerranden</p>
+<p>Themmeskepottande- enheti mengar ninna butti friggor sav gustrar gressjokerranden. Vorsnos dikkar to ta kontrolleri gressjo steddopha sav dova kammar jeck sjukkard ta fedig steddopha. Gla te gressjoerna, ta vorsnos manischen, saste kamma kanslan attjer bhai aschar dolle jeck baro frigga te kabingen to gressjoerna produceras, kerras, te brukfaras fedigt, tradras ta brukfara fedigt. Dolle dikkas to ta kontrolleri an butti tavvar attjer Themmeskepottande- enheti ta Phuveskebrukfara- keribenpha. Gla gressjo- steddos ninna 400 ire buttare gressjo- enheti mustula dolle dokka avri jeck hortepha, jick pottoiller fann Themmeskepottande- enheti. Vorsnos dokkar avri pottoiller to vavver kettanesmengare savo mengar ninna gressjo, to exempli jycko-kere ta grejj- kere.</p>
+<p type="title">Themmeskekeribepha- progressionpha</p>
+<p>Vorsnos dynkrar pre savrige ghav unika karrakteri ta kerrar pre kava sutt to jeck fedig progressionpha gla themmeskekeribepha. Themmeskekeribepha- programmeti aschar jick EU-program savo dokkar kerrande manisch ta vavver kerrande manisch pre themmeskekeribepha dolle hortan te rodepha lover gla te kerra, aggra, baropha roddrelser, abbo tasa baroa kompetensi ninna roddrelserna.</p>
+<p type="title">Themmeskebrukfara</p>
+<p>Themmeskepottande- enheti mengar gla te phuveskebrukfara- kabingpha an themmet saste progressionpha. Jick jibbeskesoralopha themmeskebrukfara aschar gla jick fedigt phuveskepha ta jeck jibbande themmeskekeribepha. Vorsnos baroaste uschalipha aschar te kerra gla jick fedigt, effektio ta trujalipha- malanot themmeskebrukfara palla Sveddingens ta EU:s themmeskebrukfara poletik. Kava aschar te vorsnos dokkar avti informationi ta pennande to themmets themmeskebrukfarare. Vorsnos ler friggande-iller baschi EU- hilprepha, kerrande gla dova iller, dikka to kerranden ta pottat avrifann EU:s hortepha- iller.</p>
+</body></document>

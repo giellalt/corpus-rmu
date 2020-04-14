@@ -1,67 +1,25 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>644</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Baschi-diro-bliddrar-miakt-kerrad</origFileName>
-    <parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/>
-    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
-    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
-    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
-    <parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/>
-    <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
-    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
-    <parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Baschi diro bliddrar miakt kerrad</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Baschi diro bliddrar miakt kerrad</p>
-    <p xml:lang="swe">Karna diro bliddrar kerrad miakt honkar dolle lokki te diro aggrar kansla diro nervolo ta kanslar diro kerria. Dolle nasht kerra sav diro fussar butt kerriare jurepha pre diro solus ta tji voltrar ava an momenti doj diro nachat trissa dova savots honkar kerria koro diros. Abbo nani saste gara siro gla te vaver manisch honkar kerria.</p>
-    <p xml:lang="swe">Kommoni savo bliddrar kerria kerrade aggrar pattja te dolle honkar dova dolle honkar vina pre. Dolle astispha dynkra pre siro solus gla te tji bliddra kerriat kerrade. Abbo diro saste tji kerra diro najek savo honkar diro, rada gla vaver manisch honkar miaka. Diro kammar sarstil tjatjcho te tji bliddra kerria kerrad.</p>
-    <p type="title" xml:lang="swe">Karna honkar dolle tjattjo miakt kerrande?</p>
-    <p xml:lang="swe">Dolle honkar tjattjo miakt kerrande baschi diro butt tjiro bliddrar miakt kerrad, lajjad ire dabbad. Tjattjo miakt kerrande nasht ascha motjill-rackel, dikkanden, sadde, dabb ta kerria lav. Dolle honkar tjattjo miakt kerrande baschi diro narstill fussa ascha ninna ire baschi kommoni tjivvrar kokkaro ful-rackel baschi diro.</p>
-    <p xml:lang="swe">Dolle nasht aur ascha te kommoni beschar kerria sms ire e-iller, randrar kerria pennanden pre flatanbleddran, an jeck blogg ire pre kommoni vaver steddo pre webben. Ire te kommoni baschar uppri kerria tella.</p>
-    <p xml:lang="swe">Baschi kommoni pennar kerria lav gla sar diro kammar isar ire jurar, kammar jeck vina, honkar kava tjattjo miakt kerrande. Baschi diro honkar kerrad gla kommoni attjer kava, ta aggrar kansla dolle kerria attjer kava, nasht diro kamma hilprepha gla te dolle saste phatra.</p>
-    <p type="title" xml:lang="swe">Pramissa baschi miakt kerrande</p>
-    <p xml:lang="swe">Dolle nasht kanslas nervolot te pramissa gla kommoni te diro bliddrar miakt kerrad. Attispha pattjar diro te dolle saste bliddra kerriare baschi diro pramissar. Attispha lajjas diro gla te diro honkar avriglan. Abbo dolle honkar tji dova savo bliddrar miakt kerrad savo kammar kerrat vina!</p>
-    <p xml:lang="swe">Baschi diro bliddrar kerrad gla miakt kerrade honkar dolle fedigast te pramissa dolle ta kamma hilprepha te bascha phater gla miakt kerrande. Diro nasht pramissa gla jeck blattra, bleddreskekere-kurator ire dukkalopenja.</p>
-    <p xml:lang="swe">Dolle nasht ascha fedigt te aggra ninna te pramissa baschi miakt kerrande gla kommoni baro savo diro pattjar pre, kommoni an narthan, ta senslo le hilprepha attjer dova gla te pramissa dolle gla kommoni vaver an bleddreskekeret.</p>
-    <p xml:lang="swe">Baschi bleddreskekeret fussa jana te jeck manisch kanslar siro miakt kerrad, mustula dova siggrepha le janepha so kammar kerrats. Dova mustula kerra sassarot gla te kava tji saste kerras buttare. Dova baro manischen an bleddreskekeret kammar uschalipha te jura to te nane manisch bliddrar miakt kerrade ire vaver savrige. Dolle honkar randrat an kanunin te dolle honkar bleddreskekerets uschalipha te jura to te nane bliddrar miakt kerrad.</p>
-    <p type="title" xml:lang="swe">Fedigt te dynkra pre baschi diro bliddrar miakt kerrad:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Dolle honkar narstill savo te diro saste dynkra dolle honkar diro vina te diro bliddrar miakt kerrad.</p>
-      <p type="listitem" xml:lang="swe">Dolle aschar kanunier savo pennar te diro tji fussar bliddrar kerria kerrad pre bleddreskekeret ire pre jeck mengeskesteddo.</p>
-      <p type="listitem" xml:lang="swe">Dolle honkar jeck stillopha te kommoni pennar darranoa lav to diro, ire te dova saste dabba diro, ire darrar diro ninna tella pre webben.</p>
-      <p type="listitem" xml:lang="swe">Bleddreskekere ta mengeskedokkarna honkar uschalipha te fussa kerra sav te sassaro kanslar siro rakkepha.</p>
-      <p type="listitem" xml:lang="swe">Diro saste le trissepha ninna kommoni baro diro pattjar pre, kommoni attjer diro dad ire dakri, vaver nartha ire jeck vaver manisch diro prinjar.</p>
-      <p type="listitem" xml:lang="swe">Diro nasht aur ta trissepha ninna bleddreskekere-kurator ire ungdomsmottagning gla te rackla ta fussa hilprepha.</p>
-      <p type="listitem" xml:lang="swe">Baschi bleddreskekere fussar jana te jeck manisch kanslar siro miakt kerrad honkar dova uschali te jura to te dolle tji bliddrar buttare.</p>
-      <p type="listitem" xml:lang="swe">Baschi diro bliddrar miakt kerrad an bleddreskekeret ta tji fussar hilprepha attjer bleddreskekeret sav nasht diro tjalla kava to nucko- ta elevombudet.</p>
-      <p type="listitem" xml:lang="swe">Le trissepha ninna beddon baschi kommoni tjivvrar avri tella pre diro avritan saribe. Kava honkar jeck stillopha koro manisch-janepha-kanuni. Te lajja avri kommoni ire miakt kerra kommoni pre webben honkar jeck stillopha savo pre jeck vaver steddo.</p>
-    </list>
-    <p xml:lang="swe">» Miak attjer manisch (mobbning)</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>639</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/resanderomska/Baschi-diro-bliddrar-miakt-kerrad</origFileName><parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/><parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/><parallel_text xml:lang="sma" location="jis-irhkesavva.html"/><parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/><parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/><parallel_text xml:lang="swe" location="om-man-mobbas.html"/><parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/><parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/><parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/><parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Baschi diro bliddrar miakt kerrad</p>
+<p type="title">Baschi diro bliddrar miakt kerrad</p>
+<p>Karna diro bliddrar kerrad miakt honkar dolle lokki te diro aggrar kansla diro nervolo ta kanslar diro kerria. Dolle nasht kerra sav diro fussar butt kerriare jurepha pre diro solus ta tji voltrar ava an momenti doj diro nachat trissa dova savots honkar kerria koro diros. Abbo nani saste gara siro gla te vaver manisch honkar kerria.</p>
+<p>Kommoni savo bliddrar kerria kerrade aggrar pattja te dolle honkar dova dolle honkar vina pre. Dolle astispha dynkra pre siro solus gla te tji bliddra kerriat kerrade. Abbo diro saste tji kerra diro najek savo honkar diro, rada gla vaver manisch honkar miaka. Diro kammar sarstil tjatjcho te tji bliddra kerria kerrad.</p>
+<p type="title">Karna honkar dolle tjattjo miakt kerrande?</p>
+<p>Dolle honkar tjattjo miakt kerrande baschi diro butt tjiro bliddrar miakt kerrad, lajjad ire dabbad. Tjattjo miakt kerrande nasht ascha motjill-rackel, dikkanden, sadde, dabb ta kerria lav. Dolle honkar tjattjo miakt kerrande baschi diro narstill fussa ascha ninna ire baschi kommoni tjivvrar kokkaro ful-rackel baschi diro.</p>
+<p>Dolle nasht aur ascha te kommoni beschar kerria sms ire e-iller, randrar kerria pennanden pre flatanbleddran, an jeck blogg ire pre kommoni vaver steddo pre webben. Ire te kommoni baschar uppri kerria tella.</p>
+<p>Baschi kommoni pennar kerria lav gla sar diro kammar isar ire jurar, kammar jeck vina, honkar kava tjattjo miakt kerrande. Baschi diro honkar kerrad gla kommoni attjer kava, ta aggrar kansla dolle kerria attjer kava, nasht diro kamma hilprepha gla te dolle saste phatra.</p>
+<p type="title">Pramissa baschi miakt kerrande</p>
+<p>Dolle nasht kanslas nervolot te pramissa gla kommoni te diro bliddrar miakt kerrad. Attispha pattjar diro te dolle saste bliddra kerriare baschi diro pramissar. Attispha lajjas diro gla te diro honkar avriglan. Abbo dolle honkar tji dova savo bliddrar miakt kerrad savo kammar kerrat vina!</p>
+<p>Baschi diro bliddrar kerrad gla miakt kerrade honkar dolle fedigast te pramissa dolle ta kamma hilprepha te bascha phater gla miakt kerrande. Diro nasht pramissa gla jeck blattra, bleddreskekere-kurator ire dukkalopenja.</p>
+<p>Dolle nasht ascha fedigt te aggra ninna te pramissa baschi miakt kerrande gla kommoni baro savo diro pattjar pre, kommoni an narthan, ta senslo le hilprepha attjer dova gla te pramissa dolle gla kommoni vaver an bleddreskekeret.</p>
+<p>Baschi bleddreskekeret fussa jana te jeck manisch kanslar siro miakt kerrad, mustula dova siggrepha le janepha so kammar kerrats. Dova mustula kerra sassarot gla te kava tji saste kerras buttare. Dova baro manischen an bleddreskekeret kammar uschalipha te jura to te nane manisch bliddrar miakt kerrade ire vaver savrige. Dolle honkar randrat an kanunin te dolle honkar bleddreskekerets uschalipha te jura to te nane bliddrar miakt kerrad.</p>
+<p type="title">Fedigt te dynkra pre baschi diro bliddrar miakt kerrad:</p>
+<list><p type="listitem">Dolle honkar narstill savo te diro saste dynkra dolle honkar diro vina te diro bliddrar miakt kerrad.</p>
+<p type="listitem">Dolle aschar kanunier savo pennar te diro tji fussar bliddrar kerria kerrad pre bleddreskekeret ire pre jeck mengeskesteddo.</p>
+<p type="listitem">Dolle honkar jeck stillopha te kommoni pennar darranoa lav to diro, ire te dova saste dabba diro, ire darrar diro ninna tella pre webben.</p>
+<p type="listitem">Bleddreskekere ta mengeskedokkarna honkar uschalipha te fussa kerra sav te sassaro kanslar siro rakkepha.</p>
+<p type="listitem">Diro saste le trissepha ninna kommoni baro diro pattjar pre, kommoni attjer diro dad ire dakri, vaver nartha ire jeck vaver manisch diro prinjar.</p>
+<p type="listitem">Diro nasht aur ta trissepha ninna bleddreskekere-kurator ire ungdomsmottagning gla te rackla ta fussa hilprepha.</p>
+<p type="listitem">Baschi bleddreskekere fussar jana te jeck manisch kanslar siro miakt kerrad honkar dova uschali te jura to te dolle tji bliddrar buttare.</p>
+<p type="listitem">Baschi diro bliddrar miakt kerrad an bleddreskekeret ta tji fussar hilprepha attjer bleddreskekeret sav nasht diro tjalla kava to nucko- ta elevombudet.</p>
+<p type="listitem">Le trissepha ninna beddon baschi kommoni tjivvrar avri tella pre diro avritan saribe. Kava honkar jeck stillopha koro manisch-janepha-kanuni. Te lajja avri kommoni ire miakt kerra kommoni pre webben honkar jeck stillopha savo pre jeck vaver steddo.</p>
+</list><p>» Miak attjer manisch (mobbning)</p>
+</body></document>

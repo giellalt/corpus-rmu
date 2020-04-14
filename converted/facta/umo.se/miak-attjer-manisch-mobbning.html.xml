@@ -1,58 +1,18 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>496</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Miak-attjer-manisch-mobbning</origFileName>
-    <parallel_text xml:lang="fin" location="kiusaaminen.html"/>
-    <parallel_text xml:lang="fit" location="mobbaus-eli-mobbinki.html"/>
-    <parallel_text xml:lang="sma" location="irhkeme.html"/>
-    <parallel_text xml:lang="sme" location="givssideapmi.html"/>
-    <parallel_text xml:lang="smj" location="nuppastibme.html"/>
-    <parallel_text xml:lang="swe" location="mobbning.html"/>
-    <parallel_text location="holjiba.html" xml:lang="rmf"/>
-    <parallel_text location="prasajimo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="mobbing.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mobibe.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Miak attjer manisch (mobbning)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Miak attjer manisch (mobbning)</p>
-    <p xml:lang="swe">Karni diros bliddrar miak kerrad attjer manisch nerrider to dirots, pennat kava <span type="quote" xml:lang="swe">”miak attjer manisch”</span> ire mobbning. Jeck solus miak jinnas tji savot mobbning. Dolle honkar karni dolle kera butt ta topha dova savot bliddrar savo kerad te kansla siro tugalo, savo dolle jinnas savo mobbning.</p>
-    <p xml:lang="swe">Dova savot bliddrar kera gla mobbning nasht kansla siro darrano ta tugalo. Abbo nacha bliddra tugalo rada karni dolle kerras jeck tjiro, abbo dolle pennas nani mobbning. Abbo gla dova savo bliddrar mobbad teli jick langroare tjiro nasht dolle prekerra soluskanslan ta dova nasht kansla siro solus.</p>
-    <p type="title" xml:lang="swe">Sar honkar mobbning?</p>
-    <p xml:lang="swe">Mobbning nasht ascha motjillarackel, dikkande, sarande, dabbande ta miaka lav. Dolle nasha tasa ascha kerria sms, e-iller ire rander pre facebook ire baschi diro bliddrar butt jurad pre webben.</p>
-    <p xml:lang="swe">Mobbning nasht tasa ascha te khoon bliddrar abribeschad gla te manischen tji isar siro savo vaver dynkrar te dova saste isa siro, ire gla te diro jurar pre jekk sutt. Dolle nasht ascha te diro tji fussar ascha ninna, ire manisch tjivvra fulorackel baschi dirots. Baschi dolle fyssar khoon te kansla siro keria honkar dolle mobbning.</p>
-    <p xml:lang="swe">Mobbning honkar jick soralo lav gla butt manisch. Astispha janar tji dova savo mobbar te dolle honkar mobbning. Dolle astispha penna te dolle honkar dabbrepha. Abbo an jick drabbepha honkar dypas manischen savrigasoraloa ta savriga keria koro varvaran.</p>
-    <p xml:lang="swe">Mobbning nasht ascha sav kerria te dolle honkar stillopha. Dabb, baschi khoon dabbar siro. Trakasserier ire diskriminering honkar tasa stillopha. Dolle honkar stillopha te darra sjunna, ire penna to khoon teli 15 basht te kera sexuella kerropha pre webben. Baschi diros honkar keria koro sjunna pre phuv attjer dovas minscha ire pattjanopha, honkar dolle diskriminering. Kava saste les barot!</p>
-    <p type="title" xml:lang="swe">Sar topha mobbning pre?</p>
-    <p xml:lang="swe">Buttast nasht mobbning aggra karni dolle honkar jick keria kansla an jick kettanespha attjer manisch. Dova savo mobbar fyssar kamma kettanespha an jick tikno grupp palli te ascha kerria koro jick vaver. Dolle nasht kerras karna dolle nani honkar khoon baro savo ler uschalipha gla te sassaro honkar malanoa to varvarandra.</p>
-    <p xml:lang="swe">Mobbning nasht tasa topha pre te dova savo mobbar prinjar kerria ta dokkar siro pre vaver gla te kansla siro sjonalo. Mobbning nasht baroa gla te dova savo honkar doj tji darrar penna to dova manischen. Dolle astispha honka darranoa gla te solus bliddra mobbade ire kamma malar.</p>
-    <p type="title" xml:lang="swe">Sar nasht mobbning bliddra tiknoare?</p>
-    <p xml:lang="swe">Dolle honkar narstill jick terno manisch uschalipha te phatra mobbning. An blattra honkar dolle dova baro manischen savo kammar uschalipha gla te nani saste bliddra mobbad. Abbo sassaro nasht kerra gla tiknoa mobbning.</p>
-    <p xml:lang="swe">Baschi diro jurar khoon bliddrar miakt kerrad ire kanslar siro abribeschad, nasht diro sickra te diro honkar malano. Dolle nasht ascha doschta te penna lattjo divus, ire frigga sassdivusliga friggor, gla te fussa manischen te kansla malanopha.</p>
-    <p xml:lang="swe">Diro nasht tasa ascha to hilprepha te pramissa gla khoon savo mengar an blattra baschi diro dicka te khoon bliddrar mobbad.</p>
-    <p xml:lang="swe">» Baschi diro bliddrar miakt kerrad</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>491</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/resanderomska/Miak-attjer-manisch-mobbning</origFileName><parallel_text xml:lang="fin" location="kiusaaminen.html"/><parallel_text xml:lang="fit" location="mobbaus-eli-mobbinki.html"/><parallel_text xml:lang="sma" location="irhkeme.html"/><parallel_text xml:lang="sme" location="givssideapmi.html"/><parallel_text xml:lang="smj" location="nuppastibme.html"/><parallel_text xml:lang="swe" location="mobbning.html"/><parallel_text location="holjiba.html" xml:lang="rmf"/><parallel_text location="prasajimo.html" xml:lang="rmy-rka"/><parallel_text location="mobbing.html" xml:lang="rmy-rlo"/><parallel_text location="mobibe.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Miak attjer manisch (mobbning)</p>
+<p type="title">Miak attjer manisch (mobbning)</p>
+<p>Karni diros bliddrar miak kerrad attjer manisch nerrider to dirots, pennat kava <span type="quote">”miak attjer manisch”</span> ire mobbning. Jeck solus miak jinnas tji savot mobbning. Dolle honkar karni dolle kera butt ta topha dova savot bliddrar savo kerad te kansla siro tugalo, savo dolle jinnas savo mobbning.</p>
+<p>Dova savot bliddrar kera gla mobbning nasht kansla siro darrano ta tugalo. Abbo nacha bliddra tugalo rada karni dolle kerras jeck tjiro, abbo dolle pennas nani mobbning. Abbo gla dova savo bliddrar mobbad teli jick langroare tjiro nasht dolle prekerra soluskanslan ta dova nasht kansla siro solus.</p>
+<p type="title" xml:lang="swe">Sar honkar mobbning?</p>
+<p>Mobbning nasht ascha motjillarackel, dikkande, sarande, dabbande ta miaka lav. Dolle nasha tasa ascha kerria sms, e-iller ire rander pre facebook ire baschi diro bliddrar butt jurad pre webben.</p>
+<p>Mobbning nasht tasa ascha te khoon bliddrar abribeschad gla te manischen tji isar siro savo vaver dynkrar te dova saste isa siro, ire gla te diro jurar pre jekk sutt. Dolle nasht ascha te diro tji fussar ascha ninna, ire manisch tjivvra fulorackel baschi dirots. Baschi dolle fyssar khoon te kansla siro keria honkar dolle mobbning.</p>
+<p>Mobbning honkar jick soralo lav gla butt manisch. Astispha janar tji dova savo mobbar te dolle honkar mobbning. Dolle astispha penna te dolle honkar dabbrepha. Abbo an jick drabbepha honkar dypas manischen savrigasoraloa ta savriga keria koro varvaran.</p>
+<p>Mobbning nasht ascha sav kerria te dolle honkar stillopha. Dabb, baschi khoon dabbar siro. Trakasserier ire diskriminering honkar tasa stillopha. Dolle honkar stillopha te darra sjunna, ire penna to khoon teli 15 basht te kera sexuella kerropha pre webben. Baschi diros honkar keria koro sjunna pre phuv attjer dovas minscha ire pattjanopha, honkar dolle diskriminering. Kava saste les barot!</p>
+<p type="title">Sar topha mobbning pre?</p>
+<p>Buttast nasht mobbning aggra karni dolle honkar jick keria kansla an jick kettanespha attjer manisch. Dova savo mobbar fyssar kamma kettanespha an jick tikno grupp palli te ascha kerria koro jick vaver. Dolle nasht kerras karna dolle nani honkar khoon baro savo ler uschalipha gla te sassaro honkar malanoa to varvarandra.</p>
+<p>Mobbning nasht tasa topha pre te dova savo mobbar prinjar kerria ta dokkar siro pre vaver gla te kansla siro sjonalo. Mobbning nasht baroa gla te dova savo honkar doj tji darrar penna to dova manischen. Dolle astispha honka darranoa gla te solus bliddra mobbade ire kamma malar.</p>
+<p type="title">Sar nasht mobbning bliddra tiknoare?</p>
+<p>Dolle honkar narstill jick terno manisch uschalipha te phatra mobbning. An blattra honkar dolle dova baro manischen savo kammar uschalipha gla te nani saste bliddra mobbad. Abbo sassaro nasht kerra gla tiknoa mobbning.</p>
+<p>Baschi diro jurar khoon bliddrar miakt kerrad ire kanslar siro abribeschad, nasht diro sickra te diro honkar malano. Dolle nasht ascha doschta te penna lattjo divus, ire frigga sassdivusliga friggor, gla te fussa manischen te kansla malanopha.</p>
+<p>Diro nasht tasa ascha to hilprepha te pramissa gla khoon savo mengar an blattra baschi diro dicka te khoon bliddrar mobbad.</p>
+<p>» Baschi diro bliddrar miakt kerrad</p>
+</body></document>

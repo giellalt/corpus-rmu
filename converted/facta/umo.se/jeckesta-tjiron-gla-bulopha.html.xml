@@ -1,79 +1,34 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>790</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Jeckesta-tjiron-gla-bulopha</origFileName>
-    <parallel_text xml:lang="fin" location="eka-kerta.html"/>
-    <parallel_text xml:lang="fit" location="seksia-ensi-kerran.html"/>
-    <parallel_text xml:lang="sma" location="sekse-voestes-aejkien.html"/>
-    <parallel_text xml:lang="sme" location="seksa-vuostta-geardde.html"/>
-    <parallel_text xml:lang="smj" location="seksa-vuostasj-bale.html"/>
-    <parallel_text xml:lang="swe" location="sex-forsta-gangen.html"/>
-    <parallel_text location="seksi-vaguno-var.html" xml:lang="rmf"/>
-    <parallel_text location="buledimos-angluni-data.html" xml:lang="rmy-rka"/>
-    <parallel_text location="sekso-angluni-data.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="seksi-o-prvo-puti.html" xml:lang="rmn"/>
-    <parallel_text location="seks-tsum-ershtn-mol.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Jeckesta tjiron gla bulopha</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Jeckesta tjiron gla bulopha</p>
-    <p xml:lang="swe">Manisch kammar buttast onanerat glanske dova kammar bulopha ninna Jek vaver. Dova jeckesta bulopha kammar manisch ninna siro solus. Dolle honkar butt sav te manisch kammar baro dynkrar baschi huri dova saste kerras te kamma bulopha ninna jek vaver.</p>
-    <p type="title" xml:lang="swe">Dikra baschi jeckesta tjiron</p>
-    <p xml:lang="swe">Karna diro tji kammar kammat bulopha ninna jek vaver nasht diro kamma butt dynkrar baschi huri dolle saste kanslas, huri diro voltrar dolle saste kerropha. Diro kammar schunnat malar rackla baschi dolle, jurat pre dikkepha, bleddrat an bleddrikor ire pre vaver schunnat savo kerrar diro kammar ovaroa dynkrar.</p>
-    <p xml:lang="swe">Butt honkar dynkrarna baschi te kamma minscheskebulopha. Dova rodepha savots kammar kerrats sickrar te dolle honkar butt savots tji kammat kammat kava karni dova jaar avri fann gymnasiet. Dolle nasht topha pre ovaroa tjack, te dova tji voltrar, te dova tji kammar kammat astispha, te dova voltrar kamma bulopha ninna manisch attjer savriga mischepha ire dova voltra kamma vaver bulopha jeck minscheskebulopha.</p>
-    <p type="title" xml:lang="swe">Dirots pottar solus</p>
-    <p xml:lang="swe">Dolle nasht kanslas nervolopha ire mustulande te kamma bulopha abbo diro tji voltrar.</p>
-    <p xml:lang="swe">Diro nasht tasa kansla diro mostulad te biddra ninna bulopha abbo diro voltrar kammat. Te kansla siro mostulad te biddra ninna bulopha nasht topha pre malarna ire ninna dova voltranden narthan kammar.</p>
-    <p xml:lang="swe">Abbo dolle honkar barot te jana te diro saste kerra dolle savo kanslas fedigt gla diro. Diro pottar solus</p>
-    <list>
-      <p type="listitem" xml:lang="swe">preal diro truppo</p>
-      <p type="listitem" xml:lang="swe">diro voltrar kamma bulopha</p>
-      <p type="listitem" xml:lang="swe">huri diro voltrar kamma bulopha</p>
-      <p type="listitem" xml:lang="swe">ninna dova diro voltrar kamma bulopha.</p>
-    </list>
-    <p type="title" xml:lang="swe">Phuranopottande gla bulopha?</p>
-    <p xml:lang="swe">Dolle honkar tji astispha te potta jeck basht gla karna diro nasht kamma bulopha ninna jeck vaver manisch, dolle mostula diro kansla solus. Dolle aschar dojkoro jeck horta savo pennar te jeck manisch preal 15 basht tji fyssar kamma bulopha ninna jeck manisch teli 15 basht. Ninna hortan steddrar dolle tasa te diro tji saste golas baschi dolle tji honkade jeck sor-bulepha.</p>
-    <p xml:lang="swe">Dolle baroaste honkar huri baro ovaropha ninna manischens phuro honkar, baschi ovaropha masker manischen honkar tikno ta baschi dolle aschade mukkanot. Hortan honkar savrige an progressionpha masker manisch savo kammar kammat bulopha honkar tikno ta baschi dolle aschade mukkanot. Hortan aschar pre savrige sutt tji dynkrat pre baschi dolle honkar tjejer ire tjavoar. Dolle honkar hortan to gla te rakkepha nuckoar fann te bliddra kerrade attjer phuranoare manisch. Ninna dynkrat pre hortan pennar dova te nani kammar horta te kamma bulopha ninna jeck manisch savo tji voltrar.</p>
-    <p type="title" xml:lang="swe">Hilprepha gla bulopha jeckesta tjiron</p>
-    <p xml:lang="swe">Dolle honkar tji ovaro te jeckesta tjiron bliddrar vaver jeck diro kammar dynkrat. Dolle nasht kanslas vina gla dolle tji bliddrade savo diro pattjade.</p>
-    <p xml:lang="swe">Bulopha honkar khoon diro mostula menga pre gla te bliddra fedig, savo butt an jibbet.. Dolle honkar tji sav butt savo nasht spekkra siro lattjoaste giepha pre knackare avritan jana huri dova ler jeck akord, ire kammat instrumentet! Glanske jeckesta tjiron aschar dolle tjack diro nasht kamma ninna siro ta savo diro nasht dynkra pre.</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Fyssa onanera pre ovaroa glanske, karni bliddrar dolle lokkiare te jana huri dirots janar.</p>
-      <p type="listitem" xml:lang="swe">Gla te lattja Lattjanoa steddon pre varverans truppoar: rackla ninna varvaran, rodepha, kansla ta penna to.</p>
-      <p type="listitem" xml:lang="swe">Diro nasht kellas, tjommas te kerra butt vaver sjukkart gla te tattano varvaran.</p>
-      <p type="listitem" xml:lang="swe">Brukfara rakkepha, karorakkepha ire slicklapp, ta menga pre te le pre ta brukfara dova.</p>
-      <p type="listitem" xml:lang="swe">Te kamma bulopha pre jeck potto steddo nasht kerra dolle lokkiare te kansla siro stillo.</p>
-    </list>
-    <p type="title" xml:lang="swe">Kammar tji kammat bulopha</p>
-    <p xml:lang="swe">Diro nasht kamma schunnat lavet <span type="quote" xml:lang="swe">”oskuld”</span> baschi dova savo tji kammar kammat bulopha. Dolle nasht ascha te dova tji kammat bulopha ninna karon an mischan, abbo dolle nasht tasa honka te dova tji kammar kammat bulopha pre vaver kerropha.</p>
-    <p xml:lang="swe">Sass manisch dikra tji te lavet saste brukfaras. Astispha gla dolle schunnas savo diro kammar uschalipha, karna dova tji savo dova tji honkar <span type="quote" xml:lang="swe">”oskuld”</span> ouschalipha. Savo dova saste lajjas gla dova tji kammar kammar bulopha.</p>
-    <p type="title" xml:lang="swe">Hymen?</p>
-    <p xml:lang="swe">Dolle savots aschar karna manisch pennar hymen honkar dova kuv doj minshans avriske bekk avar an dova andre bekk attjer minshan. Kuven nasht kamma jeck otavad form ta kuven nasht ascha tikno arkelus. Kuven baroas ta dolle bliddrar lenare teli puberteten, abbo dova jaar abri narstill. Abbo dolle aschar nane hinna savo aschar preal gla minshan.</p>
-    <p xml:lang="swe">Aschtersavo dolle tji aschar kommoni hinna aschar dolle tji kommoni savo nasht poggras karna diro kammar bulepha. Dojkoro nasht jeck bekk tjejer ratta karna dova kammar bulepha gla jeckesta tjiron, abbo dolle buttast honkar te diro tji rattas.</p>
-    <p xml:lang="swe">Gla dova savo rattat nasht dolle bero pre te kanten pre misheskekuven honkar sarvis. Abbo dolle honkar buttast te diro rattat attjer kommoni vaver soskip, savo te diro honkar sarvis ire tji honkade tattano.</p>
-    <p xml:lang="swe">Diro nasht tji jura pre jeck manisch baschi dova honkar <span type="quote" xml:lang="swe">”oskuld”</span> ire tji, darton ire trakksa nasht tji jura baschi kommoni kammar kammat bulepha.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>785</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/resanderomska/Jeckesta-tjiron-gla-bulopha</origFileName><parallel_text xml:lang="fin" location="eka-kerta.html"/><parallel_text xml:lang="fit" location="seksia-ensi-kerran.html"/><parallel_text xml:lang="sma" location="sekse-voestes-aejkien.html"/><parallel_text xml:lang="sme" location="seksa-vuostta-geardde.html"/><parallel_text xml:lang="smj" location="seksa-vuostasj-bale.html"/><parallel_text xml:lang="swe" location="sex-forsta-gangen.html"/><parallel_text location="seksi-vaguno-var.html" xml:lang="rmf"/><parallel_text location="buledimos-angluni-data.html" xml:lang="rmy-rka"/><parallel_text location="sekso-angluni-data.html" xml:lang="rmy-rlo"/><parallel_text location="seksi-o-prvo-puti.html" xml:lang="rmn"/><parallel_text location="seks-tsum-ershtn-mol.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Jeckesta tjiron gla bulopha</p>
+<p type="title">Jeckesta tjiron gla bulopha</p>
+<p>Manisch kammar buttast onanerat glanske dova kammar bulopha ninna Jek vaver. Dova jeckesta bulopha kammar manisch ninna siro solus. Dolle honkar butt sav te manisch kammar baro dynkrar baschi huri dova saste kerras te kamma bulopha ninna jek vaver.</p>
+<p type="title">Dikra baschi jeckesta tjiron</p>
+<p>Karna diro tji kammar kammat bulopha ninna jek vaver nasht diro kamma butt dynkrar baschi huri dolle saste kanslas, huri diro voltrar dolle saste kerropha. Diro kammar schunnat malar rackla baschi dolle, jurat pre dikkepha, bleddrat an bleddrikor ire pre vaver schunnat savo kerrar diro kammar ovaroa dynkrar.</p>
+<p>Butt honkar dynkrarna baschi te kamma minscheskebulopha. Dova rodepha savots kammar kerrats sickrar te dolle honkar butt savots tji kammat kammat kava karni dova jaar avri fann gymnasiet. Dolle nasht topha pre ovaroa tjack, te dova tji voltrar, te dova tji kammar kammat astispha, te dova voltrar kamma bulopha ninna manisch attjer savriga mischepha ire dova voltra kamma vaver bulopha jeck minscheskebulopha.</p>
+<p type="title">Dirots pottar solus</p>
+<p>Dolle nasht kanslas nervolopha ire mustulande te kamma bulopha abbo diro tji voltrar.</p>
+<p>Diro nasht tasa kansla diro mostulad te biddra ninna bulopha abbo diro voltrar kammat. Te kansla siro mostulad te biddra ninna bulopha nasht topha pre malarna ire ninna dova voltranden narthan kammar.</p>
+<p>Abbo dolle honkar barot te jana te diro saste kerra dolle savo kanslas fedigt gla diro. Diro pottar solus</p>
+<list><p type="listitem">preal diro truppo</p>
+<p type="listitem">diro voltrar kamma bulopha</p>
+<p type="listitem">huri diro voltrar kamma bulopha</p>
+<p type="listitem">ninna dova diro voltrar kamma bulopha.</p>
+</list><p type="title">Phuranopottande gla bulopha?</p>
+<p>Dolle honkar tji astispha te potta jeck basht gla karna diro nasht kamma bulopha ninna jeck vaver manisch, dolle mostula diro kansla solus. Dolle aschar dojkoro jeck horta savo pennar te jeck manisch preal 15 basht tji fyssar kamma bulopha ninna jeck manisch teli 15 basht. Ninna hortan steddrar dolle tasa te diro tji saste golas baschi dolle tji honkade jeck sor-bulepha.</p>
+<p>Dolle baroaste honkar huri baro ovaropha ninna manischens phuro honkar, baschi ovaropha masker manischen honkar tikno ta baschi dolle aschade mukkanot. Hortan honkar savrige an progressionpha masker manisch savo kammar kammat bulopha honkar tikno ta baschi dolle aschade mukkanot. Hortan aschar pre savrige sutt tji dynkrat pre baschi dolle honkar tjejer ire tjavoar. Dolle honkar hortan to gla te rakkepha nuckoar fann te bliddra kerrade attjer phuranoare manisch. Ninna dynkrat pre hortan pennar dova te nani kammar horta te kamma bulopha ninna jeck manisch savo tji voltrar.</p>
+<p type="title">Hilprepha gla bulopha jeckesta tjiron</p>
+<p>Dolle honkar tji ovaro te jeckesta tjiron bliddrar vaver jeck diro kammar dynkrat. Dolle nasht kanslas vina gla dolle tji bliddrade savo diro pattjade.</p>
+<p>Bulopha honkar khoon diro mostula menga pre gla te bliddra fedig, savo butt an jibbet.. Dolle honkar tji sav butt savo nasht spekkra siro lattjoaste giepha pre knackare avritan jana huri dova ler jeck akord, ire kammat instrumentet! Glanske jeckesta tjiron aschar dolle tjack diro nasht kamma ninna siro ta savo diro nasht dynkra pre.</p>
+<list><p type="listitem">Fyssa onanera pre ovaroa glanske, karni bliddrar dolle lokkiare te jana huri dirots janar.</p>
+<p type="listitem">Gla te lattja Lattjanoa steddon pre varverans truppoar: rackla ninna varvaran, rodepha, kansla ta penna to.</p>
+<p type="listitem">Diro nasht kellas, tjommas te kerra butt vaver sjukkart gla te tattano varvaran.</p>
+<p type="listitem">Brukfara rakkepha, karorakkepha ire slicklapp, ta menga pre te le pre ta brukfara dova.</p>
+<p type="listitem">Te kamma bulopha pre jeck potto steddo nasht kerra dolle lokkiare te kansla siro stillo.</p>
+</list><p type="title">Kammar tji kammat bulopha</p>
+<p>Diro nasht kamma schunnat lavet <span type="quote" xml:lang="swe">”oskuld”</span> baschi dova savo tji kammar kammat bulopha. Dolle nasht ascha te dova tji kammat bulopha ninna karon an mischan, abbo dolle nasht tasa honka te dova tji kammar kammat bulopha pre vaver kerropha.</p>
+<p>Sass manisch dikra tji te lavet saste brukfaras. Astispha gla dolle schunnas savo diro kammar uschalipha, karna dova tji savo dova tji honkar <span type="quote" xml:lang="swe">”oskuld”</span> ouschalipha. Savo dova saste lajjas gla dova tji kammar kammar bulopha.</p>
+<p type="title" xml:lang="swe">Hymen?</p>
+<p>Dolle savots aschar karna manisch pennar hymen honkar dova kuv doj minshans avriske bekk avar an dova andre bekk attjer minshan. Kuven nasht kamma jeck otavad form ta kuven nasht ascha tikno arkelus. Kuven baroas ta dolle bliddrar lenare teli puberteten, abbo dova jaar abri narstill. Abbo dolle aschar nane hinna savo aschar preal gla minshan.</p>
+<p>Aschtersavo dolle tji aschar kommoni hinna aschar dolle tji kommoni savo nasht poggras karna diro kammar bulepha. Dojkoro nasht jeck bekk tjejer ratta karna dova kammar bulepha gla jeckesta tjiron, abbo dolle buttast honkar te diro tji rattas.</p>
+<p>Gla dova savo rattat nasht dolle bero pre te kanten pre misheskekuven honkar sarvis. Abbo dolle honkar buttast te diro rattat attjer kommoni vaver soskip, savo te diro honkar sarvis ire tji honkade tattano.</p>
+<p>Diro nasht tji jura pre jeck manisch baschi dova honkar <span type="quote" xml:lang="swe">”oskuld”</span> ire tji, darton ire trakksa nasht tji jura baschi kommoni kammar kammat bulepha.</p>
+</body></document>
