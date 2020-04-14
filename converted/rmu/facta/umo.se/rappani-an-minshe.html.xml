@@ -1,74 +1,34 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>984</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Rappani-an-minshe</origFileName>
-    <parallel_text xml:lang="fin" location="hiivatulehdus.html"/>
-    <parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/>
-    <parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/>
-    <parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/>
-    <parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/>
-    <parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/>
-    <parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/>
-    <parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/>
-    <parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="parnothavdipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Rappani an minshe</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Rappani an minshe</p>
-    <p xml:lang="swe">Rappani honkar an minsche gla dova buttaste. Attispha bliddrar dolle buttare ta dolle honkar dannro dova nasht dokka diro kerria. Dolle honkar buttast gla tjejer. Trin attjer star tjejer fussar kommoni tjiro an jibbet dolle kerria ninna rappani ta gla butt avar dova veder butt tjiros. Aur tjavoar nasht kamma rappani. Rappani honkar otrasjanot abbo nasht ascha kerria aschtersavo dolle brukfarar randas.</p>
-    <p type="title" xml:lang="swe">Sosti fussar diro kerria ninna rappani?</p>
-    <p xml:lang="swe">Dolle honkar tji potto sosti dirots fussar kerria ninna rappani. Abbo jeck soskip nasht jana te diro ler kommoni drabb, dolle nasht ascha antibiotaika, savo dabbar avri dova fediga bakterierna savo aschar an minshe sav te rappani nasht aggra bajrol.</p>
-    <p xml:lang="swe">Rappani nasht aur soskip ire te immunrakkepha honkar teli attjer kommoni vaver soskip, dolle nasht jana karna dirots aggrar bliddra duckalo ire honkar butt nervolo.</p>
-    <p xml:lang="swe">Hormonbalansen an truppon nasht aur prekerela. Dojgla honkar dolle butt te diro fysa rappani glanske kintan ire baschi diro honkar pari.</p>
-    <p xml:lang="swe">Rappani honkar nani minsheske. Kava nasht prealdokkas nerrider bula abbo dolle kerras tji butt. Dojkoro nasht rappani tji prealdokkas palli moj-bulopha ire te diro jaar pre savriga fulo-hispa savo kommoni savo kammar rappani.</p>
-    <p type="title" xml:lang="swe">Sar jurar diro te diro kammar rappani?</p>
-    <p xml:lang="swe">Savo tjej jurar diro buttvar te diro kammar rappani gla te dolle randa trujal minshan ta pre misheskevustarna. Minsheskevustarna nasht aur bliddra lolloa ta baroare. Pani nasht bliddra perno ta tosjno. Abbo dolle nasht ascha sano ta dolle nasht tji juras baschi diro kammar rappani.</p>
-    <p xml:lang="swe">Rappani kerrar aur te dolle nasht kerra dukkt karna diro muttrar ire baschi diro kammar bulopha. Attispha fussar diro eksem pre minsheskevustarna ta spirorna.</p>
-    <p xml:lang="swe">Pre tjavoar brukfarar karoscherot, maskern, kodden ire spirorna bliddra lollo ta tosjno karna diro kammar rappni. Diro nasht aur fussa jeck perno pani pre ire trujal karoscherot, teli glanskejimmet, ire pre maskern. Dolle brukfarar ascha kerria te tovva abri jeck smega savo brukfarar ascha teli glanskejimmet.</p>
-    <p type="title" xml:lang="swe">Sar bliddrar diro attjer ninna rappani?</p>
-    <p xml:lang="swe">Baschi diro kammar tikno kerriapha attjer rappani pre minshen ire pre karon brukfarar dolle ja abri attjer siro solus akter kommoni divusar avritan hilprepha.</p>
-    <p xml:lang="swe">Men ibland går det inte över, eller så kliar och svider det så mycket att man snabbt vill göra något åt det. Är det första gången man får problem ska man kontakta en ungdomsmottagning, hud- och könsmottagning eller vårdcentral för att ta reda på att det verkligen är svamp man har. Om man går till mottagningen får man göra en undersökning. Det brukar gå snabbt eftersom den som undersöker lätt kan se om det är svamp.</p>
-    <p xml:lang="swe">Abbo baschi dolle tji jaar abri, ire sav randa ta dolle sav butt te diro siggrepha voltrar kerra kommoni gla dolle.</p>
-    <p xml:lang="swe">Baschi diro kammar kammat rappni selare ta dinstrar kerriapha nasht diro tjinna kommoni attjer dova receptmukkanoa drabben koro rappani savo aschar pre drabboforma. Kava aschar savo masckli diro nasht mackla andre mishan ta minsheskevustarna ire karon ta kodden ninna. Gla tjejer aschar dolle tasa drabb, sav pennad vagitorium, savo diro jaar andre an mishen ninna gustrarna, ta mackli savo diro muttarar andre ninna jeck suj. Jeck tikno tjiro akter te diro let drabben nasht dolle randa buttare, abbo dolle jaar siggrepha auri.</p>
-    <p xml:lang="swe">Baschi diro kerrar helko hilprepha bliddrar nerrider sassaro fediga attjer receptmukkano drabb. Bliddrar diro tji dolle ire baschi rappani avar veder buttare jeck dy tjiroar teli jeck paschbasht saste diro le trissepha ninna jeck ternophakere, jimm-ta misheskekere ire dukkalohispa buttare gla kamma hilprepha.</p>
-    <p xml:lang="swe">Dolle honkar barot te diro tji brukfarar rappanimulande drabb gla buttvar ire karna diro tji mostula aschtersavo dolle nasht kerra dolle kerriare ta kerriare te bliddra tjejer ninna rappani ire te dova avar veder akkter jick tikno tjiro. Kava nasht aur tosa ava slemhinnan te kerra dolle dukk savi nasht soskip to vaver kera.</p>
-    <p type="title" xml:lang="swe">So kerrar diro gla te tji kamma rappani?</p>
-    <p xml:lang="swe">Aschtersavo dolle honkar opotto sosti diro fussar rappani honkar dolle kerriare te rakkepha siro koro dova.</p>
-    <p xml:lang="swe">Dolle pennas te astispha gla rappani baroas baschi diro tovvar minshe buttvar ninna supunja. Dolle janar nane savo sikkrar potto te dolle honkar savo. Abbo baschi diro kamma rappani ire buttvar fussar rappaniinfektioner ta tovvar diro butt nasht dolle bliddra fedigare baschi diro tovvar diro tiknoare. Dolle honkar doschta te tovva minshe jeck tjiro baschi divusen ninna tji sass to tatto phani. Diro saste tji brukfara dova aupanja savo tosar avri. Diro saste brukfara tji kandrande-phani.</p>
-    <p type="title" xml:lang="swe">Friggor ta svardara baschi rappani an minshe</p>
-    <p type="title" xml:lang="swe">Fussar diro rappani attjer string, tattoa ta tikno isar?</p>
-    <p xml:lang="swe">Dolle honkar nane janepha gla te tattoa, tiknoa isar ire string saste kerra te diro lokkiare fussar rappani. Abbo baschi diro kammar rappani nasht dolle sjandra tiknoare baschi diro kammar teli-isar attjer bomull ta bivalano isar. Dolle nasht aur hilpra te domra avri teli-isar ta baschi diro honkar tjej te tji brukfara teli-iseskerakkepha.</p>
-    <p type="title" xml:lang="swe">Jaar rappani abri baschi diro macklar an minshe ninna yoghurt?</p>
-    <p xml:lang="swe">Te yoghurt hilprar rappani honkar kokk savo dolle tji honkar kommoni janepha baschi. Yoghurt nasht kanslas brasji ta attjer kava soskipha ascha fedig koro sjandrande.</p>
-    <p type="title" xml:lang="swe">Nasht rappani ava to jeck vaver manisch?</p>
-    <p xml:lang="swe">Rappani prealdokkas tji ninna fulohisper. Abbo nasht prealdokkas nerrider bulopha baschi dolle brukfaras tji bliddra sav.</p>
-    <p type="title" xml:lang="swe">Fussar diro rappani attjer te ka butt gullepha?</p>
-    <p xml:lang="swe">Dolle aschar nane janepha gla te rappani aschar gla te diro kar butt gullepha. Abbo kammar diro vina ninna rappani honkar dolle tji traschanot te ka vaver kabing, dolle nasht bliddra fedigare.</p>
-    <p type="title" xml:lang="swe">Nasht diro kamma bulopha karna diro kammar rappani?</p>
-    <p xml:lang="swe">Dolle honkar tji traschanot te kamma bulopha karna diro kammar rappani abbo aschersavo slemhinorna honkar sano nasht diro fussa tikno magranden an dova ta dolle nasht kerras dukkt te kamma bulopha. Baschi diro kammar bulopha aschar dolle tasa jeck tikno attispha te rappani avar to dova vaver manischen. Attispha honkar baroare te diro fussar ire prealdokkar jeck minshe-dukkalo baschi diro kammar bulopha akno savo diro kammar rappani aschtersavo diro kammar tikno magranden an slemhinnorna savot kerrar te diro lokkiare fussar ire prealdokkar infektioner.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>979</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/resanderomska/Rappani-an-minshe</origFileName><parallel_text xml:lang="fin" location="hiivatulehdus.html"/><parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/><parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/><parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/><parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/><parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/><parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/><parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/><parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/><parallel_text location="parnothavdipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Rappani an minshe</p>
+<p type="title">Rappani an minshe</p>
+<p>Rappani honkar an minsche gla dova buttaste. Attispha bliddrar dolle buttare ta dolle honkar dannro dova nasht dokka diro kerria. Dolle honkar buttast gla tjejer. Trin attjer star tjejer fussar kommoni tjiro an jibbet dolle kerria ninna rappani ta gla butt avar dova veder butt tjiros. Aur tjavoar nasht kamma rappani. Rappani honkar otrasjanot abbo nasht ascha kerria aschtersavo dolle brukfarar randas.</p>
+<p type="title">Sosti fussar diro kerria ninna rappani?</p>
+<p>Dolle honkar tji potto sosti dirots fussar kerria ninna rappani. Abbo jeck soskip nasht jana te diro ler kommoni drabb, dolle nasht ascha antibiotaika, savo dabbar avri dova fediga bakterierna savo aschar an minshe sav te rappani nasht aggra bajrol.</p>
+<p>Rappani nasht aur soskip ire te immunrakkepha honkar teli attjer kommoni vaver soskip, dolle nasht jana karna dirots aggrar bliddra duckalo ire honkar butt nervolo.</p>
+<p>Hormonbalansen an truppon nasht aur prekerela. Dojgla honkar dolle butt te diro fysa rappani glanske kintan ire baschi diro honkar pari.</p>
+<p>Rappani honkar nani minsheske. Kava nasht prealdokkas nerrider bula abbo dolle kerras tji butt. Dojkoro nasht rappani tji prealdokkas palli moj-bulopha ire te diro jaar pre savriga fulo-hispa savo kommoni savo kammar rappani.</p>
+<p type="title">Sar jurar diro te diro kammar rappani?</p>
+<p>Savo tjej jurar diro buttvar te diro kammar rappani gla te dolle randa trujal minshan ta pre misheskevustarna. Minsheskevustarna nasht aur bliddra lolloa ta baroare. Pani nasht bliddra perno ta tosjno. Abbo dolle nasht ascha sano ta dolle nasht tji juras baschi diro kammar rappani.</p>
+<p>Rappani kerrar aur te dolle nasht kerra dukkt karna diro muttrar ire baschi diro kammar bulopha. Attispha fussar diro eksem pre minsheskevustarna ta spirorna.</p>
+<p>Pre tjavoar brukfarar karoscherot, maskern, kodden ire spirorna bliddra lollo ta tosjno karna diro kammar rappni. Diro nasht aur fussa jeck perno pani pre ire trujal karoscherot, teli glanskejimmet, ire pre maskern. Dolle brukfarar ascha kerria te tovva abri jeck smega savo brukfarar ascha teli glanskejimmet.</p>
+<p type="title">Sar bliddrar diro attjer ninna rappani?</p>
+<p>Baschi diro kammar tikno kerriapha attjer rappani pre minshen ire pre karon brukfarar dolle ja abri attjer siro solus akter kommoni divusar avritan hilprepha.</p>
+<p xml:lang="swe">Men ibland går det inte över, eller så kliar och svider det så mycket att man snabbt vill göra något åt det. Är det första gången man får problem ska man kontakta en ungdomsmottagning, hud- och könsmottagning eller vårdcentral för att ta reda på att det verkligen är svamp man har. Om man går till mottagningen får man göra en undersökning. Det brukar gå snabbt eftersom den som undersöker lätt kan se om det är svamp.</p>
+<p>Abbo baschi dolle tji jaar abri, ire sav randa ta dolle sav butt te diro siggrepha voltrar kerra kommoni gla dolle.</p>
+<p>Baschi diro kammar kammat rappni selare ta dinstrar kerriapha nasht diro tjinna kommoni attjer dova receptmukkanoa drabben koro rappani savo aschar pre drabboforma. Kava aschar savo masckli diro nasht mackla andre mishan ta minsheskevustarna ire karon ta kodden ninna. Gla tjejer aschar dolle tasa drabb, sav pennad vagitorium, savo diro jaar andre an mishen ninna gustrarna, ta mackli savo diro muttarar andre ninna jeck suj. Jeck tikno tjiro akter te diro let drabben nasht dolle randa buttare, abbo dolle jaar siggrepha auri.</p>
+<p>Baschi diro kerrar helko hilprepha bliddrar nerrider sassaro fediga attjer receptmukkano drabb. Bliddrar diro tji dolle ire baschi rappani avar veder buttare jeck dy tjiroar teli jeck paschbasht saste diro le trissepha ninna jeck ternophakere, jimm-ta misheskekere ire dukkalohispa buttare gla kamma hilprepha.</p>
+<p>Dolle honkar barot te diro tji brukfarar rappanimulande drabb gla buttvar ire karna diro tji mostula aschtersavo dolle nasht kerra dolle kerriare ta kerriare te bliddra tjejer ninna rappani ire te dova avar veder akkter jick tikno tjiro. Kava nasht aur tosa ava slemhinnan te kerra dolle dukk savi nasht soskip to vaver kera.</p>
+<p type="title">So kerrar diro gla te tji kamma rappani?</p>
+<p>Aschtersavo dolle honkar opotto sosti diro fussar rappani honkar dolle kerriare te rakkepha siro koro dova.</p>
+<p>Dolle pennas te astispha gla rappani baroas baschi diro tovvar minshe buttvar ninna supunja. Dolle janar nane savo sikkrar potto te dolle honkar savo. Abbo baschi diro kamma rappani ire buttvar fussar rappaniinfektioner ta tovvar diro butt nasht dolle bliddra fedigare baschi diro tovvar diro tiknoare. Dolle honkar doschta te tovva minshe jeck tjiro baschi divusen ninna tji sass to tatto phani. Diro saste tji brukfara dova aupanja savo tosar avri. Diro saste brukfara tji kandrande-phani.</p>
+<p type="title">Friggor ta svardara baschi rappani an minshe</p>
+<p type="title">Fussar diro rappani attjer string, tattoa ta tikno isar?</p>
+<p>Dolle honkar nane janepha gla te tattoa, tiknoa isar ire string saste kerra te diro lokkiare fussar rappani. Abbo baschi diro kammar rappani nasht dolle sjandra tiknoare baschi diro kammar teli-isar attjer bomull ta bivalano isar. Dolle nasht aur hilpra te domra avri teli-isar ta baschi diro honkar tjej te tji brukfara teli-iseskerakkepha.</p>
+<p type="title">Jaar rappani abri baschi diro macklar an minshe ninna yoghurt?</p>
+<p>Te yoghurt hilprar rappani honkar kokk savo dolle tji honkar kommoni janepha baschi. Yoghurt nasht kanslas brasji ta attjer kava soskipha ascha fedig koro sjandrande.</p>
+<p type="title">Nasht rappani ava to jeck vaver manisch?</p>
+<p>Rappani prealdokkas tji ninna fulohisper. Abbo nasht prealdokkas nerrider bulopha baschi dolle brukfaras tji bliddra sav.</p>
+<p type="title">Fussar diro rappani attjer te ka butt gullepha?</p>
+<p>Dolle aschar nane janepha gla te rappani aschar gla te diro kar butt gullepha. Abbo kammar diro vina ninna rappani honkar dolle tji traschanot te ka vaver kabing, dolle nasht bliddra fedigare.</p>
+<p type="title">Nasht diro kamma bulopha karna diro kammar rappani?</p>
+<p>Dolle honkar tji traschanot te kamma bulopha karna diro kammar rappani abbo aschersavo slemhinorna honkar sano nasht diro fussa tikno magranden an dova ta dolle nasht kerras dukkt te kamma bulopha. Baschi diro kammar bulopha aschar dolle tasa jeck tikno attispha te rappani avar to dova vaver manischen. Attispha honkar baroare te diro fussar ire prealdokkar jeck minshe-dukkalo baschi diro kammar bulopha akno savo diro kammar rappani aschtersavo diro kammar tikno magranden an slemhinnorna savot kerrar te diro lokkiare fussar ire prealdokkar infektioner.</p>
+</body></document>

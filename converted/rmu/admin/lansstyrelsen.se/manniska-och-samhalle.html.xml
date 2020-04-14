@@ -1,86 +1,48 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1112</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/manniska-och-samhalle/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Manisch &amp; manisch-kettanespha - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Manisch ta manisch-kettanespha</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Manisch &amp; manisch-kettanespha</p>
-    <p xml:lang="swe"><em type="italic">Themmeskepottande- enheti mengar kettanes ninna kommunerna gla te kerra fedigt an manisch- kettanespha ta gla themmets manisch – dypas privati- manisch ta roddrelser. Sassaro saste pre savriga voltrandepha bjuddras jeck jibbeske- trujalipha doj dolle aschar fedigt, lokkigt ta latjott te menga, boddra ta jibba. </em></p>
-    <p type="title" xml:lang="swe">Manisch hortepha</p>
-    <p xml:lang="swe">Meng gla savriga hortepha ta astispha saste jaa palla Themmeskepottande- enheti kettanesmeng ta kettaneskerranden. Dova fulorackel- hortan aschar dolle tji tjattjot te diskriminera manisch avrifann baschi dova aschar moschar ire garior (dovas genderipha), dovas etnico- gruppi, dovas dynkrande pre devel ire vavver pattjande ire tjiipattjande (Hir), dovas bulopha- dynkranden, funktioni – vina, bascht, ta pre saro sutt dova sickrar siro genderipha.</p>
-    <p type="title" xml:lang="swe">Kettanessuttipha</p>
-    <p xml:lang="swe">Dolle nationelli golen aschar te garior ta moschar saste kamma savriga sor te kerra manisch- kettanespha ta siro jibb. Themmeskepottande- enheti kammar to uschalipha te hilpra kommunerna, themmeska kerranden ta vavver regionali manisch an meng ninna te kerra siro kerranden savriga to sassaro an dynker pre dovas horta, kettanessuttipha. Themmeskepottande- enheti an Sveddingen mengar masker moschars dabb masker garier ta lubni- meng ta manischbikknepha gla sexuella- kerranden palla te kerra gla glakerrande projekti ta soralopha kettanespha masker bastanopha ta ideella kettanes- meng.</p>
-    <p type="title" xml:lang="swe">Nationelli tiknomanisch</p>
-    <p xml:lang="swe">Themmeskepottande- enheti an Kastonaforo- themm ta Sametinget aschar dova ninna baroaste uschalipha gla te kerra ta dikka to huri Sveddingens tiknomanisch-politik pallakerras an themmet. Tiknomanischpolitiken, friggor baschi rakepha ta hilprepha gla dova nationelli tiknomanischen ta dovas racklepha. Dova fimpus horta nationelli tiknomanischen an Sveddingen aschar Byskroar, Romano- manisch, Samer, Sveddinske- lollare ta Tornedalingar. Dova nationelli tiknomanischens racklepha aschar jiddisch, romani chib, samiska, finska ta meänkieli.</p>
-    <p type="title" xml:lang="swe">Manischduckalo-meng</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kammar uschalipha to kerra gla an manisch-kettanespha sav te helko manischen nasht fussa kansla siro fediga ta tji duckaloa. Manischduckalo-menget aschar baschi manisch solus voltranden abbo tasa baschi savodant savo avri trujalipha ta demokratiska hortepha an manisch- kettanesmenget. Vorsnos mengar buttast ninna steddopha savo gustrar kettanessuttipha, integrationi, trujalipha, boddrande- planering, sociala astispha, antidiskriminering ta pilo – ta kerriatjack – relateri friggor.</p>
-    <p type="title" xml:lang="swe">Integrationi</p>
-    <p xml:lang="swe">Dova baroaste golet gla integrationspolitiken aschar savriga hortepha, uschalipha ta astispha gla sassaro tji dynkrat pre etniska ta kulturella tjack. Themmeskepottande- enheti saste kerra kettanesmeng masker ovaro kerrare ta kerra te dolle aschar fediga kapacitet an themmet gla nevoavade naschare ta vavver rakepha- manisch.</p>
-    <p type="title" xml:lang="swe">Simmali</p>
-    <p xml:lang="swe">Themmeskepottande- enheti aschar jeck regional simmali- bastanopha. Dolle aschar gla te vorsnos uschalipha te prealdynkra ta kerra simmali gla sass manisch, simmali to Europaparlamentet ta rackel-hilprande ta dokkande nationelli manisch golande to simmali</p>
-    <p xml:lang="swe">Glanske simmalit pottar Themmeskepottande- enheti huri anbekkandet an simmalikretsi ta simali-themmarna saste jura avri ta le dova golepha attjer dova kandidater savo saste stee pre patiens simmali-iller. Nickli simmalirattin rappoterar dova ovaro simmalithemmen siro golresultati to Themmeskepottande- enheti. Dojakkter kerra vorsnos dolle brastiga kettanesjinnandet.</p>
-    <p type="title" xml:lang="swe">Kris- glanskedynkrande</p>
-    <p xml:lang="swe">Nickli jeck kris ire nerrider duriare glanskedynkrande saste Themmeskepottande- enheti hilpra ta kettaneskerra bastanopha, ta kerra gla baro manisch-kettanespha roddrelser an themmet. Vorsnos kammar tasa uschalipha gla te dokka avri janepha ta informeri baschi krisen kettaneskerras ta recklar sassmanischen ta medierna. Baschi jeck vinepha ire jick avritjivver kerras nerrider jick soralikeribepha kammar sass Themmeskepottande- enheti jick hilprande- ta rakepha uschalipha an siro themm ta Themmeskepottande- enheti an Uppsala, Kalmar ta Hallands themm kammar tasa baroare glanskedynkrande uschalipha.</p>
-    <p type="title" xml:lang="swe">Kontrollo ta pottoiller, dokkande attjer hortepha</p>
-    <p xml:lang="swe">An butti tjack dokkar Themmeskepottande- enheti avri hortepha, pottande-iller ire dikkar to ta kerra kontroller gla te jura to te manisch kammat fedigt ta tji aschar duckaloa ire hortepha tji riggeskesuttas.</p>
-    <p type="title" xml:lang="swe">Phuvanoer</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kerrar to baschibuddi savo saste dikka to kangarier ta dikka to te dova savo tji aschar to dolle Sveddingska kangari tasa fussa phuvas pre jick sutt savo aschar fedigt gla dova. Vorsnos saste tasa dokka avri hortepha ta pottoiller to te tjivvra askan akkter jeck mulad manisch.</p>
-    <p type="title" xml:lang="swe">Deponera lover</p>
-    <p xml:lang="swe">Themmeskepottande- enheti nasht lottra diro deponera lovver pre jick kanno. Dolle aschar te vorsnos nasht le ta kamma lover savo diro saste projsa to kohnn. Dolle nasht to exempli kerras baschi diro savo lovverprojsande – boddrare kamma jeck goledabb ninna boddrarmoschen ire baschi diro aschar uschali lover avritan te jana to saro diro saste projsa dova. Diro uschali dynkras karni ascha projsad an tjiro baschi kutti rekvisit aschar kerrade savo aschar an hortan.</p>
-    <p type="title" xml:lang="swe">Alidikkande-rakepha</p>
-    <p xml:lang="swe">Themmeskepottande- enheti nasht dokka avri hortepha, pottoiller gla sassmosch alidikkande- rakepha. Sassmoschande alidikkande- rakepha aschar te alidikkare dikkar pre jeck steddo doj sassmanisch nasht jaa to. Dolle aschar dy hortor savo regleri alidikkande- rakepha, hortan baschi sassmosch- alidikkande- rakepha ta manisch-janande-hortan, ta Themmeskepottande-enheti dikkar to savo te dova kerras.</p>
-    <p type="title" xml:lang="swe">Kabbinsketjack – kontrolli</p>
-    <p xml:lang="swe">Primerproduktioni aschar jeckesta durit an kabingskespekkariernas- duri ta aschar produktioni attjer mass, tud, spannkabbing, grovalotfoder, kerrande attjer fodermultringar ta tradrande attjer dypas foder ta kabbinsketjack. Primärproduktion attjer kabbinsketjack kontrolleri attjer buttare duriar attjer Themmeskepottande- enheti ta Phuveskekeribepha. Vorsnos dikkade tasa to te kommunerna kammade fedig kontrolli preal te dova savo producerar ta bikknar kabing kammar sav butta janepha savo dova mustula kamma gla kerra ninna kammorerna ta buttare.</p>
-    <p type="title" xml:lang="swe">Mengeskelovver – lovrande</p>
-    <p xml:lang="swe">Baschi diro kammar meng pre jick roddrelse savo jaar an konkurs aschar diro an attjer mengeskelovver- lovrande hortan. Themmeskepottande- enheti kammar uschalipha gla te projsa avri leschtatjirolovver to mengarna nerrider roddrelsen an themmet savo jaar an konkursi ire kerrar jeck roddrelsekonstruktioni.</p>
-    <p type="title" xml:lang="swe">Ninnaboddrande</p>
-    <p xml:lang="swe">Themmeskepottande- enheti ler gol baschi sveddiska ninnaboddrande fann diro savo aschar ninnaboddrare an Daniken, Lollothemm, Norge ire Island. Jeck gol aschar jick lokkigt sutt te kerra baschi ninnaboddrande. Baschi diro aschar ninnaboddrare an jick vavver themm jeck kava saste diro jaa diro to migrationiskekeribepha. Baschi diro attjer khoon tjack bliddrar attjer ninna diro ninnaboddrande nasht diro dokka dolle palla jeck gol to Themmeskepottande- enheti.</p>
-    <p type="title" xml:lang="swe">Notarius publicus</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kerrar sav pennade notarius publicus. Lavet aschar latin ta aschar nasht mosch penna <span type="quote" xml:lang="swe">”offentlig randrare”</span>. Notarius publicus saste ninna vavvert hilpra sassmanischen ninna te potta laveskerandrande, dovas voltranden, prealrandrande ta vavver kerranden an potto- iller, ascha doj savo jick manisch savo kammar jurat karna sigili suttas pre ire kerras vavver ta dikka preal lotteri.</p>
-    <p type="title" xml:lang="swe">Jengande</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kerrar borgerliga jengeskekerrande-manisch ta kammar jeck iller preal saro manisch savo aschar kerrade to jengeskekerrande-manisch an savrige themm. Baschi diro aschar nickli 18 bascht ire baschi diro voltrar jaa intus an jengandepha ninna khoon savo aschar dolle mustula diro kamma horta fann Themmeskepottande- enheti gla te fussa bliddra jengandepha.</p>
-    <p type="title" xml:lang="swe">Prealbastano- mosch</p>
-    <p xml:lang="swe">Manisch savo kamma dolle kerriat ninna kerra siro lovverpha baschi savo dova kammar duckalopha, phurano ire khoon vavvert nasht fussa hilprepha attjer jeck fedig- mosch ire jeck glanskemosch. An savrige kommun saste dolle ascha jeck prelbastano- mosch ire prelbastano- namndi savo dikkar to te kommunernas fediga- mosch ta glanskemosch kerrar siro meng. Themmeskepottande- enheti kerrar dikkar gla prealbastano-moschen ninna ovara tjiroar ire dikkar jeck prelbastano- mosch akkter to exempli jeck gol fann sassmanischen.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1112</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-sr/manniska-och-samhalle/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/><parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/><parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/><parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Manisch &amp; manisch-kettanespha - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Manisch ta manisch-kettanespha</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Manisch &amp; manisch-kettanespha</p>
+<p><em type="italic">Themmeskepottande- enheti mengar kettanes ninna kommunerna gla te kerra fedigt an manisch- kettanespha ta gla themmets manisch – dypas privati- manisch ta roddrelser. Sassaro saste pre savriga voltrandepha bjuddras jeck jibbeske- trujalipha doj dolle aschar fedigt, lokkigt ta latjott te menga, boddra ta jibba. </em></p>
+<p type="title">Manisch hortepha</p>
+<p>Meng gla savriga hortepha ta astispha saste jaa palla Themmeskepottande- enheti kettanesmeng ta kettaneskerranden. Dova fulorackel- hortan aschar dolle tji tjattjot te diskriminera manisch avrifann baschi dova aschar moschar ire garior (dovas genderipha), dovas etnico- gruppi, dovas dynkrande pre devel ire vavver pattjande ire tjiipattjande (Hir), dovas bulopha- dynkranden, funktioni – vina, bascht, ta pre saro sutt dova sickrar siro genderipha.</p>
+<p type="title">Kettanessuttipha</p>
+<p>Dolle nationelli golen aschar te garior ta moschar saste kamma savriga sor te kerra manisch- kettanespha ta siro jibb. Themmeskepottande- enheti kammar to uschalipha te hilpra kommunerna, themmeska kerranden ta vavver regionali manisch an meng ninna te kerra siro kerranden savriga to sassaro an dynker pre dovas horta, kettanessuttipha. Themmeskepottande- enheti an Sveddingen mengar masker moschars dabb masker garier ta lubni- meng ta manischbikknepha gla sexuella- kerranden palla te kerra gla glakerrande projekti ta soralopha kettanespha masker bastanopha ta ideella kettanes- meng.</p>
+<p type="title" xml:lang="swe">Nationelli tiknomanisch</p>
+<p>Themmeskepottande- enheti an Kastonaforo- themm ta Sametinget aschar dova ninna baroaste uschalipha gla te kerra ta dikka to huri Sveddingens tiknomanisch-politik pallakerras an themmet. Tiknomanischpolitiken, friggor baschi rakepha ta hilprepha gla dova nationelli tiknomanischen ta dovas racklepha. Dova fimpus horta nationelli tiknomanischen an Sveddingen aschar Byskroar, Romano- manisch, Samer, Sveddinske- lollare ta Tornedalingar. Dova nationelli tiknomanischens racklepha aschar jiddisch, romani chib, samiska, finska ta meänkieli.</p>
+<p type="title">Manischduckalo-meng</p>
+<p>Themmeskepottande- enheti kammar uschalipha to kerra gla an manisch-kettanespha sav te helko manischen nasht fussa kansla siro fediga ta tji duckaloa. Manischduckalo-menget aschar baschi manisch solus voltranden abbo tasa baschi savodant savo avri trujalipha ta demokratiska hortepha an manisch- kettanesmenget. Vorsnos mengar buttast ninna steddopha savo gustrar kettanessuttipha, integrationi, trujalipha, boddrande- planering, sociala astispha, antidiskriminering ta pilo – ta kerriatjack – relateri friggor.</p>
+<p type="title" xml:lang="swe">Integrationi</p>
+<p>Dova baroaste golet gla integrationspolitiken aschar savriga hortepha, uschalipha ta astispha gla sassaro tji dynkrat pre etniska ta kulturella tjack. Themmeskepottande- enheti saste kerra kettanesmeng masker ovaro kerrare ta kerra te dolle aschar fediga kapacitet an themmet gla nevoavade naschare ta vavver rakepha- manisch.</p>
+<p type="title">Simmali</p>
+<p>Themmeskepottande- enheti aschar jeck regional simmali- bastanopha. Dolle aschar gla te vorsnos uschalipha te prealdynkra ta kerra simmali gla sass manisch, simmali to Europaparlamentet ta rackel-hilprande ta dokkande nationelli manisch golande to simmali</p>
+<p>Glanske simmalit pottar Themmeskepottande- enheti huri anbekkandet an simmalikretsi ta simali-themmarna saste jura avri ta le dova golepha attjer dova kandidater savo saste stee pre patiens simmali-iller. Nickli simmalirattin rappoterar dova ovaro simmalithemmen siro golresultati to Themmeskepottande- enheti. Dojakkter kerra vorsnos dolle brastiga kettanesjinnandet.</p>
+<p type="title" xml:lang="swe">Kris- glanskedynkrande</p>
+<p>Nickli jeck kris ire nerrider duriare glanskedynkrande saste Themmeskepottande- enheti hilpra ta kettaneskerra bastanopha, ta kerra gla baro manisch-kettanespha roddrelser an themmet. Vorsnos kammar tasa uschalipha gla te dokka avri janepha ta informeri baschi krisen kettaneskerras ta recklar sassmanischen ta medierna. Baschi jeck vinepha ire jick avritjivver kerras nerrider jick soralikeribepha kammar sass Themmeskepottande- enheti jick hilprande- ta rakepha uschalipha an siro themm ta Themmeskepottande- enheti an Uppsala, Kalmar ta Hallands themm kammar tasa baroare glanskedynkrande uschalipha.</p>
+<p type="title">Kontrollo ta pottoiller, dokkande attjer hortepha</p>
+<p>An butti tjack dokkar Themmeskepottande- enheti avri hortepha, pottande-iller ire dikkar to ta kerra kontroller gla te jura to te manisch kammat fedigt ta tji aschar duckaloa ire hortepha tji riggeskesuttas.</p>
+<p type="title">Phuvanoer</p>
+<p>Themmeskepottande- enheti kerrar to baschibuddi savo saste dikka to kangarier ta dikka to te dova savo tji aschar to dolle Sveddingska kangari tasa fussa phuvas pre jick sutt savo aschar fedigt gla dova. Vorsnos saste tasa dokka avri hortepha ta pottoiller to te tjivvra askan akkter jeck mulad manisch.</p>
+<p type="title">Deponera lover</p>
+<p>Themmeskepottande- enheti nasht lottra diro deponera lovver pre jick kanno. Dolle aschar te vorsnos nasht le ta kamma lover savo diro saste projsa to kohnn. Dolle nasht to exempli kerras baschi diro savo lovverprojsande – boddrare kamma jeck goledabb ninna boddrarmoschen ire baschi diro aschar uschali lover avritan te jana to saro diro saste projsa dova. Diro uschali dynkras karni ascha projsad an tjiro baschi kutti rekvisit aschar kerrade savo aschar an hortan.</p>
+<p type="title">Alidikkande-rakepha</p>
+<p>Themmeskepottande- enheti nasht dokka avri hortepha, pottoiller gla sassmosch alidikkande- rakepha. Sassmoschande alidikkande- rakepha aschar te alidikkare dikkar pre jeck steddo doj sassmanisch nasht jaa to. Dolle aschar dy hortor savo regleri alidikkande- rakepha, hortan baschi sassmosch- alidikkande- rakepha ta manisch-janande-hortan, ta Themmeskepottande-enheti dikkar to savo te dova kerras.</p>
+<p type="title" xml:lang="swe">Kabbinsketjack – kontrolli</p>
+<p>Primerproduktioni aschar jeckesta durit an kabingskespekkariernas- duri ta aschar produktioni attjer mass, tud, spannkabbing, grovalotfoder, kerrande attjer fodermultringar ta tradrande attjer dypas foder ta kabbinsketjack. Primärproduktion attjer kabbinsketjack kontrolleri attjer buttare duriar attjer Themmeskepottande- enheti ta Phuveskekeribepha. Vorsnos dikkade tasa to te kommunerna kammade fedig kontrolli preal te dova savo producerar ta bikknar kabing kammar sav butta janepha savo dova mustula kamma gla kerra ninna kammorerna ta buttare.</p>
+<p type="title">Mengeskelovver – lovrande</p>
+<p>Baschi diro kammar meng pre jick roddrelse savo jaar an konkurs aschar diro an attjer mengeskelovver- lovrande hortan. Themmeskepottande- enheti kammar uschalipha gla te projsa avri leschtatjirolovver to mengarna nerrider roddrelsen an themmet savo jaar an konkursi ire kerrar jeck roddrelsekonstruktioni.</p>
+<p type="title">Ninnaboddrande</p>
+<p>Themmeskepottande- enheti ler gol baschi sveddiska ninnaboddrande fann diro savo aschar ninnaboddrare an Daniken, Lollothemm, Norge ire Island. Jeck gol aschar jick lokkigt sutt te kerra baschi ninnaboddrande. Baschi diro aschar ninnaboddrare an jick vavver themm jeck kava saste diro jaa diro to migrationiskekeribepha. Baschi diro attjer khoon tjack bliddrar attjer ninna diro ninnaboddrande nasht diro dokka dolle palla jeck gol to Themmeskepottande- enheti.</p>
+<p type="title">Notarius publicus</p>
+<p>Themmeskepottande- enheti kerrar sav pennade notarius publicus. Lavet aschar latin ta aschar nasht mosch penna <span type="quote" xml:lang="swe">”offentlig randrare”</span>. Notarius publicus saste ninna vavvert hilpra sassmanischen ninna te potta laveskerandrande, dovas voltranden, prealrandrande ta vavver kerranden an potto- iller, ascha doj savo jick manisch savo kammar jurat karna sigili suttas pre ire kerras vavver ta dikka preal lotteri.</p>
+<p type="title" xml:lang="swe">Jengande</p>
+<p>Themmeskepottande- enheti kerrar borgerliga jengeskekerrande-manisch ta kammar jeck iller preal saro manisch savo aschar kerrade to jengeskekerrande-manisch an savrige themm. Baschi diro aschar nickli 18 bascht ire baschi diro voltrar jaa intus an jengandepha ninna khoon savo aschar dolle mustula diro kamma horta fann Themmeskepottande- enheti gla te fussa bliddra jengandepha.</p>
+<p type="title">Prealbastano- mosch</p>
+<p>Manisch savo kamma dolle kerriat ninna kerra siro lovverpha baschi savo dova kammar duckalopha, phurano ire khoon vavvert nasht fussa hilprepha attjer jeck fedig- mosch ire jeck glanskemosch. An savrige kommun saste dolle ascha jeck prelbastano- mosch ire prelbastano- namndi savo dikkar to te kommunernas fediga- mosch ta glanskemosch kerrar siro meng. Themmeskepottande- enheti kerrar dikkar gla prealbastano-moschen ninna ovara tjiroar ire dikkar jeck prelbastano- mosch akkter to exempli jeck gol fann sassmanischen.</p>
+</body></document>

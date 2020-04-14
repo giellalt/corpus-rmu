@@ -1,68 +1,25 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>467</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Egenvard-barn/Ont-i-orat-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
-    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="d.html"/>
-    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="l1.html"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Dukk an schynlo gla nuckoar - so nast diro kera solo? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Dukk an schynlo gla nuckoar - so nast diro kera solo? Ont i örat hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Bàsi nuckon sutar hemu ninna scherot tiknorela suvlon an schynlo ta kava kera tiknoast dukk. Jikk sutt te usipa scherot honkar te suta andre bolvina telal beddro.</p>
-    </list>
-    <p type="title" xml:lang="swe">Buttvar dukk pre rattia</p>
-    <p xml:lang="swe">Nuckoar savo honkar sudardo nast fussa dukk an thulosanimortik an schynlon suvlo. Dova nast aur fussa dukk attjer jeck tharibe an preleschynlon, schynlotharibe. Solduj sudraripe ta schynlotharibe honkar buttast infekcijadukkepa ke nuckoar. Buttvar jangno nuckoarna pre rattia attjer dukken ashtersavo dova honkar dukkare karna dova honkar sutar. Dolle nast prinjas lokkir te domra ninna hari blovina telal scherot.</p>
-    <p xml:lang="swe">Vaver pharipe savo nast dokka schynlo dukk honkar tharibe an schònnasdrommen sav savo ròdrar kettanes andre ninna koro dubbasanimortik, jeck momtapa ire pharipe ninna khòren.</p>
-    <p type="title" xml:lang="swe">Schynlotharibe keras an preleschynlon</p>
-    <p xml:lang="swe">Jeck schynlotharibe an preleschynlon aggrar buttvar siggrepa avri bàsi diro aschar nasht tecknot. Nuckoarna nast fussa kerrit ninna te shonna. Dolle honkar buttast ninna jag. Nuckoar nast aur fussa schynlotharibe avri biso dukk.</p>
-    <p type="title" xml:lang="swe">Dukkfassande drabb</p>
-    <p xml:lang="swe">Bàsi diro haja te nuckon kammar schynlotharibe nast diro dokka dukkfassande drabb savo andrekammar paracetamol, savo Alvedon ta Panodil, ire drabb savo andrekammar ibuprofen, savo Ipren ta Ibumetin. Drabb aschar an thavdela form, savo stolpiller ta savo drabb. Dolle aschar rander sarkeribe pre leddikan.</p>
-    <p xml:lang="swe">Karna kava aschar nuckoar savo honkar telal sinkus tschon saste diro tji dokka dukkfassande drabb biso te angleske frigga jeck darton ire dukkalopenja.</p>
-    <p xml:lang="swe">Nuckoar telal18 basjt savo kammar jag nachta tji ismarela dukkfassande ta jagtelisutt drabb ninna acetylsalicylsyra, savo Magnecyl, Treo ire Albyl minor, bàsi tji jeck darton kammar rekomandirihela kava.</p>
-    <p type="title" xml:lang="swe">Nakdrabb</p>
-    <p xml:lang="swe">Nakdrabb nast tiknorela nakphater ta kera dolle lokkigare gla nuckon to le andre bival. Te nakdrabb saste hilpra koro schynlotharibe kammar tji nasat sikkrat.</p>
-    <p type="title" xml:lang="swe">Schynloproblemi ta nanda</p>
-    <p xml:lang="swe">Bàsi dolle kammar ovelat jekk kev an dubbsanimortik saste diro biddra ninna te nanda to dolle phatrat thavdela frann schònnasdrommen. Karna dubbsanimortik kammar bliddrat sastarela, sav saste keras siggrepa, nast diro nanda. Kammar diro kev an schunlorna ire jeck schynlotharibe nast diro tji nanda ninna schero telel panit.</p>
-    <p type="title" xml:lang="swe">Diro nast hòftara kontakti araken</p>
-    <p xml:lang="swe">Nuckoar nast fussa schynlo dukk jeck an tikno kettandoro ninna sudardo. Abbo bàsi dukken tji jar schettani, nachta nuckon roderpa pre akracentrali ire dartonarak andre dy-trin divusar.</p>
-    <p xml:lang="swe">Bàsi nuckon honkar matto, tji nashtar kheliber ta tji pi ire honkar telal sinkus tschon nast diro kontakti araken.</p>
-    <p xml:lang="swe">Diro saste sàrstil kontakti akracentrali bàsi dolle thavdela panipe vri fann schònnasdrommen pre jikk nucko oginda bàsi nuckon kammar dukk ire tji.</p>
-    <p xml:lang="swe">Diro nast sarstill tava dukkaloaraken gla te hamma godi.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>460</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Egenvard-barn/Ont-i-orat-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/><parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/><parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="d.html"/><parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="l1.html"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Dukk an schynlo gla nuckoar - so nast diro kera solo? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Dukk an schynlo gla nuckoar - so nast diro kera solo? Ont i örat hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">Bàsi nuckon sutar hemu ninna scherot tiknorela suvlon an schynlo ta kava kera tiknoast dukk. Jikk sutt te usipa scherot honkar te suta andre bolvina telal beddro.</p>
+</list><p type="title">Buttvar dukk pre rattia</p>
+<p>Nuckoar savo honkar sudardo nast fussa dukk an thulosanimortik an schynlon suvlo. Dova nast aur fussa dukk attjer jeck tharibe an preleschynlon, schynlotharibe. Solduj sudraripe ta schynlotharibe honkar buttast infekcijadukkepa ke nuckoar. Buttvar jangno nuckoarna pre rattia attjer dukken ashtersavo dova honkar dukkare karna dova honkar sutar. Dolle nast prinjas lokkir te domra ninna hari blovina telal scherot.</p>
+<p>Vaver pharipe savo nast dokka schynlo dukk honkar tharibe an schònnasdrommen sav savo ròdrar kettanes andre ninna koro dubbasanimortik, jeck momtapa ire pharipe ninna khòren.</p>
+<p type="title">Schynlotharibe keras an preleschynlon</p>
+<p>Jeck schynlotharibe an preleschynlon aggrar buttvar siggrepa avri bàsi diro aschar nasht tecknot. Nuckoarna nast fussa kerrit ninna te shonna. Dolle honkar buttast ninna jag. Nuckoar nast aur fussa schynlotharibe avri biso dukk.</p>
+<p type="title">Dukkfassande drabb</p>
+<p>Bàsi diro haja te nuckon kammar schynlotharibe nast diro dokka dukkfassande drabb savo andrekammar paracetamol, savo Alvedon ta Panodil, ire drabb savo andrekammar ibuprofen, savo Ipren ta Ibumetin. Drabb aschar an thavdela form, savo stolpiller ta savo drabb. Dolle aschar rander sarkeribe pre leddikan.</p>
+<p>Karna kava aschar nuckoar savo honkar telal sinkus tschon saste diro tji dokka dukkfassande drabb biso te angleske frigga jeck darton ire dukkalopenja.</p>
+<p>Nuckoar telal18 basjt savo kammar jag nachta tji ismarela dukkfassande ta jagtelisutt drabb ninna acetylsalicylsyra, savo Magnecyl, Treo ire Albyl minor, bàsi tji jeck darton kammar rekomandirihela kava.</p>
+<p type="title" xml:lang="swe">Nakdrabb</p>
+<p>Nakdrabb nast tiknorela nakphater ta kera dolle lokkigare gla nuckon to le andre bival. Te nakdrabb saste hilpra koro schynlotharibe kammar tji nasat sikkrat.</p>
+<p type="title" xml:lang="swe">Schynloproblemi ta nanda</p>
+<p>Bàsi dolle kammar ovelat jekk kev an dubbsanimortik saste diro biddra ninna te nanda to dolle phatrat thavdela frann schònnasdrommen. Karna dubbsanimortik kammar bliddrat sastarela, sav saste keras siggrepa, nast diro nanda. Kammar diro kev an schunlorna ire jeck schynlotharibe nast diro tji nanda ninna schero telel panit.</p>
+<p type="title">Diro nast hòftara kontakti araken</p>
+<p>Nuckoar nast fussa schynlo dukk jeck an tikno kettandoro ninna sudardo. Abbo bàsi dukken tji jar schettani, nachta nuckon roderpa pre akracentrali ire dartonarak andre dy-trin divusar.</p>
+<p>Bàsi nuckon honkar matto, tji nashtar kheliber ta tji pi ire honkar telal sinkus tschon nast diro kontakti araken.</p>
+<p>Diro saste sàrstil kontakti akracentrali bàsi dolle thavdela panipe vri fann schònnasdrommen pre jikk nucko oginda bàsi nuckon kammar dukk ire tji.</p>
+<p>Diro nast sarstill tava dukkaloaraken gla te hamma godi.</p>
+</body></document>

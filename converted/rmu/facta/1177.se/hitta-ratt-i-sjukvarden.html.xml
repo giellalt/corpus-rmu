@@ -1,125 +1,94 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2582</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Hitta-ratt-i-sjukvarden</origFileName>
-    <parallel_text xml:lang="smj" location="hitta-ratt-i-sjukvarden.html"/>
-    <parallel_text location="hitta-ratt-i-sjukvarden.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Lattja horta an araken / Hitta rätt i sjukvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Lattja horta an araken Hitta rätt i sjukvården</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Hilpra to horta arak</p>
-    <p type="title" xml:lang="swe">Arak pre horta nivo</p>
-    <p xml:lang="swe">Dolle nast asha kerria te haja saste diro nachta ja an araken. Saste nachta diro rode siro bàsi diro kammar duck an dummo, jeck trumo sudraripe ire buti duck an belsingen?</p>
-    <p xml:lang="swe">Buttvar nachta diro rode hilpra pre akracentrali ire vavra lajarin gla sàssaro lender pharipe savo tji mostula siggrepha arak pre dukkalokheren, kava mangela penna pharipe savo honkar gla sigutno ire jibendarano. Bàsi dolle doj hòftaras bischa diro fann akracentrali to vavra specialistdarton. Pre bélving ta kurkor jar diro an angleske vasht to lajarin doj diro boddrar bàsi diro kammar jikk problemi savo tji nast biddra to akracentrali phravdo.</p>
-    <p xml:lang="swe">Kava dova akata tekstin parmissa sar dova phravdo araken juras ta saste diro nachta jar, abbo dolle nast asha varincija tecknot prele najek themmjakoro. Bàsi diro voltrar mangela haja buttare sar araken juras avri fussar diro le jidra pre so savo chani doj diro boddrar. Pre kava themmjakoro webbpatrin nast diro drabba buttare 1177 Vårdguiden.</p>
-    <p type="title" xml:lang="swe">Dukkaloarakengodidejbe dokkar godi ta vaver phravdosikripa</p>
-    <p xml:lang="swe">Dolle honkar tji sàrstil lokkigt te solus potta sar dukkalo diro honkar. Dojgla aschar dukkaloarakengodidejbe pre taven doj dukkaloarakhnir shinavibe pre problemi, dokkar godi ta karna dolle mostula aur janepha phravdosikripa bàsi sako diro nachta rode hilpra. Biddratjiron nast bliddra tecknoa ta araken fedigare bàsi diro haja savi saste diro nachta jar. Dolle lender savo honkar buttast dukkalo fussar siggrepa arak ta dolle savo kammar tecknoaste pharipe mostula tji béscha doj. Dolle ta honkar biddra. Kava gla honkar fedigt gla sassaro.</p>
-    <p type="title" xml:lang="swe">Dukkaloarak aschar an phravdoarak ta phatetarak</p>
-    <p xml:lang="swe">Dukkaloarak aschar an dy ulavelar, phravdoarak ta phatetarak. Phravdoarak aschar te diro fussar tradra kherat akkter te diro aschar an kontakti ninna dukkaloarak,akno phatetarak aschar te diro honkar sutalo an dukkalokheren. Dova barroa kotar attjer dukkaloaraken kerras an phravdoarak. Angleske randra vorsnos bàsi arakcentralin ta specijalistilalarin. Akkter kava avar jeck randra bàsi sigutnolajarin savo honkar drommen to dova phatetarak.</p>
-    <p xml:lang="swe">Dova savo hòftarar dukkaloarak an kheren nast fussa hilpra andre kherdukkaloarak. pre sass gla reg an themmen honkar doj komuna savo dóchalo dova.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Arakcentrali</p>
-    <p type="title" xml:lang="swe">Arakcentrali – kaj jaar iranela diro seri angleske</p>
-    <p xml:lang="swe">Arakcentrali honkar dova svedos duckaloaraken. Dolle kammar butt najek nav ta karas aur kheren darton lajarin, natan darton lajarin ire sastepa lajarin. Kaj iranela diro buttvar siros malanosikk karna diro kammar dolle problemi ninna sastepha. Diro jar to dova arakcentrali savo kammar dóchalo gla manisch an dova steddo doj diro boddrar an, ire to dova savo diro honkar randrad ke.</p>
-    <p xml:lang="swe">Pre arakcentralin ovibe sass fann sastepakontrola attjer nevobiljani nuckoar to dikhljaribe attjer buttastdukkepa savo mendukk ta kroniska dukkepa. Kaj nast diro aur ja karna diro mangela fussa godi bàsi te phater tuja ire bliddra tecknoar. Mostula diro rehabilitering fussar diro buttvar dolle pre arakcentralin. Bàsi darton sharat te diro mostula kamma specijalisti arak ire rehabilitering nast diro fussa jeck remiss to jeck specijalistilajarin pre dukkalokheren ire vaver vavra phravdo centrali.</p>
-    <p xml:lang="swe">Arakcentralin kammar phravdo pre divusen, keda nast diro tava ta budra tjiro. Bùttar lajarinar kammar aur phravdo lajarin khonra tjiror an phagel keda diro nast ava bàsi diro mostula kamma hilpre savrige divus biso te budra tjiro. Arakcentrali kammar godidejbe pre taven ta nast kera kheratgostibe.</p>
-    <p xml:lang="swe">Bùttar arakcentralii, ta karnadukkalokheren kammar jeck surnolajarin doj diro nast ja ninna sigutno pharipe aur pre belvingen, kurkon ta rattia. Buttvar mostula diro tava anglanske ta budra rezervirinela tjiro. Pre hari keras surnobukjakeribe pre dukkalokheren sigutnolajarin.</p>
-    <p type="title" xml:lang="swe">Sàrenidartons dejbebuti</p>
-    <p xml:lang="swe">Dova darton savo mengar pre arakcentralin honkar aur sàrenidarton, karas aur <span type="quote" xml:lang="swe">"khere darton"</span> ire <span type="quote" xml:lang="swe">"narthan darton"</span>. Dova honkar sassaro specijalisti an sarenidabb ta dova honkar baro dzanrir pre te le kora manisch ninna najek symtom ta vakerela savo mostula kamma arak attjer kommoni vavra specialist specijalisti ire dukkalokheren. Dova Sàrenidartons kammar uschalipha vasht bàsi dova manisch savo fussar manisch kòmmoni manusdukkepa, dolle aschar dova buttaste dukkepar an sarinipet. Dova kera araken karna diro kammar jeck tecknoa form attjer kommoni kronisk dukkalopa savo diabetes ire siidukkapa. Darton nast aur dokka arak bàsi diro kammar jeck teckno dilinipe savo kerrar diro tugalo. Diro nachta ja to savrige darton ninna sàssaro siros pharipe ta fussa rahatin dojgla fussa dova lavet <span type="quote" xml:lang="swe">"kheredarton"</span>.</p>
-    <p xml:lang="swe">Sàrenidarton menar aur ninna glankeribe arak preal te hilpre manisch te fussa avekerela jiben. Dolle nast asha te hilpre ninna te phater tuja ire bliddra tecknoar ire fussa fedigare kattjali rutiner.</p>
-    <p xml:lang="swe">Sàrenidarton dokkar aur hilpre an dukkaloaraken. Dova kammar jikk baro kontaktiresel ta haja so dova vavra specijalistidarton honkar fediga pre. Dojgla nast dova hilpra diro an araken ta randra remiss to horta steddo.</p>
-    <p xml:lang="swe">Pre arakcentralin, sav pre dukkalokhern, nast dolle aur asha darton telal sikljojbe savo karas AT-darton ire ST-darton. AT-darton honkar darton savo kera siros dy basjt sàrinipedinreske. Dova mengar buttvar an sinkus tschon pre arakcentrali. Kava darton kammar jeck darton savo mangipar ta nast frigga bàsi godi.</p>
-    <p xml:lang="swe">ST-darton honkar jeck darton savo kera siro specijalisti sàrinipedinreske. Pre arakcentralin trissar diro buttvar dova darton savo specijalisti siro to kava sàreni darton, abbo doj nast aur kamma jeck vavra sikljojbe. Specijalisti sikljojbe lera cirka pansh basjt. ST-darton pre arakcentrali kammar tjattjomaskero nikalo hilpra attjer jeck tjattjo sarenidarton.</p>
-    <p xml:lang="swe">Jeck grupp attjer darton savo mengar pre arakcentralir honkar vikarier savo perdar oppre karna dolle doj honkar dartonnaisibe. Kava nast asha solduj specijalisti ta bi-specijalisti.</p>
-    <p type="title" xml:lang="swe">Valjfara arakcentrali</p>
-    <p xml:lang="swe">Diro nasht nast solus solo valjfara savi arakcentral arakcentrali ire dartonsteddo dartonlajarin diro saste nachta ascha parelar. Arakcentralin diro valjfarar nast asha saste savi avel andre diro themmsketing themmjakoro aschar ire regioni. Diro nasht nast valjfara solus privatikano dartonlajarin ire themmjakoro arakcentraller arakcentralir ire dartonlajarin.</p>
-    <p xml:lang="swe">Arakvaljfarandet savo honkar kerrat kerat an svacko saroe themmet themmen aschar te diro an butt themmar themmjakoro ta regioni aur kammar horta te valjfara jeck solus kheredarton hispdarton. Dolle kava kerar kera te preal te le lela trissepha kontakti ninna dova arakcentralen arakcentrali savo diro voltrar mangela jaa ja to. Baschi Bàsi dova darton savo diro voltrar vàljfara randra tji diro nast an lett tji buttare nasht nevoa le pasienti koro fussar nevo diro manisch vàljfara fussar jeck diro vavra baljfar hispdarton. Diro nasht nast le parra jeck hispdarton karna karna diro voltra mangela.</p>
-    <p type="title" xml:lang="swe">Vavar mengare pre arakcentralin</p>
-    <p xml:lang="swe">Dolle juras najek vri pre najek, abbo pre jeck arakcentrali nast diro aur thanarakhni, dukkalogymnastir, trakksa ta dartonsekretari fakkar. Dolle doj nast aur asjar mengesketerapefter, psykologer, kuratorer ta dietister. Pre arakcentralin asjar kava buttvar thaj nuckoar- ta dakrisastearak. Biodabb analytiker ta laboratorieassistenter isi pre laboratorierna savo buttar arakcentralir kammar. An receptionen trissar diro buttvar jeck receptionist ire vaver dartonsekretari.</p>
-    <p type="title" xml:lang="swe">Thanarakhnir</p>
-    <p xml:lang="swe">Themmeske thanarakhnir honkar dukkaloarakhnir, ninna buttare janepha. Dova kammar meng te dokka vaccinationer. Kotar vri drabb ta pacha kerra bàsi ger. Themmeske thanarakhnir mengar aur ninna glankeribe osastepa preal te menga ninna phater-tyja grupar. Buttvar kerrar dova aur kheratgostibe to manisch savo tji nast ava to arakcentralin gla arak ta hilpre.</p>
-    <p xml:lang="swe">Themmeske thanarakhnir kammar buttvar solus lajarin gla manisch ninna kroniska dukkalopa savo diabetes ta astma. Doj kera araken ta kammar hortan te randra avri khonra drabb. Karna diro tavar to jeck arakcentrali ta kammar problemi ninna diro sastepa honkar dolle buttvar jeck themmeske thanarakhnir savo svardarar ta dokkar godi.</p>
-    <p type="title" xml:lang="swe">Telalarakhnir</p>
-    <p xml:lang="swe">Telalarakhnir mengar kettanes savigas ninna darton ta themmeske thanarakhnir. Dova ler rattskiri, roder siia ninna EKG ta pacha bàsi ger. Pre buttar arakcentralir keras dova aur kheratgostibe. Telalarakhnir nast aur bescha an arakcentralins reception. An receptionen nast diro aur trissa dartonsekretari, sav kera kava administrativa mengar pre arakcentralin.</p>
-    <p type="title" xml:lang="swe">Dukkalogimnasti</p>
-    <p xml:lang="swe">Dukkalogimnasti mengar anglatsass ninna manisch savo kammar dolle pharipe kerria savo ninna prekerelar siros dsajbenangi . Kava nast asha pharipe ninna dummro ire menen, ire rehabilitering anavener ire dukkepa savo stroke, dabbdukkelo. Araken nast asha godi bàsi meng ninna truppon ta massage. Dukkalogimnasti nast aur randra vri motion pre resepti gla te glankeribe jeck dukkepa. To dukkalogimnast nast diro ja biso remiss fann darton.</p>
-    <p type="title" xml:lang="swe">Naprapater ta kiropraktorer</p>
-    <p xml:lang="swe">Thaj naprapater ta kiropraktorer dikhljaribar dukk an dsajbenangi-organi. Helko sanati grupakerela kera manuell arak. Pre arakcentralir aschar doj kiropraktorer, abbo doj aschar aur butt sass ninna privatikanopraksar kiropraktorer ta naprapater savo kammar simmali ninna themmjakorot.</p>
-    <p type="title" xml:lang="swe">Mèngrasterapeuter</p>
-    <p xml:lang="swe">Mèngrasterapeuter hàshtar manisch savo kammar jeck dukkepa ire savo kammar bésjat dabbade vri attjer glajeck obahita te ja to jibbet. Dova maisar vri hilprabukja ta honkar experter pre te lattja praktikano hilpre gla kheren. Dolle nast asha te hilpra te kerarelar jikk boddrande ta stammotrillet.</p>
-    <p type="title" xml:lang="swe">Kuratorer</p>
-    <p xml:lang="swe">Hilprar to ninna psykosocialt dumodejbe. Kava nast asha te rakkra ninna manisch an kriza. Kuratorer dokkar aur godi an friggor ninna ekonomi ta meng an kettandoro ninna te diro honkar dukkalo. Kuratorer kammar buttvar socionomexamen ta an <span type="quote" xml:lang="swe">"socialt meng"</span>.</p>
-    <p type="title" xml:lang="swe">Psykologer</p>
-    <p xml:lang="swe">An themmen aschar doj aur psykologer pre arakcentralin. Psykologerna kammar jad jeck panshbasjtet baro-kupadrabbahisp sikljojbe ta jikk basjt praktikan meng. Dolle lender dokkar psykologisk dikhljaribe ta an dova aur peribe dova thaj kammar jeck sikljojbe an psykoterapi nast dova dokka sàvot dikhljaribe.</p>
-    <p xml:lang="swe">Pre arakcentralir dinglar kava buttvar bàsi jeck phatra chijbe savo saste dokka te diro solus nashta jeck nasa nashta vri jeck pharipet situation. Psykologen nast aur hilpra darton ninna psykologiska mais savo hòftarar niga rehabiliteringsrodkeribe.</p>
-    <p xml:lang="swe">Solduj kuratorer ta psykologer nast kera grupadikhljaribe savo stresivasinelagrupa. Psykologer mengar aur pre psykriatriska steddon ta an solus regi.</p>
-    <p type="title" xml:lang="swe">Dietister</p>
-    <p xml:lang="swe">Dietisterna honkar dzanri pre kabin. Dova dokkar godi bàsi diro mustula to misal hòftara javerkerela diro pharep ire ka vavra kabing niga dukkalopa savo diabetes ta allergier.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Nucko- ta dakrisastearak</p>
-    <p type="title" xml:lang="swe">Dakrisastearak centrali</p>
-    <p xml:lang="swe">Pre kava arakcentrali, ire niga dova, aschar dakriaarak centrali, MVC, doj trakksa mengar. To dova jar diro ninna friggor bàsi chinavnikanobukja ta minsheske, ire karna diro honkar pari. Dova buttaste MVC kera dad ta dakrigrupa ta kammar kurser angla lokharibe. Trakksor ler hurdinskiri gla jura hurdinverkerela an uterusmen. Kava mollar nane te ja to MVC ta diro nast ja to savi lajarin diro mangela.</p>
-    <p type="title" xml:lang="swe">Nuckoarakcentral</p>
-    <p xml:lang="swe">Nuckoarakcentralen, BVC, honkar buttvar phandela to arakcentralin. Pre BVC mengar duckalapenjor ninna specijalistisikljojbe pre nuckoar, themmeske thanarakhnir ta darton. Hick nast telalarakhnir savo honkar specijalisti pre nuckoar, menga. BVC kera sastepakontroli attjer sasto nuckoar oppri to 6 basjt, avoashter fussar nuckoar hilpre attjer dràbbrahispsastepàarak. BVC dokkar aur vaccinationer ta diro nast fussa godi. Savo dad ta dakri to jeck dukkaloa nuckor oginda basjtsipe, jar diro to arakcentralin ire nuckosigutnon. Buttvar kammar BVC oppre lajarin diro nast ava vri bùdra tjiro. Buttvar jar kava aur te budra tjiro.</p>
-    <p xml:lang="swe">Psykologer isi phandela to solduj nucko- ta dakriasastepaarak.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Privatikano arak</p>
-    <p type="title" xml:lang="swe">Privatikano arak ninna simmali</p>
-    <p xml:lang="swe">Araken nast solduj keras attjer themmjakoro ire regioni ta attjer privati kompanija savo kammar simmali ninna themmjakoro ire regioni . Dolle aschar solus arakcentrali. Dolle honkar nane javeripe pre taxan bàsi diro jar to themmjakoro-regioni lajarin ire dova privata bàsi dolle aschar jick simmali.</p>
-    <p type="title" xml:lang="swe">Privatikano arak biso simmali</p>
-    <p xml:lang="swe">Dolle aschar aur privati arakdokkare savo tji kammar simmali ninna themmjakoro ire regioni . Dannro fussar diro ste gla saroe taxan solus. Dolle nast asha kliniker savo kera operationer attjer kosmetiska abb soskip abbo thaj vavra dartonlajariner. Buttar psykolog lajarin keras an privati regi biso simmali ninna themmjakoro ire regioni.</p>
-    <p xml:lang="swe">Bàsi diro tji haja bàsi jeck lajarin kammar simmali ninna themmjakoro ire regioni honkar dolle lokkigast te an angladrom frekkra so gostibet avar te molla.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Specijalistiarak</p>
-    <p type="title" xml:lang="swe">Specijalistilajarin</p>
-    <p xml:lang="swe">An hari themmjakoro ire regioni kammar dolle kerat arak simmali andre specijalisti savo letran, gynekologi ta vavroret. Doj trissar diro darton savo honkar specijalistir andre drabb. Diro nast aur ja to karnadukkalokheren, an bároforons than, kammar sigutnolajarin pre divusarna. An vavra peribe rodela doj te diro kammar jeck remiss fann diros darton pre arakcentralin. Gla kava buttaste jar kava siggor ta mollar tiknoare bàsi diro kammar remiss.</p>
-    <p type="title" xml:lang="swe">Nejek specijalistidarton</p>
-    <p xml:lang="swe">Specijalistidarton honkar darton savo kammar phatert siro, specijalistidinstrat jeck pansh basjt sikljojbe akkter te dova kammar fussat siro dartonlegetimation. Kava aschar darton andre najek specijalisti. Dolle barroaste honkar interndrabb, kirurgi, ortopedi ta psykiatri.</p>
-    <p xml:lang="swe">Internmedicinare honkar dzanrir pre misalet siia sii-tjarodukkepa ta perren-poreproblemi ta vavra dukkalopa. Dolle aschar buttvar bàsi dukkalopa savo tji mostula opereras biso dolle nast keras ninna drabb ire preal jeck te javerkerela jiben.</p>
-    <p xml:lang="swe">Kirurgi honkar jikk specijalistithan doj kirurgerna glannsk dikhljariba dukkalopa an andre organ preal te kera operation. Dolle nast asha gall- ta njursten ta koraloportharibe ire vavra dukkalopa.</p>
-    <p xml:lang="swe">Ortopeder mengar dikhljariba dukkalopa an gustrande dsajbenangi organi savo mostula opereras.</p>
-    <p xml:lang="swe">Psykiatern mengar ninna manisch ninna psykiska problemi savo depresija, schizofreni ire savo dova aschar sav adhinalo attjer kattjali ire ler narkotika. Psykiatriker ta psykologer honkar dy helko najek mengare. Jeck psykiatriker honkar jeck legitimerad darton savo kammar bleddrat sikljojbe siro to specijalisti an psykiatri. Psykiatern nast aur randra vri drabb.</p>
-    <p type="title" xml:lang="swe">Arak niga ulavela problemi</p>
-    <p xml:lang="swe">An khonra themmjakoro ire regioni aschar arak gla dova manisch savo pir ire ler aschar adhinalo kerria attjer drabb ta nucko- ta ternopà psykratrin (BUP). Dolle mengar manisch dsenipe savo kammar sikljojbe gla pre te dova problemi. Diro nast fussar remiss fann arakcentralin abbo diro nast aur le kontakti lajarinen tede.</p>
-    <p xml:lang="swe">To ternopalajarinar ta bulepalajarinar nast diro aur buttvar tjujalin diro tede vri remiss. Dova buttaste savo jar doj honkar prele 13 ta 15 basjt phuro.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sigutno arak</p>
-    <p type="title" xml:lang="swe">Sigutnolajarinar</p>
-    <p xml:lang="swe">Sigutnolajarinar aschar phravdo sàrstil pre sigutno dukkalokheren. Doj jar diro ninna dolle savot nast biddra, bàsi diro fussar jeck baro signutno dukkapa ire anaven. Kava nast asha sigutno dukk an dóschet, jikk, magra piring ire te diro fussar jeck ràttrapa. Diro nast aur ja doj bàsi diro honkar dukkalo abbo kammar bliddrat raddi. Diro nast aur fussa jeck remiss fann arakcentralin to sigutnolajarinar bàsi darton pre arakcentralin sharat te diro sigutno mostula arakas pre dukkalokheren.</p>
-    <p type="title" xml:lang="swe">Najek mengare pre sigutnolajarinar</p>
-    <p xml:lang="swe">Pre sigutnolajarinar mengar telalarakhnir, dukkaloarakhni ta dartoner. Aur kuratorer honkar pandrat doj.</p>
-    <p xml:lang="swe">Telalarakhnir ler skiri, jura to diro. Dova mengar aur an receptionen.</p>
-    <p xml:lang="swe">Dukkaloarakhni kera jeck anglanske shinavibe attjer sar diro ovel, ler skiri ta dokkar avri drabb.</p>
-    <p xml:lang="swe">Kuratorn dokkar anglanske hilpre to narthan niga kerria obahitaperibe ire mulopa. Dova nast aur hilpre dova savo kammar asterelar attjer jeck sor-dabb ire aschat ninna bàsijeck.</p>
-    <p xml:lang="swe">Darton savo ler koro pre akuten nast asha jeck specialistidarton, abbo buttast honkar kava jeck darton telal sikljojbe, dolle aschar jeck ST-darton ire AT-darton. Specialistidarton kammar buttar vavra meng pre dukkalokheren ta aschar buttvar tji doj. Kava aschar dojkoro sarstill tiknoast jeck specialistidarton pandra to sigutnolajarinar savo dova darton savo mengar doj nast tava bàsi dova mostula kamma hilpre ninna kòmmoni. Pre univerzitetidukkalokheren sigutnolajarinar nast diro aur fussa trissa dartonkandidater, ovelande darton dolle honkar pre sigutnon gla te dràbbrano siros, abbo kammar nane dóchalo gla arak.</p>
-    <p xml:lang="swe">Sigutnodarton baroaste dejbebuti, honkar te vakerela sar diro ovel, bàsi diro nast fussa arak ta senslo tradra kherat ire bàsi diro mostula pacha an andre pre kommoni attjer dukkalokherens steddon kotoribe gla te fussa arak. Buttvar isi kava aur thaj sav karade observationsthanen pre dukkalokheren doj diro nast fussa bliddra hari sahatis ire to aver divus bàsi darton mangela parda arakhlon ire doj honkar opotto bàsi diro höftare pachas andre gla odora. Dolle arak nasht disavo hòftara odorederibe dikhljaribe an dova phravdo araken, buttast pre arakcentrali ire specialistilajarin. Dannro nast diro fussa jeck remiss ire sav randrar darton pre dukkalokheren jikk arkonom to ire dova darton savo nachta lela gla vasht diro bàsi odorederibe. Diro nast solus fussa le kontakti ninna diro arakcentrali gla kava odorederibe.</p>
-    <p type="title" xml:lang="swe">Lokala dukkalokherer ta karnadukkalokhere</p>
-    <p xml:lang="swe">Lokala dukkalokhere ta karnadokkalokhere honkar tecknoa dukkalokhere savo tji sàrstil kammar jeck sigutnolajarinar savo honkar phravdo sàrstil tjiro. Kaj mengar darton andre najek specijalistir. Araken keras buttvar an phravdo arak savi aschar te diro nast ja kherat akkter gostibet. Hick aschar kotoriber doj diro nast pachas andre bàsi diro mostula kamma dova avancerade araken savo aschar doj pre sigutnodukkalokheren.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2575</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Hitta-ratt-i-sjukvarden</origFileName><parallel_text xml:lang="smj" location="hitta-ratt-i-sjukvarden.html"/><parallel_text location="hitta-ratt-i-sjukvarden.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Lattja horta an araken / Hitta rätt i sjukvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Lattja horta an araken Hitta rätt i sjukvården</p>
+<p xml:lang="swe"></p>
+<p type="title">Hilpra to horta arak</p>
+<p type="title">Arak pre horta nivo</p>
+<p>Dolle nast asha kerria te haja saste diro nachta ja an araken. Saste nachta diro rode siro bàsi diro kammar duck an dummo, jeck trumo sudraripe ire buti duck an belsingen?</p>
+<p>Buttvar nachta diro rode hilpra pre akracentrali ire vavra lajarin gla sàssaro lender pharipe savo tji mostula siggrepha arak pre dukkalokheren, kava mangela penna pharipe savo honkar gla sigutno ire jibendarano. Bàsi dolle doj hòftaras bischa diro fann akracentrali to vavra specialistdarton. Pre bélving ta kurkor jar diro an angleske vasht to lajarin doj diro boddrar bàsi diro kammar jikk problemi savo tji nast biddra to akracentrali phravdo.</p>
+<p>Kava dova akata tekstin parmissa sar dova phravdo araken juras ta saste diro nachta jar, abbo dolle nast asha varincija tecknot prele najek themmjakoro. Bàsi diro voltrar mangela haja buttare sar araken juras avri fussar diro le jidra pre so savo chani doj diro boddrar. Pre kava themmjakoro webbpatrin nast diro drabba buttare 1177 Vårdguiden.</p>
+<p type="title">Dukkaloarakengodidejbe dokkar godi ta vaver phravdosikripa</p>
+<p>Dolle honkar tji sàrstil lokkigt te solus potta sar dukkalo diro honkar. Dojgla aschar dukkaloarakengodidejbe pre taven doj dukkaloarakhnir shinavibe pre problemi, dokkar godi ta karna dolle mostula aur janepha phravdosikripa bàsi sako diro nachta rode hilpra. Biddratjiron nast bliddra tecknoa ta araken fedigare bàsi diro haja savi saste diro nachta jar. Dolle lender savo honkar buttast dukkalo fussar siggrepa arak ta dolle savo kammar tecknoaste pharipe mostula tji béscha doj. Dolle ta honkar biddra. Kava gla honkar fedigt gla sassaro.</p>
+<p type="title">Dukkaloarak aschar an phravdoarak ta phatetarak</p>
+<p>Dukkaloarak aschar an dy ulavelar, phravdoarak ta phatetarak. Phravdoarak aschar te diro fussar tradra kherat akkter te diro aschar an kontakti ninna dukkaloarak,akno phatetarak aschar te diro honkar sutalo an dukkalokheren. Dova barroa kotar attjer dukkaloaraken kerras an phravdoarak. Angleske randra vorsnos bàsi arakcentralin ta specijalistilalarin. Akkter kava avar jeck randra bàsi sigutnolajarin savo honkar drommen to dova phatetarak.</p>
+<p>Dova savo hòftarar dukkaloarak an kheren nast fussa hilpra andre kherdukkaloarak. pre sass gla reg an themmen honkar doj komuna savo dóchalo dova.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Arakcentrali</p>
+<p type="title">Arakcentrali – kaj jaar iranela diro seri angleske</p>
+<p>Arakcentrali honkar dova svedos duckaloaraken. Dolle kammar butt najek nav ta karas aur kheren darton lajarin, natan darton lajarin ire sastepa lajarin. Kaj iranela diro buttvar siros malanosikk karna diro kammar dolle problemi ninna sastepha. Diro jar to dova arakcentrali savo kammar dóchalo gla manisch an dova steddo doj diro boddrar an, ire to dova savo diro honkar randrad ke.</p>
+<p>Pre arakcentralin ovibe sass fann sastepakontrola attjer nevobiljani nuckoar to dikhljaribe attjer buttastdukkepa savo mendukk ta kroniska dukkepa. Kaj nast diro aur ja karna diro mangela fussa godi bàsi te phater tuja ire bliddra tecknoar. Mostula diro rehabilitering fussar diro buttvar dolle pre arakcentralin. Bàsi darton sharat te diro mostula kamma specijalisti arak ire rehabilitering nast diro fussa jeck remiss to jeck specijalistilajarin pre dukkalokheren ire vaver vavra phravdo centrali.</p>
+<p>Arakcentralin kammar phravdo pre divusen, keda nast diro tava ta budra tjiro. Bùttar lajarinar kammar aur phravdo lajarin khonra tjiror an phagel keda diro nast ava bàsi diro mostula kamma hilpre savrige divus biso te budra tjiro. Arakcentrali kammar godidejbe pre taven ta nast kera kheratgostibe.</p>
+<p>Bùttar arakcentralii, ta karnadukkalokheren kammar jeck surnolajarin doj diro nast ja ninna sigutno pharipe aur pre belvingen, kurkon ta rattia. Buttvar mostula diro tava anglanske ta budra rezervirinela tjiro. Pre hari keras surnobukjakeribe pre dukkalokheren sigutnolajarin.</p>
+<p type="title" xml:lang="swe">Sàrenidartons dejbebuti</p>
+<p>Dova darton savo mengar pre arakcentralin honkar aur sàrenidarton, karas aur <span type="quote">"khere darton"</span> ire <span type="quote">"narthan darton"</span>. Dova honkar sassaro specijalisti an sarenidabb ta dova honkar baro dzanrir pre te le kora manisch ninna najek symtom ta vakerela savo mostula kamma arak attjer kommoni vavra specialist specijalisti ire dukkalokheren. Dova Sàrenidartons kammar uschalipha vasht bàsi dova manisch savo fussar manisch kòmmoni manusdukkepa, dolle aschar dova buttaste dukkepar an sarinipet. Dova kera araken karna diro kammar jeck tecknoa form attjer kommoni kronisk dukkalopa savo diabetes ire siidukkapa. Darton nast aur dokka arak bàsi diro kammar jeck teckno dilinipe savo kerrar diro tugalo. Diro nachta ja to savrige darton ninna sàssaro siros pharipe ta fussa rahatin dojgla fussa dova lavet <span type="quote" xml:lang="swe">"kheredarton"</span>.</p>
+<p>Sàrenidarton menar aur ninna glankeribe arak preal te hilpre manisch te fussa avekerela jiben. Dolle nast asha te hilpre ninna te phater tuja ire bliddra tecknoar ire fussa fedigare kattjali rutiner.</p>
+<p>Sàrenidarton dokkar aur hilpre an dukkaloaraken. Dova kammar jikk baro kontaktiresel ta haja so dova vavra specijalistidarton honkar fediga pre. Dojgla nast dova hilpra diro an araken ta randra remiss to horta steddo.</p>
+<p>Pre arakcentralin, sav pre dukkalokhern, nast dolle aur asha darton telal sikljojbe savo karas AT-darton ire ST-darton. AT-darton honkar darton savo kera siros dy basjt sàrinipedinreske. Dova mengar buttvar an sinkus tschon pre arakcentrali. Kava darton kammar jeck darton savo mangipar ta nast frigga bàsi godi.</p>
+<p>ST-darton honkar jeck darton savo kera siro specijalisti sàrinipedinreske. Pre arakcentralin trissar diro buttvar dova darton savo specijalisti siro to kava sàreni darton, abbo doj nast aur kamma jeck vavra sikljojbe. Specijalisti sikljojbe lera cirka pansh basjt. ST-darton pre arakcentrali kammar tjattjomaskero nikalo hilpra attjer jeck tjattjo sarenidarton.</p>
+<p>Jeck grupp attjer darton savo mengar pre arakcentralir honkar vikarier savo perdar oppre karna dolle doj honkar dartonnaisibe. Kava nast asha solduj specijalisti ta bi-specijalisti.</p>
+<p type="title">Valjfara arakcentrali</p>
+<p>Diro nasht nast solus solo valjfara savi arakcentral arakcentrali ire dartonsteddo dartonlajarin diro saste nachta ascha parelar. Arakcentralin diro valjfarar nast asha saste savi avel andre diro themmsketing themmjakoro aschar ire regioni. Diro nasht nast valjfara solus privatikano dartonlajarin ire themmjakoro arakcentraller arakcentralir ire dartonlajarin.</p>
+<p>Arakvaljfarandet savo honkar kerrat kerat an svacko saroe themmet themmen aschar te diro an butt themmar themmjakoro ta regioni aur kammar horta te valjfara jeck solus kheredarton hispdarton. Dolle kava kerar kera te preal te le lela trissepha kontakti ninna dova arakcentralen arakcentrali savo diro voltrar mangela jaa ja to. Baschi Bàsi dova darton savo diro voltrar vàljfara randra tji diro nast an lett tji buttare nasht nevoa le pasienti koro fussar nevo diro manisch vàljfara fussar jeck diro vavra baljfar hispdarton. Diro nasht nast le parra jeck hispdarton karna karna diro voltra mangela.</p>
+<p type="title">Vavar mengare pre arakcentralin</p>
+<p>Dolle juras najek vri pre najek, abbo pre jeck arakcentrali nast diro aur thanarakhni, dukkalogymnastir, trakksa ta dartonsekretari fakkar. Dolle doj nast aur asjar mengesketerapefter, psykologer, kuratorer ta dietister. Pre arakcentralin asjar kava buttvar thaj nuckoar- ta dakrisastearak. Biodabb analytiker ta laboratorieassistenter isi pre laboratorierna savo buttar arakcentralir kammar. An receptionen trissar diro buttvar jeck receptionist ire vaver dartonsekretari.</p>
+<p type="title">Thanarakhnir</p>
+<p>Themmeske thanarakhnir honkar dukkaloarakhnir, ninna buttare janepha. Dova kammar meng te dokka vaccinationer. Kotar vri drabb ta pacha kerra bàsi ger. Themmeske thanarakhnir mengar aur ninna glankeribe osastepa preal te menga ninna phater-tyja grupar. Buttvar kerrar dova aur kheratgostibe to manisch savo tji nast ava to arakcentralin gla arak ta hilpre.</p>
+<p>Themmeske thanarakhnir kammar buttvar solus lajarin gla manisch ninna kroniska dukkalopa savo diabetes ta astma. Doj kera araken ta kammar hortan te randra avri khonra drabb. Karna diro tavar to jeck arakcentrali ta kammar problemi ninna diro sastepa honkar dolle buttvar jeck themmeske thanarakhnir savo svardarar ta dokkar godi.</p>
+<p type="title">Telalarakhnir</p>
+<p>Telalarakhnir mengar kettanes savigas ninna darton ta themmeske thanarakhnir. Dova ler rattskiri, roder siia ninna EKG ta pacha bàsi ger. Pre buttar arakcentralir keras dova aur kheratgostibe. Telalarakhnir nast aur bescha an arakcentralins reception. An receptionen nast diro aur trissa dartonsekretari, sav kera kava administrativa mengar pre arakcentralin.</p>
+<p type="title">Dukkalogimnasti</p>
+<p>Dukkalogimnasti mengar anglatsass ninna manisch savo kammar dolle pharipe kerria savo ninna prekerelar siros dsajbenangi . Kava nast asha pharipe ninna dummro ire menen, ire rehabilitering anavener ire dukkepa savo stroke, dabbdukkelo. Araken nast asha godi bàsi meng ninna truppon ta massage. Dukkalogimnasti nast aur randra vri motion pre resepti gla te glankeribe jeck dukkepa. To dukkalogimnast nast diro ja biso remiss fann darton.</p>
+<p type="title" xml:lang="swe">Naprapater ta kiropraktorer</p>
+<p>Thaj naprapater ta kiropraktorer dikhljaribar dukk an dsajbenangi-organi. Helko sanati grupakerela kera manuell arak. Pre arakcentralir aschar doj kiropraktorer, abbo doj aschar aur butt sass ninna privatikanopraksar kiropraktorer ta naprapater savo kammar simmali ninna themmjakorot.</p>
+<p type="title" xml:lang="swe">Mèngrasterapeuter</p>
+<p>Mèngrasterapeuter hàshtar manisch savo kammar jeck dukkepa ire savo kammar bésjat dabbade vri attjer glajeck obahita te ja to jibbet. Dova maisar vri hilprabukja ta honkar experter pre te lattja praktikano hilpre gla kheren. Dolle nast asha te hilpra te kerarelar jikk boddrande ta stammotrillet.</p>
+<p type="title" xml:lang="swe">Kuratorer</p>
+<p>Hilprar to ninna psykosocialt dumodejbe. Kava nast asha te rakkra ninna manisch an kriza. Kuratorer dokkar aur godi an friggor ninna ekonomi ta meng an kettandoro ninna te diro honkar dukkalo. Kuratorer kammar buttvar socionomexamen ta an <span type="quote" xml:lang="swe">"socialt meng"</span>.</p>
+<p type="title" xml:lang="swe">Psykologer</p>
+<p>An themmen aschar doj aur psykologer pre arakcentralin. Psykologerna kammar jad jeck panshbasjtet baro-kupadrabbahisp sikljojbe ta jikk basjt praktikan meng. Dolle lender dokkar psykologisk dikhljaribe ta an dova aur peribe dova thaj kammar jeck sikljojbe an psykoterapi nast dova dokka sàvot dikhljaribe.</p>
+<p>Pre arakcentralir dinglar kava buttvar bàsi jeck phatra chijbe savo saste dokka te diro solus nashta jeck nasa nashta vri jeck pharipet situation. Psykologen nast aur hilpra darton ninna psykologiska mais savo hòftarar niga rehabiliteringsrodkeribe.</p>
+<p>Solduj kuratorer ta psykologer nast kera grupadikhljaribe savo stresivasinelagrupa. Psykologer mengar aur pre psykriatriska steddon ta an solus regi.</p>
+<p type="title" xml:lang="swe">Dietister</p>
+<p>Dietisterna honkar dzanri pre kabin. Dova dokkar godi bàsi diro mustula to misal hòftara javerkerela diro pharep ire ka vavra kabing niga dukkalopa savo diabetes ta allergier.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Nucko- ta dakrisastearak</p>
+<p type="title" xml:lang="swe">Dakrisastearak centrali</p>
+<p>Pre kava arakcentrali, ire niga dova, aschar dakriaarak centrali, MVC, doj trakksa mengar. To dova jar diro ninna friggor bàsi chinavnikanobukja ta minsheske, ire karna diro honkar pari. Dova buttaste MVC kera dad ta dakrigrupa ta kammar kurser angla lokharibe. Trakksor ler hurdinskiri gla jura hurdinverkerela an uterusmen. Kava mollar nane te ja to MVC ta diro nast ja to savi lajarin diro mangela.</p>
+<p type="title" xml:lang="swe">Nuckoarakcentral</p>
+<p>Nuckoarakcentralen, BVC, honkar buttvar phandela to arakcentralin. Pre BVC mengar duckalapenjor ninna specijalistisikljojbe pre nuckoar, themmeske thanarakhnir ta darton. Hick nast telalarakhnir savo honkar specijalisti pre nuckoar, menga. BVC kera sastepakontroli attjer sasto nuckoar oppri to 6 basjt, avoashter fussar nuckoar hilpre attjer dràbbrahispsastepàarak. BVC dokkar aur vaccinationer ta diro nast fussa godi. Savo dad ta dakri to jeck dukkaloa nuckor oginda basjtsipe, jar diro to arakcentralin ire nuckosigutnon. Buttvar kammar BVC oppre lajarin diro nast ava vri bùdra tjiro. Buttvar jar kava aur te budra tjiro.</p>
+<p xml:lang="swe">Psykologer isi phandela to solduj nucko- ta dakriasastepaarak.</p>
+<p xml:lang="swe"></p>
+<p type="title">Privatikano arak</p>
+<p type="title">Privatikano arak ninna simmali</p>
+<p>Araken nast solduj keras attjer themmjakoro ire regioni ta attjer privati kompanija savo kammar simmali ninna themmjakoro ire regioni . Dolle aschar solus arakcentrali. Dolle honkar nane javeripe pre taxan bàsi diro jar to themmjakoro-regioni lajarin ire dova privata bàsi dolle aschar jick simmali.</p>
+<p type="title">Privatikano arak biso simmali</p>
+<p>Dolle aschar aur privati arakdokkare savo tji kammar simmali ninna themmjakoro ire regioni . Dannro fussar diro ste gla saroe taxan solus. Dolle nast asha kliniker savo kera operationer attjer kosmetiska abb soskip abbo thaj vavra dartonlajariner. Buttar psykolog lajarin keras an privati regi biso simmali ninna themmjakoro ire regioni.</p>
+<p>Bàsi diro tji haja bàsi jeck lajarin kammar simmali ninna themmjakoro ire regioni honkar dolle lokkigast te an angladrom frekkra so gostibet avar te molla.</p>
+<p xml:lang="swe"></p>
+<p type="title">Specijalistiarak</p>
+<p type="title" xml:lang="swe">Specijalistilajarin</p>
+<p>An hari themmjakoro ire regioni kammar dolle kerat arak simmali andre specijalisti savo letran, gynekologi ta vavroret. Doj trissar diro darton savo honkar specijalistir andre drabb. Diro nast aur ja to karnadukkalokheren, an bároforons than, kammar sigutnolajarin pre divusarna. An vavra peribe rodela doj te diro kammar jeck remiss fann diros darton pre arakcentralin. Gla kava buttaste jar kava siggor ta mollar tiknoare bàsi diro kammar remiss.</p>
+<p type="title" xml:lang="swe">Nejek specijalistidarton</p>
+<p>Specijalistidarton honkar darton savo kammar phatert siro, specijalistidinstrat jeck pansh basjt sikljojbe akkter te dova kammar fussat siro dartonlegetimation. Kava aschar darton andre najek specijalisti. Dolle barroaste honkar interndrabb, kirurgi, ortopedi ta psykiatri.</p>
+<p>Internmedicinare honkar dzanrir pre misalet siia sii-tjarodukkepa ta perren-poreproblemi ta vavra dukkalopa. Dolle aschar buttvar bàsi dukkalopa savo tji mostula opereras biso dolle nast keras ninna drabb ire preal jeck te javerkerela jiben.</p>
+<p>Kirurgi honkar jikk specijalistithan doj kirurgerna glannsk dikhljariba dukkalopa an andre organ preal te kera operation. Dolle nast asha gall- ta njursten ta koraloportharibe ire vavra dukkalopa.</p>
+<p>Ortopeder mengar dikhljariba dukkalopa an gustrande dsajbenangi organi savo mostula opereras.</p>
+<p>Psykiatern mengar ninna manisch ninna psykiska problemi savo depresija, schizofreni ire savo dova aschar sav adhinalo attjer kattjali ire ler narkotika. Psykiatriker ta psykologer honkar dy helko najek mengare. Jeck psykiatriker honkar jeck legitimerad darton savo kammar bleddrat sikljojbe siro to specijalisti an psykiatri. Psykiatern nast aur randra vri drabb.</p>
+<p type="title">Arak niga ulavela problemi</p>
+<p>An khonra themmjakoro ire regioni aschar arak gla dova manisch savo pir ire ler aschar adhinalo kerria attjer drabb ta nucko- ta ternopà psykratrin (BUP). Dolle mengar manisch dsenipe savo kammar sikljojbe gla pre te dova problemi. Diro nast fussar remiss fann arakcentralin abbo diro nast aur le kontakti lajarinen tede.</p>
+<p>To ternopalajarinar ta bulepalajarinar nast diro aur buttvar tjujalin diro tede vri remiss. Dova buttaste savo jar doj honkar prele 13 ta 15 basjt phuro.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sigutno arak</p>
+<p type="title" xml:lang="swe">Sigutnolajarinar</p>
+<p>Sigutnolajarinar aschar phravdo sàrstil pre sigutno dukkalokheren. Doj jar diro ninna dolle savot nast biddra, bàsi diro fussar jeck baro signutno dukkapa ire anaven. Kava nast asha sigutno dukk an dóschet, jikk, magra piring ire te diro fussar jeck ràttrapa. Diro nast aur ja doj bàsi diro honkar dukkalo abbo kammar bliddrat raddi. Diro nast aur fussa jeck remiss fann arakcentralin to sigutnolajarinar bàsi darton pre arakcentralin sharat te diro sigutno mostula arakas pre dukkalokheren.</p>
+<p type="title">Najek mengare pre sigutnolajarinar</p>
+<p>Pre sigutnolajarinar mengar telalarakhnir, dukkaloarakhni ta dartoner. Aur kuratorer honkar pandrat doj.</p>
+<p>Telalarakhnir ler skiri, jura to diro. Dova mengar aur an receptionen.</p>
+<p>Dukkaloarakhni kera jeck anglanske shinavibe attjer sar diro ovel, ler skiri ta dokkar avri drabb.</p>
+<p>Kuratorn dokkar anglanske hilpre to narthan niga kerria obahitaperibe ire mulopa. Dova nast aur hilpre dova savo kammar asterelar attjer jeck sor-dabb ire aschat ninna bàsijeck.</p>
+<p>Darton savo ler koro pre akuten nast asha jeck specialistidarton, abbo buttast honkar kava jeck darton telal sikljojbe, dolle aschar jeck ST-darton ire AT-darton. Specialistidarton kammar buttar vavra meng pre dukkalokheren ta aschar buttvar tji doj. Kava aschar dojkoro sarstill tiknoast jeck specialistidarton pandra to sigutnolajarinar savo dova darton savo mengar doj nast tava bàsi dova mostula kamma hilpre ninna kòmmoni. Pre univerzitetidukkalokheren sigutnolajarinar nast diro aur fussa trissa dartonkandidater, ovelande darton dolle honkar pre sigutnon gla te dràbbrano siros, abbo kammar nane dóchalo gla arak.</p>
+<p>Sigutnodarton baroaste dejbebuti, honkar te vakerela sar diro ovel, bàsi diro nast fussa arak ta senslo tradra kherat ire bàsi diro mostula pacha an andre pre kommoni attjer dukkalokherens steddon kotoribe gla te fussa arak. Buttvar isi kava aur thaj sav karade observationsthanen pre dukkalokheren doj diro nast fussa bliddra hari sahatis ire to aver divus bàsi darton mangela parda arakhlon ire doj honkar opotto bàsi diro höftare pachas andre gla odora. Dolle arak nasht disavo hòftara odorederibe dikhljaribe an dova phravdo araken, buttast pre arakcentrali ire specialistilajarin. Dannro nast diro fussa jeck remiss ire sav randrar darton pre dukkalokheren jikk arkonom to ire dova darton savo nachta lela gla vasht diro bàsi odorederibe. Diro nast solus fussa le kontakti ninna diro arakcentrali gla kava odorederibe.</p>
+<p type="title" xml:lang="swe">Lokala dukkalokherer ta karnadukkalokhere</p>
+<p>Lokala dukkalokhere ta karnadokkalokhere honkar tecknoa dukkalokhere savo tji sàrstil kammar jeck sigutnolajarinar savo honkar phravdo sàrstil tjiro. Kaj mengar darton andre najek specijalistir. Araken keras buttvar an phravdo arak savi aschar te diro nast ja kherat akkter gostibet. Hick aschar kotoriber doj diro nast pachas andre bàsi diro mostula kamma dova avancerade araken savo aschar doj pre sigutnodukkalokheren.</p>
+</body></document>

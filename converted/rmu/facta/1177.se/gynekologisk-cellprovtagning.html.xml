@@ -1,133 +1,90 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1992</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Undersokningar/Gynekologisk-cellprovtagning</origFileName>
-    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
-    <parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
-    <parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Gynekologisk hurdiniskiri / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Gynekologisk hurdiniskiriGynekologisk cellprovtagning</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Kettanesansari</p>
-    <p xml:lang="swe">Preal te nikalo mukhela jikk gynekologiskt hurdiniskiri nasht diro arakhiber seri koro uterumencancer. Hurdiniskirit les fann uterustappen an telaldummon ta nasht sela sikka bàsi diro kammar hurdin averkerela savo saste nashta ava to uterumencancer.</p>
-    <p xml:lang="swe">Dova buttaste hurdiniaverkerela savo juras honkar lokkiga averkerela savo bliddrar fediga attjer siro solus, abbo jeck kotar hòftara les abri. An butt nasht hurdiniskiri sikkra te diro kammar canser. Keda ismarela cancern asha an jikk sela stadium ta dikhljaribe nasht bliddra lokkir ta ninna tiknoare palodukk.</p>
-    <p xml:lang="swe">Garior an Svedijo avar nikalo to gynekologisk hurdiniskiri, sav pennad screening. Bàsi diro honkar prele 23 ta 50 basjt avar kàrande saste trinte basjt. Akkter butvar pansva basjt to diro honkar 60 basjt phuro. Bàsi diro honkar schettani 50 basjt nasht rutinerna assja najek adhinar saste diro boddrar an themmet.</p>
-    <p xml:lang="swe">Diro nasht thaj mukhela hurdiniskiri bàsi diro honkar ke trakksa ire gynekolog gla te kerra jeck gynekologisk rodepa attjer vaver soskip.</p>
-    <p type="title" xml:lang="swe">Anglal</p>
-    <p xml:lang="swe">Diro hòftara tji kerra kommoni anglal, abbo dolle honkar fedigt bàsi diro tji kammar bulepha ire ismarel vauta an telaldummon divusen rescha rodepa. Vaverast nasht skiri bliddra kerria te dicka. Diro saste tji dokka skiri karna diro kammar kintan.</p>
-    <p type="title" xml:lang="swe">Sar kerras rodepha?</p>
-    <p xml:lang="swe">Karna rodepa nachta les fussar diro le avri diro isar pre telaltruppon ta pacha diron an jeck gynekologisk rodepa stammo. Darton ire trakksa nasht le skirit pre najek sutt. Buttvar ismarela jeck tikno spatel savo les koro uterustappen ta senslo jeck tikno kovlo kosting an uterusmenvoltan telista kotar.</p>
-    <p xml:lang="swe">Buttvar fussar diro aur svardara pre hari frekkra an kettanes ninna skirit. Svardaran honkar barot gla te skirit nachta analyseras pre hortepa sutt.</p>
-    <p xml:lang="swe">Rodepha kerrar tji dukk ta ler rada hari minuter te kerra. Svardara pre hurdiniskirit ismarela diro fussar andre sinkus phagela.</p>
-    <p type="title" xml:lang="swe">Sar ovel diro polo?</p>
-    <p xml:lang="swe">Skirir honkar tji darano. Diro nasht rattra tikno akkter abbo dolle honkar daranot.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So honkar jick gynekologiskt hurdiniskiri?</p>
-    <p type="title" xml:lang="swe">Te mukhela hurdiniskiri</p>
-    <p xml:lang="swe">Jikk gynekologiskt hurdiniskiri honkar jikk skiri savo les fann dova teligaste kotar attjer uterusdarmenen savo pennas uterustappen ta savo avar to an lishtin. Skirit nasht sela sikkra bàsi diro kammar hurdini averkerela savo nasht ovela cancer. Dova buttaste hurdini averkerela savo juras honkar lokkigare averkerela savo ovelar fediga attjer siro solus, abbo dolle nasht hòftara les abri. Skirit nasht aur sikkra pre cancer, abbo dolle honkar tji sav butt.</p>
-    <p xml:lang="swe">Bàsi diro nikalo dokkar hurdiniskiri fussar diro jikk soralot arakhibe koro uterusmenscancer preal te hurdini averkerela nasht lattjas anglal dolle kammar bliddrat to cancer.</p>
-    <p xml:lang="swe">Hurdiniskiri les fann dova teligaste attjer uterusmenen, pre uterustappen savo avar to lishtin. Livmoder = Uterus Äggstock = Arokarsht Livmoderhals = Uterusmenen Livmodertapp = Uterustappen Slida = Lichti</p>
-    <p type="title" xml:lang="swe">Nikalo kontroller</p>
-    <p xml:lang="swe">Jikk gynekologiskt hurdiniskiri aschar an dova sastepha kontroller, sav pennade screening, savo garier an Svedijo bjuddra nikalo to. Preal te hurdini averkerela keda nasht juras ta kerras sela, kammar dolle kerat to te uterusmenscancer kammar bliddrat obuttast teli dova senslot 40 basjten.</p>
-    <p type="title" xml:lang="swe">Hurdiniskiri niga vavra moment</p>
-    <p xml:lang="swe">Jikk gynekologiskt hurdiniskiri nast aur mukhela bàsi diro honkar ke trakksa ire gynekolog ta jar sigate jeck gynekologisk rodepa attjer vaver soskipar. Hurdiniskiri nast asha jeck kotar attjer jeck gynekologisk rodepa bàsi diro kammar rattera abbo kava nast aur asha jikk fedigt moment te dokka jikk screeningskiri. Dolle nast asha fedigt bàsi dolle honkar tjiro te dokka skiri, ire bàsi diro kammar bistrat jeck selare hurdiniskiri kontroll.</p>
-    <p type="title" xml:lang="swe">Hurdini averkerela ta cancer</p>
-    <p xml:lang="swe">Hurdini averkerela, nast adhine pre jeck irritation an slemhinnan soskipat attjer bakterier ire jeck virusinfektion. Dolle honkar dova buttaste typen attjer hurdini averkerela savo nasht kerras attjer siro solus. Vaver hurdini averkerela savo saste nast rodra to uterusmencancer, nast les abri ninna jikk tiknoare kerrande.</p>
-    <p xml:lang="swe">Bàsi diro kammar jeck hurdiniskiri savo tji honkar savo dolle nachta asha, kerras jeck skiri ta buttvar bliddrar diro kara to jeck dartonrodepa. Abbo nast dannro fusa rodit te hudini averkerela nast les abri ire te diro nast biddra ta jura bàsi averkerela bliddrar fediga attjer siro solus.</p>
-    <p xml:lang="swe">Dolle ismarela le duri tjiro anglal hurdini averkerela bliddrar uterusmencancer, buttast 10 to 15 basjt. Dolle honkar buti obuttas ta cancer juras niga hurdinaskiri, abbo dolle sajda nantis volta. Dannro ismarela cancern asha jikk sela stadium ta araken bliddrar lokkigare ninna tiknoare palodukk.</p>
-    <p xml:lang="swe">Svacko basjt fussar tiknoare panda 450 sveddinska garior uterusmen cancer akno buttare, 30 000 garier, fussar agorlejbe (beslut) bàsi te dova kammar hurdini averkerela.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Garior keras nikalo</p>
-    <p type="title" xml:lang="swe">Garior karas svacko trinto basjt</p>
-    <p xml:lang="swe">Sàssaro garior predde 23 ta 50 basjt fussar jeck karande to ava to hurdiniskiri svacko trinte basjt. Senslo fussar diro jeck karande svacko pansva basjt karna diro honkar predde 50 ta 60 basjt. Bàsi diro honkar schettani 50 basjt nast tjiro predde karande asha najek pre saste diro boddrar an themmen. Garior savo selare bliddrat arakade gla hurdini averkerela nast hòftara hurdiniskisi kontroller aur akkter 60 basjt.</p>
-    <p xml:lang="swe">Karand bischas te dova steddo doj diro honkar randrad ta dolle honkar sarstil mukkanot te ava.</p>
-    <p type="title" xml:lang="swe">Pre savi steddo mukhela skiri?</p>
-    <p xml:lang="swe">Karna diro kammar fussat jeck karande les hurdiniskiri attjer jeck trakksa pre nerridaste trakksakhere, savo thaj kara dakriaarakcentral. An dolle buttaste fusar diro jeck pottad tjiro abbo diro nast kamma jeck nevo tjiro pre nantis vavra thann.</p>
-    <p xml:lang="swe">Bàsi diro mukhela hurdiniskiri an kettandoro jeck ninna gynekologisk roderpa, to gynekolog ire an kettendoro ninna preventivdrabb, ismarela skiri aur registrinelas sav te diro fussar aver bjuddrande bàsi hurdiniskiri kontroll akkter te dolle kammar jadd trin ire pansva basjt.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Khonra hoftfara tji mukhela skiri</p>
-    <p type="title" xml:lang="swe">Dova savo honkar telal 23 ta schettani 60 ovela tji karade</p>
-    <p xml:lang="swe">Bàsi diro honkar telal 23 basjt bliddrar diro tji schettani to te ava pre hurdiniskiri kontroller. Hurdiniaverkerela honkar an ta gla siro butt glanske 23 basjt, abbo dova buttaste bliddrar fediga attjer siro solo ke sav ternoa garier. Dolle honkar obuttast te uterusmencancer aver sav sela. Basi diro kammat besjat an jeck gynekologisk hurdiniskiri kontroll ta kammar butt fediga hurdiniskiri karna diro ovelat 60 basjt saste diro tji kamma uterusmencancer.</p>
-    <p type="title" xml:lang="swe">Dova savo tji kammar kammat bulade hoftfarare tji mukahela skiri</p>
-    <p xml:lang="swe">Bàsi diro tji kamma, kammat bulade mukhela diro tji dokka hurdiniskiri. Uterusmen cancer aver rada ke garier savo kammar kammat bulade ta savo dannro fusat jeck typ attjer HPV, humant papillomvirus.</p>
-    <p type="title" xml:lang="swe">Baschi diro honkar homosexuell</p>
-    <p xml:lang="swe">Bàsi diro honkar homosexuell sav honkar dolle fedigt te ja pre nikalo hurdiniskiri kontroller ashtersavo viruset savo nast soskip hurdini averkerelar kammar dolibe thaj fann garier to garier.</p>
-    <p type="title" xml:lang="swe">Baschi diro kammar opererat abri uterus</p>
-    <p xml:lang="swe">Bàsi diro kammar fussar saroe uterus abriopererad, savi karas total hysterektomi hoftara diro tji ja pre hurdiniskiri kontroller, ashtersavo uterustappen dannro aur honkar saroa bortri niga operationen. Abbo bàsi operationen kerrades pre phuv attjer uterusmencancer ire hurdini averkerela an uterusmen nachta diro ja pre kontroller. Dannro les jikk skiri fann leshti schettani kotar.</p>
-    <p xml:lang="swe">Bàsi diro honkar opotto pre savi operation diro kammar kerrat ire so savo lets abri nast diro frigga pre dova klinik doj operationen kerrades. Trakksan pre steddot nast buttvar aur hilpre to te fusa glann dova janepha. Honkar diro opotto, honkar dolle fedigare te le jikk skiri.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sav jar roderpat to</p>
-    <p type="title" xml:lang="swe">Anglal</p>
-    <p xml:lang="swe">Diro nachta tji kerra kommoni anglal hurdiniskiri pre kommoni sutt, abbo diro saste tji kamma bulade ire te ismarela makhin ire vauta an leshti divusen anglal rodepat. Hurdiniskiri nast vavros bliddra kerria te jura. Abbo diro saste tji dokka skiri karna diro kammar kintan.</p>
-    <p type="title" xml:lang="swe">Skiri fann uterustappen</p>
-    <p xml:lang="swe">Glan roddepat hoftara diro le avri diro isar pre telaltruppon ta pacha diron an jeck gynekologisk rodepa stammo. Skiridokkaren savo honkar jeck trakksa ire jeck darton, kotar arahimo pre leshtivanten ninna gynekologiska instrument savo nachta asha truppotattoa.</p>
-    <p xml:lang="swe">Sar skirit les aschar najek fann steddo to steddo. Butvar honkar dolle jeck spatel attjer ruck ire plast les koro uterustrappen ta senslo ismarela jeck tikno kovlo kosting an uterusmenvoltan telista kotar.</p>
-    <p xml:lang="swe">Hurdiniskiri jar siggo ta lela butvar nantis minuti. Dolle ismarela tji kera dukk. Jeck kotar nast prinjar pharipe, dolle jar schettani siggo.</p>
-    <p type="title" xml:lang="swe">﻿﻿Friggor te svardara pre</p>
-    <p xml:lang="swe">Diro fussa svardara pre frekkrar an kettandoro ninna hurdiniskirit</p>
-    <list>
-      <p type="listitem" xml:lang="swe">karna sensloaste kintan anglal divus sako, ire bàsi kintan kamma phate</p>
-      <p type="listitem" xml:lang="swe">bàsi diro ismarela preventivdrabb ta savi</p>
-      <p type="listitem" xml:lang="swe">bàsi diro honkar phari ire kammar bijani nucko telal dova senslo basjtet</p>
-      <p type="listitem" xml:lang="swe">bàsi diro arakas ninna hormoner koro klimakteriepharipe.</p>
-    </list>
-    <p xml:lang="swe">Svaderan bishades ninna skiri ta hilprar laboratoriet te kera siro shinavibe.</p>
-    <p type="title" xml:lang="swe">Polo nasht diro fussa jeck odarano rattepha</p>
-    <p xml:lang="swe">Uterusmens slemhinna rattar lokki ta dolle honkar buttast te diro fussar jick tikno ta odarano rattepa akkter rodepa. Rattepa phater akkter nantis divus.</p>
-    <p type="title" xml:lang="swe">Phari nasht mukhela skiri</p>
-    <p xml:lang="swe">Skirit honkar saroa odarano ta dolle jar fedigt te kerra skirit bàsi diro honkar phari. Dolle ismarela rekomandirihela te diro mukhela skirit an 15 phari phagela aschtersavo jeck rodepa attjer jikk skiri nast ascha kerriar bàsi pharit kammar jadde gla langstro.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Karna fussar diro svardera?</p>
-    <p type="title" xml:lang="swe">Lender buttaste svardara sikkra nane averkerala</p>
-    <p xml:lang="swe">Andre sinkus phagela saste diro fussa jikk akonum ninna skirisvardara, abbo kava nast le langstro tjiro. 95 attjer 100 skiri honkar biso hurdini averkerela ta vakerelas savo buttast. Svardarat fussar diro keda tede bistrade to kheren fann laboratoriet.</p>
-    <p xml:lang="swe">Bàsi skirit dokkas niga jeck gynekologsteddo ire vaver lejarin honkar doj buttvar dolle savo kammat skirin savo bichar svardara.</p>
-    <p xml:lang="swe">An obuttast peribe kammar skirit tji nast analyseras, bàsi doj aschar butt ninna kintanratt an skirit. Keda bliddrar diro pennad karade to jeck nevo hurdiniskiri.</p>
-    <p type="title" xml:lang="swe">Baschi skirit kammar hurdini averkerala</p>
-    <p xml:lang="swe">Bàsi skirit sikkra hurdini averkerela attjer kommoni dabb juras dova odora. Bàsi diro kammar lokkiga hurdini averkerela ta kammar bliddrat 30 ire 35 basjt, basjtdanniken honkar adhinela attjar sako diro boddrar an themmet, sav rodepa skirit siggrepa ninna jick virusskiri. Skirit kontrollerar bàsi diro kammar jeck typ attjer HPV, humant papillomvirus, savo nast dokka uterusmencancer. Rada dova savo akno kammar dolle HPV – typ hoftare dannro ava to rodepa. Bàsi diro kammar lokkiga hurdini averkerela savo tji kammar savot virus hoftare diro rada le jikk nevo skiri jikk basjt sensloare.</p>
-    <p xml:lang="swe">Karna dolle aschar sassaro hurdini averkerela ke garier savo honkar teli 30 ire 35 basjt rekomandirihela nii te dova bliddrar rodepa attjer jeck gynekolog, abbo kava sasstro aur te dova pre themmar bliddrar karade to jeck nevo hurdiniskiri gla trakksa. Garior savo honka schettanir 30 ire 35 basjt ta savo kammar vaver hurdini averkerela panda dova lokkigaste, rekomandirihela aur te bliddra rodepa attjer gynekolog.</p>
-    <p type="title" xml:lang="swe">Hurdiniskirin dokkar tji jikk kompleti arakhibe cancer</p>
-    <p xml:lang="swe">Nikalo hurdiniskiri dokkar jikk soralo arakhibe koro uterusmenscancer, abbo kava honkar tji pherda. Diro nast fussa uterusmencancer thaj te hurdiniskiri kamma besjat fedit, abbo kava honkar butti obuttiast. Thaj diro jar pre hurdiniskikontrola nikalo nachta diro sarstil kamma arak bàsi diro fussar rattra niga bulapa, bàsi diro kammar rattrapa predde kintan, ire bàsi diro fussar rattrapa akkter te diro kammar phater kammt kintan.</p>
-    <p xml:lang="swe">Diro nast sarstill tava dukkaloarakrodidokkarna gla hilpra bàsi saste diro nachta jar.</p>
-    <p type="title" xml:lang="swe">Diro nasht prinja nervolo gla skirit ta skirisvardara</p>
-    <p xml:lang="swe">Te dokka hurdiniskiri nast prinjas kerria. Diro nast prinja seri nervolo telal tjio savo diro biddra pre skirisvardara. Keda nast kava asha fedigt te dynkra pre te hurdiniskiri honkar jikk sutt te arakhiber seri koro cancer. Dova averkerela savo juras nast sarstill les abri ninna jikk lokkigt keribe sav diro slipprar fussa cancer an glansketjiro.</p>
-    <p xml:lang="swe">Kava honkar obuttast te jikk skirit sikkrar te diro kammar fussat cancer. Lender vara cancer juras preal hurdiniskiri kontroll ismarela dova tjill an jikk sav sela stadium te arak bliddrar lokkigare ta ninna tiknoare palodukk. Preal hurdiniskiri kammar dukkalopha nastat juras ta riziko te bliddra seriozib dukkalo tiknoare.</p>
-    <p type="title" xml:lang="swe">Diro pottar solus baschi skrin nachta kedelas</p>
-    <p xml:lang="swe">Skirit savo diro mukhela niga hurdiniskiri ismarela kedelas. Jikk nevo skiri nast jekharela ninna purano skiri ta najek kettanesansari nast keras. Skiri nast aur ismarela to forskning ire vavoret savo kiskoprinjas attjer jeck forskningsetisk kommittè. Bàsi dir tji mangela te skirit nast kedelas gla glaneske´tjiron nast diro pucka to dova savo kera skirit, ta kava maggras senslo.</p>
-    <p xml:lang="swe">Janepha bàsi skirit kedelas aur an kvalitetsregistret savo ismarela gla te kerra jeck fedigare arak. Bàsi diro tji mangela te diros janepha saste nachta ismarela gla dole nast diro rodela te lender les abri.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1985</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Undersokningar/Gynekologisk-cellprovtagning</origFileName><parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/><parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/><parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/><parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Gynekologisk hurdiniskiri / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Gynekologisk hurdiniskiriGynekologisk cellprovtagning</p>
+<p xml:lang="swe"></p>
+<p type="title">Kettanesansari</p>
+<p>Preal te nikalo mukhela jikk gynekologiskt hurdiniskiri nasht diro arakhiber seri koro uterumencancer. Hurdiniskirit les fann uterustappen an telaldummon ta nasht sela sikka bàsi diro kammar hurdin averkerela savo saste nashta ava to uterumencancer.</p>
+<p>Dova buttaste hurdiniaverkerela savo juras honkar lokkiga averkerela savo bliddrar fediga attjer siro solus, abbo jeck kotar hòftara les abri. An butt nasht hurdiniskiri sikkra te diro kammar canser. Keda ismarela cancern asha an jikk sela stadium ta dikhljaribe nasht bliddra lokkir ta ninna tiknoare palodukk.</p>
+<p>Garior an Svedijo avar nikalo to gynekologisk hurdiniskiri, sav pennad screening. Bàsi diro honkar prele 23 ta 50 basjt avar kàrande saste trinte basjt. Akkter butvar pansva basjt to diro honkar 60 basjt phuro. Bàsi diro honkar schettani 50 basjt nasht rutinerna assja najek adhinar saste diro boddrar an themmet.</p>
+<p>Diro nasht thaj mukhela hurdiniskiri bàsi diro honkar ke trakksa ire gynekolog gla te kerra jeck gynekologisk rodepa attjer vaver soskip.</p>
+<p type="title" xml:lang="swe">Anglal</p>
+<p>Diro hòftara tji kerra kommoni anglal, abbo dolle honkar fedigt bàsi diro tji kammar bulepha ire ismarel vauta an telaldummon divusen rescha rodepa. Vaverast nasht skiri bliddra kerria te dicka. Diro saste tji dokka skiri karna diro kammar kintan.</p>
+<p type="title">Sar kerras rodepha?</p>
+<p>Karna rodepa nachta les fussar diro le avri diro isar pre telaltruppon ta pacha diron an jeck gynekologisk rodepa stammo. Darton ire trakksa nasht le skirit pre najek sutt. Buttvar ismarela jeck tikno spatel savo les koro uterustappen ta senslo jeck tikno kovlo kosting an uterusmenvoltan telista kotar.</p>
+<p>Buttvar fussar diro aur svardara pre hari frekkra an kettanes ninna skirit. Svardaran honkar barot gla te skirit nachta analyseras pre hortepa sutt.</p>
+<p>Rodepha kerrar tji dukk ta ler rada hari minuter te kerra. Svardara pre hurdiniskirit ismarela diro fussar andre sinkus phagela.</p>
+<p type="title">Sar ovel diro polo?</p>
+<p>Skirir honkar tji darano. Diro nasht rattra tikno akkter abbo dolle honkar daranot.</p>
+<p xml:lang="swe"></p>
+<p type="title">So honkar jick gynekologiskt hurdiniskiri?</p>
+<p type="title">Te mukhela hurdiniskiri</p>
+<p>Jikk gynekologiskt hurdiniskiri honkar jikk skiri savo les fann dova teligaste kotar attjer uterusdarmenen savo pennas uterustappen ta savo avar to an lishtin. Skirit nasht sela sikkra bàsi diro kammar hurdini averkerela savo nasht ovela cancer. Dova buttaste hurdini averkerela savo juras honkar lokkigare averkerela savo ovelar fediga attjer siro solus, abbo dolle nasht hòftara les abri. Skirit nasht aur sikkra pre cancer, abbo dolle honkar tji sav butt.</p>
+<p>Bàsi diro nikalo dokkar hurdiniskiri fussar diro jikk soralot arakhibe koro uterusmenscancer preal te hurdini averkerela nasht lattjas anglal dolle kammar bliddrat to cancer.</p>
+<p>Hurdiniskiri les fann dova teligaste attjer uterusmenen, pre uterustappen savo avar to lishtin. Livmoder = Uterus Äggstock = Arokarsht Livmoderhals = Uterusmenen Livmodertapp = Uterustappen Slida = Lichti</p>
+<p type="title" xml:lang="swe">Nikalo kontroller</p>
+<p>Jikk gynekologiskt hurdiniskiri aschar an dova sastepha kontroller, sav pennade screening, savo garier an Svedijo bjuddra nikalo to. Preal te hurdini averkerela keda nasht juras ta kerras sela, kammar dolle kerat to te uterusmenscancer kammar bliddrat obuttast teli dova senslot 40 basjten.</p>
+<p type="title">Hurdiniskiri niga vavra moment</p>
+<p>Jikk gynekologiskt hurdiniskiri nast aur mukhela bàsi diro honkar ke trakksa ire gynekolog ta jar sigate jeck gynekologisk rodepa attjer vaver soskipar. Hurdiniskiri nast asha jeck kotar attjer jeck gynekologisk rodepa bàsi diro kammar rattera abbo kava nast aur asha jikk fedigt moment te dokka jikk screeningskiri. Dolle nast asha fedigt bàsi dolle honkar tjiro te dokka skiri, ire bàsi diro kammar bistrat jeck selare hurdiniskiri kontroll.</p>
+<p type="title" xml:lang="swe">Hurdini averkerela ta cancer</p>
+<p>Hurdini averkerela, nast adhine pre jeck irritation an slemhinnan soskipat attjer bakterier ire jeck virusinfektion. Dolle honkar dova buttaste typen attjer hurdini averkerela savo nasht kerras attjer siro solus. Vaver hurdini averkerela savo saste nast rodra to uterusmencancer, nast les abri ninna jikk tiknoare kerrande.</p>
+<p>Bàsi diro kammar jeck hurdiniskiri savo tji honkar savo dolle nachta asha, kerras jeck skiri ta buttvar bliddrar diro kara to jeck dartonrodepa. Abbo nast dannro fusa rodit te hudini averkerela nast les abri ire te diro nast biddra ta jura bàsi averkerela bliddrar fediga attjer siro solus.</p>
+<p>Dolle ismarela le duri tjiro anglal hurdini averkerela bliddrar uterusmencancer, buttast 10 to 15 basjt. Dolle honkar buti obuttas ta cancer juras niga hurdinaskiri, abbo dolle sajda nantis volta. Dannro ismarela cancern asha jikk sela stadium ta araken bliddrar lokkigare ninna tiknoare palodukk.</p>
+<p>Svacko basjt fussar tiknoare panda 450 sveddinska garior uterusmen cancer akno buttare, 30 000 garier, fussar agorlejbe (beslut) bàsi te dova kammar hurdini averkerela.</p>
+<p xml:lang="swe"></p>
+<p type="title">Garior keras nikalo</p>
+<p type="title">Garior karas svacko trinto basjt</p>
+<p>Sàssaro garior predde 23 ta 50 basjt fussar jeck karande to ava to hurdiniskiri svacko trinte basjt. Senslo fussar diro jeck karande svacko pansva basjt karna diro honkar predde 50 ta 60 basjt. Bàsi diro honkar schettani 50 basjt nast tjiro predde karande asha najek pre saste diro boddrar an themmen. Garior savo selare bliddrat arakade gla hurdini averkerela nast hòftara hurdiniskisi kontroller aur akkter 60 basjt.</p>
+<p>Karand bischas te dova steddo doj diro honkar randrad ta dolle honkar sarstil mukkanot te ava.</p>
+<p type="title">Pre savi steddo mukhela skiri?</p>
+<p>Karna diro kammar fussat jeck karande les hurdiniskiri attjer jeck trakksa pre nerridaste trakksakhere, savo thaj kara dakriaarakcentral. An dolle buttaste fusar diro jeck pottad tjiro abbo diro nast kamma jeck nevo tjiro pre nantis vavra thann.</p>
+<p>Bàsi diro mukhela hurdiniskiri an kettandoro jeck ninna gynekologisk roderpa, to gynekolog ire an kettendoro ninna preventivdrabb, ismarela skiri aur registrinelas sav te diro fussar aver bjuddrande bàsi hurdiniskiri kontroll akkter te dolle kammar jadd trin ire pansva basjt.</p>
+<p xml:lang="swe"></p>
+<p type="title">Khonra hoftfara tji mukhela skiri</p>
+<p type="title">Dova savo honkar telal 23 ta schettani 60 ovela tji karade</p>
+<p>Bàsi diro honkar telal 23 basjt bliddrar diro tji schettani to te ava pre hurdiniskiri kontroller. Hurdiniaverkerela honkar an ta gla siro butt glanske 23 basjt, abbo dova buttaste bliddrar fediga attjer siro solo ke sav ternoa garier. Dolle honkar obuttast te uterusmencancer aver sav sela. Basi diro kammat besjat an jeck gynekologisk hurdiniskiri kontroll ta kammar butt fediga hurdiniskiri karna diro ovelat 60 basjt saste diro tji kamma uterusmencancer.</p>
+<p type="title">Dova savo tji kammar kammat bulade hoftfarare tji mukahela skiri</p>
+<p>Bàsi diro tji kamma, kammat bulade mukhela diro tji dokka hurdiniskiri. Uterusmen cancer aver rada ke garier savo kammar kammat bulade ta savo dannro fusat jeck typ attjer HPV, humant papillomvirus.</p>
+<p type="title">Baschi diro honkar homosexuell</p>
+<p>Bàsi diro honkar homosexuell sav honkar dolle fedigt te ja pre nikalo hurdiniskiri kontroller ashtersavo viruset savo nast soskip hurdini averkerelar kammar dolibe thaj fann garier to garier.</p>
+<p type="title">Baschi diro kammar opererat abri uterus</p>
+<p>Bàsi diro kammar fussar saroe uterus abriopererad, savi karas total hysterektomi hoftara diro tji ja pre hurdiniskiri kontroller, ashtersavo uterustappen dannro aur honkar saroa bortri niga operationen. Abbo bàsi operationen kerrades pre phuv attjer uterusmencancer ire hurdini averkerela an uterusmen nachta diro ja pre kontroller. Dannro les jikk skiri fann leshti schettani kotar.</p>
+<p>Bàsi diro honkar opotto pre savi operation diro kammar kerrat ire so savo lets abri nast diro frigga pre dova klinik doj operationen kerrades. Trakksan pre steddot nast buttvar aur hilpre to te fusa glann dova janepha. Honkar diro opotto, honkar dolle fedigare te le jikk skiri.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sav jar roderpat to</p>
+<p type="title" xml:lang="swe">Anglal</p>
+<p>Diro nachta tji kerra kommoni anglal hurdiniskiri pre kommoni sutt, abbo diro saste tji kamma bulade ire te ismarela makhin ire vauta an leshti divusen anglal rodepat. Hurdiniskiri nast vavros bliddra kerria te jura. Abbo diro saste tji dokka skiri karna diro kammar kintan.</p>
+<p type="title">Skiri fann uterustappen</p>
+<p>Glan roddepat hoftara diro le avri diro isar pre telaltruppon ta pacha diron an jeck gynekologisk rodepa stammo. Skiridokkaren savo honkar jeck trakksa ire jeck darton, kotar arahimo pre leshtivanten ninna gynekologiska instrument savo nachta asha truppotattoa.</p>
+<p>Sar skirit les aschar najek fann steddo to steddo. Butvar honkar dolle jeck spatel attjer ruck ire plast les koro uterustrappen ta senslo ismarela jeck tikno kovlo kosting an uterusmenvoltan telista kotar.</p>
+<p>Hurdiniskiri jar siggo ta lela butvar nantis minuti. Dolle ismarela tji kera dukk. Jeck kotar nast prinjar pharipe, dolle jar schettani siggo.</p>
+<p type="title">﻿﻿Friggor te svardara pre</p>
+<p>Diro fussa svardara pre frekkrar an kettandoro ninna hurdiniskirit</p>
+<list><p type="listitem">karna sensloaste kintan anglal divus sako, ire bàsi kintan kamma phate</p>
+<p type="listitem">bàsi diro ismarela preventivdrabb ta savi</p>
+<p type="listitem">bàsi diro honkar phari ire kammar bijani nucko telal dova senslo basjtet</p>
+<p type="listitem">bàsi diro arakas ninna hormoner koro klimakteriepharipe.</p>
+</list><p>Svaderan bishades ninna skiri ta hilprar laboratoriet te kera siro shinavibe.</p>
+<p type="title">Polo nasht diro fussa jeck odarano rattepha</p>
+<p>Uterusmens slemhinna rattar lokki ta dolle honkar buttast te diro fussar jick tikno ta odarano rattepa akkter rodepa. Rattepa phater akkter nantis divus.</p>
+<p type="title">Phari nasht mukhela skiri</p>
+<p>Skirit honkar saroa odarano ta dolle jar fedigt te kerra skirit bàsi diro honkar phari. Dolle ismarela rekomandirihela te diro mukhela skirit an 15 phari phagela aschtersavo jeck rodepa attjer jikk skiri nast ascha kerriar bàsi pharit kammar jadde gla langstro.</p>
+<p xml:lang="swe"></p>
+<p type="title">Karna fussar diro svardera?</p>
+<p type="title">Lender buttaste svardara sikkra nane averkerala</p>
+<p>Andre sinkus phagela saste diro fussa jikk akonum ninna skirisvardara, abbo kava nast le langstro tjiro. 95 attjer 100 skiri honkar biso hurdini averkerela ta vakerelas savo buttast. Svardarat fussar diro keda tede bistrade to kheren fann laboratoriet.</p>
+<p>Bàsi skirit dokkas niga jeck gynekologsteddo ire vaver lejarin honkar doj buttvar dolle savo kammat skirin savo bichar svardara.</p>
+<p>An obuttast peribe kammar skirit tji nast analyseras, bàsi doj aschar butt ninna kintanratt an skirit. Keda bliddrar diro pennad karade to jeck nevo hurdiniskiri.</p>
+<p type="title">Baschi skirit kammar hurdini averkerala</p>
+<p>Bàsi skirit sikkra hurdini averkerela attjer kommoni dabb juras dova odora. Bàsi diro kammar lokkiga hurdini averkerela ta kammar bliddrat 30 ire 35 basjt, basjtdanniken honkar adhinela attjar sako diro boddrar an themmet, sav rodepa skirit siggrepa ninna jick virusskiri. Skirit kontrollerar bàsi diro kammar jeck typ attjer HPV, humant papillomvirus, savo nast dokka uterusmencancer. Rada dova savo akno kammar dolle HPV – typ hoftare dannro ava to rodepa. Bàsi diro kammar lokkiga hurdini averkerela savo tji kammar savot virus hoftare diro rada le jikk nevo skiri jikk basjt sensloare.</p>
+<p>Karna dolle aschar sassaro hurdini averkerela ke garier savo honkar teli 30 ire 35 basjt rekomandirihela nii te dova bliddrar rodepa attjer jeck gynekolog, abbo kava sasstro aur te dova pre themmar bliddrar karade to jeck nevo hurdiniskiri gla trakksa. Garior savo honka schettanir 30 ire 35 basjt ta savo kammar vaver hurdini averkerela panda dova lokkigaste, rekomandirihela aur te bliddra rodepa attjer gynekolog.</p>
+<p type="title">Hurdiniskirin dokkar tji jikk kompleti arakhibe cancer</p>
+<p>Nikalo hurdiniskiri dokkar jikk soralo arakhibe koro uterusmenscancer, abbo kava honkar tji pherda. Diro nast fussa uterusmencancer thaj te hurdiniskiri kamma besjat fedit, abbo kava honkar butti obuttiast. Thaj diro jar pre hurdiniskikontrola nikalo nachta diro sarstil kamma arak bàsi diro fussar rattra niga bulapa, bàsi diro kammar rattrapa predde kintan, ire bàsi diro fussar rattrapa akkter te diro kammar phater kammt kintan.</p>
+<p>Diro nast sarstill tava dukkaloarakrodidokkarna gla hilpra bàsi saste diro nachta jar.</p>
+<p type="title">Diro nasht prinja nervolo gla skirit ta skirisvardara</p>
+<p>Te dokka hurdiniskiri nast prinjas kerria. Diro nast prinja seri nervolo telal tjio savo diro biddra pre skirisvardara. Keda nast kava asha fedigt te dynkra pre te hurdiniskiri honkar jikk sutt te arakhiber seri koro cancer. Dova averkerela savo juras nast sarstill les abri ninna jikk lokkigt keribe sav diro slipprar fussa cancer an glansketjiro.</p>
+<p>Kava honkar obuttast te jikk skirit sikkrar te diro kammar fussat cancer. Lender vara cancer juras preal hurdiniskiri kontroll ismarela dova tjill an jikk sav sela stadium te arak bliddrar lokkigare ta ninna tiknoare palodukk. Preal hurdiniskiri kammar dukkalopha nastat juras ta riziko te bliddra seriozib dukkalo tiknoare.</p>
+<p type="title">Diro pottar solus baschi skrin nachta kedelas</p>
+<p>Skirit savo diro mukhela niga hurdiniskiri ismarela kedelas. Jikk nevo skiri nast jekharela ninna purano skiri ta najek kettanesansari nast keras. Skiri nast aur ismarela to forskning ire vavoret savo kiskoprinjas attjer jeck forskningsetisk kommittè. Bàsi dir tji mangela te skirit nast kedelas gla glaneske´tjiron nast diro pucka to dova savo kera skirit, ta kava maggras senslo.</p>
+<p>Janepha bàsi skirit kedelas aur an kvalitetsregistret savo ismarela gla te kerra jeck fedigare arak. Bàsi diro tji mangela te diros janepha saste nachta ismarela gla dole nast diro rodela te lender les abri.</p>
+</body></document>

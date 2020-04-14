@@ -1,69 +1,27 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>772</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Alkohol</origFileName>
-    <parallel_text xml:lang="fin" location="alkoholi.html"/>
-    <parallel_text xml:lang="fit" location="alkkuhooli.html"/>
-    <parallel_text xml:lang="sma" location="alkohole.html"/>
-    <parallel_text xml:lang="sme" location="alkohola.html"/>
-    <parallel_text xml:lang="smj" location="alkohola.html"/>
-    <parallel_text xml:lang="swe" location="alkohol.html"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmf"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Alkohol</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Alkohol</p>
-    <p xml:lang="swe">Ninna alkohol dynkrar vorsnos pre piben ta kattjali. Butti pir dolle gla dolle smackrar lattjanot ire gla te bliddra pilo. Abbo alkohol nasht tasa ascha darranot. Dolle nasht topha duckor ta duckalopha, kerra dolle te diro avar an kerria ire drannoa situationer. Diro nasht kamma tugalopha karna diro pir.</p>
-    <p xml:lang="swe">Gla te rakkepha dova savo honkar terno aschar dolle bashthorta gla karni dova nasht tjinna alkohol: 18 basht phurano gla re tjinna pre pibenskehakken ta 20 basht gla te tjinna pre systembolag. Diro fyssar tji tjinna gla kommoni savo tji honkar bastano.</p>
-    <p type="title" xml:lang="swe">Sosti pi?</p>
-    <p xml:lang="swe">Butt manisch pir alkohol gla te dokka dynkrar te dolle smackrar fedigt ta honkar lattjanot. Vavera pir gla dova kanslar siro traschanoa ta osoraloa. Baschi diro pir gla te kamma fedigare soluskansla ire gla re tji kamma tugalopha ire baschi diro pir butt, nasht piandet topha to kerriabrukfarande. Dova nasht kansla kerria, dymas karna diro pir ta palla.</p>
-    <p xml:lang="swe">Karni diro honkar terno kanslas dolle savo jick voltra an te bliddra baro te pi alkohol. Astispha bliddrar diro bjuddrad kere, ire savo pir diro ninna diro malar. Kava honkar honkar tji ovaro te diro tji janar baschi diro voltrar pi jeckesta tjiron, avritan kerrar dolle gla te vaver pir ta diro <span type="quote" xml:lang="swe">”mostula”</span>. Abbo baschi mosch tji trachar steddra koro kammar diro butt te kamma kere. Savo langroare diro bidrar savo fedigare, pallasavo vinepha bliddrar tiknoare gla te diro avar kamma duckalopha ire bliddra sastrad attjer alkoholen.</p>
-    <p type="title" xml:lang="swe">Savo kerras karna vorsnos pir?</p>
-    <p xml:lang="swe">Baschi diro bliddrar pilo vinepha signaler an andreskescherot savo te dynkrande, kanslor, bistande, balans ta janepha bliddrar kerriare. Soren te kettaneskerra muslingarnas roddrelser prekerras tasa.</p>
-    <p xml:lang="swe">Karna janepha bliddrar kerriare janar diro topa pre savriga sutt savo diro tji honkar pilo. Diro kerrar savot diro tji saste kerra vaverast: racklar buttare ta ninna buttare manisch, kellar, jurar pre manisch lattjanot ire fyssar trissa garier ire moschar, kerrar nevot. Kerriare janepha kerrar tasa te diro kammar dolle kerriare te jana baschi kommoni honkar darranot. Baschi diro honkar pilo nasht dolle topha to kerriapha.</p>
-    <p xml:lang="swe">Khonra topha fann dolle te diro pir:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Te diro bliddrar tjora attjer diro tjack ire dova bliddrar poggrade.</p>
-      <p type="listitem" xml:lang="swe">Te diro avar an dabbrepha ta aggrar dabbras. Dolle honkar tji ovaro gla savodant kerras gla diro honkar pilo.</p>
-      <p type="listitem" xml:lang="swe">Te diro kammar bulopha abbo diro tji voltrar. Baschi diro honkar pilo nasht dolle honka kerriare te penna nani, ta kava nasht topha to diro ire dova diro kammade bulopha ninna kanslar siro tugalo palla.</p>
-      <p type="listitem" xml:lang="swe">Te diro kammar bulopha avritan te rakkepha diro, ta karni nasht diro kamma duckalopha, ire te bliddra ire kerra kommoni pari.</p>
-      <p type="listitem" xml:lang="swe">Te diro ler vavera droger. Dova savo kammar pit alkohol karni dova brukfarar narkotika gla jeckesta tjiron, astispha gla diro tji dynkrar te dolle honkar kerria.</p>
-      <p type="listitem" xml:lang="swe">Te diro avar an jick vinepha. Dolle nasht ascha ninna tradraren, te diro dabbar diro ire avar an pani.</p>
-      <p type="listitem" xml:lang="swe">Te diro tjorar vaver manisch tjack, ire jaar andre to jeck vaver manisch hispo, doj diro tji saste ascha.</p>
-      <p type="listitem" xml:lang="swe">Te diro moddrar kerria ta kammar tugalopha palla te diro kammar pit, Dolle nasht topa pre dolle savo kammar kerrats ta diro lajjas, ire fann truppon.</p>
-      <p type="listitem" xml:lang="swe">Te diro kamma dolle kerria te menga an bleddreskekeret ire menget. Alkoholen biddrar an truppon palla diro nasht aschat pilo, ta dolle nasht tradra abri jeck dives gla andrescherot saste menga fedigt ta nasht dokka andre janepha.</p>
-    </list>
-    <p xml:lang="swe">Manisch dynkrar te dolle honkar tiknoare darranot te pi baschi diro tji kerrar savo butti, rada pre kurkon, ta karni nasht dova pi butti, abbo kava honkar tji tjattjot.</p>
-    <p type="title" xml:lang="swe">Divusen palla</p>
-    <p xml:lang="swe">Diro nasht ascha pilo divusen palla diro kammar pit. Kava topa pre huri butt diro kammar pit. Alkoholen fann jeck soralopiben aschar an truppon an trin to star timmar. Dolle aschar tji khoon astispha kerra savo dolle kerras siggroare. Karni diro honkar piloduck honkar janepha kerriare ta diro nasht kammat kerria te kerra diro uschalipha ta meng. Dolle nasht honka darranot te tradra moppe ire tradrare, ta baschi diro kammar alkohol an truppon honkar dolle vina an hortans lav.</p>
-    <p type="title" xml:lang="swe">Alkoholmakuraja</p>
-    <p xml:lang="swe">Sassaro bliddrar ovaroa pre alkohol ta nasht le ovaroa butt, abbo dolle aschar sarstill jick to butt doj truppon pennar anfann. Dolle brukfara ascha te diro tjaddrar ire dummrar. Bashi diro bliddrar darranodummrande nasht dolle honka butt darranot, ta diro mostula nascha to duckaloker.</p>
-    <p xml:lang="swe">Honkar diro tugalopha gla khoon savo kammar pit, saste diro le trissepha ninna jick baro manisch, duckalohilprepha, staton ire tradra to dukkalokeret. Baschi khoon kammar bliddrat darranodummrad saste diro tava 112. Diro saste tji fyssa kerra savo manischen tjaddrar ire muttra chylanot pani pre liskris ire lester, aschtersavo dolle aschar vina gla vaver ire ire vinepha.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>767</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/resanderomska/Alkohol</origFileName><parallel_text xml:lang="fin" location="alkoholi.html"/><parallel_text xml:lang="fit" location="alkkuhooli.html"/><parallel_text xml:lang="sma" location="alkohole.html"/><parallel_text xml:lang="sme" location="alkohola.html"/><parallel_text xml:lang="smj" location="alkohola.html"/><parallel_text xml:lang="swe" location="alkohol.html"/><parallel_text location="alkoholi.html" xml:lang="rmf"/><parallel_text location="alkoholo.html" xml:lang="rmy-rka"/><parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/><parallel_text location="alkoholi.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Alkohol</p>
+<p type="title" xml:lang="swe">Alkohol</p>
+<p>Ninna alkohol dynkrar vorsnos pre piben ta kattjali. Butti pir dolle gla dolle smackrar lattjanot ire gla te bliddra pilo. Abbo alkohol nasht tasa ascha darranot. Dolle nasht topha duckor ta duckalopha, kerra dolle te diro avar an kerria ire drannoa situationer. Diro nasht kamma tugalopha karna diro pir.</p>
+<p>Gla te rakkepha dova savo honkar terno aschar dolle bashthorta gla karni dova nasht tjinna alkohol: 18 basht phurano gla re tjinna pre pibenskehakken ta 20 basht gla te tjinna pre systembolag. Diro fyssar tji tjinna gla kommoni savo tji honkar bastano.</p>
+<p type="title">Sosti pi?</p>
+<p>Butt manisch pir alkohol gla te dokka dynkrar te dolle smackrar fedigt ta honkar lattjanot. Vavera pir gla dova kanslar siro traschanoa ta osoraloa. Baschi diro pir gla te kamma fedigare soluskansla ire gla re tji kamma tugalopha ire baschi diro pir butt, nasht piandet topha to kerriabrukfarande. Dova nasht kansla kerria, dymas karna diro pir ta palla.</p>
+<p>Karni diro honkar terno kanslas dolle savo jick voltra an te bliddra baro te pi alkohol. Astispha bliddrar diro bjuddrad kere, ire savo pir diro ninna diro malar. Kava honkar honkar tji ovaro te diro tji janar baschi diro voltrar pi jeckesta tjiron, avritan kerrar dolle gla te vaver pir ta diro <span type="quote">”mostula”</span>. Abbo baschi mosch tji trachar steddra koro kammar diro butt te kamma kere. Savo langroare diro bidrar savo fedigare, pallasavo vinepha bliddrar tiknoare gla te diro avar kamma duckalopha ire bliddra sastrad attjer alkoholen.</p>
+<p type="title">Savo kerras karna vorsnos pir?</p>
+<p>Baschi diro bliddrar pilo vinepha signaler an andreskescherot savo te dynkrande, kanslor, bistande, balans ta janepha bliddrar kerriare. Soren te kettaneskerra muslingarnas roddrelser prekerras tasa.</p>
+<p>Karna janepha bliddrar kerriare janar diro topa pre savriga sutt savo diro tji honkar pilo. Diro kerrar savot diro tji saste kerra vaverast: racklar buttare ta ninna buttare manisch, kellar, jurar pre manisch lattjanot ire fyssar trissa garier ire moschar, kerrar nevot. Kerriare janepha kerrar tasa te diro kammar dolle kerriare te jana baschi kommoni honkar darranot. Baschi diro honkar pilo nasht dolle topha to kerriapha.</p>
+<p>Khonra topha fann dolle te diro pir:</p>
+<list><p type="listitem">Te diro bliddrar tjora attjer diro tjack ire dova bliddrar poggrade.</p>
+<p type="listitem">Te diro avar an dabbrepha ta aggrar dabbras. Dolle honkar tji ovaro gla savodant kerras gla diro honkar pilo.</p>
+<p type="listitem">Te diro kammar bulopha abbo diro tji voltrar. Baschi diro honkar pilo nasht dolle honka kerriare te penna nani, ta kava nasht topha to diro ire dova diro kammade bulopha ninna kanslar siro tugalo palla.</p>
+<p type="listitem">Te diro kammar bulopha avritan te rakkepha diro, ta karni nasht diro kamma duckalopha, ire te bliddra ire kerra kommoni pari.</p>
+<p type="listitem">Te diro ler vavera droger. Dova savo kammar pit alkohol karni dova brukfarar narkotika gla jeckesta tjiron, astispha gla diro tji dynkrar te dolle honkar kerria.</p>
+<p type="listitem">Te diro avar an jick vinepha. Dolle nasht ascha ninna tradraren, te diro dabbar diro ire avar an pani.</p>
+<p type="listitem">Te diro tjorar vaver manisch tjack, ire jaar andre to jeck vaver manisch hispo, doj diro tji saste ascha.</p>
+<p type="listitem">Te diro moddrar kerria ta kammar tugalopha palla te diro kammar pit, Dolle nasht topa pre dolle savo kammar kerrats ta diro lajjas, ire fann truppon.</p>
+<p type="listitem">Te diro kamma dolle kerria te menga an bleddreskekeret ire menget. Alkoholen biddrar an truppon palla diro nasht aschat pilo, ta dolle nasht tradra abri jeck dives gla andrescherot saste menga fedigt ta nasht dokka andre janepha.</p>
+</list><p>Manisch dynkrar te dolle honkar tiknoare darranot te pi baschi diro tji kerrar savo butti, rada pre kurkon, ta karni nasht dova pi butti, abbo kava honkar tji tjattjot.</p>
+<p type="title" xml:lang="swe">Divusen palla</p>
+<p>Diro nasht ascha pilo divusen palla diro kammar pit. Kava topa pre huri butt diro kammar pit. Alkoholen fann jeck soralopiben aschar an truppon an trin to star timmar. Dolle aschar tji khoon astispha kerra savo dolle kerras siggroare. Karni diro honkar piloduck honkar janepha kerriare ta diro nasht kammat kerria te kerra diro uschalipha ta meng. Dolle nasht honka darranot te tradra moppe ire tradrare, ta baschi diro kammar alkohol an truppon honkar dolle vina an hortans lav.</p>
+<p type="title" xml:lang="swe">Alkoholmakuraja</p>
+<p>Sassaro bliddrar ovaroa pre alkohol ta nasht le ovaroa butt, abbo dolle aschar sarstill jick to butt doj truppon pennar anfann. Dolle brukfara ascha te diro tjaddrar ire dummrar. Bashi diro bliddrar darranodummrande nasht dolle honka butt darranot, ta diro mostula nascha to duckaloker.</p>
+<p>Honkar diro tugalopha gla khoon savo kammar pit, saste diro le trissepha ninna jick baro manisch, duckalohilprepha, staton ire tradra to dukkalokeret. Baschi khoon kammar bliddrat darranodummrad saste diro tava 112. Diro saste tji fyssa kerra savo manischen tjaddrar ire muttra chylanot pani pre liskris ire lester, aschtersavo dolle aschar vina gla vaver ire ire vinepha.</p>
+</body></document>

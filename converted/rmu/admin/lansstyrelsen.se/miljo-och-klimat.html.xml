@@ -1,84 +1,44 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>620</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/miljo-och-klimat/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="fin" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="fit" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="sma" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="sme" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="swe" location="miljo-och-klimat.html"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmf"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmn"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Trujalipha &amp; klimati - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Trujalipha ta klimati</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trujalipha &amp; klimati</p>
-    <p xml:lang="swe"><em type="italic">Themmeskepottnade- enheti kammar jeck baro kairopha uschalipha karna racklas baschi trujalipha- ta klimat- meng an themmet. Vorsnos kettaneskerrar trujalipha- meng, informeri ta dokkar avri janepha ta mengar ninna trujalipha- goli, trujalipha prealdikkande ta pani-kerrande. Vorsnos pottar baschi saro savo saste kamma horta to kettanesmengandemanisch savo voltrar hilpra ta kamma kesser gla trujalipha. </em></p>
-    <p type="title" xml:lang="swe">Trujalipha- goli</p>
-    <p xml:lang="swe">Manisch-representationi (Riksdagen) kammar pottat baschi jeck kettanespha trujalipha- politik gla te fedigt Sveddingen. Dolle baroaste golet aschar te dova akkter- generationerna savo avar sensloare saste fussa le preal jeck manisch- kettanespha doj dova baro trujalipa- vinepha aschar tji jeck vinepha buttare. Themmeskepottande- enheti kammar dova uschalipha te kettaneskerra dolle regionala menget gla te kerra dova sveddiska trujalipha- kvalitet golet.</p>
-    <p xml:lang="swe">Sveddingens trujalipha- kvalitiskegoli:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tji sass gla butt klimpatiskepreetopha)</p>
-      <p type="listitem" xml:lang="swe">Jujo bivalepha</p>
-      <p type="listitem" xml:lang="swe">Fedig ta naturlig glanskebutjalo</p>
-      <p type="listitem" xml:lang="swe">Dabbranske- mukkad trujalipha</p>
-      <p type="listitem" xml:lang="swe">Rakepha ozon</p>
-      <p type="listitem" xml:lang="swe">Pattjo tattoskeduri- trujalipha</p>
-      <p type="listitem" xml:lang="swe">Nani prealphuvande- kabing</p>
-      <p type="listitem" xml:lang="swe">Jibbande pani ta paniskeduri</p>
-      <p type="listitem" xml:lang="swe">Phuvpani attjer fedig kvaliteto</p>
-      <p type="listitem" xml:lang="swe">Baro pani an balans ta jibbande kusti ta themm</p>
-      <p type="listitem" xml:lang="swe">Fediga tjinophuver</p>
-      <p type="listitem" xml:lang="swe">Jibbande vesstar</p>
-      <p type="listitem" xml:lang="swe">Jick barvalo odlinskethemm</p>
-      <p type="listitem" xml:lang="swe">Jeck baro jivveske-trujalipha</p>
-      <p type="listitem" xml:lang="swe">Fedig keribande trujalipha</p>
-      <p type="listitem" xml:lang="swe">Jick barvalo tjarjali- ta gressjojibb</p>
-    </list>
-    <p type="title" xml:lang="swe">Duckalorakepha</p>
-    <p xml:lang="swe">Themmeskepottande- enheti mengar gla glajura, glanskekerra ta le abri dova duckalo-risker an trujaliphan, dypas avri ta intohispo. Duckalo- rakepha saste glakerra te manisch tji bliddrar duckaloa. Vorsnos jurar ninna vavver pre golepha, darripha, bivalfulanopha ta tattoduipha. An Themmeskepottande- enheti kammar uschalin te aschar te kettaneskerra ta dikka pre kommunernas kerranden an duckalo- rakepha ta te dokka kommunerna janepha. Kommunerna duckalo- rakepha – pottopha nasht prealgolepha to Themmeskepottande- enheti.</p>
-    <p type="title" xml:lang="swe">Klimati ta sorli</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kettaneskerrar dolle regionala menget ninna te kutta avri-tjivvarandet attjer tjarjalihispo- gaseri. Themmeskepottande- enheti kammar kettanes ninna themmets kommuner, bastanopha ta lovverskeneutronpha mengat glan jeck klimati – ta soralistrategio savo dikkar huri vorsnos saste nashta dokka to menga fedigt ninna klimati-golen ta dova vavver sorali. Vorsnos mengar ninna kerra gla manisch- kettanespha te kerra to jick klimati savo tji avar bliddra savriga savo an divus, vorsnos mustula dynkra pre te baropani bliddrar baroare ta pani-kerriapha bliddrar buttare an vorsnos themmar.</p>
-    <p type="title" xml:lang="swe">Huri dolle aschar an trujalipha</p>
-    <p xml:lang="swe">Themmeskepottande-enheti kettaneskerrar trujalipha-prealdikkande an themmet. Te rodra ta konturnerligt dikka to huri dolle aschar an trujalipha aschar jeck baro bekk an vorsnos trujalipha- meng. Dova resultati brukfaras ninna vavver gla te dikka to menget ninna trujalipha- golen abbo tasa gla te rodepha nevo traschanopha. Prealdikkandet aschar langranodikkandepha akktersavo dolle mustula kerrat rodepha preal langro tjiroar gla te nashta jura baschi jeck vavver veschtanepha topha attjer manisch ire jeck nartulig variationi.</p>
-    <p type="title" xml:lang="swe">Pani ta panibrukfara</p>
-    <p xml:lang="swe">Panipha mustula rakepha gla te vorsnos saste fussa jeck langrojurepha ta tjattjo paniskekammande. Sveddingen aschar andrebekkande an fimpus panithemm. Jeck themmeskepottande- enheti an savrige themm kammar bliddrat dova pani- bastanopha ninna uschalipha te kerra gla kvaliteto pre pani- trujalipha an jick themm. Dova manisch savo voltrar menga an kettaneskerrande meng ninna kava friggor mustula kamma avri hortan te menga, jeck potto-iller. Pre panikerrandet aschar soralo-keribepha ta regleringsdammar, ovaroa keribenpha an pani sav savo fallmaner ta tunnlar, muddringa ta paniavrile gla pieskepani- goli ta pani to tjaralier ta phuven.</p>
-    <p type="title" xml:lang="swe">Kettaneskerrandet ninna trujalipha ta dolle vaver- kerranden</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kammar jeck Trujalipha dikkande delegation savo nasht dokka avri hortepha -pottoillet gla trujalipha- darrano kettaneskerrande sav savo trujalipha- balken pennar.</p>
-    <p xml:lang="swe">Exempli pre trujalipha- darrano kettaneskerrande aschar ytikerrande - keribenpha, bar-keribepha, illerbrukfara- kere, bival- keribenpha, tatto - keribenpha ta vavver sorali- keribenpha, rombana- keribenpha, fulano- keribenpha, mutter- keribenpha, bar-ta barobar- keribenpha.</p>
-    <p xml:lang="swe">An savrige kommun aschar jeck kommunal trujalipha - bastanopha savo kammar kesser gla dova lokali tojurepha attjer trujalipha- darranot kettaneskerrande. Vorsnos dokkar hilprepha ta pennande to dova kommunala trujalipha- bastanopha ta dynkrar pre ta dikkar to dovas kerranden. Vorsnos dikkar to Themmeskepottande- enhetens selare generationers nicklifulanden an phuv ta pani ta mengar ninna te kerrat dova fedigare.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>620</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-sr/miljo-och-klimat/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="miljo-och-klimat.html"/><parallel_text xml:lang="fin" location="miljo-och-klimat.html"/><parallel_text xml:lang="fit" location="miljo-och-klimat.html"/><parallel_text xml:lang="sma" location="miljo-och-klimat.html"/><parallel_text xml:lang="sme" location="miljo-och-klimat.html"/><parallel_text xml:lang="swe" location="miljo-och-klimat.html"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rlo"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmf"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmn"/><parallel_text location="miljo-och-klimat.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Trujalipha &amp; klimati - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Trujalipha ta klimati</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Trujalipha &amp; klimati</p>
+<p><em type="italic">Themmeskepottnade- enheti kammar jeck baro kairopha uschalipha karna racklas baschi trujalipha- ta klimat- meng an themmet. Vorsnos kettaneskerrar trujalipha- meng, informeri ta dokkar avri janepha ta mengar ninna trujalipha- goli, trujalipha prealdikkande ta pani-kerrande. Vorsnos pottar baschi saro savo saste kamma horta to kettanesmengandemanisch savo voltrar hilpra ta kamma kesser gla trujalipha. </em></p>
+<p type="title">Trujalipha- goli</p>
+<p>Manisch-representationi (Riksdagen) kammar pottat baschi jeck kettanespha trujalipha- politik gla te fedigt Sveddingen. Dolle baroaste golet aschar te dova akkter- generationerna savo avar sensloare saste fussa le preal jeck manisch- kettanespha doj dova baro trujalipa- vinepha aschar tji jeck vinepha buttare. Themmeskepottande- enheti kammar dova uschalipha te kettaneskerra dolle regionala menget gla te kerra dova sveddiska trujalipha- kvalitet golet.</p>
+<p>Sveddingens trujalipha- kvalitiskegoli:</p>
+<list><p type="listitem">Tji sass gla butt klimpatiskepreetopha)</p>
+<p type="listitem">Jujo bivalepha</p>
+<p type="listitem" xml:lang="swe">Fedig ta naturlig glanskebutjalo</p>
+<p type="listitem">Dabbranske- mukkad trujalipha</p>
+<p type="listitem">Rakepha ozon</p>
+<p type="listitem">Pattjo tattoskeduri- trujalipha</p>
+<p type="listitem">Nani prealphuvande- kabing</p>
+<p type="listitem" xml:lang="swe">Jibbande pani ta paniskeduri</p>
+<p type="listitem">Phuvpani attjer fedig kvaliteto</p>
+<p type="listitem">Baro pani an balans ta jibbande kusti ta themm</p>
+<p type="listitem" xml:lang="swe">Fediga tjinophuver</p>
+<p type="listitem" xml:lang="swe">Jibbande vesstar</p>
+<p type="listitem">Jick barvalo odlinskethemm</p>
+<p type="listitem">Jeck baro jivveske-trujalipha</p>
+<p type="listitem">Fedig keribande trujalipha</p>
+<p type="listitem">Jick barvalo tjarjali- ta gressjojibb</p>
+</list><p type="title">Duckalorakepha</p>
+<p>Themmeskepottande- enheti mengar gla glajura, glanskekerra ta le abri dova duckalo-risker an trujaliphan, dypas avri ta intohispo. Duckalo- rakepha saste glakerra te manisch tji bliddrar duckaloa. Vorsnos jurar ninna vavver pre golepha, darripha, bivalfulanopha ta tattoduipha. An Themmeskepottande- enheti kammar uschalin te aschar te kettaneskerra ta dikka pre kommunernas kerranden an duckalo- rakepha ta te dokka kommunerna janepha. Kommunerna duckalo- rakepha – pottopha nasht prealgolepha to Themmeskepottande- enheti.</p>
+<p type="title" xml:lang="swe">Klimati ta sorli</p>
+<p>Themmeskepottande- enheti kettaneskerrar dolle regionala menget ninna te kutta avri-tjivvarandet attjer tjarjalihispo- gaseri. Themmeskepottande- enheti kammar kettanes ninna themmets kommuner, bastanopha ta lovverskeneutronpha mengat glan jeck klimati – ta soralistrategio savo dikkar huri vorsnos saste nashta dokka to menga fedigt ninna klimati-golen ta dova vavver sorali. Vorsnos mengar ninna kerra gla manisch- kettanespha te kerra to jick klimati savo tji avar bliddra savriga savo an divus, vorsnos mustula dynkra pre te baropani bliddrar baroare ta pani-kerriapha bliddrar buttare an vorsnos themmar.</p>
+<p type="title">Huri dolle aschar an trujalipha</p>
+<p>Themmeskepottande-enheti kettaneskerrar trujalipha-prealdikkande an themmet. Te rodra ta konturnerligt dikka to huri dolle aschar an trujalipha aschar jeck baro bekk an vorsnos trujalipha- meng. Dova resultati brukfaras ninna vavver gla te dikka to menget ninna trujalipha- golen abbo tasa gla te rodepha nevo traschanopha. Prealdikkandet aschar langranodikkandepha akktersavo dolle mustula kerrat rodepha preal langro tjiroar gla te nashta jura baschi jeck vavver veschtanepha topha attjer manisch ire jeck nartulig variationi.</p>
+<p type="title" xml:lang="swe">Pani ta panibrukfara</p>
+<p>Panipha mustula rakepha gla te vorsnos saste fussa jeck langrojurepha ta tjattjo paniskekammande. Sveddingen aschar andrebekkande an fimpus panithemm. Jeck themmeskepottande- enheti an savrige themm kammar bliddrat dova pani- bastanopha ninna uschalipha te kerra gla kvaliteto pre pani- trujalipha an jick themm. Dova manisch savo voltrar menga an kettaneskerrande meng ninna kava friggor mustula kamma avri hortan te menga, jeck potto-iller. Pre panikerrandet aschar soralo-keribepha ta regleringsdammar, ovaroa keribenpha an pani sav savo fallmaner ta tunnlar, muddringa ta paniavrile gla pieskepani- goli ta pani to tjaralier ta phuven.</p>
+<p type="title">Kettaneskerrandet ninna trujalipha ta dolle vaver- kerranden</p>
+<p>Themmeskepottande- enheti kammar jeck Trujalipha dikkande delegation savo nasht dokka avri hortepha -pottoillet gla trujalipha- darrano kettaneskerrande sav savo trujalipha- balken pennar.</p>
+<p>Exempli pre trujalipha- darrano kettaneskerrande aschar ytikerrande - keribenpha, bar-keribepha, illerbrukfara- kere, bival- keribenpha, tatto - keribenpha ta vavver sorali- keribenpha, rombana- keribenpha, fulano- keribenpha, mutter- keribenpha, bar-ta barobar- keribenpha.</p>
+<p>An savrige kommun aschar jeck kommunal trujalipha - bastanopha savo kammar kesser gla dova lokali tojurepha attjer trujalipha- darranot kettaneskerrande. Vorsnos dokkar hilprepha ta pennande to dova kommunala trujalipha- bastanopha ta dynkrar pre ta dikkar to dovas kerranden. Vorsnos dikkar to Themmeskepottande- enhetens selare generationers nicklifulanden an phuv ta pani ta mengar ninna te kerrat dova fedigare.</p>
+</body></document>

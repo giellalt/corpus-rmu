@@ -1,82 +1,39 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>934</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName>
-    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
-    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
-    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Stiladajatva ta sekretess / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Stiladajatva ta sekretess Tystnadsplikt och sekretess</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So aschar?</p>
-    <p type="title" xml:lang="swe">Sassaro andre araken kammar stiladajatav</p>
-    <p xml:lang="swe">Karna diro jaar to araken honkar dolle barot te diro kanslar pattjano gla dova mengare diro trissar. Pakjibe honkar barot gla te diro saste kansla diro rahati ta tromma rakkla uppri bàsi dova pharipe ire symtom diro kammar ta pre kava fussa dova arak diro mustula kamma. Sassaro savo mengar andre sastepha ta dukkaloaraken stiladajatva. Dolle honkar nane andre araken fusar dokka avri janepha avritan te diro kammar pennat dolle honkar saribe.</p>
-    <p xml:lang="swe">Andre dukkaloaraken aschar savrige sekretesrakhibe gla sassaro pasienti ta ososkip attjer bàsi diro kammar hortepha te ascha an Sveddingen ire tji.</p>
-    <p xml:lang="swe">Stiladajatvan pottas attjer offentlighets- ta sekreteskanuni gla dova savo mengar andre themmen ta kommunerna akno dova savo mengar gla jeck solus arakdokkare saste lytara hortan bàsi stiladajatva an patientipottokanuni. Dova savo magrar koro stiladajatvan nasht mageri an schanarikeren ire pre vaver sutt attjer vaver attjer dova beddo savo kammar tojura preal araken.</p>
-    <p xml:lang="swe">Ninna mengarna pre jick dukkalokere ire arakcentral aschar stiladajatva. Kava honkar rada dova savo arakar jeck pasienti savo fussar rakkla ninna varveran bàsi pasientins sastepha ire solus sarti. Kava aschar te jeck darton fussar rakkla jeck pasientis hilprande ninna jeck vaver mengare rada bàsi dovan arakar savrige manisch.</p>
-    <p xml:lang="swe">Stiladajatvan aschar sass mengare savo diro trissar an araken. Tji dynkrat pre bàsi dolle honkar offentlig ire solus arak ta tji dynkrat pre dolle honkar darton, dukkalopennja ire admenistrativ mengare. Chibrakkrar ta chibirandrar savo mengar pre uschalipha andre sastepha- ta dukkaloaraken kammar aur stiladajatva. Stiladajatvan aschar aur gla dova savo mengar andre drabboforma.</p>
-    <p type="title" xml:lang="swe">Diro pottar solus</p>
-    <p xml:lang="swe">Kanunierna aschar sav te tji jeck nerrider kammar hortepha te fussa jana so savo pennas ta kerras pre dukkalokere bàsi diro tji voltrar te dova saste jana. Diro imarela bliddra friggad attjer mengarna bàsi konn dova fussar dokka avri janepha to. Dannro valjfara diro solus savi dova fussar dokka janepha to. Glanske jeck operation rakkla bàsi gla mengarna te dova fussar parmisa sar operationen kerrades gla jeck nerrider andre diro solus kammar jàngno uppri.</p>
-    <p xml:lang="swe">Gla nuckoar aschar te narthan an tjattjomaskero kammar hortepha te le kotar attjer siro nuckons arak ta jana so savo honkar randrat an journalen. Abbo karna nuckon bliddrar phuranoare, an ternopha, aschar buttvar te nuckon dokkar siro oiadejbe to kava.</p>
-    <p xml:lang="swe">Basi diro andre dukkaloaraken ta socialdinstern opattjalo te nuckon kammar dolle kerria gla siro nartha, ire te dova tji nasht rakkepha nuckon dokkas tji journalen avri.</p>
-    <p xml:lang="swe">Pasientijornaler astarela aur attjer sekretess ta dova savo tji fussar dràbbra jeck journal honkar dova manisch savi arakar dova pasienti savo journalen aschar. Dolle honkar nane bàsi journalen aschar an jeck dator ire bàsi dova honkar randrad pre patrin.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Telopha</p>
-    <p type="title" xml:lang="swe">Telopha fann stiladajatvan</p>
-    <p xml:lang="swe">Sekretessen ta stiladajatvan honkar baro, abbo nasht magras telál kommoni momenti, biso te diro savo patient dokkar siro saribe. Kava honkar bàsi:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">jeck schnarikere, schnarimosch-, starto-, kronofogde- ire mollephabeddo pennat te dova saste fussa jana bashi jeck manisch aschar pre jeck arakkere.</p>
-      <p type="listitem" xml:lang="swe">socialpottarnas pennanen gla kanuni, sociala ta drabbeske friggor nasht kamma janepha gla siro kerranden</p>
-      <p type="listitem" xml:lang="swe">tradrarpottarnas-beddo mustula kamma janepha gla te jura bashi kommoni nasht kamma tradrarkartli, traktorkartli ire taxitradrarsaribe</p>
-      <p type="listitem" xml:lang="swe">janepha mustulas karna dolle saste juras bashi jeck student saste klisas attjer fann barobleddreskekeret</p>
-      <p type="listitem" xml:lang="swe">janepha nasht juras gla jeck kanuniskedrabbrano rodderpha.</p>
-    </list>
-    <p xml:lang="swe">Karna dolle aschar opatjanlo bàsi stillopha savo honkar savo sav baro te dolle dokkar tiknoast jeck basht stillo kammar arakmengarna hortepha te magra koro stiladajatvan preàl te kerra jeck startotjall bàsi stillopha ta svardara pre friggor fann starton- savo schnarikeret. Jeck savot stillopha honkar mul, bulopha-sor ta baro-dabb. Kava aschar aur kommoni tradrar-stillopha ninna tiknoa stillo sav tradrar-piloande savo arakmengarna kammar hortepha te tjalla.</p>
-    <p type="title" xml:lang="swe">Telopha gla nuckoar</p>
-    <p xml:lang="swe">Karna dolle aschar nuckoar kerras telopha fann stiladajatvan bàsi arakmengarna opattjalo te nuckon kerras gla jeck stillopha. Kava nasht ascha bàsi dabb ire bulopha-sor.</p>
-    <p xml:lang="swe">Bàsi arakmengarna opattjalo te jikk nucko kammar dolle kerria saste mengarna tjall savot to socialdinstern, savo kerrar jeck roddepa ta kerre jeck statontjall. Kava aschar aur bàsi dolle kerras jeck roddepa attjer kommoni dabb savo aschar jeck tiknobasjt mustulande attjer arakhibe. Arakmengarna honkar dannro uschli te dokka avri janepha savo nasht kamma kucipet gla roddepa.</p>
-    <p type="title" xml:lang="swe">Nane bashtpottande gla nuckon te potta solus</p>
-    <p xml:lang="swe">Karna dolle aschar tikno nuckoar honkar dolle narthan savo pottar bàsi janepha saste dokkas avri ire tji. Karna nuckon bliddrar phuranoare ta nasht juras baro an kava fussar nuckon solus potta bàsi arakmengarna fussar dokka avri janepha ta to konn. Kava aschar nane basht pottande gla karna nuckon saste potta solus avritan dolle saste kerras fann manisch to manisch. Kava aschar te narthan tji fussar jana nuckons sastepha.</p>
-    <p type="title" xml:lang="swe">Siguripekasa siguripebolag</p>
-    <p xml:lang="swe">Diro pottar solus bàsi sastepha- ta dukkaloaraken saste fussa dokka avri janepha bàsi savi dukkaloer diro kammar ire savi hilprepha diro kammar fussat. Abbo bàsi diro honkar dukkalo ta roddepa bàsi dukkalosiguri fann siguripekasan fann arakmengarna dokkar avri dova janepha savo mustulas gla te potta bàsi diro kammar hortepha to dukkalosiguri.</p>
-    <p xml:lang="swe">Karna aschar aur bàsi diro bliddrar dabbad ire dukkalo ta voltrar kamma lover fann diro siguripebolag. Dannro kammar siguripebolag hortepha te fussa le dova janepha savo dova mustula kamma gla te potta bàsi diro kammar hortepha te kamma lover.</p>
-    <p type="title" xml:lang="swe">Stillopha koro stiladajatvan</p>
-    <p xml:lang="swe">Bàsi dolle aschar kommoni momenti karna arakmengarna fussar mangra ire saste mengra koro stiladajatvan honkar dolle rada an telopha. Dynkrepha honkar te stiladajatvanhonkar to gla te arakhiber pasientin.</p>
-    <p xml:lang="swe">Bàsi diro savo pasienti opattjalo te kommoni an arakmengarna kammar magrat koro stiladajatvan nasht diro gola kava to staton ire Social-beddon. Kava nasht kerra to de dova manischen bliddrar shinovelad.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>927</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName><parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/><parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/><parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/><parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Stiladajatva ta sekretess / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Stiladajatva ta sekretess Tystnadsplikt och sekretess</p>
+<p xml:lang="swe"></p>
+<p type="title">So aschar?</p>
+<p type="title">Sassaro andre araken kammar stiladajatav</p>
+<p>Karna diro jaar to araken honkar dolle barot te diro kanslar pattjano gla dova mengare diro trissar. Pakjibe honkar barot gla te diro saste kansla diro rahati ta tromma rakkla uppri bàsi dova pharipe ire symtom diro kammar ta pre kava fussa dova arak diro mustula kamma. Sassaro savo mengar andre sastepha ta dukkaloaraken stiladajatva. Dolle honkar nane andre araken fusar dokka avri janepha avritan te diro kammar pennat dolle honkar saribe.</p>
+<p>Andre dukkaloaraken aschar savrige sekretesrakhibe gla sassaro pasienti ta ososkip attjer bàsi diro kammar hortepha te ascha an Sveddingen ire tji.</p>
+<p>Stiladajatvan pottas attjer offentlighets- ta sekreteskanuni gla dova savo mengar andre themmen ta kommunerna akno dova savo mengar gla jeck solus arakdokkare saste lytara hortan bàsi stiladajatva an patientipottokanuni. Dova savo magrar koro stiladajatvan nasht mageri an schanarikeren ire pre vaver sutt attjer vaver attjer dova beddo savo kammar tojura preal araken.</p>
+<p>Ninna mengarna pre jick dukkalokere ire arakcentral aschar stiladajatva. Kava honkar rada dova savo arakar jeck pasienti savo fussar rakkla ninna varveran bàsi pasientins sastepha ire solus sarti. Kava aschar te jeck darton fussar rakkla jeck pasientis hilprande ninna jeck vaver mengare rada bàsi dovan arakar savrige manisch.</p>
+<p>Stiladajatvan aschar sass mengare savo diro trissar an araken. Tji dynkrat pre bàsi dolle honkar offentlig ire solus arak ta tji dynkrat pre dolle honkar darton, dukkalopennja ire admenistrativ mengare. Chibrakkrar ta chibirandrar savo mengar pre uschalipha andre sastepha- ta dukkaloaraken kammar aur stiladajatva. Stiladajatvan aschar aur gla dova savo mengar andre drabboforma.</p>
+<p type="title">Diro pottar solus</p>
+<p>Kanunierna aschar sav te tji jeck nerrider kammar hortepha te fussa jana so savo pennas ta kerras pre dukkalokere bàsi diro tji voltrar te dova saste jana. Diro imarela bliddra friggad attjer mengarna bàsi konn dova fussar dokka avri janepha to. Dannro valjfara diro solus savi dova fussar dokka janepha to. Glanske jeck operation rakkla bàsi gla mengarna te dova fussar parmisa sar operationen kerrades gla jeck nerrider andre diro solus kammar jàngno uppri.</p>
+<p>Gla nuckoar aschar te narthan an tjattjomaskero kammar hortepha te le kotar attjer siro nuckons arak ta jana so savo honkar randrat an journalen. Abbo karna nuckon bliddrar phuranoare, an ternopha, aschar buttvar te nuckon dokkar siro oiadejbe to kava.</p>
+<p>Basi diro andre dukkaloaraken ta socialdinstern opattjalo te nuckon kammar dolle kerria gla siro nartha, ire te dova tji nasht rakkepha nuckon dokkas tji journalen avri.</p>
+<p>Pasientijornaler astarela aur attjer sekretess ta dova savo tji fussar dràbbra jeck journal honkar dova manisch savi arakar dova pasienti savo journalen aschar. Dolle honkar nane bàsi journalen aschar an jeck dator ire bàsi dova honkar randrad pre patrin.</p>
+<p xml:lang="swe"></p>
+<p type="title">Telopha</p>
+<p type="title">Telopha fann stiladajatvan</p>
+<p>Sekretessen ta stiladajatvan honkar baro, abbo nasht magras telál kommoni momenti, biso te diro savo patient dokkar siro saribe. Kava honkar bàsi:</p>
+<list><p type="listitem">jeck schnarikere, schnarimosch-, starto-, kronofogde- ire mollephabeddo pennat te dova saste fussa jana bashi jeck manisch aschar pre jeck arakkere.</p>
+<p type="listitem">socialpottarnas pennanen gla kanuni, sociala ta drabbeske friggor nasht kamma janepha gla siro kerranden</p>
+<p type="listitem">tradrarpottarnas-beddo mustula kamma janepha gla te jura bashi kommoni nasht kamma tradrarkartli, traktorkartli ire taxitradrarsaribe</p>
+<p type="listitem">janepha mustulas karna dolle saste juras bashi jeck student saste klisas attjer fann barobleddreskekeret</p>
+<p type="listitem">janepha nasht juras gla jeck kanuniskedrabbrano rodderpha.</p>
+</list><p>Karna dolle aschar opatjanlo bàsi stillopha savo honkar savo sav baro te dolle dokkar tiknoast jeck basht stillo kammar arakmengarna hortepha te magra koro stiladajatvan preàl te kerra jeck startotjall bàsi stillopha ta svardara pre friggor fann starton- savo schnarikeret. Jeck savot stillopha honkar mul, bulopha-sor ta baro-dabb. Kava aschar aur kommoni tradrar-stillopha ninna tiknoa stillo sav tradrar-piloande savo arakmengarna kammar hortepha te tjalla.</p>
+<p type="title">Telopha gla nuckoar</p>
+<p>Karna dolle aschar nuckoar kerras telopha fann stiladajatvan bàsi arakmengarna opattjalo te nuckon kerras gla jeck stillopha. Kava nasht ascha bàsi dabb ire bulopha-sor.</p>
+<p>Bàsi arakmengarna opattjalo te jikk nucko kammar dolle kerria saste mengarna tjall savot to socialdinstern, savo kerrar jeck roddepa ta kerre jeck statontjall. Kava aschar aur bàsi dolle kerras jeck roddepa attjer kommoni dabb savo aschar jeck tiknobasjt mustulande attjer arakhibe. Arakmengarna honkar dannro uschli te dokka avri janepha savo nasht kamma kucipet gla roddepa.</p>
+<p type="title">Nane bashtpottande gla nuckon te potta solus</p>
+<p>Karna dolle aschar tikno nuckoar honkar dolle narthan savo pottar bàsi janepha saste dokkas avri ire tji. Karna nuckon bliddrar phuranoare ta nasht juras baro an kava fussar nuckon solus potta bàsi arakmengarna fussar dokka avri janepha ta to konn. Kava aschar nane basht pottande gla karna nuckon saste potta solus avritan dolle saste kerras fann manisch to manisch. Kava aschar te narthan tji fussar jana nuckons sastepha.</p>
+<p type="title" xml:lang="swe">Siguripekasa siguripebolag</p>
+<p>Diro pottar solus bàsi sastepha- ta dukkaloaraken saste fussa dokka avri janepha bàsi savi dukkaloer diro kammar ire savi hilprepha diro kammar fussat. Abbo bàsi diro honkar dukkalo ta roddepa bàsi dukkalosiguri fann siguripekasan fann arakmengarna dokkar avri dova janepha savo mustulas gla te potta bàsi diro kammar hortepha to dukkalosiguri.</p>
+<p>Karna aschar aur bàsi diro bliddrar dabbad ire dukkalo ta voltrar kamma lover fann diro siguripebolag. Dannro kammar siguripebolag hortepha te fussa le dova janepha savo dova mustula kamma gla te potta bàsi diro kammar hortepha te kamma lover.</p>
+<p type="title">Stillopha koro stiladajatvan</p>
+<p>Bàsi dolle aschar kommoni momenti karna arakmengarna fussar mangra ire saste mengra koro stiladajatvan honkar dolle rada an telopha. Dynkrepha honkar te stiladajatvanhonkar to gla te arakhiber pasientin.</p>
+<p>Bàsi diro savo pasienti opattjalo te kommoni an arakmengarna kammar magrat koro stiladajatvan nasht diro gola kava to staton ire Social-beddon. Kava nasht kerra to de dova manischen bliddrar shinovelad.</p>
+</body></document>

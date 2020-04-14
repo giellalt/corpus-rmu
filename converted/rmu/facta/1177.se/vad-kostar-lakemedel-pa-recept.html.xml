@@ -1,115 +1,72 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1751</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
-    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">So mollar drabb pre recept? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">So mollar drabb pre recept?Vad kostar läkemedel på recept?</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So aschar?</p>
-    <p type="title" xml:lang="swe">Arakhibe rakkra koro baro mollepha</p>
-    <p xml:lang="swe">Themmen subventionerar, dolle mangela kati lover savo hilpra, karna diro mustula hoftfara drabb ta jeck kotar vaver kova diro mostula basi diro kamma dukkepha. Dova buttaste drabb savo randras avri pre recept honkar subventionerade. Subventionen prammisas basi an kanuni baschi drabb.hilprepha. Kava arakhibe koro baro mollepha savo kanuni dokkar karade an divusligt rakkra gla baromollepha rakkephat.</p>
-    <p xml:lang="swe">Attjer kanuni pottas dolle te:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">diro fussar hilprepha attjer dolle sav pennande baromollepha kati gla dova buttaste drabben, p-drabb ta stomi</p>
-      <p type="listitem" xml:lang="swe">diro prejsa tji gla ismaerlakova savo hoftfara kammas gla te ascha andre truppon ta gla te kerra diro drabbning, kava nasht ascha suj gla rattgullepha jurade</p>
-      <p type="listitem" xml:lang="swe">diro fussar jikk arakhibe koro baro mollepha gla khonra kabin to nuckor telal 16 basjt.</p>
-    </list>
-    <p type="title" xml:lang="swe">Mollepha ta subvention</p>
-    <p xml:lang="swe">Dandeskearak- ta drabbkeret, TLV, honkar dova beddo savo pottar basi mollepha ta subventioner. Karna TLV nachta le agorlejbe bàsi subventioner jurar dova pre basi drabbet dokkar jeck hilprande savo aschar savrige koro molleph a te subventionera dolle. Kava nast ascha fedigare satsepha ta langroare jibb. TLV jurar aur basi ismarelar nast tiknoa manischkettanespha mollepha, gla operationer, dukkalorandande ire phuranoarak.</p>
-    <p xml:lang="swe">Drabbreskerodrelserna nast solus valjfara te bekkna te drabb avri baromollepha arakhibe. Dannro honkar mollepha muck, dolle aschar te drabbreskerodrelserna pottar mollepha solus. Gla drabb savo tji aschar an baromollepha arakhibe fussar diro solus projsa saroe mollepha.</p>
-    <p xml:lang="swe">Jeck kotar drabb nast kamma jeck tikno subvention. Kava aschar te drabbet honkar subventionerat rada gla jeck patientgruppi ire gla te hilpra sikk dukkepha.</p>
-    <p xml:lang="swe">TLV ta FASS kammar webpatrin doj diro nast jura basi jick drabb honkar subventionerat ire tji.</p>
-    <p type="title" xml:lang="swe">Emrepaste paripha valjefarande</p>
-    <p xml:lang="swe">Dolle nast asja buttir attjar savriga drabb. Dova pennkarade generiska drabb. Dova kammar savrige butt kerrande emni ire emni ta kammar savriga kerrande. Abbo dova nast jura najek avri ta kammar najek kova, dolle assja konseveringsphani. Dova nast ava fann najek drabbreskeroddrelser ta kamma najeka mollepha. Kava valjefarande nast paripha avri koro varveran pre drabboforma. Dolle honkar drabbkheret savo pottar savi drabb savo fussar paripha avri koro jikk vaver.</p>
-    <p xml:lang="swe">Basi dolle asja butt generiska drabb ta dova savo steddrar pre recept tji honkar dolle emrepaste mostula drabboforma paripha to dova valjefarande savo kammar tjinnepha tiknoaste mollepha. Kava honkar rada dolle emrepaste valjefarande savo honkar helko subventionerat. Diro nast valjfara te tjinna dolle kuschare drabbet savo steddrar pre recept, abbo dannro mostula diro prejsa prelejaveripe solus, dova honkar tji an baromollepha arakhibe. Basi diro tji voltrar kamma dova valjefarande savo drabboforma paripha to ta tji dova savo steddrar pre recept nast diro valjfara jikk vaver generiskt valjefarande. Abbo dannro fussar diro prejsa helko mollepha solus. Dolle honkar rada dova savo steddrar pre recept ta dolle kopraste paripha drabbet (savo astarela attjer subventionen). Soskipe to kava honkar te nane saste prejsa buttare jeck teroa gla jikk drabb basi dolle asjar buttare attjer savrige to najeka mollepha.</p>
-    <p xml:lang="swe">Basi diro attjer drabbreske soskipha mustula ismaerla jikk drabb attjer jick fabrikerat nast darton penna pre receptet te drabbet tji fussar paripha koro jikk vaver. Dannro mostula diro tji prejsa dova mollepha basi te drabbet honkar gla baromollepha arakhibe. Drabbeske soskipha nasht asha te diro honkar allergiskt koro jick rankiemne an jick drabb ire te diro kammar kerria te uppri jeck drabbeskelleddikan.</p>
-    <p type="title" xml:lang="swe">Periodi kova</p>
-    <p xml:lang="swe">TLV pottar savi mollepha savo saste ismarela akkter jikk drabbeskeroddrelse friggat basi jick mollepha-vaver. Mollepha pre jikk drabb nast, bliddra vaver svacko tscho.</p>
-    <p xml:lang="swe">Karna dolle aschar generiska drabb pennas dova veljefarande savo fussat tiknoaste mollepha gla pariodi kova. TLV dokkar avri janepha to drabboforma basi savi veljefarande savo honkar periodi kova ta savo dova saste paripha to. TLV pottar aur basi dy vaverfaljefarande te paripha to basi periodi kova bliddrar phater. Dolle nasht asha najek fann tscho to tscho savi valjefarande savo drabboforma paripha to.</p>
-    <p xml:lang="swe">Soskipha ninna periodi kova honkar te dova deisibebukja savo honkar gla subvention attjer drabb saste doschta to sav butt ta sav buttar savo seipe.</p>
-    <p xml:lang="swe">Periodi kova honkar savrige pre sassaro drabbforma. Abbo nasht ascha te jikk drabboforma kammar tjinnat jeck sass to baro attjer periodi kova. Drabboforma fussar dannro bekkna dova teli avande montran. Kava aschar te diro nasht bliddra bjuddrar glanske montrans kova pre jick drabboforma ta kava tscho kova pre jick vaver. Kava dy kova nast kammma najek mollepha.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Baromollepha arakhibe</p>
-    <p type="title" xml:lang="swe">Diro prejsar buttast 2 200 lock svacko basjt</p>
-    <p xml:lang="swe">Baromollepha arakhibe aschar te diro prejsa baroast 2 200 lock telal jeck periodi pre jick basht. Kava basjt pennas jeck baromollepha periodi.</p>
-    <p xml:lang="swe">Baromollepha arakhibe aschar gla drabb savo diro fussar pre recept savo TLV kammar pottat saste ascha subventionerade. Kava aschar aur gla ismarelakova savo diro fussar pre jick sav pennat hilpreskekova-kartli.</p>
-    <p xml:lang="swe">Karna dolle aschar dova buttaste drabb prejsar diro jeck sav pennad jeck tjiro mollepha svacko tjiro diro ler avri pre recept to diro avar uppri to 2 200 lock. Savrige ninna ismarelakova savo mostulas niga stomi.</p>
-    <p xml:lang="swe">Gla hari drabb prejsar diro nane jeck tjiro mollepha. Basi diro kammar insulindikhljaribad diabetes prejsar diro nane gla insulinet. Basi diro kammar jeck dukkepha savo honkar telal dukkalodokkande-kanuni prejsar themmeskepottarna saroe mollepha gla drabb savo tiknoar dolibe virusmulande drabb koro hiv.</p>
-    <p xml:lang="swe">Khonra themmeskepottare prejsar saroe mollepha ire jeck kotar attjer solustaksa gla khonra drabb ta khonra patientgruppi, savo nast assha p-drabb to terno garier.</p>
-    <p xml:lang="swe">Diro prejsar nane gla ismarelakova savo mostulas gla te dokka truppon dabb ta gla te potta preal diro drabb. Kava nast assja sujar ta vaver ismarelakova.</p>
-    <p type="title" xml:lang="swe">Jeck tjiro mollepha attjer baromollepha-kati</p>
-    <p xml:lang="swe">Karna diro agra jeck baromollepha-periodi pre jick basjt prejsar diro saroe mollepha gla drabbet ta stomikova solus to diro kamma prejsat 1 100 lock. Senslo tiknorelar jeck tjiro solustaksan bekk gla bekk attjer dova sav pennande baromollepha-kati. Niga svacko nevo tjinnande agrear diro fann dova mollepha diro kammade niga glanske tjinnat ta avar odore opre an kati.</p>
-    <p xml:lang="swe">Karna diro kammar prejsat 2 200 lock mostula diro tji prejsa buttare telal baromollepha-periodi. Jeck mostula gla kava honkar te dova. Gla te dole nast chani honkar te lender drabb diro saste le avri. Andrekammas attjer baromollepha arakhelet. Karna baromollepha-periodi honkar phater agrar diro ninna jeck nevo periodi (niga aver tjinn saste diro panda honkar pre baromollepha-kati).</p>
-    <p type="title" xml:lang="swe">Sav kaj aschar baromollepha-kati</p>
-    <p xml:lang="swe">Kettanesdynkrande drabbeskemollande</p>
-    <p xml:lang="swe">Diro prejsat sav hemuso</p>
-    <p xml:lang="swe">5 400</p>
-    <p xml:lang="swe">2 200</p>
-    <p xml:lang="swe">3 900</p>
-    <p xml:lang="swe">90% rabatt</p>
-    <p xml:lang="swe">2 050</p>
-    <p xml:lang="swe">2 100</p>
-    <p xml:lang="swe">75% rabatt</p>
-    <p xml:lang="swe">1 600</p>
-    <p xml:lang="swe">1 100</p>
-    <p xml:lang="swe">50% rabatt</p>
-    <p xml:lang="swe">1 100</p>
-    <p xml:lang="swe">0% rabatt</p>
-    <p xml:lang="swe">Sikkrar sar baromollepha tabellen arakhibe dokkar jeck jaeske tiknoad mollepha.</p>
-    <p type="title" xml:lang="swe">Ulavela kabingkova to nuckoar</p>
-    <p xml:lang="swe">Kabingkovar to nuckoar teli 16 basht ta kammar khonra dukkepha, savo glutenintolerans, honkar subventionerade. Kabingkovar randras avri pre jeck sav karade kabingkova ill ta diro fussar annera avri baroast 90 divusar svacko volta. Diro projsar jeck solustaksan pre 120 lock svacko volta, abbo dolle taksajinnas tji ninna an baromollepha arakhibe.</p>
-    <p type="title" xml:lang="swe">Sar butt fussar diro tjinna?</p>
-    <p xml:lang="swe">Diro nast tji tjinna sar butt savo avel andre baromollepha arakhibe. Dova buttiphe diro fussar tjinna nasta to an doschta to 90 divusar, kava mangela penna trinn tschona. Preventiondrabb, savo p- drabb ta p-sujar, honkar tji ninna kava tjattjomaskero.</p>
-    <p xml:lang="swe">Basi diro fussar le avri pre recept buttare tjiroar nast jick nevo kerras glanske karna dolle jaddet dy tinntekotar attjer dova tjiro savo drabbet dynkras saste doschtas. Basi diro kammar let avri drabb gla trinn tschonra glaismerela dolle kamma jadde dy tschon anglal diro fussar avri pre recept vidder.</p>
-    <p xml:lang="swe">Diro nast tjinna avri jeck baroare butiphe panda avripha pre tjiro, abbo dannro mostula diro prejsar saroe mollepha gla dova butiphe savo honkar buttare jeck gla trinn tschon glaismarela. Basi darton kammar randrat pre receptet te dolle mostula ja jeck tjiro masker sav diro tji nast le buttare jeck darton kammar pennat.</p>
-    <p xml:lang="swe">Basi diro kammar soskip, basi diro saste ascha avrithemm jeck langroare rjiro, nasht diro le avri drabbet andre baromollepha arakhibe gla jeck langroare tjiro jeck trinn tschorna. Abbo dannro mostula diro nast sikkra dolle.</p>
-    <p type="title" xml:lang="swe">Karna aschar baromollepha arakhibe?</p>
-    <p xml:lang="swe">Gla te baromollepha arakhibe saste chani mostula dova savo randrar avri drabbet kamma siros mengeskesteddo randard ninna jeck kodi pre recept. Basi receptet aschar jikk drabb ninna pottad subvention mostula randraren aur randrat pre receptet te baromollepha arakhibe nacta chani.</p>
-    <p xml:lang="swe">Baromollepha arakhibe aschar gla dova savo honkar boddrad ire mengar an Svedijo ire dova savo kammar jikk europeiskt dukkalosiguripe-kartli fann jikk vaver EES-themm ire Schweiz. Dolle europeiska dukkalosiguripe-kartlit nast sikkras appri solduj niga dartonarak ta bra drabboforma. Svedijo kammar aur simmali ninna khonra themmar avri Europa; Algeriet, Australien ta Quebec an Kanada, savi aschar te dolle aschar gla ninneskeboddrare fann kava themmar bàsi dova fussar jikk zori attjer drabb karna dova aschar an Svedijo.</p>
-    <p xml:lang="swe">Sassaro nuckoar teli 18 basjt an savrige kere, dolle honkar dova randrade an savrige boddra adresa, kammar jikk kettanes baromollepha-arakhibe. Dolle aschar te sassaro nuckoars solustaksa jinnas kettanes. Dolle aschar te biologiska phralar ta penja savo honkar randrade pre najek steddo kammar siro baromollepha arakhibe.</p>
-    <p type="title" xml:lang="swe">Baromollepha databasen</p>
-    <p xml:lang="swe">Diro mostula tji solus jana sar butt diro kammar tjinnat gla. An dova sav karade baromollepha databasen, sav kerras attjer dova themmeske bolaget Drabboforma dinster AB (Apotekens Service AB), randras sassaro tjinnanden andre baromollepha arakhibe. Systemet janar pre sar butt diro kammar prejsat an solustaksa ta jinnar vri sar but rabatt dolle bliddrar attjer baromollepha-kati svacko volta diro tjinnar. Sassaro drabboforma honkar saviga an savriga databaser sav diro nast tjinna pre savit drabboforma savo diro mangela</p>
-    <p xml:lang="swe">Dolle hunkar mukkanot te tava siro to baromollepha databasen. Dolle savo randras andre an databasen honkar nav, manisch-jinn, andretjinnande, pre savi drabboforum diro ledde receptet fann, sar butt diro prejsat, dova mollepha diro kammar fussat an baromollepha arakhibe ta aggreskedatum gla baromollepha-periodi. Janepha savo randras teli ismarela gla te diro saste kamma horta to rabatt. Nane janepha basi savi drabb diro fussar ire savi darton savo randrat vri recept registrinela.</p>
-    <p xml:lang="swe">Diro nast dannro diro nast kamma jikk avri attjer baromollepha arakhibe savi janepha savo aschar basi diro, ta basi dova nuckoar savo diro honkar narthan gla. Dolle kerrar diro preal te randra jeck lill to drabbforum dinster AB, doj kammar diro illerna.</p>
-    <p type="title" xml:lang="swe">Valjfara ta asha avriglan</p>
-    <p xml:lang="swe">Diro nasht valjfara te tji asha tavad to baromollepha-databasen. Dannro fussar diro jikk kvitto savo karas baromollepha-sikkrar pre drabboforum karna diro tjinnar drabb andre baromollepha arakhibe. Pre kava steddrar savi kettanesdynkrad solus mollepha diro kammar prejsat. Dolle honkar barot te rakka dolle sensloaste baromollepha-sikkrandet ta te sikkra uppri dolle kettanes ninna recept karna diro saste tjinna drabb. Drabboforma mostula jana pre savi nivo an baromolepha-kati diro aschar pre gla te fussa horta to rabatt.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1744</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName><parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">So mollar drabb pre recept? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">So mollar drabb pre recept?Vad kostar läkemedel på recept?</p>
+<p xml:lang="swe"></p>
+<p type="title">So aschar?</p>
+<p type="title">Arakhibe rakkra koro baro mollepha</p>
+<p>Themmen subventionerar, dolle mangela kati lover savo hilpra, karna diro mustula hoftfara drabb ta jeck kotar vaver kova diro mostula basi diro kamma dukkepha. Dova buttaste drabb savo randras avri pre recept honkar subventionerade. Subventionen prammisas basi an kanuni baschi drabb.hilprepha. Kava arakhibe koro baro mollepha savo kanuni dokkar karade an divusligt rakkra gla baromollepha rakkephat.</p>
+<p>Attjer kanuni pottas dolle te:</p>
+<list><p type="listitem">diro fussar hilprepha attjer dolle sav pennande baromollepha kati gla dova buttaste drabben, p-drabb ta stomi</p>
+<p type="listitem">diro prejsa tji gla ismaerlakova savo hoftfara kammas gla te ascha andre truppon ta gla te kerra diro drabbning, kava nasht ascha suj gla rattgullepha jurade</p>
+<p type="listitem">diro fussar jikk arakhibe koro baro mollepha gla khonra kabin to nuckor telal 16 basjt.</p>
+</list><p type="title">Mollepha ta subvention</p>
+<p>Dandeskearak- ta drabbkeret, TLV, honkar dova beddo savo pottar basi mollepha ta subventioner. Karna TLV nachta le agorlejbe bàsi subventioner jurar dova pre basi drabbet dokkar jeck hilprande savo aschar savrige koro molleph a te subventionera dolle. Kava nast ascha fedigare satsepha ta langroare jibb. TLV jurar aur basi ismarelar nast tiknoa manischkettanespha mollepha, gla operationer, dukkalorandande ire phuranoarak.</p>
+<p>Drabbreskerodrelserna nast solus valjfara te bekkna te drabb avri baromollepha arakhibe. Dannro honkar mollepha muck, dolle aschar te drabbreskerodrelserna pottar mollepha solus. Gla drabb savo tji aschar an baromollepha arakhibe fussar diro solus projsa saroe mollepha.</p>
+<p>Jeck kotar drabb nast kamma jeck tikno subvention. Kava aschar te drabbet honkar subventionerat rada gla jeck patientgruppi ire gla te hilpra sikk dukkepha.</p>
+<p>TLV ta FASS kammar webpatrin doj diro nast jura basi jick drabb honkar subventionerat ire tji.</p>
+<p type="title">Emrepaste paripha valjefarande</p>
+<p>Dolle nast asja buttir attjar savriga drabb. Dova pennkarade generiska drabb. Dova kammar savrige butt kerrande emni ire emni ta kammar savriga kerrande. Abbo dova nast jura najek avri ta kammar najek kova, dolle assja konseveringsphani. Dova nast ava fann najek drabbreskeroddrelser ta kamma najeka mollepha. Kava valjefarande nast paripha avri koro varveran pre drabboforma. Dolle honkar drabbkheret savo pottar savi drabb savo fussar paripha avri koro jikk vaver.</p>
+<p>Basi dolle asja butt generiska drabb ta dova savo steddrar pre recept tji honkar dolle emrepaste mostula drabboforma paripha to dova valjefarande savo kammar tjinnepha tiknoaste mollepha. Kava honkar rada dolle emrepaste valjefarande savo honkar helko subventionerat. Diro nast valjfara te tjinna dolle kuschare drabbet savo steddrar pre recept, abbo dannro mostula diro prejsa prelejaveripe solus, dova honkar tji an baromollepha arakhibe. Basi diro tji voltrar kamma dova valjefarande savo drabboforma paripha to ta tji dova savo steddrar pre recept nast diro valjfara jikk vaver generiskt valjefarande. Abbo dannro fussar diro prejsa helko mollepha solus. Dolle honkar rada dova savo steddrar pre recept ta dolle kopraste paripha drabbet (savo astarela attjer subventionen). Soskipe to kava honkar te nane saste prejsa buttare jeck teroa gla jikk drabb basi dolle asjar buttare attjer savrige to najeka mollepha.</p>
+<p>Basi diro attjer drabbreske soskipha mustula ismaerla jikk drabb attjer jick fabrikerat nast darton penna pre receptet te drabbet tji fussar paripha koro jikk vaver. Dannro mostula diro tji prejsa dova mollepha basi te drabbet honkar gla baromollepha arakhibe. Drabbeske soskipha nasht asha te diro honkar allergiskt koro jick rankiemne an jick drabb ire te diro kammar kerria te uppri jeck drabbeskelleddikan.</p>
+<p type="title">Periodi kova</p>
+<p>TLV pottar savi mollepha savo saste ismarela akkter jikk drabbeskeroddrelse friggat basi jick mollepha-vaver. Mollepha pre jikk drabb nast, bliddra vaver svacko tscho.</p>
+<p>Karna dolle aschar generiska drabb pennas dova veljefarande savo fussat tiknoaste mollepha gla pariodi kova. TLV dokkar avri janepha to drabboforma basi savi veljefarande savo honkar periodi kova ta savo dova saste paripha to. TLV pottar aur basi dy vaverfaljefarande te paripha to basi periodi kova bliddrar phater. Dolle nasht asha najek fann tscho to tscho savi valjefarande savo drabboforma paripha to.</p>
+<p>Soskipha ninna periodi kova honkar te dova deisibebukja savo honkar gla subvention attjer drabb saste doschta to sav butt ta sav buttar savo seipe.</p>
+<p>Periodi kova honkar savrige pre sassaro drabbforma. Abbo nasht ascha te jikk drabboforma kammar tjinnat jeck sass to baro attjer periodi kova. Drabboforma fussar dannro bekkna dova teli avande montran. Kava aschar te diro nasht bliddra bjuddrar glanske montrans kova pre jick drabboforma ta kava tscho kova pre jick vaver. Kava dy kova nast kammma najek mollepha.</p>
+<p xml:lang="swe"></p>
+<p type="title">Baromollepha arakhibe</p>
+<p type="title">Diro prejsar buttast 2 200 lock svacko basjt</p>
+<p>Baromollepha arakhibe aschar te diro prejsa baroast 2 200 lock telal jeck periodi pre jick basht. Kava basjt pennas jeck baromollepha periodi.</p>
+<p>Baromollepha arakhibe aschar gla drabb savo diro fussar pre recept savo TLV kammar pottat saste ascha subventionerade. Kava aschar aur gla ismarelakova savo diro fussar pre jick sav pennat hilpreskekova-kartli.</p>
+<p>Karna dolle aschar dova buttaste drabb prejsar diro jeck sav pennad jeck tjiro mollepha svacko tjiro diro ler avri pre recept to diro avar uppri to 2 200 lock. Savrige ninna ismarelakova savo mostulas niga stomi.</p>
+<p>Gla hari drabb prejsar diro nane jeck tjiro mollepha. Basi diro kammar insulindikhljaribad diabetes prejsar diro nane gla insulinet. Basi diro kammar jeck dukkepha savo honkar telal dukkalodokkande-kanuni prejsar themmeskepottarna saroe mollepha gla drabb savo tiknoar dolibe virusmulande drabb koro hiv.</p>
+<p>Khonra themmeskepottare prejsar saroe mollepha ire jeck kotar attjer solustaksa gla khonra drabb ta khonra patientgruppi, savo nast assha p-drabb to terno garier.</p>
+<p>Diro prejsar nane gla ismarelakova savo mostulas gla te dokka truppon dabb ta gla te potta preal diro drabb. Kava nast assja sujar ta vaver ismarelakova.</p>
+<p type="title">Jeck tjiro mollepha attjer baromollepha-kati</p>
+<p>Karna diro agra jeck baromollepha-periodi pre jick basjt prejsar diro saroe mollepha gla drabbet ta stomikova solus to diro kamma prejsat 1 100 lock. Senslo tiknorelar jeck tjiro solustaksan bekk gla bekk attjer dova sav pennande baromollepha-kati. Niga svacko nevo tjinnande agrear diro fann dova mollepha diro kammade niga glanske tjinnat ta avar odore opre an kati.</p>
+<p>Karna diro kammar prejsat 2 200 lock mostula diro tji prejsa buttare telal baromollepha-periodi. Jeck mostula gla kava honkar te dova. Gla te dole nast chani honkar te lender drabb diro saste le avri. Andrekammas attjer baromollepha arakhelet. Karna baromollepha-periodi honkar phater agrar diro ninna jeck nevo periodi (niga aver tjinn saste diro panda honkar pre baromollepha-kati).</p>
+<p type="title">Sav kaj aschar baromollepha-kati</p>
+<p>Kettanesdynkrande drabbeskemollande</p>
+<p>Diro prejsat sav hemuso</p>
+<p xml:lang="swe">5 400</p>
+<p xml:lang="swe">2 200</p>
+<p xml:lang="swe">3 900</p>
+<p xml:lang="swe">90% rabatt</p>
+<p xml:lang="swe">2 050</p>
+<p xml:lang="swe">2 100</p>
+<p xml:lang="swe">75% rabatt</p>
+<p xml:lang="swe">1 600</p>
+<p xml:lang="swe">1 100</p>
+<p xml:lang="swe">50% rabatt</p>
+<p xml:lang="swe">1 100</p>
+<p xml:lang="swe">0% rabatt</p>
+<p>Sikkrar sar baromollepha tabellen arakhibe dokkar jeck jaeske tiknoad mollepha.</p>
+<p type="title">Ulavela kabingkova to nuckoar</p>
+<p>Kabingkovar to nuckoar teli 16 basht ta kammar khonra dukkepha, savo glutenintolerans, honkar subventionerade. Kabingkovar randras avri pre jeck sav karade kabingkova ill ta diro fussar annera avri baroast 90 divusar svacko volta. Diro projsar jeck solustaksan pre 120 lock svacko volta, abbo dolle taksajinnas tji ninna an baromollepha arakhibe.</p>
+<p type="title">Sar butt fussar diro tjinna?</p>
+<p>Diro nast tji tjinna sar butt savo avel andre baromollepha arakhibe. Dova buttiphe diro fussar tjinna nasta to an doschta to 90 divusar, kava mangela penna trinn tschona. Preventiondrabb, savo p- drabb ta p-sujar, honkar tji ninna kava tjattjomaskero.</p>
+<p>Basi diro fussar le avri pre recept buttare tjiroar nast jick nevo kerras glanske karna dolle jaddet dy tinntekotar attjer dova tjiro savo drabbet dynkras saste doschtas. Basi diro kammar let avri drabb gla trinn tschonra glaismerela dolle kamma jadde dy tschon anglal diro fussar avri pre recept vidder.</p>
+<p>Diro nast tjinna avri jeck baroare butiphe panda avripha pre tjiro, abbo dannro mostula diro prejsar saroe mollepha gla dova butiphe savo honkar buttare jeck gla trinn tschon glaismarela. Basi darton kammar randrat pre receptet te dolle mostula ja jeck tjiro masker sav diro tji nast le buttare jeck darton kammar pennat.</p>
+<p>Basi diro kammar soskip, basi diro saste ascha avrithemm jeck langroare rjiro, nasht diro le avri drabbet andre baromollepha arakhibe gla jeck langroare tjiro jeck trinn tschorna. Abbo dannro mostula diro nast sikkra dolle.</p>
+<p type="title">Karna aschar baromollepha arakhibe?</p>
+<p>Gla te baromollepha arakhibe saste chani mostula dova savo randrar avri drabbet kamma siros mengeskesteddo randard ninna jeck kodi pre recept. Basi receptet aschar jikk drabb ninna pottad subvention mostula randraren aur randrat pre receptet te baromollepha arakhibe nacta chani.</p>
+<p>Baromollepha arakhibe aschar gla dova savo honkar boddrad ire mengar an Svedijo ire dova savo kammar jikk europeiskt dukkalosiguripe-kartli fann jikk vaver EES-themm ire Schweiz. Dolle europeiska dukkalosiguripe-kartlit nast sikkras appri solduj niga dartonarak ta bra drabboforma. Svedijo kammar aur simmali ninna khonra themmar avri Europa; Algeriet, Australien ta Quebec an Kanada, savi aschar te dolle aschar gla ninneskeboddrare fann kava themmar bàsi dova fussar jikk zori attjer drabb karna dova aschar an Svedijo.</p>
+<p>Sassaro nuckoar teli 18 basjt an savrige kere, dolle honkar dova randrade an savrige boddra adresa, kammar jikk kettanes baromollepha-arakhibe. Dolle aschar te sassaro nuckoars solustaksa jinnas kettanes. Dolle aschar te biologiska phralar ta penja savo honkar randrade pre najek steddo kammar siro baromollepha arakhibe.</p>
+<p type="title">Baromollepha databasen</p>
+<p>Diro mostula tji solus jana sar butt diro kammar tjinnat gla. An dova sav karade baromollepha databasen, sav kerras attjer dova themmeske bolaget Drabboforma dinster AB (Apotekens Service AB), randras sassaro tjinnanden andre baromollepha arakhibe. Systemet janar pre sar butt diro kammar prejsat an solustaksa ta jinnar vri sar but rabatt dolle bliddrar attjer baromollepha-kati svacko volta diro tjinnar. Sassaro drabboforma honkar saviga an savriga databaser sav diro nast tjinna pre savit drabboforma savo diro mangela</p>
+<p>Dolle hunkar mukkanot te tava siro to baromollepha databasen. Dolle savo randras andre an databasen honkar nav, manisch-jinn, andretjinnande, pre savi drabboforum diro ledde receptet fann, sar butt diro prejsat, dova mollepha diro kammar fussat an baromollepha arakhibe ta aggreskedatum gla baromollepha-periodi. Janepha savo randras teli ismarela gla te diro saste kamma horta to rabatt. Nane janepha basi savi drabb diro fussar ire savi darton savo randrat vri recept registrinela.</p>
+<p>Diro nast dannro diro nast kamma jikk avri attjer baromollepha arakhibe savi janepha savo aschar basi diro, ta basi dova nuckoar savo diro honkar narthan gla. Dolle kerrar diro preal te randra jeck lill to drabbforum dinster AB, doj kammar diro illerna.</p>
+<p type="title" xml:lang="swe">Valjfara ta asha avriglan</p>
+<p>Diro nasht valjfara te tji asha tavad to baromollepha-databasen. Dannro fussar diro jikk kvitto savo karas baromollepha-sikkrar pre drabboforum karna diro tjinnar drabb andre baromollepha arakhibe. Pre kava steddrar savi kettanesdynkrad solus mollepha diro kammar prejsat. Dolle honkar barot te rakka dolle sensloaste baromollepha-sikkrandet ta te sikkra uppri dolle kettanes ninna recept karna diro saste tjinna drabb. Drabboforma mostula jana pre savi nivo an baromolepha-kati diro aschar pre gla te fussa horta to rabatt.</p>
+</body></document>

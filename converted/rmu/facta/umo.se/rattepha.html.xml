@@ -1,69 +1,29 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>925</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Rattepha</origFileName>
-    <parallel_text xml:lang="fin" location="kuukautiset.html"/>
-    <parallel_text xml:lang="fit" location="mensi.html"/>
-    <parallel_text xml:lang="sma" location="gujnelemmie.html"/>
-    <parallel_text xml:lang="sme" location="manodavddat.html"/>
-    <parallel_text xml:lang="smj" location="liejbbe.html"/>
-    <parallel_text xml:lang="swe" location="mens.html"/>
-    <parallel_text location="meni.html" xml:lang="rmf"/>
-    <parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/>
-    <parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mensturacija.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Rattepha</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Rattepha</p>
-    <p xml:lang="swe">Rattepha honkar dova rattepha fann uterus savo garier fyssar fann dolle dova avar an ternopha. Rattepha honkar truppons sutt te sickra te diro nasht shaffra nuckoar.</p>
-    <p xml:lang="swe">Savo garia kammar diro buttast ovulation svacko montra fann te diro avar to ternopha to klimakteriet. Akno savo ovulationen kerras bliddrar slemhinnan an uterus tullano gla te nashta le koro aroer baschi dolle saste bliddra pari. Gla te aroet saste bliddra pari mostula diro fyssa spermier an mischan. Dolle nasht diro bliddra pari, abbo baschi aroet bliddrar pari dabbas uterusbekkan avri savo jeck rattepha. Dolle honkar rattepha.</p>
-    <p type="title" xml:lang="swe">Karni fyssar diro rattepha?</p>
-    <p xml:lang="swe">An savi phurano manisch fyssar rattepha honkar ovaroa. Dolle topha pre te sassaro avar an ternopha ovaroa. Baschi diro avar an sela ire senslo an ternopha honkar nani diro nasht potta preal.</p>
-    <p xml:lang="swe">Dova buttaste brukfarar fyssa rattepha khoon tjiro an 12-14-basht phuro. Diro nasht fyssa dova radan karni diro honkar enja ire jeckesta tjiron karna diro honkar 16 basht avritan dolle honkar vina. Kammar diro tji fyssat diro rattepha karni diro honkar 16-17 basht saste diro jura kava ninna jeck duckalo-mosch.</p>
-    <p xml:lang="swe">Jeckesta rattepha nasht ava savo jeck siggrepha avritan diro nasht dynkra pret. Dolle nasht kansla kerria. Astispha kammar nani an bleddreskekeret kammat rattepha. Abbo astispha dynkrare pre savi ratteskerakkepha diro satse brukfara ta astispha kanslas lajjanot te rackla ninna khoon baro baschi kava.</p>
-    <p xml:lang="swe">Ire sav honkar dova jeckesta rattepha khoon diro kammar voltrat kamma. Dova buttaste malarna astispha radan kamma fyssar dova ta diro kanslar diro fedig gla te diro kammat jaar ninna malarna.</p>
-    <p type="title" xml:lang="swe">Sar butt rattar diro?</p>
-    <p xml:lang="swe">Huri butt diro rattar honkar ovaro fann manisch to manisch, savrige savotdolle nacha honka ovaro pre huri butt divusar diro kammar rattepha. Teli jeck rattepha honkar dolle tji ovaro te ratta masker 20-80 milliliter ratt, dova honkar jeck deciliter savo buttast. Abbo pallasavo rattet muttras avri ninna troppeskephani fann uterus dickar dirotbuttast savo buttare.</p>
-    <p type="title" xml:lang="swe">Te ratta butt</p>
-    <p xml:lang="swe">Butt manisch dynkrar te dova rattar butt abbo dolle tji honkar butt. Abbo baschi diro mostula fusla ratteskerakkepha sav butt te dolle kanslas kerria ire baschi dova honkar mustulade te brukfara ratteskerattepha gla te tji ratta palli kammar dova savot brukfaras pennas tjattjo rattepha. Dolle topha pre te dolle aschar butt attjer jick emni an uterus savot mukkar uppri levrat ratt. Dolle kerrar te rattepha kammar dolle kerriare te phatra ta te diro rattar buttare. Baschi diro rattar butt nasht diro kansla diro matto. Dolle topha pre ratteskejinnet honkar tikno.</p>
-    <p xml:lang="swe">Kammar diro tjattjo rattepha nasht diro le trissepha ninna bleddreskekeret, jeck ternophakere ire duckalo-keret. Karni nasht diro fyssa hilfra ninna drabb savo kerrar te diro rattar tiknoare.</p>
-    <p type="title" xml:lang="swe">Tji savrige rattepha</p>
-    <p xml:lang="swe">Karni diro kammar fyser rattepha honkar dolle tji ovaro te dolle honkar tji savrige preal tjiro. Gla dova buttaste brukfarar dolle honka bliddra savrige palla jick tjiro sav te svacko rattepha cykel, divusen fann te rattepha avar to vaverast aggran, honkar masker 21-35 divusar. Dolle nasht ascha fedigt te kamma janepha pre siro rattepha palli te randra uppri kava. Karni nasht diro lokkigare jura baschi rattephan honkar savrige ire tji.</p>
-    <p xml:lang="swe">Jeck bekkan kammar sarstil savrige rattepha, dolle honkar tji darranot abbo baschi diro dynkrar dolle honkar kerria nasht diro fyssa hilfra ninna kava.</p>
-    <p type="title" xml:lang="swe">Senslo ire nani rattepha</p>
-    <p type="title" xml:lang="swe">Pari</p>
-    <p xml:lang="swe">Jeck topha to te rattepha tji avar honkar te diro nasht ascha pari, dolle kerras palli bula. Baschi diro kammar kellebulopha ta kammar sperma pre gustrarna ta jaar andre dova an minscha aschar dolle tasa jeck astispha gla pari.</p>
-    <p xml:lang="swe">Jomar diro te dova tji avande rattepha avar topha diro honkar pari honkar dolle fedigt te kerra jeck parirodepha. Parirodepha nasht diro tjinna pre apotek ta an butt spekkarior. Abbo diro nasht tasa kerra jeck rodepha pre ternophakeret ire duckalokheret.</p>
-    <p type="title" xml:lang="swe">Nervolopha, honka pre jick vaver steddo ire voltra bidra tiknoare</p>
-    <p xml:lang="swe">Rattepha nasht tasa tji ava topha vaver. Baschi rattepha rada honkar khonra eftadivusar senslo ire tji avar jeck ire dy montran nasht dolle topha pre ovaroa topha, kava aschar ninna vaver te diro honkar pre jeck vaver steddo ire diro honkar nervalo.</p>
-    <p xml:lang="swe">Baschi rattepha tji avar teli jeck langro tjiro honkar dolle te jaa ta rodepha so dolle nasht topha pre. Dolle nasht kamma te kerra ninna te diro honkar butt nervolo, kanslar diro kerria, mengar ninna truppon butt, voltrar bliddra tiknoare, kammar kaavinepha ire jeck duckalopha. Dolle honkar truppons voltran te penna khoon honkar vina. Baschi diro janar te diro mostula kamma hilfra ninna diro aschar nasht diro ava to bleddreskeduckalokeret ire jeck ternophakere.</p>
-    <p xml:lang="swe">Baschi rattepha tji avar pre buttare jeck jick pashbasht saste diro sarstil kamma trissepha ninna jeck duckalo-mosch astispha pre ternophakeret ire duckalokeret. Karni nasht diro fyssa hilprepha sosti dova tji avar, diro nasht ninna vaver dokka ratteskerodepha savo jurar hormonhalten an rattet. Diro nasht fyssa drabb savo fyssar siggrepha pre rattepha.</p>
-    <p type="title" xml:lang="swe">Kerriapha glanske rattepha- PMS</p>
-    <p xml:lang="swe">Jack eftadivus glanske rattepha ta glan to dova te dova avar baroas phani an truppon. Dolle kerrar te diro kammar ducka tjuttjo ta kanslar diro tullo an truppon. Kava pennas gla premenstruell soraloande, ire PMS. Dolle topha pre hormonet ta kerrar te diro bliddrar lack ta tugalo. Diro nasht tasa kamma duckalo an scherot, kamma voltrandepha gla gullopha ire kamma lollo. Fla dova buttaste manischen savo kanslar attjer PMS brukfarar kava honka kerriast trin ire star divusar glanske rattepha ta jaa abri karna rattepha avar, abbo dolle nasht tasa suta an khonra divusar teli rattepha.</p>
-    <p xml:lang="swe">PMS-kerriapha nasht bliddra fedigare te diro roddrar pre diro ire kerrar diro stillo. Dolle honkar tasa fedigt te dummra butt ta fyssa let dolle stillo ta tji nervolopha teli dova divusar kerriapha avar.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>920</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/resanderomska/Rattepha</origFileName><parallel_text xml:lang="fin" location="kuukautiset.html"/><parallel_text xml:lang="fit" location="mensi.html"/><parallel_text xml:lang="sma" location="gujnelemmie.html"/><parallel_text xml:lang="sme" location="manodavddat.html"/><parallel_text xml:lang="smj" location="liejbbe.html"/><parallel_text xml:lang="swe" location="mens.html"/><parallel_text location="meni.html" xml:lang="rmf"/><parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/><parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/><parallel_text location="mensturacija.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Rattepha</p>
+<p type="title">Rattepha</p>
+<p>Rattepha honkar dova rattepha fann uterus savo garier fyssar fann dolle dova avar an ternopha. Rattepha honkar truppons sutt te sickra te diro nasht shaffra nuckoar.</p>
+<p>Savo garia kammar diro buttast ovulation svacko montra fann te diro avar to ternopha to klimakteriet. Akno savo ovulationen kerras bliddrar slemhinnan an uterus tullano gla te nashta le koro aroer baschi dolle saste bliddra pari. Gla te aroet saste bliddra pari mostula diro fyssa spermier an mischan. Dolle nasht diro bliddra pari, abbo baschi aroet bliddrar pari dabbas uterusbekkan avri savo jeck rattepha. Dolle honkar rattepha.</p>
+<p type="title">Karni fyssar diro rattepha?</p>
+<p>An savi phurano manisch fyssar rattepha honkar ovaroa. Dolle topha pre te sassaro avar an ternopha ovaroa. Baschi diro avar an sela ire senslo an ternopha honkar nani diro nasht potta preal.</p>
+<p>Dova buttaste brukfarar fyssa rattepha khoon tjiro an 12-14-basht phuro. Diro nasht fyssa dova radan karni diro honkar enja ire jeckesta tjiron karna diro honkar 16 basht avritan dolle honkar vina. Kammar diro tji fyssat diro rattepha karni diro honkar 16-17 basht saste diro jura kava ninna jeck duckalo-mosch.</p>
+<p>Jeckesta rattepha nasht ava savo jeck siggrepha avritan diro nasht dynkra pret. Dolle nasht kansla kerria. Astispha kammar nani an bleddreskekeret kammat rattepha. Abbo astispha dynkrare pre savi ratteskerakkepha diro satse brukfara ta astispha kanslas lajjanot te rackla ninna khoon baro baschi kava.</p>
+<p>Ire sav honkar dova jeckesta rattepha khoon diro kammar voltrat kamma. Dova buttaste malarna astispha radan kamma fyssar dova ta diro kanslar diro fedig gla te diro kammat jaar ninna malarna.</p>
+<p type="title">Sar butt rattar diro?</p>
+<p>Huri butt diro rattar honkar ovaro fann manisch to manisch, savrige savotdolle nacha honka ovaro pre huri butt divusar diro kammar rattepha. Teli jeck rattepha honkar dolle tji ovaro te ratta masker 20-80 milliliter ratt, dova honkar jeck deciliter savo buttast. Abbo pallasavo rattet muttras avri ninna troppeskephani fann uterus dickar dirotbuttast savo buttare.</p>
+<p type="title">Te ratta butt</p>
+<p>Butt manisch dynkrar te dova rattar butt abbo dolle tji honkar butt. Abbo baschi diro mostula fusla ratteskerakkepha sav butt te dolle kanslas kerria ire baschi dova honkar mustulade te brukfara ratteskerattepha gla te tji ratta palli kammar dova savot brukfaras pennas tjattjo rattepha. Dolle topha pre te dolle aschar butt attjer jick emni an uterus savot mukkar uppri levrat ratt. Dolle kerrar te rattepha kammar dolle kerriare te phatra ta te diro rattar buttare. Baschi diro rattar butt nasht diro kansla diro matto. Dolle topha pre ratteskejinnet honkar tikno.</p>
+<p>Kammar diro tjattjo rattepha nasht diro le trissepha ninna bleddreskekeret, jeck ternophakere ire duckalo-keret. Karni nasht diro fyssa hilfra ninna drabb savo kerrar te diro rattar tiknoare.</p>
+<p type="title">Tji savrige rattepha</p>
+<p>Karni diro kammar fyser rattepha honkar dolle tji ovaro te dolle honkar tji savrige preal tjiro. Gla dova buttaste brukfarar dolle honka bliddra savrige palla jick tjiro sav te svacko rattepha cykel, divusen fann te rattepha avar to vaverast aggran, honkar masker 21-35 divusar. Dolle nasht ascha fedigt te kamma janepha pre siro rattepha palli te randra uppri kava. Karni nasht diro lokkigare jura baschi rattephan honkar savrige ire tji.</p>
+<p>Jeck bekkan kammar sarstil savrige rattepha, dolle honkar tji darranot abbo baschi diro dynkrar dolle honkar kerria nasht diro fyssa hilfra ninna kava.</p>
+<p type="title">Senslo ire nani rattepha</p>
+<p type="title">Pari</p>
+<p>Jeck topha to te rattepha tji avar honkar te diro nasht ascha pari, dolle kerras palli bula. Baschi diro kammar kellebulopha ta kammar sperma pre gustrarna ta jaar andre dova an minscha aschar dolle tasa jeck astispha gla pari.</p>
+<p>Jomar diro te dova tji avande rattepha avar topha diro honkar pari honkar dolle fedigt te kerra jeck parirodepha. Parirodepha nasht diro tjinna pre apotek ta an butt spekkarior. Abbo diro nasht tasa kerra jeck rodepha pre ternophakeret ire duckalokheret.</p>
+<p type="title">Nervolopha, honka pre jick vaver steddo ire voltra bidra tiknoare</p>
+<p>Rattepha nasht tasa tji ava topha vaver. Baschi rattepha rada honkar khonra eftadivusar senslo ire tji avar jeck ire dy montran nasht dolle topha pre ovaroa topha, kava aschar ninna vaver te diro honkar pre jeck vaver steddo ire diro honkar nervalo.</p>
+<p>Baschi rattepha tji avar teli jeck langro tjiro honkar dolle te jaa ta rodepha so dolle nasht topha pre. Dolle nasht kamma te kerra ninna te diro honkar butt nervolo, kanslar diro kerria, mengar ninna truppon butt, voltrar bliddra tiknoare, kammar kaavinepha ire jeck duckalopha. Dolle honkar truppons voltran te penna khoon honkar vina. Baschi diro janar te diro mostula kamma hilfra ninna diro aschar nasht diro ava to bleddreskeduckalokeret ire jeck ternophakere.</p>
+<p>Baschi rattepha tji avar pre buttare jeck jick pashbasht saste diro sarstil kamma trissepha ninna jeck duckalo-mosch astispha pre ternophakeret ire duckalokeret. Karni nasht diro fyssa hilprepha sosti dova tji avar, diro nasht ninna vaver dokka ratteskerodepha savo jurar hormonhalten an rattet. Diro nasht fyssa drabb savo fyssar siggrepha pre rattepha.</p>
+<p type="title">Kerriapha glanske rattepha- PMS</p>
+<p>Jack eftadivus glanske rattepha ta glan to dova te dova avar baroas phani an truppon. Dolle kerrar te diro kammar ducka tjuttjo ta kanslar diro tullo an truppon. Kava pennas gla premenstruell soraloande, ire PMS. Dolle topha pre hormonet ta kerrar te diro bliddrar lack ta tugalo. Diro nasht tasa kamma duckalo an scherot, kamma voltrandepha gla gullopha ire kamma lollo. Fla dova buttaste manischen savo kanslar attjer PMS brukfarar kava honka kerriast trin ire star divusar glanske rattepha ta jaa abri karna rattepha avar, abbo dolle nasht tasa suta an khonra divusar teli rattepha.</p>
+<p>PMS-kerriapha nasht bliddra fedigare te diro roddrar pre diro ire kerrar diro stillo. Dolle honkar tasa fedigt te dummra butt ta fyssa let dolle stillo ta tji nervolopha teli dova divusar kerriapha avar.</p>
+</body></document>

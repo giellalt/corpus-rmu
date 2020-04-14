@@ -1,69 +1,29 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>752</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/resanderomska/Te-rodepha-siro</origFileName>
-    <parallel_text xml:lang="fin" location="seksitautitestit.html"/>
-    <parallel_text xml:lang="fit" location="testata-ittea.html"/>
-    <parallel_text xml:lang="sma" location="teestedh.html"/>
-    <parallel_text xml:lang="sme" location="testet-ieas.html"/>
-    <parallel_text xml:lang="smj" location="ietjas-atsadit.html"/>
-    <parallel_text xml:lang="swe" location="att-testa-sig.html"/>
-    <parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/>
-    <parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/>
-    <parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Te rodepha siro</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Te rodepha siro</p>
-    <p xml:lang="swe">Baschi diro kammar kammat orakkepha bulopha honkar dolle sarstil fedigt te rodepha siro gla minscheskeduckalopha. Huri rodepha saste kerras honkar ovaroa pre savi minscheskeduckalopha diro nasht rodepha gla. Buttast fyssar diro dokka jick mutter- ire rattrodepha. Rodepha diro gla jick minscheskeduckalopha savo honkar an duckalorakkephahortan nasht diro tji projsa.</p>
-    <p xml:lang="swe">Te kamma bulepha nasht honka lattjanot. Dolle nasht bliddra jick tjiro karna diro fular an savodant savo diro janar honkar barot. Diro nasht fula an rakka diro gla te tiknoa astispha te kamma sjunna minscheskeduckalopha. Baschi diro dinstrar kava saste diro rodepha diro.</p>
-    <p type="title" xml:lang="swe">Karni saste diro rodepha gla minscheskeduckalopha?</p>
-    <p xml:lang="swe">Dolle honkar narstill gla senslot gla rodepha siro gla minscheskeduckalopha baschi diro kammar kammat orakkepha bula. Karni dolle honkar minscheskeduckalopha nasht dolle tradra abri butti montran ta basht andrean diro nasht jurat.</p>
-    <p xml:lang="swe">Dojkoro nasht dolle ascha sass gla sela to rodepha. Dolle nasht tji te rodepha diro dives pallas te diro kammar kammat orakkepha bulopha, pallasavo viruset ire bakterierna savo topha infektionen tji kammar bliddrat savo butti sav diro nasht juras teli jeck rodepha.</p>
-    <p xml:lang="swe">Gla Klamydia ta gonorré brukfara diro nashta rodepha siro sela jick eftadivus palla dolle diro kammar kammat orakkepha bulopha. Abbo gla khonnra duckalo, savo hiv, nasht dolle tradra abri triin montran palla te diro fyst dova to jick rodepha horta nasht juras baschi diro kammar duckal.</p>
-    <p xml:lang="swe">Fula an savi duckalopha saste diro trissa to jick duckalokere baschi diro honkar tugalo ire kammar dolle kerriat. Janar diro te attispha honkar baro gla te diro kammar fyst jeck minscheskeduckal, nasht diro kamma hilpra andrean rodepha honkar kerrade..</p>
-    <p type="title" xml:lang="swe">Sako nasht diro rodepha gla minscheskeduckalopha?</p>
-    <p xml:lang="swe">Baschi diro voltrar rodepha siro gla jick minscheskeduckalopha nasht ja to ternophakeret, jimm- ta minscheskekeret ire duckalokeret. Tasa RFSU kammar duckalo doj diro nasht rodepha diro gla minscheskeduckalopha.</p>
-    <p xml:lang="swe">Tjejer nasht tasa ja to gariaklinik ire jeck gynekolog. Klamydiatrodepha nasht diro tasa budra pre webben ire tjinna pre blattra.</p>
-    <p xml:lang="swe">Gla te kamma janepha sako diro nasht rodepha diro doj diro boddrar nasht diro tava duckalokerets-hilprepha 1177.</p>
-    <p type="title" xml:lang="swe">Huri kerras rodepha?</p>
-    <p xml:lang="swe">Te rodepha siro gla minscheskeduckalopha kerras siggrepha ta lokkigt. Huri rodepha kerras honkar ovaroa pre savi duckalopha diro rodepha diro gla ta pre savi bulopha diro kammar kammat ta huri diro nasht bliddrat duckalo.</p>
-    <p xml:lang="swe">Baschi diro kammar kammat minscheskebulopha saste diro dokka jick mutterrodepha. Gla tjavoar savo saste rodepha siro gla klamydiga brukfaras jick mutterrodepha kerras. Tjejer nasht tasa dokka rodepha fann minschen. Dolle nasht diro kerra solus ninna jick bomullspinne savo diro fyssar karni diro jar ta rodepha siro ire budra kere jick rodepha.</p>
-    <p xml:lang="swe">Baschi diro janat te diro saste dokka jick mutterrodepha saste diro tju muttra jick to dy timmar andrean diro nasht bliddra rodepha.</p>
-    <p xml:lang="swe">Gla duckalopha, glanskeglan sass nerrider gonorré, les jick rodepha ninna jick roddephapinne savo jurar avri savo jeck tops. Rodephapinnen avar koro skemhinnan an minschen, muttersketaven, darron ire langro avri bulekuven. Savi rodepha les topha pre huri diro kammar kammat bulepha. Dolle naht schunna kerria, abbo brukfara ascha siggrepha kerrat ta tji kanslas butti.</p>
-    <p xml:lang="swe">Gla vaver duckalopha nasht diro fyssa dokka jick ratteskerodepha. Dolle les palli te panle ninna jick suj an jick attjer muslingarnas ratteskeroder.</p>
-    <p xml:lang="swe">Baschi dova savo rodepha dynkrar te diro kammar herpes, les jick rodepha pre herpesblåsan ninna jick bomullspinne.</p>
-    <p xml:lang="swe">Baschi diro kammar jurande kondylom brukfaras nani rodepha kerras, pallasavo dova savo kerrar rodepha nasht jura kava.</p>
-    <p type="title" xml:lang="swe">Karni fyssar diro svardara?</p>
-    <p xml:lang="swe">Pre dypas rodepha fyssar diro svardara andrean jick eftadivus. Karni diro dokkar rodepha brukfarar diro potta kettanes ninna duckalokeret baschi huri diro saste fussa siro svardara. Baschi dova saste tava, bescha akorum ire baschi diro saste ava to dova.</p>
-    <p xml:lang="swe">Te biddra pre rodepha nasht honka kerria. Dolle honkar butt te diro honkar tugalopha ta tjiron kanslas langro. Baschi diro kanslar dolle kerria savo nasht dolle ascha fedigt te rackla ninna khoon baschi siro dynkrepha ta kanslor. Dolle nasht ascha jeck mala, khoon an narthan ire khoon vaver savo honkar nerrider.</p>
-    <p xml:lang="swe">Diro nasht tasa le trissepha ternophaduckalokeret. Manischen doj nasht hilpra diro to karni dolle kanslas kerria ta honkar nashtade nerrider friggor ta dynkranden baschi munischeskeduckalopha.</p>
-    <p type="title" xml:lang="swe">So mollar dolle te rodepha siro?</p>
-    <p xml:lang="swe">Gla dova minscheskeduckalopha savo honkar an duckalorakkephahortan, savo klamydia, gonorré ta hiv mollar dolle narstill lover tji dynkrat so diro kerrat ire ninna khoon.</p>
-    <p xml:lang="swe">Te rodepha siro gla vaver minscheskeduckalopha nasht dolle molla ovaroa dynkrat pre sar diro boddrar ta savi duckalokere diro jaar to. Buttast brukfaras diro rodepha diro gla butt duckalopha akno. Karni honkar dolle doschta te dova baschijanas attjer duckalorakkephahortan gla te diro tji nasht projsa.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>747</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/resanderomska/Te-rodepha-siro</origFileName><parallel_text xml:lang="fin" location="seksitautitestit.html"/><parallel_text xml:lang="fit" location="testata-ittea.html"/><parallel_text xml:lang="sma" location="teestedh.html"/><parallel_text xml:lang="sme" location="testet-ieas.html"/><parallel_text xml:lang="smj" location="ietjas-atsadit.html"/><parallel_text xml:lang="swe" location="att-testa-sig.html"/><parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/><parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/><parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/><parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Te rodepha siro</p>
+<p type="title">Te rodepha siro</p>
+<p>Baschi diro kammar kammat orakkepha bulopha honkar dolle sarstil fedigt te rodepha siro gla minscheskeduckalopha. Huri rodepha saste kerras honkar ovaroa pre savi minscheskeduckalopha diro nasht rodepha gla. Buttast fyssar diro dokka jick mutter- ire rattrodepha. Rodepha diro gla jick minscheskeduckalopha savo honkar an duckalorakkephahortan nasht diro tji projsa.</p>
+<p>Te kamma bulepha nasht honka lattjanot. Dolle nasht bliddra jick tjiro karna diro fular an savodant savo diro janar honkar barot. Diro nasht fula an rakka diro gla te tiknoa astispha te kamma sjunna minscheskeduckalopha. Baschi diro dinstrar kava saste diro rodepha diro.</p>
+<p type="title">Karni saste diro rodepha gla minscheskeduckalopha?</p>
+<p>Dolle honkar narstill gla senslot gla rodepha siro gla minscheskeduckalopha baschi diro kammar kammat orakkepha bula. Karni dolle honkar minscheskeduckalopha nasht dolle tradra abri butti montran ta basht andrean diro nasht jurat.</p>
+<p>Dojkoro nasht dolle ascha sass gla sela to rodepha. Dolle nasht tji te rodepha diro dives pallas te diro kammar kammat orakkepha bulopha, pallasavo viruset ire bakterierna savo topha infektionen tji kammar bliddrat savo butti sav diro nasht juras teli jeck rodepha.</p>
+<p>Gla Klamydia ta gonorré brukfara diro nashta rodepha siro sela jick eftadivus palla dolle diro kammar kammat orakkepha bulopha. Abbo gla khonnra duckalo, savo hiv, nasht dolle tradra abri triin montran palla te diro fyst dova to jick rodepha horta nasht juras baschi diro kammar duckal.</p>
+<p>Fula an savi duckalopha saste diro trissa to jick duckalokere baschi diro honkar tugalo ire kammar dolle kerriat. Janar diro te attispha honkar baro gla te diro kammar fyst jeck minscheskeduckal, nasht diro kamma hilpra andrean rodepha honkar kerrade..</p>
+<p type="title">Sako nasht diro rodepha gla minscheskeduckalopha?</p>
+<p>Baschi diro voltrar rodepha siro gla jick minscheskeduckalopha nasht ja to ternophakeret, jimm- ta minscheskekeret ire duckalokeret. Tasa RFSU kammar duckalo doj diro nasht rodepha diro gla minscheskeduckalopha.</p>
+<p>Tjejer nasht tasa ja to gariaklinik ire jeck gynekolog. Klamydiatrodepha nasht diro tasa budra pre webben ire tjinna pre blattra.</p>
+<p>Gla te kamma janepha sako diro nasht rodepha diro doj diro boddrar nasht diro tava duckalokerets-hilprepha 1177.</p>
+<p type="title">Huri kerras rodepha?</p>
+<p>Te rodepha siro gla minscheskeduckalopha kerras siggrepha ta lokkigt. Huri rodepha kerras honkar ovaroa pre savi duckalopha diro rodepha diro gla ta pre savi bulopha diro kammar kammat ta huri diro nasht bliddrat duckalo.</p>
+<p>Baschi diro kammar kammat minscheskebulopha saste diro dokka jick mutterrodepha. Gla tjavoar savo saste rodepha siro gla klamydiga brukfaras jick mutterrodepha kerras. Tjejer nasht tasa dokka rodepha fann minschen. Dolle nasht diro kerra solus ninna jick bomullspinne savo diro fyssar karni diro jar ta rodepha siro ire budra kere jick rodepha.</p>
+<p>Baschi diro janat te diro saste dokka jick mutterrodepha saste diro tju muttra jick to dy timmar andrean diro nasht bliddra rodepha.</p>
+<p>Gla duckalopha, glanskeglan sass nerrider gonorré, les jick rodepha ninna jick roddephapinne savo jurar avri savo jeck tops. Rodephapinnen avar koro skemhinnan an minschen, muttersketaven, darron ire langro avri bulekuven. Savi rodepha les topha pre huri diro kammar kammat bulepha. Dolle naht schunna kerria, abbo brukfara ascha siggrepha kerrat ta tji kanslas butti.</p>
+<p>Gla vaver duckalopha nasht diro fyssa dokka jick ratteskerodepha. Dolle les palli te panle ninna jick suj an jick attjer muslingarnas ratteskeroder.</p>
+<p>Baschi dova savo rodepha dynkrar te diro kammar herpes, les jick rodepha pre herpesblåsan ninna jick bomullspinne.</p>
+<p>Baschi diro kammar jurande kondylom brukfaras nani rodepha kerras, pallasavo dova savo kerrar rodepha nasht jura kava.</p>
+<p type="title">Karni fyssar diro svardara?</p>
+<p>Pre dypas rodepha fyssar diro svardara andrean jick eftadivus. Karni diro dokkar rodepha brukfarar diro potta kettanes ninna duckalokeret baschi huri diro saste fussa siro svardara. Baschi dova saste tava, bescha akorum ire baschi diro saste ava to dova.</p>
+<p>Te biddra pre rodepha nasht honka kerria. Dolle honkar butt te diro honkar tugalopha ta tjiron kanslas langro. Baschi diro kanslar dolle kerria savo nasht dolle ascha fedigt te rackla ninna khoon baschi siro dynkrepha ta kanslor. Dolle nasht ascha jeck mala, khoon an narthan ire khoon vaver savo honkar nerrider.</p>
+<p>Diro nasht tasa le trissepha ternophaduckalokeret. Manischen doj nasht hilpra diro to karni dolle kanslas kerria ta honkar nashtade nerrider friggor ta dynkranden baschi munischeskeduckalopha.</p>
+<p type="title">So mollar dolle te rodepha siro?</p>
+<p>Gla dova minscheskeduckalopha savo honkar an duckalorakkephahortan, savo klamydia, gonorré ta hiv mollar dolle narstill lover tji dynkrat so diro kerrat ire ninna khoon.</p>
+<p>Te rodepha siro gla vaver minscheskeduckalopha nasht dolle molla ovaroa dynkrat pre sar diro boddrar ta savi duckalokere diro jaar to. Buttast brukfaras diro rodepha diro gla butt duckalopha akno. Karni honkar dolle doschta te dova baschijanas attjer duckalorakkephahortan gla te diro tji nasht projsa.</p>
+</body></document>

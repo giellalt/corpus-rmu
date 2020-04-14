@@ -1,69 +1,31 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>743</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-sr/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Manisch- kettanespha organisation &amp; kulturo- trujalipha - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Manisch- kettanespha organisation ta kulturo- trujalipha</p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Manisch- kettanespha organisation &amp; kulturo- trujalipha</p>
-    <p xml:lang="swe"><em type="italic">Themmeskepottande- enheti mengar ninna manisch- kettanespha organisation saste kerra to te kerra fediga ta lattjo jibbeskeketannespha ta jeck langrojurandepha fedig jibbesketrujalipha gla themmets manisch ta trissar-manisch. Kulturo- trujalipha aschar jeck bekk attjer manisch- kettanespha parmissa, dolle dokkar kontinuitet an sassdivusjibbet ta buttar manischens pattjande ta janande gla siro baschithemm. </em></p>
-    <p type="title" xml:lang="swe">Infrastruktur ta IT</p>
-    <p xml:lang="swe">Themmeskepottande- enheti mengar gla te kerra kommunikationerna andrebachi themmet ta to vavver bekkar attjer baschithemmet ta te dova trujalipha bliddrar savo fedigt savo astis. Fediga kommunikationer ta jeck fedig IT- infrastruktur kerrar te buttare manisch, roddrelser ta kettanesmengare nasht baroa siro mengeskebikknepha. Themmeskepottande- enheti dikkar to ninna vavver te themmeskevoltranderna ire voltranderna savo aschar gla buttare kommuner kerras nerrider dynkrandet attjer infrastrukturiskeprojekti. Vorsnos administrerar tasa dolle themmeska organisationen gla barokerrandet attjer teli-riggen pre themmeskekeribepha.</p>
-    <p type="title" xml:lang="swe">Sorali</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kettaneskerrar dolle regionala menget gla jeck langrojurandepha fedig ta soralo soralitodokkande. Kettanes ninna themmets manisch kammar vorsnos let glan jeck klimati- ta soralistrategio savo sickrar huri vorsnos saste menga gla te kerra Sveddingens klimat- goli ta soralibaschisuttande. Themmeskepottande- enheti kerrar ovaroa projekti gla te kerra jeck soralo buttare kerrande ta le glan phuveske gla te kerra kommunernas soralidynkrandepha. Dolle aschar ovaroa typer attjer bastanopha lovverpha gla soralieffektivisering ta prealjaande to glanskenevo- sorali savo Themmeskepottande- enheti kammar pottat baschi. Themmeskepottande- enheti trujalipha prealdikkande- deligationi pottar baschi dokka avri horta, potto-iller gla baro soralikeribepha savo bivalsorali- parki ta jivvesketatto- keribenpha.</p>
-    <p type="title" xml:lang="swe">Boddrande</p>
-    <p xml:lang="swe">Themmeskepottande- enheti kerrar gla themmeska hilprande gla kerrande attjer phuranokere ta hilprandekere, gla radonsanering attjer tiknohispor ta pottar baschi sorali-lovveriller gla boddrandehispor ta kammorer. Themmeskepottande- enheti kerrar dova informationi ta kerrar savrige bascht analyser attjer themmets boddrandebikknepha ninna vavvers savo hilprande to kommunernas meng ninna boddrandet.</p>
-    <p type="title" xml:lang="swe">Planiskefriggor</p>
-    <p xml:lang="swe">Themmeskepottande- enheti ler glan glanskedynkrandephuvepha gla ovaro savo pennar sar savo aschar baro-friggor ire dynkra pre nerrider to exempli kerranden ta phuveskebrukfara. Golet aschar te kerra fediga ta soralo jibb ta jeck langrojurandepha soralo jibbesketrujalipha. glanskedynkrandemenget prealkerras attjer ovaro nationella goli ta themmeskevoltranden, exempli karna dolle aschar soraliproduktioni, naturikesser, mukkeskebivaljibb ire kommunikationer. Vorsnos dikkar tasa preal dova kommunala kerrandet ninna dynker to manischens voltranden, themmeskevoltranden, trujalipha- kvalitetsnormer ta barophani- phuvens rekepha. Dynkrar diro kerriat baschi kommunens kerrandelovvrande ire detaljiplan nasht diro prealgola dolle gla vorsnos.</p>
-    <p type="title" xml:lang="swe">Rakepha keribenpha</p>
-    <p xml:lang="swe">Themmeskepottande- enheti nasht potta te kulturopramissiska mollepha hispopha, hispokeribepha- trujalipha, kangariske- trujalipha, parkeri ire vavver saste rakepha savo keribephabistrandepha. Themmeskepottande- enheti prealjurar ta pottar baschi jick objekt saste bliddra keribephabistrandepha, kerra tojurande attjer dova savo dokkar horta te kerra vavver keribephabistrandepha, kangari ta puvande- gårdar.</p>
-    <p type="title" xml:lang="swe">Keribeskekesser</p>
-    <p xml:lang="swe">Keribeskekesser aschar jeck bekk an Themmeskepottande- enhetens. Enheti langrojurandepha meng gla te kerra gla themmets ta kulturo- trujalipha. Gla te keribenpha saste kamma siro kulturiskeprammiska mollepha aschar dolle baro te kesser ta baschikerrande kerras avrifann dova solus hispoernas mustulanden. Dolle aschar tasa savo vorsnos saste brukfara kulturiskeprammiska tjattjo material ta metoder. Solus manisch, kommuner, fondi ta roddrelser nasht frigga Themmeskepottande- enheti baschi jick themmeske- lovver hilprepha gla te kessra kulturiskeprammiska mollepha keribenpha, jick sav pennat keribeskekesser- lovverhilper.</p>
-    <p type="title" xml:lang="swe">Arkeologi ta phuranodokkningar</p>
-    <p xml:lang="swe">Phuranodokkningar aschar semmno akkter phurano manischska kerranden, exempli boddrande, puvandephuv, ruiner ire kulturphuv fann maskertjiro foroer. Themmeskepottande- enheti kammar uschalipha te rakepha, kessra ta kerra gla vorsnos phuranodokkning- trujalipha, sav te dypas divusens ta tejsadivusens generationi nasht jana te furste dolle prammiska kulturiarvet. Dynkrat pre kulturiskebistrandehortan aschar dolle tji tjattjot te kerra vavver, mula, dabba ire gara preal jick phuranodokkningar, abbo Themmeskepottande- enheti nasht dikka horta to dolle baschi dova dynkrar dolle saste bliddra khoon fedigt attjer dolle.</p>
-    <p type="title" xml:lang="swe">Kulturo- rakesteddopha</p>
-    <p xml:lang="swe">Themmeskepottande- enheti ta kommunerna nasht potta te mollepha kulturiskethemmar saste rakepha savo kulturo- rakesteddopha. Dojninna keribenpha, dokkningar ta phuv, ninna tasa dova mollepha savo aschar attjer kerranden, janepha ta traditioner. Jick kulturo- rakesteddopha nasht ascha sass fann jick karaktteriskehelko phuveskebrukfara- steddo to jeck kulturiskeprammissiskt industitrujalipha – steddopha savo pre ovaro sutt kammar kerrats attjer phuranoare phuveskebrukfarande ta uschallipha gla kesser atter dova kulturiskekesser savo aschar doj.</p>
-    <p type="title" xml:lang="swe">Themmeskekisser</p>
-    <p xml:lang="swe">Themmeskepottande- enheti mengar ninna themmeskekisser gla te kerra ta jurephakerra themmeska mollepha. Baschi diro voltrar kissera jick mollepha kulturiskethemm savo pennar baschi themmets pramissa nasht diro fussa hilprande- lover fann Themmeskepottande- enheti gla dolle. Dolle nasht dypas ascha gla kulturiskedokkningar ta trujali- ta gressjojibb. Themmeskepottande- enheti dokkar tasa hilprande- iller to kettanesmeng, roddrelser ta solus manisch savo voltrar kerra lokali naturikisser- projekti (LONA). Baschi diro voltrar kamma lover to jick LONA- projekti saste diro golepha to diro kommun savo senslo dokkar an jeck frigga to Themmeskepottande- enheti.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>743</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-sr/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Manisch- kettanespha organisation &amp; kulturo- trujalipha - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Manisch- kettanespha organisation ta kulturo- trujalipha</p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Manisch- kettanespha organisation &amp; kulturo- trujalipha</p>
+<p><em type="italic">Themmeskepottande- enheti mengar ninna manisch- kettanespha organisation saste kerra to te kerra fediga ta lattjo jibbeskeketannespha ta jeck langrojurandepha fedig jibbesketrujalipha gla themmets manisch ta trissar-manisch. Kulturo- trujalipha aschar jeck bekk attjer manisch- kettanespha parmissa, dolle dokkar kontinuitet an sassdivusjibbet ta buttar manischens pattjande ta janande gla siro baschithemm. </em></p>
+<p type="title" xml:lang="swe">Infrastruktur ta IT</p>
+<p>Themmeskepottande- enheti mengar gla te kerra kommunikationerna andrebachi themmet ta to vavver bekkar attjer baschithemmet ta te dova trujalipha bliddrar savo fedigt savo astis. Fediga kommunikationer ta jeck fedig IT- infrastruktur kerrar te buttare manisch, roddrelser ta kettanesmengare nasht baroa siro mengeskebikknepha. Themmeskepottande- enheti dikkar to ninna vavver te themmeskevoltranderna ire voltranderna savo aschar gla buttare kommuner kerras nerrider dynkrandet attjer infrastrukturiskeprojekti. Vorsnos administrerar tasa dolle themmeska organisationen gla barokerrandet attjer teli-riggen pre themmeskekeribepha.</p>
+<p type="title">Sorali</p>
+<p>Themmeskepottande- enheti kettaneskerrar dolle regionala menget gla jeck langrojurandepha fedig ta soralo soralitodokkande. Kettanes ninna themmets manisch kammar vorsnos let glan jeck klimati- ta soralistrategio savo sickrar huri vorsnos saste menga gla te kerra Sveddingens klimat- goli ta soralibaschisuttande. Themmeskepottande- enheti kerrar ovaroa projekti gla te kerra jeck soralo buttare kerrande ta le glan phuveske gla te kerra kommunernas soralidynkrandepha. Dolle aschar ovaroa typer attjer bastanopha lovverpha gla soralieffektivisering ta prealjaande to glanskenevo- sorali savo Themmeskepottande- enheti kammar pottat baschi. Themmeskepottande- enheti trujalipha prealdikkande- deligationi pottar baschi dokka avri horta, potto-iller gla baro soralikeribepha savo bivalsorali- parki ta jivvesketatto- keribenpha.</p>
+<p type="title">Boddrande</p>
+<p>Themmeskepottande- enheti kerrar gla themmeska hilprande gla kerrande attjer phuranokere ta hilprandekere, gla radonsanering attjer tiknohispor ta pottar baschi sorali-lovveriller gla boddrandehispor ta kammorer. Themmeskepottande- enheti kerrar dova informationi ta kerrar savrige bascht analyser attjer themmets boddrandebikknepha ninna vavvers savo hilprande to kommunernas meng ninna boddrandet.</p>
+<p type="title">Planiskefriggor</p>
+<p>Themmeskepottande- enheti ler glan glanskedynkrandephuvepha gla ovaro savo pennar sar savo aschar baro-friggor ire dynkra pre nerrider to exempli kerranden ta phuveskebrukfara. Golet aschar te kerra fediga ta soralo jibb ta jeck langrojurandepha soralo jibbesketrujalipha. glanskedynkrandemenget prealkerras attjer ovaro nationella goli ta themmeskevoltranden, exempli karna dolle aschar soraliproduktioni, naturikesser, mukkeskebivaljibb ire kommunikationer. Vorsnos dikkar tasa preal dova kommunala kerrandet ninna dynker to manischens voltranden, themmeskevoltranden, trujalipha- kvalitetsnormer ta barophani- phuvens rekepha. Dynkrar diro kerriat baschi kommunens kerrandelovvrande ire detaljiplan nasht diro prealgola dolle gla vorsnos.</p>
+<p type="title">Rakepha keribenpha</p>
+<p>Themmeskepottande- enheti nasht potta te kulturopramissiska mollepha hispopha, hispokeribepha- trujalipha, kangariske- trujalipha, parkeri ire vavver saste rakepha savo keribephabistrandepha. Themmeskepottande- enheti prealjurar ta pottar baschi jick objekt saste bliddra keribephabistrandepha, kerra tojurande attjer dova savo dokkar horta te kerra vavver keribephabistrandepha, kangari ta puvande- gårdar.</p>
+<p type="title">Keribeskekesser</p>
+<p>Keribeskekesser aschar jeck bekk an Themmeskepottande- enhetens. Enheti langrojurandepha meng gla te kerra gla themmets ta kulturo- trujalipha. Gla te keribenpha saste kamma siro kulturiskeprammiska mollepha aschar dolle baro te kesser ta baschikerrande kerras avrifann dova solus hispoernas mustulanden. Dolle aschar tasa savo vorsnos saste brukfara kulturiskeprammiska tjattjo material ta metoder. Solus manisch, kommuner, fondi ta roddrelser nasht frigga Themmeskepottande- enheti baschi jick themmeske- lovver hilprepha gla te kessra kulturiskeprammiska mollepha keribenpha, jick sav pennat keribeskekesser- lovverhilper.</p>
+<p type="title" xml:lang="swe">Arkeologi ta phuranodokkningar</p>
+<p>Phuranodokkningar aschar semmno akkter phurano manischska kerranden, exempli boddrande, puvandephuv, ruiner ire kulturphuv fann maskertjiro foroer. Themmeskepottande- enheti kammar uschalipha te rakepha, kessra ta kerra gla vorsnos phuranodokkning- trujalipha, sav te dypas divusens ta tejsadivusens generationi nasht jana te furste dolle prammiska kulturiarvet. Dynkrat pre kulturiskebistrandehortan aschar dolle tji tjattjot te kerra vavver, mula, dabba ire gara preal jick phuranodokkningar, abbo Themmeskepottande- enheti nasht dikka horta to dolle baschi dova dynkrar dolle saste bliddra khoon fedigt attjer dolle.</p>
+<p type="title">Kulturo- rakesteddopha</p>
+<p>Themmeskepottande- enheti ta kommunerna nasht potta te mollepha kulturiskethemmar saste rakepha savo kulturo- rakesteddopha. Dojninna keribenpha, dokkningar ta phuv, ninna tasa dova mollepha savo aschar attjer kerranden, janepha ta traditioner. Jick kulturo- rakesteddopha nasht ascha sass fann jick karaktteriskehelko phuveskebrukfara- steddo to jeck kulturiskeprammissiskt industitrujalipha – steddopha savo pre ovaro sutt kammar kerrats attjer phuranoare phuveskebrukfarande ta uschallipha gla kesser atter dova kulturiskekesser savo aschar doj.</p>
+<p type="title">Themmeskekisser</p>
+<p>Themmeskepottande- enheti mengar ninna themmeskekisser gla te kerra ta jurephakerra themmeska mollepha. Baschi diro voltrar kissera jick mollepha kulturiskethemm savo pennar baschi themmets pramissa nasht diro fussa hilprande- lover fann Themmeskepottande- enheti gla dolle. Dolle nasht dypas ascha gla kulturiskedokkningar ta trujali- ta gressjojibb. Themmeskepottande- enheti dokkar tasa hilprande- iller to kettanesmeng, roddrelser ta solus manisch savo voltrar kerra lokali naturikisser- projekti (LONA). Baschi diro voltrar kamma lover to jick LONA- projekti saste diro golepha to diro kommun savo senslo dokkar an jeck frigga to Themmeskepottande- enheti.</p>
+</body></document>

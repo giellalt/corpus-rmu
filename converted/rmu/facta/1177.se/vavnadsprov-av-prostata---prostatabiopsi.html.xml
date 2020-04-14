@@ -1,101 +1,57 @@
-<document xml:lang="rmu" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1164</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmu"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Undersokningar/Vavnadsprov-av-prostata---prostatabiopsi</origFileName>
-    <parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="swe" location="vavnadsprov-av-prostata--prostatabiopsi.html"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/>
-    <parallel_text location="vavnadsprov-av-prostata--prostatabiopsi.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Masseskiri attjer prostata – prostatabiopsi / Vävnadsprov av prostata - prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trader romaniResanderomska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Masseskiri attjer prostata – prostatabiopsiVävnadsprov av prostata - prostatabiopsi</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Kettanessansari</p>
-    <p type="title" xml:lang="swe">Sareni</p>
-    <p xml:lang="swe">Jikk masseskiri attjer prostata, ire prostatabiopsi, aschar te darton ler butt tikno bekkar attjer masset fann prostatan gla te nasta roderpa dova.</p>
-    <p xml:lang="swe">Diro nast kera roderpa dojgla te darton mangela roderpa bàsi dolle aschar cancerceller an prostata.</p>
-    <p xml:lang="swe">Roderpar bischade to jikk laboratorium doj dolle anamommelis. Darton parmissas senslo resultati attjer skirit.</p>
-    <p type="title" xml:lang="swe">Anglalesker</p>
-    <p xml:lang="swe">An kettandoro ninna masseskiri fussar diro jeck antibiotikadrabb. Diro nast aur fussa le dova ninna diro kere gla te le akkter roderpa. Kava honkar butt barot te le drabbe gla te diro tji kammar infekcija.</p>
-    <p xml:lang="swe">Honkar diro alergikano koro nàntis antibiotika, honkar dolle barot te parmissa dolle anglal roderpa.</p>
-    <p xml:lang="swe">Bàsi diro kammar diabetes, bijamo siivina vavar vina ninna siiat honkar dolle barot te diro parmissar kava an kikso tjiro anglal roderpa. Dolle aschar aur bàsi diro ler ràttdrabb ire kortisondrabb.</p>
-    <p xml:lang="swe">Glan roderpa jar diro pre fulpennariet ta dorjer diron.</p>
-    <p type="title" xml:lang="swe">Sar kerras roderpha?</p>
-    <p xml:lang="swe">Karna diro roders sutar diro pre bongi-rigg pre jeck bankus. Darton aggrar ninna te prinja pre prostatan ninna jikk gustri an bulet. Senslo jaat jeck ultraschunnstav andre bullen skall vara lela darton jeck ultrahango stav andre an bulet. Dolle kera tji dukk abbo nast prinja kerria. Preal jeck kanal an ultrahango stav gla darton andre jeck suj savo ismarela gla le jeck skiri fann prostatan. Dova buttaste prinja rada jeck teckno dukk ire nane. Abbo bàsi diro dynkra te dolle kera dukk nast diro kamma mackel.</p>
-    <p xml:lang="swe">Roderpha ler rada deschù pansh minuti.</p>
-    <p type="title" xml:lang="swe">Sar ovela diro polo?</p>
-    <p xml:lang="swe">Dolle nast kerras te diro fussar ratt an sperman, muttrer ire fulet ovela. Dolle honkar nane nisani pre te kommoni honkar vina. Abbo nast aur kamma teckno dukk ire prinja siro muttrande ovela.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Soske hoftfara roderpha?</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p type="title" xml:lang="swe">Mais les fann prostatan</p>
-    <p xml:lang="swe">Prostatan aschar trujal bàsi mutterkevet upruno kotar telal muttersudrin. Dovas dejbebuti honkar te kerra pani gla spermierna. Diro nast fussa mukhela masseskiri fann prostatan gla te ròder bàsi dolle aschar canserhurdin an dova.</p>
-    <p xml:lang="swe">Jikk masseskiri honkar butt tecknoa najtan attjer masset savo les vri ta ròders. Masseskirit karas aur biopsi.</p>
-    <p type="title" xml:lang="swe">Glanske keras vavra ròderpá</p>
-    <p xml:lang="swe">Dolle honkar buttast niga dy toporstit savo masseskiri ismarela les. Jeck attjer dova honkar bàsi dolle sav karat PSA-jinnet honkar baro. PSA honkar jeck emni savo keras an prostatan ta beschas avi an rattet. Ninna jikk tattskiri nast PSA-jinner kontrolar. PSA-jinnet nast asha baro basi diro kammar jeck prostatamàggras. Vavra soskip to jikk baro PSA-jinn nast asha bàsi diro kammar jeck infektion ire inflammation an prostatan, abbo aur basi diro kammar prostatacanser. Jikk baro PSA adhinela dojgla tji potto pre prostatacancer.</p>
-    <p xml:lang="swe">Kava vavra momenti honkar bàsi kava aschar jeck averkerela an prostatan, savi nast asha nisani pre prostatacancer. Kava averkerela than kammar darton rodelat preàl te prinja pre prostatan ninna jikk gusti. Prostatan sutar nàntis kotar oppre fann bulepors kevet. Butvar prinjas prostatarn umalat.</p>
-    <p type="title" xml:lang="swe">Masset najtan roders an mikroskop</p>
-    <p xml:lang="swe">Dova massenajtan savo les vri fann prostatan bischas gla mikroskopisk roderpha savo dokkar svadera pre bàsi doj aschar cancer an prostatan ire tji. Cansermasse vakerela sènslo ninna jeck skala savo karas Gleason.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sav keras kava</p>
-    <p type="title" xml:lang="swe">Antibiotika baro anglalkeriba</p>
-    <p xml:lang="swe">An kettandoro ninna masseskiri fussar diro jeck antibiotika-drabb. Diro nast le antibiotika-drabb ninna diro kheren gla te le hari sahatis akkter roderpa. Kava honkar buti barot te le drabb gla te tji kamma infekcija. Honkar diro allergisk koro kommoni antibiotika, kava nast asha penicillin, honkar kava barot te le kontakti ninna dova klinik ire akracentrali doj rodepa nachta keras.</p>
-    <p type="title" xml:lang="swe">Drabbepha nast hoftfaras fuslas</p>
-    <p xml:lang="swe">Bàsi diro lela rattsanot drabb attjer Waran saste diro penna kava tiknoast efta-divusar glan roderpha. PK-jinnet an rattet mostula korrigeras, kava mangela penna te rattit nachta nasa levra siro savo buttast. Kava honkar darton savo randrat vri Waran savo saste to te diro tiknorela dosen anglal roderpa.</p>
-    <p xml:lang="swe">Lajarinen mostula aur fussa hája ab kisko tjiro bàsi diro kammar vina pre siiat, biljamo ire klaffprotes. Savrige honkar bàsi diro kammar kammat bakteriarinfekcija an siieskeklaffarna. bàsi diro kammar diabetes ire arakkeras ninna kortison honkar dolle aur barot te penna to lajarin. Antibiotika arak mostula keras to svacko dseno ulavela pharipe.</p>
-    <p type="title" xml:lang="swe">Rodepha keras siggro</p>
-    <p xml:lang="swe">Roderpha keras pre jeck kutti tjiro ta nast keras biso mackel. Dolle honkar jeck lokki ta siggo roderpa savo sàssaro nast dickhela.</p>
-    <p xml:lang="swe">Rescha roderpa jar diro pre fulpennarit ta dórjer poren ta muttersudri. Pre khonra dukkalo´kheren nast glan roderpa diro kamma fussat jikk sav kàrat mikrolavemang savo diro nachta kammat lelat khera.</p>
-    <p xml:lang="swe">Karna diro roders suter diro pre bongi-rigg pre jeck bankus. Teláltruppon honkar nangsto ta jeck vashtdikklo arakheler teláltruppon. Darton aggrar ninna te prinja pre prostatan ninna jikk gustri an buleporet prinjas prostatan soralo ta gunkali nast dolle honkar jikk nisani pre cancer.</p>
-    <p type="title" xml:lang="swe">Ultrahango dokkar jeck tella attjer prostatan</p>
-    <p xml:lang="swe">Senslo roderpha prostatan ninna hilpra attjer ultrahango. Jeck sav ultrahango stav reschas arakhimo oppre jeck teckno nejtan an bulepor, ta darton prinjar hari minuter te roderpha prostatan. Ultrahango honkar 20 centeale langstro, abbo dolle honkar rada kava aschar jeck teckno kotar savo glanske andre. Diametern pre staven honkar 2,5 centeale.</p>
-    <p xml:lang="swe">Staven andrekammar jeck ultrahango bichalela. Dova bichalela vri hango savo Sènslo reflekteras attjer organen andre an truppon. ultrahango bischades to jeck kompjuteri savo kerar dova to tellar savo darton nast jura pre tellal. Tellan honkar kaloperno palidela prostatan an palitjing.</p>
-    <p type="title" xml:lang="swe">Masset les avri ninna jeck biopsisuj</p>
-    <p xml:lang="swe">Senslo les masseskirit fann körteln. An ultrahangostaven aschar doj jeck kanali an savi jeck biopsisuj tradrar andre. Sujen honkar hari milliale an diamter. Dova panle pral por slimhinnan an prostatan. Ninna hilpra attjer ultrahangotellan pre tellalen. nast darton bischa andre sujen sav dojva avar horte.</p>
-    <p xml:lang="swe">An sujen aschar jeck tjaro savo siggo panle andre an prostatan ta perdas ninna prostatamasset. Buttvar panler darton butt vara gla te le skiri fann najek stedot an prostatan. Doj nast les okto to decshu-dy skiri.</p>
-    <p type="title" xml:lang="swe">Nast prinjas tecknot osukanipe</p>
-    <p xml:lang="swe">Ultrahangostaven dokkar nane dukk abbo nast prinjas teckno osukanipe. Karna dova dabbar koro prostatan nast diro prinja diro muttertero. Dolle honkar dojgla tjibbigt te dorja muttersudrin anglál roderpa. Karna masseskiri les avri ninna biopsisujen nast dolle prinjas osukanipe ta tecknot dukk. Dova buttaste savo dickhelat skirit pennar te doj prinjar tecknot dukk ire nane dukk. Kava aschar saipe te fússa mackel bàsi dukkalot bliddra gla sórdalo</p>
-    <p type="title" xml:lang="swe">Te denker pre akkter roderpa</p>
-    <p xml:lang="swe">Gla te tji kamma mutterdromsinfekcija honkar dolle fedigt te pi. bùti sav te sudrin bliddra juro.</p>
-    <p type="title" xml:lang="swe">Komunikacijar ta riziko</p>
-    <p xml:lang="swe">Ratt an sperman, muttret ta fulet aschar buttast akkter roderpa ta dolle honkar tji jikk nisani pre te kommoni honkar vina. Diro nast kamma teckno dukk ta prinja seri muttertero tède pòlo.</p>
-    <p xml:lang="swe">Ratt an sperman nast sasstro telál tjiro, ire butt phagela. Ratt an muttret ta fulet ismarela ja schettani pre hari divusar.</p>
-    <p xml:lang="swe">Diro kammar fussat antibiotika abbo nast fussa jeck infekcija soskipat attjer bakterier. Dolle tatispa honkar barot phagel akkter roderpa. Bàsi diro kammar fussat baro tattodukkalo ta prinjar diro dukkalo saste diro tède kontakti darton ire kontakti sigutnolajarin.</p>
-  </body>
-</document>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1157</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmu"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Resanderomanska/Undersokningar/Vavnadsprov-av-prostata---prostatabiopsi</origFileName><parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="swe" location="vavnadsprov-av-prostata--prostatabiopsi.html"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/><parallel_text location="vavnadsprov-av-prostata--prostatabiopsi.html" xml:lang="rmy-rka"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Masseskiri attjer prostata – prostatabiopsi / Vävnadsprov av prostata - prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Masseskiri attjer prostata – prostatabiopsiVävnadsprov av prostata - prostatabiopsi</p>
+<p xml:lang="swe"></p>
+<p type="title">Kettanessansari</p>
+<p type="title">Sareni</p>
+<p>Jikk masseskiri attjer prostata, ire prostatabiopsi, aschar te darton ler butt tikno bekkar attjer masset fann prostatan gla te nasta roderpa dova.</p>
+<p>Diro nast kera roderpa dojgla te darton mangela roderpa bàsi dolle aschar cancerceller an prostata.</p>
+<p>Roderpar bischade to jikk laboratorium doj dolle anamommelis. Darton parmissas senslo resultati attjer skirit.</p>
+<p type="title">Anglalesker</p>
+<p>An kettandoro ninna masseskiri fussar diro jeck antibiotikadrabb. Diro nast aur fussa le dova ninna diro kere gla te le akkter roderpa. Kava honkar butt barot te le drabbe gla te diro tji kammar infekcija.</p>
+<p>Honkar diro alergikano koro nàntis antibiotika, honkar dolle barot te parmissa dolle anglal roderpa.</p>
+<p>Bàsi diro kammar diabetes, bijamo siivina vavar vina ninna siiat honkar dolle barot te diro parmissar kava an kikso tjiro anglal roderpa. Dolle aschar aur bàsi diro ler ràttdrabb ire kortisondrabb.</p>
+<p>Glan roderpa jar diro pre fulpennariet ta dorjer diron.</p>
+<p type="title">Sar kerras roderpha?</p>
+<p>Karna diro roders sutar diro pre bongi-rigg pre jeck bankus. Darton aggrar ninna te prinja pre prostatan ninna jikk gustri an bulet. Senslo jaat jeck ultraschunnstav andre bullen skall vara lela darton jeck ultrahango stav andre an bulet. Dolle kera tji dukk abbo nast prinja kerria. Preal jeck kanal an ultrahango stav gla darton andre jeck suj savo ismarela gla le jeck skiri fann prostatan. Dova buttaste prinja rada jeck teckno dukk ire nane. Abbo bàsi diro dynkra te dolle kera dukk nast diro kamma mackel.</p>
+<p>Roderpha ler rada deschù pansh minuti.</p>
+<p type="title">Sar ovela diro polo?</p>
+<p>Dolle nast kerras te diro fussar ratt an sperman, muttrer ire fulet ovela. Dolle honkar nane nisani pre te kommoni honkar vina. Abbo nast aur kamma teckno dukk ire prinja siro muttrande ovela.</p>
+<p xml:lang="swe"></p>
+<p type="title">Soske hoftfara roderpha?</p>
+<list><p type="listitem" xml:lang="swe"></p>
+</list><p type="title">Mais les fann prostatan</p>
+<p>Prostatan aschar trujal bàsi mutterkevet upruno kotar telal muttersudrin. Dovas dejbebuti honkar te kerra pani gla spermierna. Diro nast fussa mukhela masseskiri fann prostatan gla te ròder bàsi dolle aschar canserhurdin an dova.</p>
+<p>Jikk masseskiri honkar butt tecknoa najtan attjer masset savo les vri ta ròders. Masseskirit karas aur biopsi.</p>
+<p type="title">Glanske keras vavra ròderpá</p>
+<p>Dolle honkar buttast niga dy toporstit savo masseskiri ismarela les. Jeck attjer dova honkar bàsi dolle sav karat PSA-jinnet honkar baro. PSA honkar jeck emni savo keras an prostatan ta beschas avi an rattet. Ninna jikk tattskiri nast PSA-jinner kontrolar. PSA-jinnet nast asha baro basi diro kammar jeck prostatamàggras. Vavra soskip to jikk baro PSA-jinn nast asha bàsi diro kammar jeck infektion ire inflammation an prostatan, abbo aur basi diro kammar prostatacanser. Jikk baro PSA adhinela dojgla tji potto pre prostatacancer.</p>
+<p>Kava vavra momenti honkar bàsi kava aschar jeck averkerela an prostatan, savi nast asha nisani pre prostatacancer. Kava averkerela than kammar darton rodelat preàl te prinja pre prostatan ninna jikk gusti. Prostatan sutar nàntis kotar oppre fann bulepors kevet. Butvar prinjas prostatarn umalat.</p>
+<p type="title">Masset najtan roders an mikroskop</p>
+<p>Dova massenajtan savo les vri fann prostatan bischas gla mikroskopisk roderpha savo dokkar svadera pre bàsi doj aschar cancer an prostatan ire tji. Cansermasse vakerela sènslo ninna jeck skala savo karas Gleason.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sav keras kava</p>
+<p type="title">Antibiotika baro anglalkeriba</p>
+<p>An kettandoro ninna masseskiri fussar diro jeck antibiotika-drabb. Diro nast le antibiotika-drabb ninna diro kheren gla te le hari sahatis akkter roderpa. Kava honkar buti barot te le drabb gla te tji kamma infekcija. Honkar diro allergisk koro kommoni antibiotika, kava nast asha penicillin, honkar kava barot te le kontakti ninna dova klinik ire akracentrali doj rodepa nachta keras.</p>
+<p type="title">Drabbepha nast hoftfaras fuslas</p>
+<p>Bàsi diro lela rattsanot drabb attjer Waran saste diro penna kava tiknoast efta-divusar glan roderpha. PK-jinnet an rattet mostula korrigeras, kava mangela penna te rattit nachta nasa levra siro savo buttast. Kava honkar darton savo randrat vri Waran savo saste to te diro tiknorela dosen anglal roderpa.</p>
+<p>Lajarinen mostula aur fussa hája ab kisko tjiro bàsi diro kammar vina pre siiat, biljamo ire klaffprotes. Savrige honkar bàsi diro kammar kammat bakteriarinfekcija an siieskeklaffarna. bàsi diro kammar diabetes ire arakkeras ninna kortison honkar dolle aur barot te penna to lajarin. Antibiotika arak mostula keras to svacko dseno ulavela pharipe.</p>
+<p type="title">Rodepha keras siggro</p>
+<p>Roderpha keras pre jeck kutti tjiro ta nast keras biso mackel. Dolle honkar jeck lokki ta siggo roderpa savo sàssaro nast dickhela.</p>
+<p>Rescha roderpa jar diro pre fulpennarit ta dórjer poren ta muttersudri. Pre khonra dukkalo´kheren nast glan roderpa diro kamma fussat jikk sav kàrat mikrolavemang savo diro nachta kammat lelat khera.</p>
+<p>Karna diro roders suter diro pre bongi-rigg pre jeck bankus. Teláltruppon honkar nangsto ta jeck vashtdikklo arakheler teláltruppon. Darton aggrar ninna te prinja pre prostatan ninna jikk gustri an buleporet prinjas prostatan soralo ta gunkali nast dolle honkar jikk nisani pre cancer.</p>
+<p type="title">Ultrahango dokkar jeck tella attjer prostatan</p>
+<p>Senslo roderpha prostatan ninna hilpra attjer ultrahango. Jeck sav ultrahango stav reschas arakhimo oppre jeck teckno nejtan an bulepor, ta darton prinjar hari minuter te roderpha prostatan. Ultrahango honkar 20 centeale langstro, abbo dolle honkar rada kava aschar jeck teckno kotar savo glanske andre. Diametern pre staven honkar 2,5 centeale.</p>
+<p>Staven andrekammar jeck ultrahango bichalela. Dova bichalela vri hango savo Sènslo reflekteras attjer organen andre an truppon. ultrahango bischades to jeck kompjuteri savo kerar dova to tellar savo darton nast jura pre tellal. Tellan honkar kaloperno palidela prostatan an palitjing.</p>
+<p type="title">Masset les avri ninna jeck biopsisuj</p>
+<p>Senslo les masseskirit fann körteln. An ultrahangostaven aschar doj jeck kanali an savi jeck biopsisuj tradrar andre. Sujen honkar hari milliale an diamter. Dova panle pral por slimhinnan an prostatan. Ninna hilpra attjer ultrahangotellan pre tellalen. nast darton bischa andre sujen sav dojva avar horte.</p>
+<p>An sujen aschar jeck tjaro savo siggo panle andre an prostatan ta perdas ninna prostatamasset. Buttvar panler darton butt vara gla te le skiri fann najek stedot an prostatan. Doj nast les okto to decshu-dy skiri.</p>
+<p type="title">Nast prinjas tecknot osukanipe</p>
+<p>Ultrahangostaven dokkar nane dukk abbo nast prinjas teckno osukanipe. Karna dova dabbar koro prostatan nast diro prinja diro muttertero. Dolle honkar dojgla tjibbigt te dorja muttersudrin anglál roderpa. Karna masseskiri les avri ninna biopsisujen nast dolle prinjas osukanipe ta tecknot dukk. Dova buttaste savo dickhelat skirit pennar te doj prinjar tecknot dukk ire nane dukk. Kava aschar saipe te fússa mackel bàsi dukkalot bliddra gla sórdalo</p>
+<p type="title">Te denker pre akkter roderpa</p>
+<p>Gla te tji kamma mutterdromsinfekcija honkar dolle fedigt te pi. bùti sav te sudrin bliddra juro.</p>
+<p type="title" xml:lang="swe">Komunikacijar ta riziko</p>
+<p>Ratt an sperman, muttret ta fulet aschar buttast akkter roderpa ta dolle honkar tji jikk nisani pre te kommoni honkar vina. Diro nast kamma teckno dukk ta prinja seri muttertero tède pòlo.</p>
+<p>Ratt an sperman nast sasstro telál tjiro, ire butt phagela. Ratt an muttret ta fulet ismarela ja schettani pre hari divusar.</p>
+<p>Diro kammar fussat antibiotika abbo nast fussa jeck infekcija soskipat attjer bakterier. Dolle tatispa honkar barot phagel akkter roderpa. Bàsi diro kammar fussat baro tattodukkalo ta prinjar diro dukkalo saste diro tède kontakti darton ire kontakti sigutnolajarin.</p>
+</body></document>
