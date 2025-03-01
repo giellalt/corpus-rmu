@@ -1,4 +1,6 @@
-<document xml:lang="rmu" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>146</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="swe"/></multilingual><origFileName>https://riksdagen.se/sv-ROM-SR/sprak/other-languages/svensk-romani-romani-chib/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">Svensk romani (romani chib) - Riksdagen</p>
+<document xml:lang="rmu" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>146</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="swe"/></multilingual><origFileName>https://riksdagen.se/sv-ROM-SR/sprak/other-languages/svensk-romani-romani-chib/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="swe">Svensk romani (romani chib) - Riksdagen</p>
 <p xml:lang="swe">Till sidans huvudinnehåll</p>
 <p xml:lang="swe"></p>
 <list><p type="listitem" xml:lang="swe">Lättläst</p>
